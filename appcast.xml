@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BizCrush Updates</title>
+    <description>Most recent updates to BizCrush</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.21.0</title>
+      <description>
+        <![CDATA[
+          <h2>What's New in 0.21.0</h2>
+          <ul>
+            <li>Check the release notes for details</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Wed, 12 Nov 2025 20:08:43 +0900</pubDate>
+      <sparkle:version>0.21.0</sparkle:version>
+      <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+      <sparkle:criticalUpdate>false</sparkle:criticalUpdate>
+      <enclosure
+        url="https://bizcrush.github.io/BizCrush/BizCrush-v0.21.0.dmg"
+        sparkle:edSignature="icRkpr/sK8G7iS6Ne6Z08FzGswGgPJOzk0kyRpZEADp/Uap4shbHBa8szVH5k8uw8REwVl+Pu57SUMrafIGnCw=="
+        length="88501313"
+        type="application/octet-stream"
+        sparkle:os="macos" />
+    </item>
+  </channel>
+</rss>
