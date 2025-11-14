@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BizCrush macOS App</title>
+    <link>https://adelab-inc.github.io/biz-crush/BizCrush/appcast.xml</link>
+    <description>Latest updates for BizCrush macOS desktop app</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.22.0</title>
+      <pubDate>Fri, 15 Nov 2024 06:23:00 +0900</pubDate>
+      <sparkle:version>0.22.0</sparkle:version>
+      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/adelab-inc/biz-crush/releases/download/v0.22.0/BizCrush-macOS-v0.22.0.zip"
+        sparkle:version="0.22.0"
+        sparkle:shortVersionString="0.22.0"
+        length="99614720"
+        type="application/octet-stream"
+      />
+      <description><![CDATA[
+        <h2>BizCrush v0.22.0</h2>
+        <ul>
+          <li>Code signed with Developer ID Application</li>
+          <li>Notarized by Apple</li>
+          <li>Bug fixes and performance improvements</li>
+        </ul>
+      ]]></description>
+    </item>
+
+  </channel>
+</rss>
