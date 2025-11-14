@@ -13,7 +13,7 @@
       <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/adelab-inc/biz-crush/releases/download/v0.22.0/BizCrush-macOS-v0.22.0.zip"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.0/BizCrush-macOS-v0.22.0.zip"
         sparkle:version="0.22.0"
         sparkle:shortVersionString="0.22.0"
         length="99614720"
