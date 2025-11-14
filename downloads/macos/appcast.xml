@@ -18,12 +18,25 @@
       ]]>
     </description>
     <pubDate>Fri, 14 Nov 2025 16:05:28 +0900</pubDate>
+  <item>
+    <title>Version 0.22.1</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/macos/0.22.1.html</link>
+    <description>
+      <![CDATA[
+        <h2>What's New in Version 0.22.1</h2>
+        <ul>
+          <li>Bug fixes and performance improvements</li>
+        </ul>
+        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/macos/0.22.1.html">Release Notes</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 14 Nov 2025 16:29:18 +0900</pubDate>
     <sparkle:version>0.22.1</sparkle:version>
     <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
 
     <enclosure
-      url="https://bizcrush.github.io/BizCrush/downloads/macos/BizCrush-macOS-v0.22.1.zip"
+      url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.1/BizCrush-macOS-v0.22.1.zip"
       sparkle:edSignature="SIGNATURE_PENDING"
       length="284944428"
       type="application/octet-stream"
@@ -52,7 +65,6 @@
       length="284943359"
       type="application/octet-stream"
     />
-  </item>
   <item>
     <title>Version 0.21.0</title>
     <link>https://bizcrush.github.io/BizCrush/releases/macos/0.21.0.html</link>
@@ -76,6 +88,5 @@
       length="284943235"
       type="application/octet-stream"
     />
-  </item>
   </channel>
 </rss>
