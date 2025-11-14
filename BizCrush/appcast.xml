@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>BizCrush macOS App</title>
-    <link>https://adelab-inc.github.io/biz-crush/BizCrush/appcast.xml</link>
+    <link>https://bizcrush.github.io/BizCrush/BizCrush/appcast.xml</link>
     <description>Latest updates for BizCrush macOS desktop app</description>
     <language>en</language>
 
