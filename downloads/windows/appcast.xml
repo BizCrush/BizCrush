@@ -6,6 +6,30 @@
     <description>Latest updates for BizCrush Windows</description>
     <language>ko</language>
   <item>
+    <title>Version 0.22.0</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.0.html</link>
+    <description>
+      <![CDATA[
+        <h2>What's New in Version 0.22.0</h2>
+        <ul>
+          <li>Bug fixes and performance improvements</li>
+        </ul>
+        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.0.html">Release Notes</a></p>
+      ]]>
+    </description>
+    <pubDate>Fri, 14 Nov 2025 05:22:08 GMT</pubDate>
+    <sparkle:version>0.22.0</sparkle:version>
+    <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+
+    <enclosure
+      url="https://bizcrush.github.io/BizCrush/downloads/windows/BizCrush-Windows-v0.22.0.zip"
+      sparkle:dsaSignature="SIGNATURE_PENDING"
+      length="50212395"
+      type="application/octet-stream"
+    />
+  </item>
+  <item>
     <title>Version 0.21.0</title>
     <link>https://bizcrush.github.io/bizcrush/releases/windows/0.21.0.html</link>
     <description>
@@ -31,3 +55,4 @@
   </item>
   </channel>
 </rss>
+
