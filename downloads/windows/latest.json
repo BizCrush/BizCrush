@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.21.0",
+    "version":  "0.22.0",
     "critical_update":  false,
-    "build_date":  "2025-11-14T04:22:59Z",
-    "release_notes_url":  "https://bizcrush.github.io/bizcrush/releases/windows/0.21.0.html",
+    "build_date":  "2025-11-14T05:22:08Z",
+    "release_notes_url":  "https://bizcrush.github.io/BizCrush/releases/windows/0.22.0.html",
     "file_size":  "47.89 MB",
-    "download_url":  "downloads/windows/BizCrush-Windows-v0.21.0.zip",
+    "download_url":  "downloads/windows/BizCrush-Windows-v0.22.0.zip",
     "platform":  "Windows"
 }
