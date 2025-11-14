@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download BizCrush Desktop</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            padding: 60px 40px;
+            max-width: 600px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .logo {
+            width: 120px;
+            height: 120px;
+            margin: 0 auto 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border-radius: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            color: white;
+            font-weight: bold;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .tagline {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 40px;
+        }
+
+        .version-info {
+            background: #f7f7f7;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+
+        .version-label {
+            font-size: 14px;
+            color: #888;
+            margin-bottom: 5px;
+        }
+
+        .version-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .download-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .download-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 18px 30px;
+            border-radius: 12px;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: 600;
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
+        }
+
+        .download-btn svg {
+            width: 24px;
+            height: 24px;
+        }
+
+        .platform-icon {
+            width: 32px;
+            height: 32px;
+        }
+
+        .system-requirements {
+            text-align: left;
+            background: #f7f7f7;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+
+        .system-requirements h3 {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .system-requirements ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .system-requirements li {
+            font-size: 14px;
+            color: #666;
+            padding: 5px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .system-requirements li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .release-notes {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .release-notes a {
+            color: #667eea;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .release-notes a:hover {
+            text-decoration: underline;
+        }
+
+        .auto-update-badge {
+            display: inline-block;
+            background: #10b981;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 40px 20px;
+            }
+
+            h1 {
+                font-size: 28px;
+            }
+
+            .tagline {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">BC</div>
+        <h1>BizCrush Desktop</h1>
+        <p class="tagline">Professional networking for the modern age</p>
+
+        <div class="auto-update-badge">
+            🔄 Auto-updates enabled
+        </div>
+
+        <div class="version-info">
+            <div class="version-label">Latest Version</div>
+            <div class="version-number" id="latest-version">Loading...</div>
+        </div>
+
+        <div class="download-buttons">
+            <!-- macOS Download -->
+            <a href="#" id="macos-download" class="download-btn">
+                <svg class="platform-icon" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/>
+                </svg>
+                Download for macOS
+            </a>
+
+            <!-- Windows Download (coming soon) -->
+            <a href="#" class="download-btn" style="opacity: 0.5; cursor: not-allowed; background: #ccc;">
+                <svg class="platform-icon" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M3,12V6.75L9,5.43V11.91L3,12M20,3V11.75L10,11.9V5.21L20,3M3,13L9,13.09V19.9L3,18.75V13M20,13.25V22L10,20.09V13.1L20,13.25Z"/>
+                </svg>
+                Windows (Coming Soon)
+            </a>
+        </div>
+
+        <div class="system-requirements">
+            <h3>System Requirements</h3>
+            <ul>
+                <li>macOS 10.13 (High Sierra) or later</li>
+                <li>At least 200 MB of free disk space</li>
+                <li>Internet connection for sync and updates</li>
+            </ul>
+        </div>
+
+        <div class="release-notes">
+            <a href="https://github.com/adelab-inc/biz-crush/releases" target="_blank">
+                View release notes →
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // Fetch latest version from appcast.xml
+        async function fetchLatestVersion() {
+            try {
+                const response = await fetch('https://bizcrush.github.io/BizCrush/appcast.xml');
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+
+                // Extract version from <sparkle:version>
+                const versionElement = xml.querySelector('version');
+                if (versionElement) {
+                    const version = versionElement.textContent;
+                    document.getElementById('latest-version').textContent = 'v' + version;
+
+                    // Update download link
+                    const downloadUrl = `https://bizcrush.github.io/BizCrush/BizCrush-v${version}.dmg`;
+                    document.getElementById('macos-download').href = downloadUrl;
+                } else {
+                    // Fallback - try sparkle:version attribute
+                    const item = xml.querySelector('item');
+                    const version = item.querySelector('[*|version]')?.textContent || '0.21.0';
+                    document.getElementById('latest-version').textContent = 'v' + version;
+                    document.getElementById('macos-download').href = `https://bizcrush.github.io/BizCrush/BizCrush-v${version}.dmg`;
+                }
+            } catch (error) {
+                console.error('Failed to fetch version:', error);
+                // Fallback to hardcoded latest version
+                document.getElementById('latest-version').textContent = 'v0.21.0';
+                document.getElementById('macos-download').href = 'https://bizcrush.github.io/BizCrush/BizCrush-v0.21.0.dmg';
+            }
+        }
+
+        // Load version on page load
+        fetchLatestVersion();
+
+        // Track downloads
+        document.getElementById('macos-download').addEventListener('click', function() {
+            // Optional: Add analytics tracking here
+            console.log('macOS download started');
+        });
+    </script>
+</body>
+</html>
