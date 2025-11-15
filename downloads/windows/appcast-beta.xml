@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BizCrush Windows Updates (Beta)</title>
+    <link>https://bizcrush.github.io/BizCrush/downloads/windows/appcast-beta.xml</link>
+    <description>Latest updates for BizCrush Windows</description>
+    <language>ko</language>
+  <item>
+    <title>Version 0.22.2</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.2.html</link>
+    <description>
+      <![CDATA[
+        <h2>What's New in Version 0.22.2</h2>
+        <ul>
+          <li>Bug fixes and performance improvements</li>
+        </ul>
+        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.2.html">Release Notes</a></p>
+      ]]>
+    </description>
+    <pubDate>Sat, 15 Nov 2025 07:10:53 GMT</pubDate>
+    <sparkle:version>0.22.2</sparkle:version>
+    <sparkle:shortVersionString>0.22.2</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+    <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
+    <enclosure
+      url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.2/BizCrush-Windows-v0.22.2.zip"
+      sparkle:dsaSignature="SIGNATURE_PENDING"
+      length="50184054"
+      type="application/octet-stream"
+    />
+  </item>
+  </channel>
+</rss>
