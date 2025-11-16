@@ -5,6 +5,30 @@
     <link>https://bizcrush.github.io/bizcrush/downloads/windows/appcast.xml</link>
     <description>Latest updates for BizCrush Windows</description>
     <language>ko</language>
+  <item>
+    <title>Version 0.22.3</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.3.html</link>
+    <description>
+      <![CDATA[
+        <h2>What's New in Version 0.22.3</h2>
+        <ul>
+          <li>Bug fixes and performance improvements</li>
+        </ul>
+        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.3.html">Release Notes</a></p>
+      ]]>
+    </description>
+    <pubDate>Sun, 16 Nov 2025 05:02:08 GMT</pubDate>
+    <sparkle:version>0.22.3</sparkle:version>
+    <sparkle:shortVersionString>0.22.3</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+
+    <enclosure
+      url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.3/BizCrush-Windows-v0.22.3.zip"
+      sparkle:dsaSignature="SIGNATURE_PENDING"
+      length="50137241"
+      type="application/octet-stream"
+    />
+  </item>
     <item>
     <title>Version 0.22.1</title>
     <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.1.html</link>
@@ -79,6 +103,7 @@
   </item>
   </channel>
 </rss>
+
 
 
 
