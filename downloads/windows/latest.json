@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "0.22.5",
+    "version":  "0.22.8",
     "critical_update":  false,
-    "build_date":  "2025-11-17T02:39:51Z",
-    "release_notes_url":  "https://bizcrush.github.io/BizCrush/releases/windows/0.22.5.html",
+    "build_date":  "2025-11-18T07:25:43Z",
+    "release_notes_url":  "https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html",
     "file_size":  "36.97 MB",
-    "download_url":  "https://github.com/BizCrush/BizCrush/releases/download/v0.22.5/BizCrush-Setup-0.22.5.exe",
+    "download_url":  "https://github.com/BizCrush/BizCrush/releases/download/v0.22.8/BizCrush-Setup-0.22.8.exe",
     "platform":  "Windows"
 }

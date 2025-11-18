@@ -5,128 +5,39 @@
     <link>https://bizcrush.github.io/bizcrush/downloads/windows/appcast.xml</link>
     <description>Latest updates for BizCrush Windows</description>
     <language>ko</language>
-  <item>
-    <title>Version 0.22.5</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.5.html</link>
-    <description>
-      <![CDATA[
-        <h2>What's New in Version 0.22.5</h2>
-        <ul>
-          <li>Bug fixes and performance improvements</li>
-        </ul>
-        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.5.html">Release Notes</a></p>
-      ]]>
-    </description>
-    <pubDate>Mon, 17 Nov 2025 02:39:51 GMT</pubDate>
-    <sparkle:version>0.22.5</sparkle:version>
-    <sparkle:shortVersionString>0.22.5</sparkle:shortVersionString>
+                            <item>
+    <title>Version 0.22.8</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html</link>
+    <description><![CDATA[
+      <h2>What's New in Version 0.22.8</h2>
+      <ul>
+        <li>Bug fixes and performance improvements</li>
+      </ul>
+      <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html">Release Notes</a></p>
+    ]]></description>
+    <pubDate>Tue, 18 Nov 2025 07:25:43 GMT</pubDate>
+    <sparkle:version>0.22.8</sparkle:version>
+    <sparkle:shortVersionString>0.22.8</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
 
-    <enclosure
-      url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.5/BizCrush-Setup-0.22.5.exe"
-      sparkle:dsaSignature="SIGNATURE_PENDING"
-      length="38766024"
-      type="application/octet-stream"
-    />
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.8/BizCrush-Setup-0.22.8.exe" sparkle:dsaSignature="SIGNATURE_PENDING" length="38763147" type="application/octet-stream" />
   </item>
-      <item>
-    <title>Version 0.22.3</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.3.html</link>
-    <description>
-      <![CDATA[
-        <h2>What's New in Version 0.22.3</h2>
-        <ul>
-          <li>Bug fixes and performance improvements</li>
-        </ul>
-        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.3.html">Release Notes</a></p>
-      ]]>
-    </description>
-    <pubDate>Sun, 16 Nov 2025 19:01:16 GMT</pubDate>
-    <sparkle:version>0.22.3</sparkle:version>
-    <sparkle:shortVersionString>0.22.3</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-
-    <enclosure
-      url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.3/BizCrush-Windows-v0.22.3.zip"
-      sparkle:dsaSignature="SIGNATURE_PENDING"
-      length="50108364"
-      type="application/octet-stream"
-    />
-  </item>
-    <item>
-    <title>Version 0.22.1</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.1.html</link>
-    <description>
-      <![CDATA[
-        <h2>What's New in Version 0.22.1</h2>
-        <ul>
-          <li>Bug fixes and performance improvements</li>
-        </ul>
-        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.1.html">Release Notes</a></p>
-      ]]>
-    </description>
-    <pubDate>Sat, 15 Nov 2025 03:00:07 GMT</pubDate>
-    <sparkle:version>0.22.1</sparkle:version>
-    <sparkle:shortVersionString>0.22.1</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-
-    <enclosure
-      url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.1/BizCrush-Windows-v0.22.1.zip"
-      sparkle:dsaSignature="SIGNATURE_PENDING"
-      length="50181388"
-      type="application/octet-stream"
-    />
-  </item>
-      <item>
-    <title>Version 0.22.0</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.0.html</link>
-    <description>
-      <![CDATA[
-        <h2>What's New in Version 0.22.0</h2>
-        <ul>
-          <li>Bug fixes and performance improvements</li>
-        </ul>
-        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.0.html">Release Notes</a></p>
-      ]]>
-    </description>
-    <pubDate>Fri, 14 Nov 2025 05:54:12 GMT</pubDate>
-    <sparkle:version>0.22.0</sparkle:version>
-    <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-
-    <enclosure
-      url="https://bizcrush.github.io/BizCrush/downloads/windows/BizCrush-Windows-v0.22.0.zip"
-      sparkle:dsaSignature="SIGNATURE_PENDING"
-      length="50212395"
-      type="application/octet-stream"
-    />
-  </item>
-  <item>
-    <title>Version 0.21.0</title>
-    <link>https://bizcrush.github.io/bizcrush/releases/windows/0.21.0.html</link>
-    <description>
-      <![CDATA[
-        <h2>What's New in Version 0.21.0</h2>
-        <ul>
-          <li>Bug fixes and performance improvements</li>
-        </ul>
-        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/bizcrush/releases/windows/0.21.0.html">Release Notes</a></p>
-      ]]>
-    </description>
-    <pubDate>Fri, 14 Nov 2025 04:22:59 GMT</pubDate>
-    <sparkle:version>0.21.0</sparkle:version>
-    <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-
-    <enclosure
-      url="https://bizcrush.github.io/bizcrush/downloads/windows/BizCrush-Windows-v0.21.0.zip"
-      sparkle:dsaSignature="SIGNATURE_PENDING"
-      length="50212461"
-      type="application/octet-stream"
-    />
-  </item>
-  </channel>
+</channel>
 </rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
