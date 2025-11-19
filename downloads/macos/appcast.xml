@@ -8,7 +8,8 @@
 
     <item>
       <title>Version 0.22.36</title>
-      <sparkle:version>0.22.36</sparkle:version>
+      <sparkle:version>1700</sparkle:version>
+      <sparkle:shortVersionString>0.22.36</sparkle:shortVersionString>
       <description>
         <![CDATA[
           <h2>What's New in Version 0.22.36</h2>
@@ -22,7 +23,8 @@
       <pubDate>Thu, 20 Nov 2025 00:26:43 +0900</pubDate>
       <enclosure
         url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.36/BizCrush-macOS-v0.22.36.zip"
-        sparkle:version="0.22.36"
+        sparkle:version="1700"
+        sparkle:shortVersionString="0.22.36"
         length="99613811"
         type="application/octet-stream"
       />
