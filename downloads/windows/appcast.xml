@@ -2,26 +2,25 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>BizCrush Windows Updates</title>
-    <link>https://bizcrush.github.io/bizcrush/downloads/windows/appcast.xml</link>
+    <link>https://bizcrush.github.io/BizCrush/downloads/windows/appcast.xml</link>
     <description>Latest updates for BizCrush Windows</description>
     <language>ko</language>
-                            <item>
-    <title>Version 0.22.8</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html</link>
-    <description><![CDATA[
-      <h2>What's New in Version 0.22.8</h2>
-      <ul>
-        <li>Bug fixes and performance improvements</li>
-      </ul>
-      <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html">Release Notes</a></p>
-    ]]></description>
-    <pubDate>Tue, 18 Nov 2025 07:25:43 GMT</pubDate>
-    <sparkle:version>0.22.8</sparkle:version>
-    <sparkle:shortVersionString>0.22.8</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.8/BizCrush-Setup-0.22.8.exe" sparkle:dsaSignature="SIGNATURE_PENDING" length="38763147" type="application/octet-stream" />
-  </item>
+    <item>
+      <title>Version 0.22.8</title>
+      <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html</link>
+      <description><![CDATA[
+        <h2>What's New in Version 0.22.8</h2>
+        <ul>
+          <li>Bug fixes and performance improvements</li>
+        </ul>
+        <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.8.html">Release Notes</a></p>
+      ]]></description>
+      <pubDate>Tue, 18 Nov 2025 07:25:43 GMT</pubDate>
+      <sparkle:version>0.22.8</sparkle:version>
+      <sparkle:shortVersionString>0.22.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.8/BizCrush-Setup-0.22.8.exe" sparkle:dsaSignature="SIGNATURE_PENDING" length="38763147" type="application/octet-stream" />
+    </item>
 </channel>
 </rss>
 
