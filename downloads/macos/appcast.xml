@@ -19,11 +19,11 @@
           <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.22.36">Release Notes</a></p>
         ]]>
       </description>
-      <pubDate>Thu, 20 Nov 2025 00:09:57 +0900</pubDate>
+      <pubDate>Thu, 20 Nov 2025 00:26:43 +0900</pubDate>
       <enclosure
         url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.36/BizCrush-macOS-v0.22.36.zip"
         sparkle:version="0.22.36"
-        length="99613820"
+        length="99613811"
         type="application/octet-stream"
       />
     </item>
