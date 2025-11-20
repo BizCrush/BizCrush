@@ -7,25 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.22.36</title>
-      <sparkle:version>1700</sparkle:version>
-      <sparkle:shortVersionString>0.22.36</sparkle:shortVersionString>
+      <title>Version 0.22.37</title>
+      <sparkle:version>02237</sparkle:version>
+      <sparkle:shortVersionString>0.22.37</sparkle:shortVersionString>
       <description>
         <![CDATA[
-          <h2>What's New in Version 0.22.36</h2>
+          <h2>What's New in Version 0.22.37</h2>
           <ul>
             <li>Latest macOS desktop release</li>
             <li>Bug fixes and performance improvements</li>
           </ul>
-          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.22.36">Release Notes</a></p>
+          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.22.37">Release Notes</a></p>
         ]]>
       </description>
-      <pubDate>Thu, 20 Nov 2025 00:26:43 +0900</pubDate>
+      <pubDate>Thu, 20 Nov 2025 10:23:13 +0900</pubDate>
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.36/BizCrush-macOS-v0.22.36.zip"
-        sparkle:version="1700"
-        sparkle:shortVersionString="0.22.36"
-        length="99613811"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.37/BizCrush-macOS-v0.22.37.zip"
+        sparkle:version="02237"
+        sparkle:shortVersionString="0.22.37"
+        length="99623707"
         type="application/octet-stream"
       />
     </item>
