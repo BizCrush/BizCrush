@@ -89,8 +89,26 @@
 
     <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.13/BizCrush-Setup-0.22.13.exe" sparkle:dsaSignature="SIGNATURE_PENDING" length="38770746" type="application/octet-stream" />
   </item>
+  <item>
+    <title>Version 0.22.15</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.15.html</link>
+    <description><![CDATA[
+      <h2>What's New in Version 0.22.15</h2>
+      <ul>
+        <li>Bug fixes and performance improvements</li>
+      </ul>
+      <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.15.html">Release Notes</a></p>
+    ]]></description>
+    <pubDate>Thu, 20 Nov 2025 00:52:12 GMT</pubDate>
+    <sparkle:version>0.22.15</sparkle:version>
+    <sparkle:shortVersionString>0.22.15</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
+
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.15/BizCrush-Setup-0.22.15.exe" sparkle:dsaSignature="SIGNATURE_PENDING" length="38770746" type="application/octet-stream" />
+  </item>
 </channel>
 </rss>
+
 
 
 
