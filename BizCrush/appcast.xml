@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>BizCrush macOS App</title>
-    <link>https://bizcrush.github.io/BizCrush/BizCrush/appcast.xml</link>
-    <description>Latest updates for BizCrush macOS desktop app</description>
-    <language>en</language>
+    <title>BizCrush macOS Updates</title>
+    <link>https://bizcrush.github.io/BizCrush/downloads/macos/appcast.xml</link>
+    <description>Latest updates for BizCrush macOS</description>
+    <language>ko</language>
 
     <item>
-      <title>Version 0.22.0</title>
-      <pubDate>Fri, 15 Nov 2024 06:23:00 +0900</pubDate>
-      <sparkle:version>0.22.0</sparkle:version>
-      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+      <title>Version 0.22.65</title>
+      <sparkle:version>1205</sparkle:version>
+      <sparkle:shortVersionString>0.22.65</sparkle:shortVersionString>
+      <description>
+        <![CDATA[
+          <h2>What's New in Version 0.22.65</h2>
+          <ul>
+            <li>Latest macOS desktop release</li>
+            <li>Bug fixes and performance improvements</li>
+          </ul>
+          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.22.65">Release Notes</a></p>
+        ]]>
+      </description>
+      <pubDate>Mon, 08 Dec 2025 22:41:57 +0900</pubDate>
+
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.0/BizCrush-macOS-v0.22.0.zip"
-        sparkle:version="0.22.0"
-        sparkle:shortVersionString="0.22.0"
-        length="99614720"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.65/BizCrush-macOS-v0.22.65.zip"
+        sparkle:version="1205"
+        sparkle:shortVersionString="0.22.65"
+        sparkle:edSignature="r75em+O70g/J1JEXOrx+e9SA3H5/0AVLBjl89N7LcBdvNjLI3DpgswpyNIdu5FgC/sjn1Bx3EOGBn3ONpL9RDg=="
+        length="124198873"
         type="application/octet-stream"
       />
-      <description><![CDATA[
-        <h2>BizCrush v0.22.0</h2>
-        <ul>
-          <li>Code signed with Developer ID Application</li>
-          <li>Notarized by Apple</li>
-          <li>Bug fixes and performance improvements</li>
-        </ul>
-      ]]></description>
     </item>
 
   </channel>
