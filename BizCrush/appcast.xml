@@ -7,27 +7,27 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.22.69</title>
-      <sparkle:version>1207</sparkle:version>
-      <sparkle:shortVersionString>0.22.69</sparkle:shortVersionString>
+      <title>Version 0.22.70</title>
+      <sparkle:version>1208</sparkle:version>
+      <sparkle:shortVersionString>0.22.70</sparkle:shortVersionString>
       <description>
         <![CDATA[
-          <h2>What's New in Version 0.22.69</h2>
+          <h2>What's New in Version 0.22.70</h2>
           <ul>
             <li>Latest macOS desktop release</li>
             <li>Bug fixes and performance improvements</li>
           </ul>
-          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.22.69">Release Notes</a></p>
+          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.22.70">Release Notes</a></p>
         ]]>
       </description>
-      <pubDate>Sat, 13 Dec 2025 07:43:47 +0900</pubDate>
+      <pubDate>Mon, 22 Dec 2025 20:52:28 +0900</pubDate>
 
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.69/BizCrush-macOS-v0.22.69.zip"
-        sparkle:version="1207"
-        sparkle:shortVersionString="0.22.69"
-        sparkle:edSignature="k4D4xmuht/7LB/R/IaQqdAYXs+EXnytkThtsmYBAHceXTOHfwBVOh2HVWo4McK76YRfX3zd3kBPngokgZhYwCw=="
-        length="133330344"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.70/BizCrush-macOS-v0.22.70.zip"
+        sparkle:version="1208"
+        sparkle:shortVersionString="0.22.70"
+        sparkle:edSignature="6IBbwNNKK4EYhfupnJUs2zqfnPwR8AKpElF4aXklClp6iwIrkZRowZB/p0ZgE6WoKKYnutmNqW8qa7UzYLFPCQ=="
+        length="134857465"
         type="application/octet-stream"
       />
     </item>
