@@ -1,27 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>BizCrush Windows Updates</title>
     <link>https://bizcrush.github.io/BizCrush/downloads/windows/</link>
     <description>Latest updates for BizCrush Windows</description>
-    <language>ko</language>  <item>
-    <title>Version 0.22.72</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.22.72.html</link>
-    <description><![CDATA[
-      <h2>What's New in Version 0.22.72</h2>
-      <ul>
-        <li>Bug fixes and performance improvements</li>
-      </ul>
-      <p>For detailed release notes, visit: <a href="https://bizcrush.github.io/BizCrush/releases/windows/0.22.72.html">Release Notes</a></p>
-    ]]></description>
-    <pubDate>Wed, 24 Dec 2025 10:17:36 GMT</pubDate>
-    <sparkle:version>1194</sparkle:version>
-    <sparkle:shortVersionString>0.22.72</sparkle:shortVersionString>
-    <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.22.72/BizCrush-Setup-0.22.72.exe" sparkle:version="1194" sparkle:shortVersionString="0.22.72" sparkle:edSignature="" length="170093711" type="application/octet-stream" />
-  </item>
-
+    <language>ko</language>
 
   <item>
     <title>Version 0.22.68</title>
@@ -42,4 +25,3 @@
 
   </channel>
 </rss>
-
