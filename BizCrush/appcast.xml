@@ -8,7 +8,7 @@
 
     <item>
       <title>Version 0.23.39</title>
-      <sparkle:version>1265</sparkle:version>
+      <sparkle:version>1266</sparkle:version>
       <sparkle:shortVersionString>0.23.39</sparkle:shortVersionString>
       <description>
         <![CDATA[
@@ -20,23 +20,23 @@
           <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.23.39">Release Notes</a></p>
         ]]>
       </description>
-      <pubDate>Wed, 28 Jan 2026 03:51:06 +0900</pubDate>
+      <pubDate>Wed, 28 Jan 2026 04:14:13 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
         url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.39/BizCrush-macOS-v0.23.39.zip"
-        sparkle:version="1265"
+        sparkle:version="1266"
         sparkle:shortVersionString="0.23.39"
-        sparkle:edSignature="SeyFAvX0k9UE9Lg+rhZ/fixokYLAzo3qiv6egqNKI3JS8DxpPdyScsjQp9B4p56ND8V0kv2FfkIlqLMU+iKeDA=="
-        length="130471006"
+        sparkle:edSignature="PyGrhkn66adjQIICOQo8JX5H9885Jhagcs8gBhe8HfAP9DfvaE3Atk8GrL8vSE9R8tSsGR/IuHFWgDWtOc6VBQ=="
+        length="130463261"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
         url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.39/BizCrush-macOS-v0.23.39.dmg"
-        sparkle:version="1265"
+        sparkle:version="1266"
         sparkle:shortVersionString="0.23.39"
-        length="129550162"
+        length="129533006"
         type="application/x-apple-diskimage"
       />
     </item>
