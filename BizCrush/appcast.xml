@@ -7,36 +7,36 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.23.44</title>
+      <title>Version 0.23.45</title>
       <sparkle:version>1271</sparkle:version>
-      <sparkle:shortVersionString>0.23.44</sparkle:shortVersionString>
+      <sparkle:shortVersionString>0.23.45</sparkle:shortVersionString>
       <description>
         <![CDATA[
-          <h2>What's New in Version 0.23.44</h2>
+          <h2>What's New in Version 0.23.45</h2>
           <ul>
             <li>Latest macOS desktop release</li>
             <li>Bug fixes and performance improvements</li>
           </ul>
-          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.23.44">Release Notes</a></p>
+          <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.23.45">Release Notes</a></p>
         ]]>
       </description>
-      <pubDate>Wed, 28 Jan 2026 05:15:03 +0900</pubDate>
+      <pubDate>Wed, 28 Jan 2026 05:22:21 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.44/BizCrush-macOS-v0.23.44.zip"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.45/BizCrush-macOS-v0.23.45.zip"
         sparkle:version="1271"
-        sparkle:shortVersionString="0.23.44"
-        sparkle:edSignature="8eHmtjIn+mhpLQdzlMk1S7c8VNa9QI5w2D5ZxYj6X+xkk2bCYiPRfuolt0idY5rIr1r4Z94rrZOgvrlNUxgTDw=="
-        length="130463135"
+        sparkle:shortVersionString="0.23.45"
+        sparkle:edSignature="wq5fkDTV1UyxHaLszBQN+2lkB1I5GdpECePeQSUMRO9M9X2cEl2uDK7OIql373Z2K/C7vWW4nlPK2VmlvL/gCA=="
+        length="130463419"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.44/BizCrush-macOS-v0.23.44.dmg"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.45/BizCrush-macOS-v0.23.45.dmg"
         sparkle:version="1271"
-        sparkle:shortVersionString="0.23.44"
-        length="129531944"
+        sparkle:shortVersionString="0.23.45"
+        length="129532742"
         type="application/x-apple-diskimage"
       />
     </item>
