@@ -1,10 +1,10 @@
 {
-  "version": "0.23.121",
-  "build_date": "Tue, 24 Feb 2026 10:30:01 +0900",
+  "version": "0.23.122",
+  "build_date": "Tue, 24 Feb 2026 17:20:39 +0900",
   "platform": "macOS",
-  "download_url": "https://github.com/BizCrush/BizCrush/releases/download/v0.23.121/BizCrush-macOS-v0.23.121.zip",
-  "file_size": "133495684",
-  "release_notes_url": "https://github.com/BizCrush/BizCrush/releases/tag/v0.23.121",
+  "download_url": "https://github.com/BizCrush/BizCrush/releases/download/v0.23.122/BizCrush-macOS-v0.23.122.zip",
+  "file_size": "133495716",
+  "release_notes_url": "https://github.com/BizCrush/BizCrush/releases/tag/v0.23.122",
   "critical_update": false,
   "min_required_version": "",
   "force_update_message": ""
