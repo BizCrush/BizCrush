@@ -7,20 +7,20 @@
     <language>ko</language>
 
   <item>
-    <title>Version 0.23.136</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.23.136.html</link>
+    <title>Version 0.23.138</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.23.138.html</link>
     <description><![CDATA[
-      <h2>What's New in Version 0.23.136</h2>
+      <h2>What's New in Version 0.23.138</h2>
       <ul>
         <li>Bug fixes and performance improvements</li>
       </ul>
     ]]></description>
-    <pubDate>Wed, 11 Mar 2026 13:20:27 +0900</pubDate>
-    <sparkle:version>1235</sparkle:version>
-    <sparkle:shortVersionString>0.23.136+1235</sparkle:shortVersionString>
+    <pubDate>Sat, 14 Mar 2026 04:43:31 +0900</pubDate>
+    <sparkle:version>1236</sparkle:version>
+    <sparkle:shortVersionString>0.23.138+1236</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
 
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.136/BizCrush-Setup-0.23.136.exe" sparkle:version="1235" sparkle:shortVersionString="0.23.136+1235" length="175248567" type="application/octet-stream" />
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.138/BizCrush-Setup-0.23.138.exe" sparkle:version="1236" sparkle:shortVersionString="0.23.138+1236" length="175274902" type="application/octet-stream" />
   </item>
 
   </channel>
