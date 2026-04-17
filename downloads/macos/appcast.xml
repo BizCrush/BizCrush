@@ -8,7 +8,7 @@
 
     <item>
       <title>Version 0.23.184</title>
-      <sparkle:version>1352</sparkle:version>
+      <sparkle:version>1353</sparkle:version>
       <sparkle:shortVersionString>0.23.184</sparkle:shortVersionString>
       <description>
         <![CDATA[
@@ -20,12 +20,12 @@
           <p>For detailed release notes, visit: <a href="https://github.com/BizCrush/BizCrush/releases/tag/v0.23.184">Release Notes</a></p>
         ]]>
       </description>
-      <pubDate>Fri, 17 Apr 2026 15:18:04 +0900</pubDate>
+      <pubDate>Fri, 17 Apr 2026 15:31:22 +0900</pubDate>
       <enclosure
         url="https://github.com/BizCrush/BizCrush/releases/download/v0.23.184/BizCrush-macOS-v0.23.184.zip"
-        sparkle:version="1352"
+        sparkle:version="1353"
         sparkle:shortVersionString="0.23.184"
-        length="134749208"
+        length="134749300"
         type="application/octet-stream"
       />
     </item>
