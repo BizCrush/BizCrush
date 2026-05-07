@@ -6,6 +6,32 @@
     <description>Latest updates for BizCrush Mic (macOS)</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.2</title>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>BizCrush Mic 0.1.2</h2>
+        <p>Build 3.</p>
+      ]]></description>
+      <pubDate>Thu, 07 May 2026 12:26:56 +0900</pubDate>
+      <enclosure
+        url="https://github.com/BizCrush/BizCrush/releases/download/mic-v0.1.2/BizCrushMic-0.1.2.zip"
+        sparkle:version="3"
+        sparkle:shortVersionString="0.1.2"
+        sparkle:edSignature="LqA5fw1sAn3fzxAbmSt7klOvP/EDlCXvT0Cu6iAQVHs2myo0sMeeKVnr4WUAGMJZtaeMxt8a90ywn3E7kB7vCw=="
+        length="33184468"
+        type="application/octet-stream"
+      />
+      <enclosure
+        url="https://github.com/BizCrush/BizCrush/releases/download/mic-v0.1.2/BizCrushMic-0.1.2.dmg"
+        sparkle:version="3"
+        sparkle:shortVersionString="0.1.2"
+        sparkle:edSignature="2q1TAEb1A5r+Rl8ZitsaANQfSF8RPOhWHA+LfE/eENdVIW7iLWqK8uENZzva2hpOPElOnmf6x9oqh0TtmQeXDQ=="
+        length="33107080"
+        type="application/x-apple-diskimage"
+      />
+    </item>
+    <item>
       <title>Version 0.1.1</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
