@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "build": 1,
+  "build_date": "Thu, 07 May 2026 10:32:21 +0900",
+  "platform": "macOS",
+  "product": "BizCrush Mic",
+  "download_url": "https://github.com/BizCrush/BizCrush/releases/download/mic-v0.1.0/BizCrushMic-0.1.0.dmg",
+  "zip_url": "https://github.com/BizCrush/BizCrush/releases/download/mic-v0.1.0/BizCrushMic-0.1.0.zip",
+  "file_size": 32096314,
+  "appcast_url": "https://bizcrush.github.io/BizCrush/downloads/macos-mic/appcast.xml",
+  "release_notes_url": "https://github.com/BizCrush/BizCrush/releases/tag/mic-v0.1.0",
+  "minimum_macos": "13.0",
+  "critical_update": false
+}
