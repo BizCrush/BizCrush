@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>BizCrush Mic macOS Updates</title>
+    <link>https://bizcrush.github.io/BizCrush/downloads/macos-mic/appcast.xml</link>
+    <description>Latest updates for BizCrush Mic (macOS)</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <description><![CDATA[
+        <h2>BizCrush Mic 0.1.0</h2>
+        <p>Build 1.</p>
+      ]]></description>
+      <pubDate>Thu, 07 May 2026 10:32:21 +0900</pubDate>
+      <enclosure
+        url="https://github.com/BizCrush/BizCrush/releases/download/mic-v0.1.0/BizCrushMic-0.1.0.zip"
+        sparkle:version="1"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="p/d8S6GUn9w3HOB2gBlUYhQh3Vm0mZB/7H9WrPrGWT6gs3ByEhC0pDWX6hNxGVzKCm89ugjYGlH7wfkP6rPOCw=="
+        length="32086073"
+        type="application/octet-stream"
+      />
+      <enclosure
+        url="https://github.com/BizCrush/BizCrush/releases/download/mic-v0.1.0/BizCrushMic-0.1.0.dmg"
+        sparkle:version="1"
+        sparkle:shortVersionString="0.1.0"
+        sparkle:edSignature="lAZFfMSoPJFACUo7/WKxLSbv0fUOxSWreRNIu+zIw5yqnnhNK30aTWeyLqJuW0jA2/5jw3fQWz4o6Bll8wp8AQ=="
+        length="32107355"
+        type="application/x-apple-diskimage"
+      />
+    </item>
+  </channel>
+</rss>
