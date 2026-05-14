@@ -7,21 +7,20 @@
     <language>ko</language>
 
   <item>
-    <title>Version 0.24.27</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.24.27.html</link>
+    <title>Version 0.24.28</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.24.28.html</link>
     <description><![CDATA[
-      <h2>What's New in Version 0.24.27</h2>
+      <h2>What's New in Version 0.24.28</h2>
       <ul>
-        <li>WASAPI raw-mode mic capture — bypasses Windows APO (Voice Focus, Realtek AGC) for STT clarity</li>
-        <li>V15.36 STT cascade: DFN3 onset grace + smoothing 50/10 + GTCRN cap V14 복귀</li>
-        <li>V15.32 cascade: V14.2 frame-conditional dry-mix + V15.18 ZCR boost + asymmetric smoothing</li>
+        <li>Bug fixes and performance improvements</li>
       </ul>
     ]]></description>
-    <pubDate>Tue, 12 May 2026 21:37:40 +0900</pubDate>
-    <sparkle:version>1276</sparkle:version>
-    <sparkle:shortVersionString>0.24.27+1276</sparkle:shortVersionString>
+    <pubDate>Thu, 14 May 2026 14:02:37 +0900</pubDate>
+    <sparkle:version>1277</sparkle:version>
+    <sparkle:shortVersionString>0.24.28+1277</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.24.27/BizCrush-Setup-0.24.27.exe" sparkle:version="1276" sparkle:shortVersionString="0.24.27+1276" length="195223520" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
+
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.24.28/BizCrush-Setup-0.24.28.exe" sparkle:version="1277" sparkle:shortVersionString="0.24.28+1277" length="194259822" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
   </item>
 
   </channel>
