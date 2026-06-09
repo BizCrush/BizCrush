@@ -53,6 +53,7 @@
         url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.0/BizCrush-macOS-v0.26.0.zip"
         sparkle:version="1380"
         sparkle:shortVersionString="0.26.0"
+        sparkle:edSignature="eWZqlXxRdQM7Y0VJ2XZpKg12JEps38jBFyPAmTH3bhNneVDFpuBCbsN1XQxa+CSSAIUD0FNdWtAM7H65Qy4GCQ=="
         length="304484404"
         type="application/octet-stream"
       />
