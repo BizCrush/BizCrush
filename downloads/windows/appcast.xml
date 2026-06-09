@@ -7,20 +7,26 @@
     <language>ko</language>
 
   <item>
-    <title>Version 0.25.6</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.25.6.html</link>
-    <description><![CDATA[
-      <h2>What's New in Version 0.25.6</h2>
-      <ul>
-        <li>Bug fixes and performance improvements</li>
-      </ul>
+    <title>Version 0.26.1</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.26.1.html</link>
+    <description xml:lang="ko"><![CDATA[
+<h2>Version 0.26.1</h2>
+<ul>
+  <li>전반적인 안정성과 성능이 향상되었어요</li>
+</ul>
     ]]></description>
-    <pubDate>Fri, 29 May 2026 22:05:34 +0900</pubDate>
-    <sparkle:version>1281</sparkle:version>
-    <sparkle:shortVersionString>0.25.6+1281</sparkle:shortVersionString>
+    <description xml:lang="en"><![CDATA[
+<h2>Version 0.26.1</h2>
+<ul>
+  <li>Performance and stability improvements</li>
+</ul>
+    ]]></description>
+    <pubDate>Tue, 09 Jun 2026 16:11:51 +0900</pubDate>
+    <sparkle:version>1282</sparkle:version>
+    <sparkle:shortVersionString>0.26.1+1282</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
 
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.25.6/BizCrush-Setup-0.25.6.exe" sparkle:version="1281" sparkle:shortVersionString="0.25.6+1281" length="209299444" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.1/BizCrush-Setup-0.26.1.exe" sparkle:version="1282" sparkle:shortVersionString="0.26.1+1282" length="220528346" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
   </item>
 
   </channel>
