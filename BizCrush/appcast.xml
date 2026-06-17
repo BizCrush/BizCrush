@@ -7,55 +7,65 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.0</title>
-      <sparkle:version>1380</sparkle:version>
-      <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
+      <title>Version 0.26.6</title>
+      <sparkle:version>1381</sparkle:version>
+      <sparkle:shortVersionString>0.26.6</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
 <ul>
-<li><b>회의 룸 화면 통합</b><br/>별도 창 대신 메인 창에서 열리고 뒤로 가기 버튼이 돌아왔어요.</li>
-<li><b>자막 오버레이 순서 선택</b><br/>원문과 번역의 표시 순서를 자유롭게 바꿀 수 있어요.</li>
-<li><b>자막 글자 크기 조절</b><br/>실시간 자막 글자 크기를 슬라이더로 조절할 수 있어요.</li>
-<li><b>메모와 노션 업로드</b><br/>회의 룸에서 개인 메모를 남기고 노션으로 바로 보낼 수 있어요.</li>
-<li><b>AI 요약 바로 생성</b><br/>녹음이 끝나면 한 번에 AI 요약을 만들 수 있어요.</li>
+<li><b>음성 입력 모드를 직접 고를 수 있어요</b><br/>마이크만, 시스템 소리만, 또는 둘 다 자동으로 선택 가능해요.</li>
+<li><b>회의록 안에서 바로 검색하기</b><br/>긴 회의록에서도 키워드를 입력하면 해당 위치로 이동해요.</li>
+<li><b>회의록 내용을 더 쉽게 수정해요</b><br/>연필 아이콘을 눌러 바로 수정하거나 삭제할 수 있어요.</li>
+<li><b>이어서 녹음 & 모든 녹음 보기</b><br/>회의 룸에서 지난 녹음을 한 번에 확인하고 다시 이어갈 수 있어요.</li>
+<li><b>회의 언어 설정이 더 안전해졌어요</b><br/>저장 실패 시 자동 재시도하고, 저장 안 된 변경은 한 번 더 물어봐요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>macOS 종료 시 가끔 발생하던 충돌을 해결했어요</li>
-<li>회의 목록에서 회의를 눌렀을 때 안 열리던 문제를 고쳤어요</li>
-<li>키워드 화면에서 파일 업로드가 실패하던 문제를 해결했어요</li>
-<li>첨부 파일 용량 제한을 100MB로 늘렸어요</li>
+<li>회의를 삭제하는 도중 발생하던 오류를 잠재웠어요</li>
+<li>회의 룸을 닫을 때 남던 불필요한 오류 메시지를 정리했어요</li>
+<li>앱바 배경색이 일부 화면에서 어색하게 보이던 문제를 고쳤어요</li>
+<li>회의록 검색 결과가 멀리 있어도 정확히 이동하도록 개선했어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Meeting Room, reimagined</h2>
+<h2>What's new</h2>
 <ul>
-<li><b>Meeting Room opens in the main window</b><br/>No more separate popout — meetings now flow naturally inside the app like on mobile.</li>
-<li><b>Smart corrections for misheard names</b><br/>Long-press a transcript line to get AI-powered suggestions for names and brands.</li>
-<li><b>Live translation while you talk</b><br/>Translations appear alongside the transcript in real time as the meeting unfolds.</li>
-<li><b>Subtitle overlay — pick your order</b><br/>Choose whether transcript or translation sits on top of the overlay window.</li>
-<li><b>Memo, Notion upload, and more</b><br/>Quick notes per user, send results to Notion, adjust transcript font size, and pick your mic.</li>
+<li><b>Pick your audio source</b><br/>Choose mic-only, system-only, or both before each recording starts.</li>
+<li><b>Search inside transcripts</b><br/>Find any word in a long meeting and jump straight to it.</li>
+<li><b>Edit transcript lines easily</b><br/>Tap the pencil to fix a line or delete it inline — no long-press needed.</li>
+<li><b>Resume past recordings</b><br/>Pick up where you left off and see all recordings in one place.</li>
+<li><b>Confirm before losing edits</b><br/>Unsaved language settings now prompt before being discarded.</li>
 </ul>
-<p><b>Fixes</b></p>
+<p><b>Bug fixes</b></p>
 <ul>
-<li>Welcome to BizCrush — Thread is now BizCrush across the app</li>
-<li>Fixed a crash that could happen when quitting the app</li>
-<li>File uploads now allow up to 100MB (was 10MB)</li>
-<li>Tapping a meeting in the list now opens it reliably</li>
+<li>Search now scrolls to matches deep inside long meetings</li>
+<li>Meeting room exit no longer logs noisy errors on desktop</li>
+<li>Language setting save failures now retry instead of silently failing</li>
+<li>Force-stopping a recording no longer breaks the audio pipeline</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 09 Jun 2026 08:53:10 +0900</pubDate>
+      <pubDate>Wed, 17 Jun 2026 17:26:20 +0900</pubDate>
+
+      <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.0/BizCrush-macOS-v0.26.0.zip"
-        sparkle:version="1380"
-        sparkle:shortVersionString="0.26.0"
-        sparkle:edSignature="eWZqlXxRdQM7Y0VJ2XZpKg12JEps38jBFyPAmTH3bhNneVDFpuBCbsN1XQxa+CSSAIUD0FNdWtAM7H65Qy4GCQ=="
-        length="304484404"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.6/BizCrush-macOS-v0.26.6.zip"
+        sparkle:version="1381"
+        sparkle:shortVersionString="0.26.6"
+        sparkle:edSignature="wptb0f1RNpKHl5VTzvMcQqtkHeKmPEgBpBFMFXQbQB6KcuZO/LhCYL/JVKyT6FAiw0rC8TqFijhGSWxhBuHSDQ=="
+        length="393659716"
         type="application/octet-stream"
+      />
+      <!-- DMG for manual download (Framer selects this) -->
+      <enclosure
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.6/BizCrush-macOS-v0.26.6.dmg"
+        sparkle:version="1381"
+        sparkle:shortVersionString="0.26.6"
+        length="392772854"
+        type="application/x-apple-diskimage"
       />
     </item>
 
