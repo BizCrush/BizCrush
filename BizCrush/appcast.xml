@@ -7,59 +7,64 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.10</title>
-      <sparkle:version>1384</sparkle:version>
-      <sparkle:shortVersionString>0.26.10</sparkle:shortVersionString>
+      <title>Version 0.26.11</title>
+      <sparkle:version>1385</sparkle:version>
+      <sparkle:shortVersionString>0.26.11</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트</h2>
+<h2>이번 업데이트 ✨</h2>
 <ul>
-<li><b>한국어 회의 인식이 더 또렷해졌어요</b><br/>시끄러운 환경에서 한국어 받아쓰기 정확도가 크게 좋아졌어요.</li>
-<li><b>배터리 절약 모드가 생겼어요</b><br/>긴 회의에서 배터리 소모를 줄이는 토글을 추가했어요.</li>
-<li><b>태그·자동화 흐름 개선</b><br/>태그로 자동화를 더 쉽게 설정하고 실행할 수 있어요.</li>
-<li><b>받아쓰기 화면이 더 편해졌어요</b><br/>드래그 스크롤바, 글자 크기 확대, 화자·언어 라벨 옵션을 추가했어요.</li>
-<li><b>창 크기를 기억해요</b><br/>맥에서 창 크기와 위치를 다음 실행에도 그대로 유지해요.</li>
+<li><b>한국어 인식이 더 또렷해졌어요</b><br/>시끄러운 환경에서도 회의 내용을 더 정확하게 받아 적어요.</li>
+<li><b>창 크기·위치를 기억해요</b><br/>맥에서 창을 옮기거나 크기 조절하면 다음 실행 때 그대로 열려요.</li>
+<li><b>회의 이름 바꾸기</b><br/>회의 목록에서 마우스 오른쪽 클릭으로 이름을 바로 변경할 수 있어요.</li>
+<li><b>자막에 언어·화자 표시</b><br/>자막 화면에서 언어와 화자 이름 표시 여부를 선택할 수 있어요.</li>
+<li><b>자막 글자 더 크게</b><br/>자막 글자 크기를 더 크게 키울 수 있게 됐어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
-<ul><li>회의 중 끊김과 빈 구간이 발생하던 문제를 고쳤어요</li><li>녹음 중 지지직거리는 잡음을 줄였어요</li><li>회의 종료 후에도 "녹음 중"으로 표시되던 문제를 고쳤어요</li><li>편집한 받아쓰기가 사라지지 않도록 저장 방식을 개선했어요</li></ul>
+<ul>
+<li>녹음 중 '지직' 잡음이 들리던 문제를 해결했어요</li>
+<li>실시간 자막이 잠시 멈췄다가 끊기던 문제를 개선했어요</li>
+<li>회의 종료 후 '정리 중' 안내가 계속 남아 있던 문제를 수정했어요</li>
+<li>회의 삭제가 제대로 되지 않던 문제를 고쳤어요</li>
+</ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>What's New</h2>
+<h2>What's new</h2>
 <ul>
-<li><b>Crisper meeting audio</b><br/>New noise handling reduces crackle and pops during loud moments.</li>
-<li><b>Battery Saver mode</b><br/>A new toggle keeps long meetings running longer on a charge.</li>
-<li><b>Smarter automations</b><br/>Tag-based workflows now react instantly with cleaner setup.</li>
-<li><b>Better transcript view</b><br/>Draggable scrollbar, larger font sizes, and speaker/language labels.</li>
-<li><b>Resizable main window</b><br/>The macOS window now remembers its size and position between launches.</li>
+<li><b>Cleaner recording audio</b><br/>Crackling and pops during long meetings are gone.</li>
+<li><b>Smarter speech recognition</b><br/>Korean and English transcripts are noticeably more accurate.</li>
+<li><b>Battery Saver mode</b><br/>New toggle keeps recordings going longer on the road.</li>
+<li><b>Rename meetings inline</b><br/>Right-click any meeting to rename it instantly.</li>
+<li><b>Window remembers its size</b><br/>Your last window position is restored on relaunch.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Transcripts no longer freeze when the speech service quietly stalls</li>
-<li>Ended meetings correctly show as completed instead of stuck recording</li>
-<li>Meeting menu now closes properly when navigating back</li>
-<li>Saving shared QR codes now lets you pick the folder</li>
+<li>Live transcript no longer goes blank when the connection briefly stalls</li>
+<li>Edited transcript lines now save reliably</li>
+<li>Meetings end cleanly even when post-transcription is off</li>
+<li>Back button now closes the meeting menu as expected</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Fri, 26 Jun 2026 21:39:55 +0900</pubDate>
+      <pubDate>Sat, 27 Jun 2026 12:34:58 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.10/BizCrush-macOS-v0.26.10.zip"
-        sparkle:version="1384"
-        sparkle:shortVersionString="0.26.10"
-        sparkle:edSignature="MnBSLvDY8kJE+Bgbypf+Z7FoYhO/idXpuzIRz+Mw4zksoPwmVkL/Mz5WWa+uWNaBAPVUbYPLfJPIxgHLeAd7AA=="
-        length="225051845"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.11/BizCrush-macOS-v0.26.11.zip"
+        sparkle:version="1385"
+        sparkle:shortVersionString="0.26.11"
+        sparkle:edSignature="7lGyshZeP9gCEV+7PxRE0v87NJfxAiFXBbgiKk2phSBUfTkq+uo8mVqjvbSlqgBMgtCTwvEk5xdqGYm16i8BAw=="
+        length="225068797"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.10/BizCrush-macOS-v0.26.10.dmg"
-        sparkle:version="1384"
-        sparkle:shortVersionString="0.26.10"
-        length="224227479"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.11/BizCrush-macOS-v0.26.11.dmg"
+        sparkle:version="1385"
+        sparkle:shortVersionString="0.26.11"
+        length="224240569"
         type="application/x-apple-diskimage"
       />
     </item>
