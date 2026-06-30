@@ -7,25 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.14</title>
-      <sparkle:version>1386</sparkle:version>
-      <sparkle:shortVersionString>0.26.14</sparkle:shortVersionString>
+      <title>Version 0.26.15</title>
+      <sparkle:version>1387</sparkle:version>
+      <sparkle:shortVersionString>0.26.15</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
 <ul>
-<li><b>음성 인식 품질이 좋아졌어요</b><br/>시끄러운 환경에서도 말이 더 정확하게 받아써집니다.</li>
-<li><b>배터리 절약 모드 추가</b><br/>긴 회의에서도 배터리 걱정을 덜 수 있어요.</li>
-<li><b>외장 마이크 채널 선택</b><br/>다채널 오디오 장비에서 원하는 마이크만 골라 쓸 수 있어요.</li>
-<li><b>녹취록 편집이 더 안정적</b><br/>수정한 내용이 사라지거나 되돌아가는 문제를 막았습니다.</li>
-<li><b>자막 글자 크기 더 키울 수 있어요</b><br/>화면에서 자막을 더 크고 또렷하게 볼 수 있습니다.</li>
+<li><b>태그 자동화 워크플로 강화</b><br/>회의에 태그를 달면 자동화가 더 똑똑하게 실행돼요.</li>
+<li><b>음성 인식 품질 향상</b><br/>시끄러운 회의실에서도 받아쓰기 정확도가 올라갔어요.</li>
+<li><b>자막에 언어·화자 표시 옵션</b><br/>회의록에서 언어와 화자 이름을 켜고 끌 수 있어요.</li>
+<li><b>외부 마이크 채널 선택</b><br/>오디오 인터페이스 사용 시 사용할 채널을 고를 수 있어요.</li>
+<li><b>회의록 검색이 더 빨라졌어요</b><br/>긴 회의록에서도 키워드 찾기가 매끄러워졌어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>녹음 중 갑자기 멈추는 현상을 줄였어요</li>
-<li>회의 화면에서 뒤로 갈 때 메뉴가 깔끔히 닫히도록 정리했어요</li>
-<li>실시간 자막의 임시 표시가 더 안정적으로 정리됩니다</li>
-<li>녹음에서 들리던 지지직 잡음을 잡았어요</li>
+<li>라이브 자막을 편집해도 다시 옛 텍스트로 돌아가지 않아요</li>
+<li>회의 화면에서 뒤로 가면 열려있던 메뉴가 자동으로 닫혀요</li>
+<li>자막이 잘못된 언어로 표시되던 문제를 고쳤어요</li>
+<li>자막 글자 크기를 더 크게 조절할 수 있어요</li>
 </ul>
         ]]>
       </description>
@@ -33,33 +33,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Sharper meeting transcripts</b><br/>Smarter on-device audio tuning keeps voices clear even in noisy rooms.</li>
-<li><b>Fewer glitches and crackles</b><br/>We tamed the pops and distortion that some users heard in long recordings.</li>
-<li><b>Use pro mics with confidence</b><br/>You can now pick a specific input channel on multi-input audio interfaces.</li>
-<li><b>Smoother transcript editing</b><br/>Edits stay put even when live captions are still streaming in.</li>
-<li><b>Bigger transcript text</b><br/>You can now scale transcript text larger for easier reading.</li>
+<li><b>Crisper meeting audio</b><br/>Smarter noise handling and less crackling in loud rooms.</li>
+<li><b>External mic support</b><br/>Pick a channel from interfaces like the Scarlett 2i2.</li>
+<li><b>Smoother automations</b><br/>Tag workflows respond faster and stay in sync live.</li>
+<li><b>Transcript polish</b><br/>Drag-to-scroll, bigger fonts, and speaker/language tags.</li>
+<li><b>Reset your password</b><br/>Forgot it? Reset right from the sign-in screen.</li>
 </ul>
 <p><b>Bug fixes</b></p>
-<ul><li>Live transcript edits no longer get overwritten by incoming captions</li><li>Recording sessions no longer cut off unexpectedly during long meetings</li><li>Meeting menu now closes properly when you navigate back</li><li>Empty or stale captions are cleaned up so the transcript stays tidy</li></ul>
+<ul>
+<li>Live transcripts no longer flicker while you're editing.</li>
+<li>The meeting menu now closes when you navigate back.</li>
+<li>Fallback transcripts pick the right language again.</li>
+<li>Cleaner cleanup of interim live transcript chunks.</li>
+</ul>
         ]]>
       </description>
-      <pubDate>Tue, 30 Jun 2026 13:24:06 +0900</pubDate>
+      <pubDate>Tue, 30 Jun 2026 13:42:01 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.14/BizCrush-macOS-v0.26.14.zip"
-        sparkle:version="1386"
-        sparkle:shortVersionString="0.26.14"
-        sparkle:edSignature="YaN6u1DANfeqJuuTFtBUoZgE+0Dr3FOZSpDj8/gNd1Hq3wVCbe12miD3XvA3Y5q312rQ6G/YCVFnaTwQo0gXDg=="
-        length="225094040"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.15/BizCrush-macOS-v0.26.15.zip"
+        sparkle:version="1387"
+        sparkle:shortVersionString="0.26.15"
+        sparkle:edSignature="IP7rk1QI7EDhQ2cEZSgkKZs5oJouqQ/mu/ZV6ZFgsTwhOYMy8L6NiOcaXzYMd3RcnYIGSU2J40X1xHmPrvv2CA=="
+        length="225100789"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.14/BizCrush-macOS-v0.26.14.dmg"
-        sparkle:version="1386"
-        sparkle:shortVersionString="0.26.14"
-        length="224261369"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.15/BizCrush-macOS-v0.26.15.dmg"
+        sparkle:version="1387"
+        sparkle:shortVersionString="0.26.15"
+        length="224242207"
         type="application/x-apple-diskimage"
       />
     </item>
