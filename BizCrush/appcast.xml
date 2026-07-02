@@ -7,25 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.18</title>
-      <sparkle:version>1390</sparkle:version>
-      <sparkle:shortVersionString>0.26.18</sparkle:shortVersionString>
+      <title>Version 0.26.19</title>
+      <sparkle:version>1391</sparkle:version>
+      <sparkle:shortVersionString>0.26.19</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트 ✨</h2>
+<h2>이번 업데이트</h2>
 <ul>
-<li><b>회의 음질이 한층 선명해졌어요</b><br/>시끄러운 환경에서도 목소리를 더 정확하게 잡아내요.</li>
-<li><b>자동화 탭이 새로 열렸어요</b><br/>반복 작업을 자동으로 처리하는 화면을 사용할 수 있어요.</li>
-<li><b>실시간 자막이 더 안정적이에요</b><br/>녹음 중 자막이 갑자기 사라지거나 흔들리는 문제를 줄였어요.</li>
-<li><b>외장 마이크 채널 선택</b><br/>여러 채널이 있는 오디오 장비에서 원하는 마이크를 고를 수 있어요.</li>
-<li><b>녹음 중 배터리 절약</b><br/>배터리 상태에 따라 음성 처리 강도를 자동으로 조절해요.</li>
+<li><b>회의 음성이 더 또렷하게 들려요</b><br/>소음이 많은 환경에서도 대화가 선명하게 인식되도록 음질 처리를 개선했어요.</li>
+<li><b>시끄러운 회의실에서 인식률 향상</b><br/>주변 소리가 커져도 자동으로 볼륨을 조절해서 놓치는 말이 줄었어요.</li>
+<li><b>데스크톱 구글 로그인 지원</b><br/>맥에서도 구글 계정으로 편하게 로그인할 수 있어요.</li>
+<li><b>외부 마이크 채널 선택</b><br/>여러 채널이 있는 오디오 인터페이스에서 원하는 마이크를 골라 쓸 수 있어요.</li>
+<li><b>실시간 자막이 더 안정적이에요</b><br/>편집한 자막이 다시 되돌아가거나 사라지는 문제를 정리했어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>편집한 자막이 원래대로 되돌아가던 문제를 고쳤어요</li>
-<li>녹음 중 잠깐 조용해도 자동으로 멈추지 않도록 개선했어요</li>
-<li>연동 서비스에서 요약 편집이 반영되지 않던 문제를 고쳤어요</li>
-<li>데스크톱 구글 로그인이 더 안정적으로 동작해요</li>
+<li>로그인 화면에 문제가 생겨도 원인을 바로 확인할 수 있도록 안내를 개선했어요</li>
+<li>녹음 중 자동 종료 타이머가 잘못 작동하던 문제를 고쳤어요</li>
+<li>노션 연동이 간헐적으로 실패하던 문제를 해결했어요</li>
+<li>편집한 자막이 저장되지 않고 되돌아가던 문제를 고쳤어요</li>
 </ul>
         ]]>
       </description>
@@ -33,38 +33,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Sharper voice quality</b><br/>Meeting audio comes through cleaner, especially in noisy rooms.</li>
-<li><b>Battery Saver mode</b><br/>New toggle keeps long meetings from draining your battery.</li>
-<li><b>Sign in with Google on desktop</b><br/>You can now sign in with your Google account on macOS.</li>
-<li><b>Pick your mic channel</b><br/>Choose which input on multi-channel audio interfaces to record from.</li>
-<li><b>Smoother live transcript</b><br/>Live captions stay stable while you edit and scroll.</li>
+<li><b>Clearer meeting audio</b><br/>Voice pickup is sharper in noisy and loud rooms.</li>
+<li><b>Google sign-in on desktop</b><br/>Signing in with Google now works reliably on macOS.</li>
+<li><b>Battery saver mode</b><br/>Long meetings drain your battery more slowly.</li>
+<li><b>Mic channel picker</b><br/>Choose which channel to record from multi-input mics.</li>
+<li><b>Steadier live transcript</b><br/>Live captions stay in place without flickering edits.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Fixed a rare crash when Notion sync ran in the background</li>
-<li>Live transcript edits no longer revert after reconnecting</li>
-<li>Force-stopping a recording no longer leaves empty entries behind</li>
-<li>Automations tab now opens reliably</li>
+<li>Edited transcript text now sticks after you change it</li>
+<li>Recording no longer auto-stops during long quiet stretches</li>
+<li>Sign-in issues on desktop after Google login resolved</li>
+<li>Meeting workflow updates arrive without extra reloads</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Thu, 02 Jul 2026 15:35:44 +0900</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:02:24 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.18/BizCrush-macOS-v0.26.18.zip"
-        sparkle:version="1390"
-        sparkle:shortVersionString="0.26.18"
-        sparkle:edSignature="QAWVcjdMAXPm+xV2/cf1BL8A2KErKWXSPTrshr7j+fFB4efR4iy3CRGO7/BCz+JCDyBO0dopqcqp+CQIITDhAQ=="
-        length="226105887"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.19/BizCrush-macOS-v0.26.19.zip"
+        sparkle:version="1391"
+        sparkle:shortVersionString="0.26.19"
+        sparkle:edSignature="BQSNTL4gaKB4D48ZpF7WuHEHlZxeN0EDcQfLbyGCePfykPzwjF0kXTThqHvZR1rdwRvPd4QyproJNlKhD4nxCg=="
+        length="226118404"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.18/BizCrush-macOS-v0.26.18.dmg"
-        sparkle:version="1390"
-        sparkle:shortVersionString="0.26.18"
-        length="225240814"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.19/BizCrush-macOS-v0.26.19.dmg"
+        sparkle:version="1391"
+        sparkle:shortVersionString="0.26.19"
+        length="225237725"
         type="application/x-apple-diskimage"
       />
     </item>
