@@ -7,15 +7,15 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.20</title>
-      <sparkle:version>1392</sparkle:version>
-      <sparkle:shortVersionString>0.26.20</sparkle:shortVersionString>
+      <title>Version 0.26.21</title>
+      <sparkle:version>1393</sparkle:version>
+      <sparkle:shortVersionString>0.26.21</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
 <p><b>버그 수정</b></p>
 <ul>
-<li>일부 사용자에게서 앱이 정상적으로 열리지 않던 문제를 해결했어요.</li>
+<li>일부 사용자에서 이전 버전 데이터가 손상되어 앱이 실행되지 않던 문제를 해결했어요</li>
 </ul>
         ]]>
       </description>
@@ -23,38 +23,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Google Calendar integration</b><br/>Connect your calendar to bring meetings into BizCrush automatically.</li>
-<li><b>Slack automations</b><br/>Send meeting tags and workflows straight to Slack channels.</li>
-<li><b>External mic support</b><br/>Pick a specific channel on multi-input interfaces like Scarlett 2i2.</li>
-<li><b>Clearer meeting audio</b><br/>Improved on-device noise reduction makes voices easier to hear.</li>
-<li><b>Smoother live transcript</b><br/>Interim captions stay stable and edits no longer flicker back.</li>
+<li><b>Google Calendar sync</b><br/>Bring your Google Calendar meetings into BizCrush automatically.</li>
+<li><b>Slack automations</b><br/>Send tags and updates straight to your Slack workspace.</li>
+<li><b>Sharper voice pickup</b><br/>On-device noise handling adapts per moment for clearer transcripts.</li>
+<li><b>Steadier live transcript</b><br/>Interim text no longer flickers while recording.</li>
+<li><b>External mic channel picker</b><br/>Pick your input channel on multi-input audio interfaces.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Fixed an issue where the app couldn't open its database for some Mac users</li>
-<li>Live transcript edits now save reliably</li>
-<li>Integration status now shows a proper loading state</li>
-<li>Empty context source summaries no longer cause hiccups</li>
+<li>Fixed a rare startup crash tied to the local meeting database.</li>
+<li>Edited transcript lines now save reliably.</li>
+<li>Tag automations refresh right after you change them.</li>
+<li>Integration screen shows a proper loading state.</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Thu, 02 Jul 2026 16:25:31 +0900</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:47:12 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.20/BizCrush-macOS-v0.26.20.zip"
-        sparkle:version="1392"
-        sparkle:shortVersionString="0.26.20"
-        sparkle:edSignature="Qb05V/gZn84ZP28T61zobzTGXfrMx1MJfwylg0Egacd0XOCsw1RzLgK4ka0bbM/ui/8FEKvD/uFeUtH6pdKpCg=="
-        length="226159554"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.21/BizCrush-macOS-v0.26.21.zip"
+        sparkle:version="1393"
+        sparkle:shortVersionString="0.26.21"
+        sparkle:edSignature="+VWpPB/nea4rkgtdq+0yGlZpDs4FkfeUdqm//He0L7Z2rwfu2nR9IgDbEfk57luwd6jGxGILHkAvXAnIYn+2DQ=="
+        length="226159783"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.20/BizCrush-macOS-v0.26.20.dmg"
-        sparkle:version="1392"
-        sparkle:shortVersionString="0.26.20"
-        length="225250716"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.21/BizCrush-macOS-v0.26.21.dmg"
+        sparkle:version="1393"
+        sparkle:shortVersionString="0.26.21"
+        length="225261771"
         type="application/x-apple-diskimage"
       />
     </item>
