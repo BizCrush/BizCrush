@@ -7,25 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.17</title>
-      <sparkle:version>1389</sparkle:version>
-      <sparkle:shortVersionString>0.26.17</sparkle:shortVersionString>
+      <title>Version 0.26.18</title>
+      <sparkle:version>1390</sparkle:version>
+      <sparkle:shortVersionString>0.26.18</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트</h2>
+<h2>이번 업데이트 ✨</h2>
 <ul>
-<li><b>잡음 속에서 더 또렷하게</b><br/>소음이 많은 회의실에서도 목소리 인식 정확도가 향상됐어요.</li>
-<li><b>상황에 맞춰 자동 조절</b><br/>조용한 순간과 시끄러운 순간에 맞춰 잡음 제거 강도가 알아서 바뀌어요.</li>
-<li><b>놓치는 단어가 줄었어요</b><br/>영어 회의에서 빠지던 단어들이 훨씬 잘 잡히도록 개선됐어요.</li>
-<li><b>다채널 마이크 지원</b><br/>스칼렛 같은 오디오 인터페이스에서 원하는 입력 채널을 고를 수 있어요.</li>
-<li><b>자막을 빠르게 이동</b><br/>긴 회의 자막도 스크롤바를 드래그해 원하는 부분으로 바로 이동돼요.</li>
+<li><b>회의 음질이 한층 선명해졌어요</b><br/>시끄러운 환경에서도 목소리를 더 정확하게 잡아내요.</li>
+<li><b>자동화 탭이 새로 열렸어요</b><br/>반복 작업을 자동으로 처리하는 화면을 사용할 수 있어요.</li>
+<li><b>실시간 자막이 더 안정적이에요</b><br/>녹음 중 자막이 갑자기 사라지거나 흔들리는 문제를 줄였어요.</li>
+<li><b>외장 마이크 채널 선택</b><br/>여러 채널이 있는 오디오 장비에서 원하는 마이크를 고를 수 있어요.</li>
+<li><b>녹음 중 배터리 절약</b><br/>배터리 상태에 따라 음성 처리 강도를 자동으로 조절해요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>자막 편집 시 이전 텍스트로 되돌아가던 문제를 고쳤어요</li>
-<li>녹음 중 발생하던 '지지직' 잡음을 개선했어요</li>
-<li>회의 화면에서 뒤로 가기를 눌러도 메뉴가 그대로 남던 문제를 정리했어요</li>
-<li>회의 요약의 출처 링크 관련 오류를 수정했어요</li>
+<li>편집한 자막이 원래대로 되돌아가던 문제를 고쳤어요</li>
+<li>녹음 중 잠깐 조용해도 자동으로 멈추지 않도록 개선했어요</li>
+<li>연동 서비스에서 요약 편집이 반영되지 않던 문제를 고쳤어요</li>
+<li>데스크톱 구글 로그인이 더 안정적으로 동작해요</li>
 </ul>
         ]]>
       </description>
@@ -33,38 +33,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Cleaner recordings in noisy rooms</b><br/>Voices come through more clearly, even when the room is loud.</li>
-<li><b>Choose your mic input channel</b><br/>Using an external audio interface? Pick which mic channel to record.</li>
-<li><b>Smarter battery saver</b><br/>New Battery Saver toggle in meeting options to extend long sessions.</li>
-<li><b>Smoother live transcript</b><br/>Live captions and edits stay put without unexpected jumps.</li>
-<li><b>Faster transcript search</b><br/>Scrolling and searching long transcripts feels quicker and lighter.</li>
+<li><b>Sharper voice quality</b><br/>Meeting audio comes through cleaner, especially in noisy rooms.</li>
+<li><b>Battery Saver mode</b><br/>New toggle keeps long meetings from draining your battery.</li>
+<li><b>Sign in with Google on desktop</b><br/>You can now sign in with your Google account on macOS.</li>
+<li><b>Pick your mic channel</b><br/>Choose which input on multi-channel audio interfaces to record from.</li>
+<li><b>Smoother live transcript</b><br/>Live captions stay stable while you edit and scroll.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Fixed occasional crackle and pops during loud moments</li>
-<li>Edited transcript text no longer reverts after reopening</li>
-<li>Recording auto-stop no longer interrupts long meetings unexpectedly</li>
-<li>Empty messages after force-stopping a recording are cleaned up</li>
+<li>Fixed a rare crash when Notion sync ran in the background</li>
+<li>Live transcript edits no longer revert after reconnecting</li>
+<li>Force-stopping a recording no longer leaves empty entries behind</li>
+<li>Automations tab now opens reliably</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Wed, 01 Jul 2026 10:46:12 +0900</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:35:44 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.17/BizCrush-macOS-v0.26.17.zip"
-        sparkle:version="1389"
-        sparkle:shortVersionString="0.26.17"
-        sparkle:edSignature="KrwOu2Hhfjfr7PCyFOnoq5R+Z3nwhF/TQ7z3JRImAj65TaiRLNApeZqvLWJz5CvL4EU7K/HP0iBt70l1hUV5CQ=="
-        length="225980296"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.18/BizCrush-macOS-v0.26.18.zip"
+        sparkle:version="1390"
+        sparkle:shortVersionString="0.26.18"
+        sparkle:edSignature="QAWVcjdMAXPm+xV2/cf1BL8A2KErKWXSPTrshr7j+fFB4efR4iy3CRGO7/BCz+JCDyBO0dopqcqp+CQIITDhAQ=="
+        length="226105887"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.17/BizCrush-macOS-v0.26.17.dmg"
-        sparkle:version="1389"
-        sparkle:shortVersionString="0.26.17"
-        length="225114136"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.18/BizCrush-macOS-v0.26.18.dmg"
+        sparkle:version="1390"
+        sparkle:shortVersionString="0.26.18"
+        length="225240814"
         type="application/x-apple-diskimage"
       />
     </item>
