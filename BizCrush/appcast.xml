@@ -7,25 +7,15 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.19</title>
-      <sparkle:version>1391</sparkle:version>
-      <sparkle:shortVersionString>0.26.19</sparkle:shortVersionString>
+      <title>Version 0.26.20</title>
+      <sparkle:version>1392</sparkle:version>
+      <sparkle:shortVersionString>0.26.20</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
-<ul>
-<li><b>회의 음성이 더 또렷하게 들려요</b><br/>소음이 많은 환경에서도 대화가 선명하게 인식되도록 음질 처리를 개선했어요.</li>
-<li><b>시끄러운 회의실에서 인식률 향상</b><br/>주변 소리가 커져도 자동으로 볼륨을 조절해서 놓치는 말이 줄었어요.</li>
-<li><b>데스크톱 구글 로그인 지원</b><br/>맥에서도 구글 계정으로 편하게 로그인할 수 있어요.</li>
-<li><b>외부 마이크 채널 선택</b><br/>여러 채널이 있는 오디오 인터페이스에서 원하는 마이크를 골라 쓸 수 있어요.</li>
-<li><b>실시간 자막이 더 안정적이에요</b><br/>편집한 자막이 다시 되돌아가거나 사라지는 문제를 정리했어요.</li>
-</ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>로그인 화면에 문제가 생겨도 원인을 바로 확인할 수 있도록 안내를 개선했어요</li>
-<li>녹음 중 자동 종료 타이머가 잘못 작동하던 문제를 고쳤어요</li>
-<li>노션 연동이 간헐적으로 실패하던 문제를 해결했어요</li>
-<li>편집한 자막이 저장되지 않고 되돌아가던 문제를 고쳤어요</li>
+<li>일부 사용자에게서 앱이 정상적으로 열리지 않던 문제를 해결했어요.</li>
 </ul>
         ]]>
       </description>
@@ -33,38 +23,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Clearer meeting audio</b><br/>Voice pickup is sharper in noisy and loud rooms.</li>
-<li><b>Google sign-in on desktop</b><br/>Signing in with Google now works reliably on macOS.</li>
-<li><b>Battery saver mode</b><br/>Long meetings drain your battery more slowly.</li>
-<li><b>Mic channel picker</b><br/>Choose which channel to record from multi-input mics.</li>
-<li><b>Steadier live transcript</b><br/>Live captions stay in place without flickering edits.</li>
+<li><b>Google Calendar integration</b><br/>Connect your calendar to bring meetings into BizCrush automatically.</li>
+<li><b>Slack automations</b><br/>Send meeting tags and workflows straight to Slack channels.</li>
+<li><b>External mic support</b><br/>Pick a specific channel on multi-input interfaces like Scarlett 2i2.</li>
+<li><b>Clearer meeting audio</b><br/>Improved on-device noise reduction makes voices easier to hear.</li>
+<li><b>Smoother live transcript</b><br/>Interim captions stay stable and edits no longer flicker back.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Edited transcript text now sticks after you change it</li>
-<li>Recording no longer auto-stops during long quiet stretches</li>
-<li>Sign-in issues on desktop after Google login resolved</li>
-<li>Meeting workflow updates arrive without extra reloads</li>
+<li>Fixed an issue where the app couldn't open its database for some Mac users</li>
+<li>Live transcript edits now save reliably</li>
+<li>Integration status now shows a proper loading state</li>
+<li>Empty context source summaries no longer cause hiccups</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Thu, 02 Jul 2026 16:02:24 +0900</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:25:31 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.19/BizCrush-macOS-v0.26.19.zip"
-        sparkle:version="1391"
-        sparkle:shortVersionString="0.26.19"
-        sparkle:edSignature="BQSNTL4gaKB4D48ZpF7WuHEHlZxeN0EDcQfLbyGCePfykPzwjF0kXTThqHvZR1rdwRvPd4QyproJNlKhD4nxCg=="
-        length="226118404"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.20/BizCrush-macOS-v0.26.20.zip"
+        sparkle:version="1392"
+        sparkle:shortVersionString="0.26.20"
+        sparkle:edSignature="Qb05V/gZn84ZP28T61zobzTGXfrMx1MJfwylg0Egacd0XOCsw1RzLgK4ka0bbM/ui/8FEKvD/uFeUtH6pdKpCg=="
+        length="226159554"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.19/BizCrush-macOS-v0.26.19.dmg"
-        sparkle:version="1391"
-        sparkle:shortVersionString="0.26.19"
-        length="225237725"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.20/BizCrush-macOS-v0.26.20.dmg"
+        sparkle:version="1392"
+        sparkle:shortVersionString="0.26.20"
+        length="225250716"
         type="application/x-apple-diskimage"
       />
     </item>
