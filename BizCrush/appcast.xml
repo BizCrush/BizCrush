@@ -7,63 +7,57 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.26.22</title>
-      <sparkle:version>1394</sparkle:version>
-      <sparkle:shortVersionString>0.26.22</sparkle:shortVersionString>
+      <title>Version 0.26.23</title>
+      <sparkle:version>1395</sparkle:version>
+      <sparkle:shortVersionString>0.26.23</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>오디오 자동 전환과 음질 개선</h2>
+<h2>회의 탭과 자동화 탭이 새로워졌어요</h2>
 <ul>
-<li><b>이어폰·스피커 전환이 자연스러워졌어요</b><br/>녹음 중 이어폰을 꽂거나 빼도 끊김 없이 자동으로 이어집니다.</li>
-<li><b>시끄러운 곳에서도 더 정확하게</b><br/>울림이 있거나 소음이 많은 공간에서 음성 인식 정확도가 좋아졌어요.</li>
-<li><b>Notion 저장 위치를 직접 선택</b><br/>회의 요약을 보낼 Notion 페이지를 계층 구조에서 골라 지정할 수 있어요.</li>
-<li><b>회의 만들기가 더 편해졌어요</b><br/>새 회의를 시작할 때 필요한 옵션을 한 곳에서 선택할 수 있어요.</li>
-</ul>
-<p><b>버그 수정</b></p>
-<ul>
-<li>큰 소리로 말할 때 음성이 찢어지던 현상을 개선했어요</li>
-<li>내 마이크만 녹음하는 모드에서 시스템 소리가 함께 녹음되던 문제를 고쳤어요</li>
-<li>외부 오디오 장비 연결 시 두 번째 녹음이 되지 않던 문제를 해결했어요</li>
-<li>회의 화면의 전체 화면 버튼이 다시 표시돼요</li>
+<li><b>회의 탭이 캘린더와 함께 새 단장</b><br/>캘린더 보기와 Google 캘린더 일정을 데스크톱에서도 확인할 수 있어요.</li>
+<li><b>자동화 탭이 데스크톱에 추가됐어요</b><br/>모바일에서 쓰던 자동화 기능을 이제 데스크톱에서도 관리할 수 있어요.</li>
+<li><b>빠른 녹음 시작 버튼</b><br/>회의 탭에서 버튼 한 번으로 바로 녹음을 시작할 수 있어요.</li>
+<li><b>설정 화면이 새로워졌어요</b><br/>프로필과 플랜 정보를 한 화면에서 깔끔하게 볼 수 있어요.</li>
+<li><b>플랜 변경은 웹에서 간편하게</b><br/>업그레이드 버튼을 누르면 bizcru.sh 웹 페이지로 바로 연결돼요.</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Seamless audio switching</h2>
+<h2>Calendar, Automations & more</h2>
 <ul>
-<li><b>Seamless audio switching</b><br/>Swap between earphones and speakers mid-meeting without missing a word.</li>
-<li><b>Slack &amp; Google Calendar</b><br/>Connect Slack and Google Calendar from the new Automations tab.</li>
-<li><b>Pick your Notion page</b><br/>Choose exactly where your meeting notes land in Notion.</li>
-<li><b>Clearer voice pickup</b><br/>Transcription is now more accurate in echoey rooms.</li>
-<li><b>More ways to start meetings</b><br/>New options appear when you create a meeting from the Meetings tab.</li>
+<li><b>New Meeting tab with calendar</b><br/>See your upcoming meetings and start recording with one click.</li>
+<li><b>Automations come to desktop</b><br/>Manage your tag automations and integrations right from the sidebar.</li>
+<li><b>Seamless audio switching</b><br/>Plugging in or removing earphones mid-meeting is now handled automatically.</li>
+<li><b>Pick your Notion destination</b><br/>Choose exactly which Notion page your meeting notes go to.</li>
+<li><b>Refreshed Settings</b><br/>A cleaner settings hub with your profile and plan at a glance.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Mic-only recordings no longer pick up your computer's audio</li>
-<li>Fixed occasional audio crackling when voices got loud</li>
-<li>Fixed the app failing to load your data on Macs syncing Documents with iCloud</li>
-<li>External USB audio interfaces now record reliably every time</li>
+<li>Mic-only recordings no longer pick up system audio</li>
+<li>Reduced audio distortion when voices get loud</li>
+<li>Fixed the app failing to load your data on Macs with iCloud Drive sync enabled</li>
+<li>Fixed recordings going silent when using an external USB audio interface</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 07 Jul 2026 09:47:52 +0900</pubDate>
+      <pubDate>Tue, 07 Jul 2026 15:05:17 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.22/BizCrush-macOS-v0.26.22.zip"
-        sparkle:version="1394"
-        sparkle:shortVersionString="0.26.22"
-        sparkle:edSignature="2/BvV1jm4KYpM8aaXnFmTpi3fMfPgB+/m6tywphf6CwY6e3Reu3aKGXpeX1CWWrTnnMCFQLofH8iWJPPkOiUBQ=="
-        length="191618154"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.23/BizCrush-macOS-v0.26.23.zip"
+        sparkle:version="1395"
+        sparkle:shortVersionString="0.26.23"
+        sparkle:edSignature="7293ak7jVURo98Z+NILbmqVkyCemJ7+0jvDBwH/XB9DN0gRpWTSZzXzT7BjJJdxlth39KU7Q7u1FTqUKERUhCA=="
+        length="191688313"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.22/BizCrush-macOS-v0.26.22.dmg"
-        sparkle:version="1394"
-        sparkle:shortVersionString="0.26.22"
-        length="190737804"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.26.23/BizCrush-macOS-v0.26.23.dmg"
+        sparkle:version="1395"
+        sparkle:shortVersionString="0.26.23"
+        length="190814463"
         type="application/x-apple-diskimage"
       />
     </item>
