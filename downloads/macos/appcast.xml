@@ -7,62 +7,64 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.27.0</title>
-      <sparkle:version>1398</sparkle:version>
-      <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+      <title>Version 0.27.3</title>
+      <sparkle:version>1399</sparkle:version>
+      <sparkle:shortVersionString>0.27.3</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>회의 화면과 음성 품질이 새로워졌어요</h2>
+<h2>새로워진 회의 탭과 더 매끄러운 녹음</h2>
 <ul>
-<li><b>회의 탭이 새로워졌어요</b><br/>캘린더 화면과 자동화 탭이 데스크톱에도 추가됐어요.</li>
-<li><b>이어폰·스피커 자동 전환</b><br/>녹음 중 이어폰을 꽂거나 빼도 끊김 없이 이어져요.</li>
-<li><b>Notion 저장 위치 선택</b><br/>회의 노트를 보낼 Notion 페이지를 폴더 구조에서 직접 고를 수 있어요.</li>
-<li><b>설정 화면이 하나로 정리됐어요</b><br/>프로필, 요금제, 설정을 한 화면에서 관리할 수 있어요.</li>
-<li><b>음성 인식이 더 정확해졌어요</b><br/>녹음 소리 처리 방식을 개선해 받아쓰기 정확도가 올라갔어요.</li>
+<li><b>이어폰을 바꿔도 녹음이 안 끊겨요</b><br/>녹음 중 이어폰을 꽂거나 빼도 자동으로 감지해 매끄럽게 이어집니다.</li>
+<li><b>회의 탭과 설정 화면이 새로워졌어요</b><br/>캘린더 보기와 자동화 탭이 추가되고 설정 화면이 깔끔하게 정리됐어요.</li>
+<li><b>노이즈 필터를 직접 켜고 끌 수 있어요</b><br/>설정에서 주변 소음 제거 기능을 원하는 대로 조절할 수 있습니다.</li>
+<li><b>노션 연동이 더 편해졌어요</b><br/>페이지를 계층 구조로 보고 회의록이 저장될 위치를 직접 고를 수 있어요.</li>
+<li><b>조용한 목소리도 또렷하게 인식돼요</b><br/>작게 말할 때 문장 끝이 잘리던 현상이 줄고 녹음 소리도 더 자연스러워졌어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>조용히 말할 때 문장 끝이 잘리던 문제를 고쳤어요</li>
-<li>녹음 소리가 순간적으로 깨지던 현상을 개선했어요</li>
-<li>다른 앱이 마이크를 사용 중일 때 무음이 지속되면 자동으로 복구돼요</li>
-<li>회의 화면의 전체화면 버튼이 다시 표시돼요</li>
+<li>'내 마이크만 녹음' 중에 다른 앱 소리가 섞여 들어가던 문제를 고쳤어요</li>
+<li>다른 앱이 마이크를 사용 중일 때 녹음이 무음으로 시작되면 자동으로 복구돼요</li>
+<li>실시간 자막이 중간에 멈추면 자동으로 다시 이어지도록 고쳤어요</li>
+<li>회의 화면의 전체 화면 버튼이 다시 표시돼요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Clearer audio, new look</h2>
+<h2>Your desktop, upgraded</h2>
 <ul>
-<li><b>Headphones and speakers, hands-free</b><br/>Swap audio devices mid-meeting and recording keeps going seamlessly.</li>
-<li><b>Voice pickup got a major tune-up</b><br/>Quiet speech is no longer cut off and distortion on loud voices is gone.</li>
-<li><b>A refreshed desktop layout</b><br/>The Meeting tab now shows your calendar, and Automations has its own tab.</li>
-<li><b>Pick exactly where notes land in Notion</b><br/>Browse your Notion pages as a tree and choose a default destination.</li>
+<li><b>Redesigned desktop home</b><br/>Calendar view, quick-record button, and a new Automations tab.</li>
+<li><b>Seamless audio switching</b><br/>Swap between earphones and speakers mid-meeting without missing a word.</li>
+<li><b>Pick your Notion destination</b><br/>Browse your pages as a tree and choose where notes are saved.</li>
+<li><b>Noise filter toggle</b><br/>Turn the noise filter on or off right from settings.</li>
+<li><b>Clearer recordings</b><br/>Audio tuning delivers more accurate live transcripts.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Recording now recovers automatically if another app takes over your microphone</li>
-<li>Mic-only recordings no longer accidentally include computer audio</li>
-<li>Live transcripts reconnect reliably, and the fullscreen button is back</li>
+<li>Mic-only recordings no longer pick up system audio</li>
+<li>Recording recovers automatically if another app takes over your microphone</li>
+<li>Live transcripts reconnect reliably after an interruption</li>
+<li>The fullscreen button is back in the meeting room</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Wed, 08 Jul 2026 17:49:50 +0900</pubDate>
+      <pubDate>Fri, 10 Jul 2026 08:34:08 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.0/BizCrush-macOS-v0.27.0.zip"
-        sparkle:version="1398"
-        sparkle:shortVersionString="0.27.0"
-        sparkle:edSignature="L7lp8KZmCHGRTv8Zt6/ScHi35BRcYnIaIHzgO5EMYoblN9tynYT1cBpVY2ns5rZI26l3CzNRYZgf8Q1Q+7EEAA=="
-        length="190920852"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.3/BizCrush-macOS-v0.27.3.zip"
+        sparkle:version="1399"
+        sparkle:shortVersionString="0.27.3"
+        sparkle:edSignature="tHPlQZ7AWD4GHyreNnfPnUI07FxgWZFaAEK5tiRp67nxw19WsRKOxNuIgZv75Bz/C2Y670fOlyVZBAD2UkhHCA=="
+        length="190940505"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.0/BizCrush-macOS-v0.27.0.dmg"
-        sparkle:version="1398"
-        sparkle:shortVersionString="0.27.0"
-        length="190066181"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.3/BizCrush-macOS-v0.27.3.dmg"
+        sparkle:version="1399"
+        sparkle:shortVersionString="0.27.3"
+        length="190119494"
         type="application/x-apple-diskimage"
       />
     </item>
