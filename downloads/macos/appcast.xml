@@ -7,60 +7,62 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.27.6</title>
-      <sparkle:version>1400</sparkle:version>
-      <sparkle:shortVersionString>0.27.6</sparkle:shortVersionString>
+      <title>Version 0.27.7</title>
+      <sparkle:version>1401</sparkle:version>
+      <sparkle:shortVersionString>0.27.7</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트</h2>
+<h2>회의 봇과 캘린더 연동이 더 편해졌어요</h2>
 <ul>
-<li><b>회의 화면 전체화면 지원</b><br/>회의 중 화면을 전체화면으로 크게 볼 수 있어요.</li>
-<li><b>실시간 자막 정확도 표시</b><br/>인식이 불확실한 단어를 자막에서 바로 확인할 수 있어요.</li>
-<li><b>Notion 오디오 업로드 설정</b><br/>회의 오디오를 Notion에 올리는 설정이 다시 제공돼요.</li>
+<li><b>회의 봇을 더 편하게 부를 수 있어요</b><br/>대기실에서 봇을 직접 참여시키고, 회의 메뉴에서 바로 보낼 수 있어요.</li>
+<li><b>봇 사용량 안내가 명확해졌어요</b><br/>온라인 회의 봇 사용량이 소진되면 바로 알려드려요.</li>
+<li><b>회의 룸 전체화면 지원</b><br/>회의 화면을 전체화면으로 크게 펼쳐서 볼 수 있어요.</li>
+<li><b>Google 캘린더 연동 개선</b><br/>연동 상태가 모든 화면에서 일치하고, 재연결도 버튼 하나로 돼요.</li>
+<li><b>실시간 자막 정확도 표시</b><br/>실시간 자막에서 인식이 불확실한 단어를 한눈에 확인할 수 있어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>녹음 중 간헐적으로 들리던 지지직 잡음을 없앴어요</li>
-<li>녹음 마지막 부분이 살짝 잘리던 문제를 고쳤어요</li>
-<li>Google 캘린더 연결이 끊겼을 때 다시 연결할 수 있어요</li>
-<li>잡음 제거를 꺼도 음량 자동 조절이 계속 동작해요</li>
+<li>녹음을 끝낼 때 마지막 1~2초가 잘리던 문제를 고쳤어요</li>
+<li>잡음 필터를 꺼도 음량 자동 조절은 계속 동작하도록 고쳤어요</li>
+<li>Notion 음성 파일 업로드 설정이 다시 표시돼요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Better audio & fullscreen</h2>
+<h2>Smarter meeting bot controls</h2>
 <ul>
-<li><b>Fullscreen meeting room</b><br/>Expand your meeting room to fullscreen for a more focused view.</li>
-<li><b>See caption reliability at a glance</b><br/>Live captions now show how confident each word is.</li>
-<li><b>Notion audio upload is back</b><br/>You can once again choose to include audio when uploading to Notion.</li>
+<li><b>Send the bot your way</b><br/>Invite the meeting bot from the meeting menu, or let it join manually from the waiting room.</li>
+<li><b>Full-screen meeting room</b><br/>Expand the meeting room to full screen for a more focused view.</li>
+<li><b>Smoother Google Calendar setup</b><br/>Reconnect in one tap, and your connection status now stays in sync everywhere.</li>
+<li><b>Notion audio upload is back</b><br/>Choose whether your meeting audio gets uploaded to Notion again.</li>
+<li><b>Clear notice on bot credits</b><br/>You'll now see a heads-up when your online bot credits run out.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Fixed crackling and static sounds that could appear in recordings</li>
 <li>The last few seconds of a recording are no longer cut off</li>
-<li>Added a reconnect button for Google Calendar in Automations</li>
-<li>Automatic volume leveling now stays on even when the noise filter is turned off</li>
+<li>Volume leveling now stays on even when the noise filter is turned off</li>
+<li>Google Calendar texts now show correctly in your language</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 14 Jul 2026 12:27:15 +0900</pubDate>
+      <pubDate>Tue, 14 Jul 2026 17:25:26 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.6/BizCrush-macOS-v0.27.6.zip"
-        sparkle:version="1400"
-        sparkle:shortVersionString="0.27.6"
-        sparkle:edSignature="A+zkbZoZQEtMzOD7P6Nm6yI3liyJ89JGoZ5/KQRPlkmS8A00hGY8dRdlBw8bnS12HkfQIe20AaJYRMEwP6dEBg=="
-        length="191430969"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.7/BizCrush-macOS-v0.27.7.zip"
+        sparkle:version="1401"
+        sparkle:shortVersionString="0.27.7"
+        sparkle:edSignature="gQc7G4bQ++L4PvSYNQlcBvKXSsFllZ4ElxwWCqytxYA8RCJrfXVt4xirbyzPu+X+yntmDnfbGCtNUZMTV5SAAg=="
+        length="191473461"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.6/BizCrush-macOS-v0.27.6.dmg"
-        sparkle:version="1400"
-        sparkle:shortVersionString="0.27.6"
-        length="190572695"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.7/BizCrush-macOS-v0.27.7.dmg"
+        sparkle:version="1401"
+        sparkle:shortVersionString="0.27.7"
+        length="190624226"
         type="application/x-apple-diskimage"
       />
     </item>
