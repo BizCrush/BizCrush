@@ -7,62 +7,42 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.27.8</title>
-      <sparkle:version>1401</sparkle:version>
-      <sparkle:shortVersionString>0.27.8</sparkle:shortVersionString>
+      <title>Version 0.27.10</title>
+      <sparkle:version>1402</sparkle:version>
+      <sparkle:shortVersionString>0.27.10</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>회의 봇과 캘린더 연동이 더 편해졌어요</h2>
+<h2>이번 업데이트</h2>
 <ul>
-<li><b>회의 봇을 원할 때 바로 부를 수 있어요</b><br/>대기실이나 회의 메뉴에서 온라인 회의 봇을 직접 참여시킬 수 있어요.</li>
-<li><b>봇 사용량이 다 되면 알려드려요</b><br/>온라인 회의 봇 사용량이 소진되면 화면에서 바로 확인할 수 있어요.</li>
-<li><b>Google 캘린더 연동이 더 매끄러워졌어요</b><br/>연결이 끊겼을 때 다시 연결하는 버튼이 생기고, 한국어 화면도 지원돼요.</li>
-<li><b>회의 화면을 전체화면으로 볼 수 있어요</b><br/>버튼 하나로 회의 룸을 크게 펼쳐서 집중할 수 있어요.</li>
-<li><b>Notion 오디오 업로드 설정이 돌아왔어요</b><br/>Notion으로 내보낼 때 녹음 파일 업로드 여부를 다시 선택할 수 있어요.</li>
-</ul>
-<p><b>버그 수정</b></p>
-<ul>
-<li>녹음 마지막 1~2초가 잘리던 문제를 고쳤어요</li>
-<li>노이즈 필터를 꺼도 음량 자동 조절이 계속 동작하도록 고쳤어요</li>
-<li>캘린더 연결 상태가 화면마다 다르게 보이던 문제를 고쳤어요</li>
+<li>전반적인 안정성과 성능이 향상되었어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Smarter meeting bots</h2>
+<h2>What is New</h2>
 <ul>
-<li><b>Easier bot controls</b><br/>Send a bot to your meeting or let it join right from the meeting room.</li>
-<li><b>Bot credit alerts</b><br/>You'll now see a clear notice when your online bot credits run out.</li>
-<li><b>Fullscreen meeting room</b><br/>Expand the meeting room to fullscreen for a more focused view.</li>
-<li><b>Transcript confidence</b><br/>Live transcripts now hint how confident each word is.</li>
-<li><b>Notion audio upload is back</b><br/>You can turn audio uploads to Notion back on in Settings.</li>
-</ul>
-<p><b>Bug fixes</b></p>
-<ul>
-<li>The last few seconds of a recording no longer get cut off</li>
-<li>Google Calendar stays connected across tabs and offers a quick reconnect when needed</li>
-<li>Microphone auto-volume keeps working even with the noise filter turned off</li>
+<li>Overall performance and stability have been improved</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 14 Jul 2026 17:40:16 +0900</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:02:46 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.8/BizCrush-macOS-v0.27.8.zip"
-        sparkle:version="1401"
-        sparkle:shortVersionString="0.27.8"
-        sparkle:edSignature="kKtnakiY6V73YZSCVTtb3UovE1cR3I2/Y2MqwbyQ3GPDYtJz62TrgdHFSU6oNrGJo8OCNnpE1TBFXR7rLqFIAg=="
-        length="191473468"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.10/BizCrush-macOS-v0.27.10.zip"
+        sparkle:version="1402"
+        sparkle:shortVersionString="0.27.10"
+        sparkle:edSignature="E/H4Hd+9pNmLJ9NxfeLeSZ8mUM9n4X3qq0ZN8g9NsMe6J+0Q3EIfNnRomuAh5e9ABiHESia8w/gD5Lo02JZuCQ=="
+        length="191498826"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.8/BizCrush-macOS-v0.27.8.dmg"
-        sparkle:version="1401"
-        sparkle:shortVersionString="0.27.8"
-        length="190624262"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.10/BizCrush-macOS-v0.27.10.dmg"
+        sparkle:version="1402"
+        sparkle:shortVersionString="0.27.10"
+        length="190629075"
         type="application/x-apple-diskimage"
       />
     </item>
