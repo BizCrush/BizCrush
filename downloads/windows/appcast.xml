@@ -21,12 +21,12 @@
   <li>Performance and stability improvements</li>
 </ul>
     ]]></description>
-    <pubDate>Thu, 30 Jul 2026 16:27:50 +0900</pubDate>
+    <pubDate>Thu, 30 Jul 2026 17:24:45 +0900</pubDate>
     <sparkle:version>1298</sparkle:version>
     <sparkle:shortVersionString>0.27.19+1298</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
 
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.19/BizCrush-Setup-0.27.19.exe" sparkle:version="1298" sparkle:shortVersionString="0.27.19+1298" length="195209752" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.19/BizCrush-Setup-0.27.19.exe" sparkle:version="1298" sparkle:shortVersionString="0.27.19+1298" length="195614248" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
   </item>
 
   </channel>
