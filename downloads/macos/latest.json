@@ -1,10 +1,10 @@
 {
-  "version": "0.28.4",
-  "build_date": "Tue, 18 Aug 2026 15:30:08 +0900",
+  "version": "0.28.5",
+  "build_date": "Tue, 18 Aug 2026 21:55:42 +0900",
   "platform": "macOS",
-  "download_url": "https://github.com/BizCrush/BizCrush/releases/download/v0.28.4/BizCrush-macOS-v0.28.4.zip",
-  "file_size": "194375214",
-  "release_notes_url": "https://github.com/BizCrush/BizCrush/releases/tag/v0.28.4",
+  "download_url": "https://github.com/BizCrush/BizCrush/releases/download/v0.28.5/BizCrush-macOS-v0.28.5.zip",
+  "file_size": "194396604",
+  "release_notes_url": "https://github.com/BizCrush/BizCrush/releases/tag/v0.28.5",
   "critical_update": false,
   "min_required_version": "",
   "force_update_message": ""

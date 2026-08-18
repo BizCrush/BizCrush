@@ -7,20 +7,21 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.4</title>
-      <sparkle:version>1409</sparkle:version>
-      <sparkle:shortVersionString>0.28.4</sparkle:shortVersionString>
+      <title>Version 0.28.5</title>
+      <sparkle:version>1410</sparkle:version>
+      <sparkle:shortVersionString>0.28.5</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
 <ul>
-<li><b>긴 회의도 끊김 없이</b><br/>장시간 녹음 중 앱이 잠깐 멈추던 문제를 해결했어요.</li>
-<li><b>노트 탭이 더 가벼워졌어요</b><br/>긴 회의에서도 노트 화면이 쾌적하게 유지돼요.</li>
+<li><b>긴 회의 안정성이 좋아졌어요</b><br/>장시간 녹음 중 앱이 느려지거나 멈추던 문제를 개선했어요.</li>
+<li><b>노트 탭이 더 가벼워졌어요</b><br/>전사가 길게 쌓여도 부드럽게 열리고 스크롤돼요.</li>
+<li><b>공통 키워드가 기기 간 공유돼요</b><br/>프로필에 등록한 자주 쓰는 용어가 다른 기기에서도 자동 적용돼요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>긴 회의 중 메모리가 계속 늘어나던 문제를 정리했어요</li>
-<li>회의 종료 후에도 이전 회의 자료가 남아있던 문제를 수정했어요</li>
+<li>자막을 다듬는 동안 확정된 문장이 사라지지 않아요</li>
+<li>실시간 자막이 최종 문장으로 바뀔 때 내용이 유지돼요</li>
 </ul>
         ]]>
       </description>
@@ -28,31 +29,35 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Long meetings stay snappy</b><br/>The Note tab now handles hours-long transcripts without slowing down.</li>
+<li><b>Long meetings stay smooth</b><br/>Fixed memory buildup that caused freezes during extended recording sessions.</li>
+<li><b>Notes tab handles long transcripts</b><br/>Scrolling and viewing long meeting notes is now much snappier.</li>
+<li><b>Transcript stays put during polish</b><br/>Sentences no longer flicker or disappear while AI refines them.</li>
+<li><b>Common keywords sync to your account</b><br/>Your custom keywords now save to the cloud and follow you across devices.</li>
 </ul>
-<p><b>Fixes</b></p>
+<p><b>Bug fixes</b></p>
 <ul>
-<li>Stability and memory improvements</li>
+<li>Fixed occasional app hangs during long recording sessions</li>
+<li>Live sentences no longer briefly vanish when finalized</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 18 Aug 2026 15:30:08 +0900</pubDate>
+      <pubDate>Tue, 18 Aug 2026 21:55:42 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.4/BizCrush-macOS-v0.28.4.zip"
-        sparkle:version="1409"
-        sparkle:shortVersionString="0.28.4"
-        sparkle:edSignature="FXWAJmTrfy5w2aRWMUcc0IPKqgb0wz330eMH8VCgXIVaxuJJq9I8/2+BJ2/SPt6QjwuJ3kGSNJ4rRn+tZ0C5Dw=="
-        length="194375214"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.5/BizCrush-macOS-v0.28.5.zip"
+        sparkle:version="1410"
+        sparkle:shortVersionString="0.28.5"
+        sparkle:edSignature="7/H+zHv/wqixhlR70yJESR26LST8aBm/ZJtpYgl/y879VvTSz0MF4cH4Jnjl6AYLhHKAB315hjf0JZGjrH0fBA=="
+        length="194396604"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.4/BizCrush-macOS-v0.28.4.dmg"
-        sparkle:version="1409"
-        sparkle:shortVersionString="0.28.4"
-        length="193504542"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.5/BizCrush-macOS-v0.28.5.dmg"
+        sparkle:version="1410"
+        sparkle:shortVersionString="0.28.5"
+        length="193537691"
         type="application/x-apple-diskimage"
       />
     </item>
