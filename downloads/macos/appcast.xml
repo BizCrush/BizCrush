@@ -7,57 +7,52 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.3</title>
-      <sparkle:version>1408</sparkle:version>
-      <sparkle:shortVersionString>0.28.3</sparkle:shortVersionString>
+      <title>Version 0.28.4</title>
+      <sparkle:version>1409</sparkle:version>
+      <sparkle:shortVersionString>0.28.4</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>✨ 이번 업데이트</h2>
+<h2>이번 업데이트</h2>
 <ul>
-<li><b>장시간 회의에서도 앱이 안 멈춰요</b><br/>긴 회의 중 앱이 잠깐 멎던 문제를 대대적으로 손봤어요.</li>
-<li><b>회의 노트가 더 가볍게 열려요</b><br/>회의가 길어져도 노트 탭이 무거워지지 않도록 개선했어요.</li>
-<li><b>녹음 연결이 더 튼튼해졌어요</b><br/>네트워크가 흔들려도 녹음이 안정적으로 이어져요.</li>
+<li><b>긴 회의도 끊김 없이</b><br/>장시간 녹음 중 앱이 잠깐 멈추던 문제를 해결했어요.</li>
+<li><b>노트 탭이 더 가벼워졌어요</b><br/>긴 회의에서도 노트 화면이 쾌적하게 유지돼요.</li>
 </ul>
-<p><b>🐛 버그 수정</b></p>
+<p><b>버그 수정</b></p>
 <ul>
-<li>녹음 중 화면 전환 시 발생하던 끊김을 정리했어요</li>
-<li>장시간 사용 후 메모리가 계속 늘어나던 문제를 잡았어요</li>
-<li>회의 요약 화면에서 이전 회의 데이터가 남던 문제를 고쳤어요</li>
+<li>긴 회의 중 메모리가 계속 늘어나던 문제를 정리했어요</li>
+<li>회의 종료 후에도 이전 회의 자료가 남아있던 문제를 수정했어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Smoother long meetings on Mac</h2>
+<h2>What's new</h2>
 <ul>
-<li><b>Long meetings stay responsive</b><br/>Fixed memory buildup that could cause the app to freeze during multi-hour recordings.</li>
-<li><b>Faster Note tab in big meetings</b><br/>Transcripts with thousands of lines now load and scroll smoothly.</li>
-<li><b>Reliable reconnection</b><br/>Recording resumes cleanly after a dropped connection, without lingering side effects.</li>
+<li><b>Long meetings stay snappy</b><br/>The Note tab now handles hours-long transcripts without slowing down.</li>
 </ul>
-<p><b>Bug fixes</b></p>
+<p><b>Fixes</b></p>
 <ul>
-<li>Cleaned up stale data left behind by subtitle overlay between meetings.</li>
-<li>Prevented rare errors when the recording stream reconnected.</li>
+<li>Stability and memory improvements</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 18 Aug 2026 14:48:46 +0900</pubDate>
+      <pubDate>Tue, 18 Aug 2026 15:30:08 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.3/BizCrush-macOS-v0.28.3.zip"
-        sparkle:version="1408"
-        sparkle:shortVersionString="0.28.3"
-        sparkle:edSignature="zh0N0/LaV0JgVBqirajhBUfPk+8fuRz75zCzM/XrU/ZkW2y15jbAb3llaZCr+WA/ePwAEHVnwwUecprrJUkFCA=="
-        length="194374754"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.4/BizCrush-macOS-v0.28.4.zip"
+        sparkle:version="1409"
+        sparkle:shortVersionString="0.28.4"
+        sparkle:edSignature="FXWAJmTrfy5w2aRWMUcc0IPKqgb0wz330eMH8VCgXIVaxuJJq9I8/2+BJ2/SPt6QjwuJ3kGSNJ4rRn+tZ0C5Dw=="
+        length="194375214"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.3/BizCrush-macOS-v0.28.3.dmg"
-        sparkle:version="1408"
-        sparkle:shortVersionString="0.28.3"
-        length="193504267"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.4/BizCrush-macOS-v0.28.4.dmg"
+        sparkle:version="1409"
+        sparkle:shortVersionString="0.28.4"
+        length="193504542"
         type="application/x-apple-diskimage"
       />
     </item>
