@@ -7,64 +7,57 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.27.22</title>
-      <sparkle:version>1407</sparkle:version>
-      <sparkle:shortVersionString>0.27.22</sparkle:shortVersionString>
+      <title>Version 0.28.3</title>
+      <sparkle:version>1408</sparkle:version>
+      <sparkle:shortVersionString>0.28.3</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트</h2>
+<h2>✨ 이번 업데이트</h2>
 <ul>
-<li><b>실시간 번역을 더 쉽게 설정해요</b><br/>회의 중 번역 언어를 빠르게 지정하고 개인 번역과 분리해서 쓸 수 있어요.</li>
-<li><b>회의방에서 봇을 바로 초대해요</b><br/>라이브 녹음을 봇에게 넘겨서 이어서 기록할 수 있어요.</li>
-<li><b>통화 녹음이 깔끔하게 묶여요</b><br/>같은 상대와의 반복 통화가 자동으로 그룹화되고 이름도 정돈돼요.</li>
-<li><b>연결된 계정 이메일이 보여요</b><br/>연동 설정에서 어떤 계정이 연결됐는지 한눈에 확인할 수 있어요.</li>
-<li><b>공용 키워드를 한 곳에서 관리해요</b><br/>프로필 설정에서 자주 쓰는 키워드를 등록해 모든 회의에 적용할 수 있어요.</li>
+<li><b>장시간 회의에서도 앱이 안 멈춰요</b><br/>긴 회의 중 앱이 잠깐 멎던 문제를 대대적으로 손봤어요.</li>
+<li><b>회의 노트가 더 가볍게 열려요</b><br/>회의가 길어져도 노트 탭이 무거워지지 않도록 개선했어요.</li>
+<li><b>녹음 연결이 더 튼튼해졌어요</b><br/>네트워크가 흔들려도 녹음이 안정적으로 이어져요.</li>
 </ul>
-<p><b>버그 수정</b></p>
+<p><b>🐛 버그 수정</b></p>
 <ul>
-<li>Google 캘린더 로그인 후 콜백 처리가 안정적으로 이어져요</li>
-<li>통화 참여자 이름이 사라지지 않고 그대로 표시돼요</li>
-<li>실시간 자막 연결이 더 안정적으로 시작돼요</li>
-<li>선택한 자막 언어 설정이 잘 유지돼요</li>
+<li>녹음 중 화면 전환 시 발생하던 끊김을 정리했어요</li>
+<li>장시간 사용 후 메모리가 계속 늘어나던 문제를 잡았어요</li>
+<li>회의 요약 화면에서 이전 회의 데이터가 남던 문제를 고쳤어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>What's new</h2>
+<h2>Smoother long meetings on Mac</h2>
 <ul>
-<li><b>Real-time translation, upgraded</b><br/>Pick your translation language and get faster, more responsive live subtitles.</li>
-<li><b>Bring the meeting bot in live</b><br/>Invite the AI bot mid-meeting to hand off recording without missing a beat.</li>
-<li><b>Repeat calls stay together</b><br/>Recordings with the same contact now group neatly in your meeting list.</li>
-<li><b>Shared keywords, one place</b><br/>Manage your common meeting keywords once and reuse them everywhere.</li>
-<li><b>See your connected accounts</b><br/>Integration settings now show which email is linked for each service.</li>
+<li><b>Long meetings stay responsive</b><br/>Fixed memory buildup that could cause the app to freeze during multi-hour recordings.</li>
+<li><b>Faster Note tab in big meetings</b><br/>Transcripts with thousands of lines now load and scroll smoothly.</li>
+<li><b>Reliable reconnection</b><br/>Recording resumes cleanly after a dropped connection, without lingering side effects.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Contact names on call recordings now display correctly</li>
-<li>Google Calendar sign-in on mobile completes reliably</li>
-<li>Live transcription handoff between devices is more stable</li>
-<li>Improved overall performance and stability</li>
+<li>Cleaned up stale data left behind by subtitle overlay between meetings.</li>
+<li>Prevented rare errors when the recording stream reconnected.</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Fri, 07 Aug 2026 09:26:15 +0900</pubDate>
+      <pubDate>Tue, 18 Aug 2026 14:48:46 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.22/BizCrush-macOS-v0.27.22.zip"
-        sparkle:version="1407"
-        sparkle:shortVersionString="0.27.22"
-        sparkle:edSignature="tLD3MNvH1KmiO9AjDJb8Vq+LmcgAuC1ljEqjD0xOYvxQM0WSirA8Ylig9YKgrK9rKSmOeWy7YSTBYBpVhX7gDw=="
-        length="194317424"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.3/BizCrush-macOS-v0.28.3.zip"
+        sparkle:version="1408"
+        sparkle:shortVersionString="0.28.3"
+        sparkle:edSignature="zh0N0/LaV0JgVBqirajhBUfPk+8fuRz75zCzM/XrU/ZkW2y15jbAb3llaZCr+WA/ePwAEHVnwwUecprrJUkFCA=="
+        length="194374754"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.27.22/BizCrush-macOS-v0.27.22.dmg"
-        sparkle:version="1407"
-        sparkle:shortVersionString="0.27.22"
-        length="193453625"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.3/BizCrush-macOS-v0.28.3.dmg"
+        sparkle:version="1408"
+        sparkle:shortVersionString="0.28.3"
+        length="193504267"
         type="application/x-apple-diskimage"
       />
     </item>
