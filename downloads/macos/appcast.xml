@@ -7,21 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.5</title>
-      <sparkle:version>1410</sparkle:version>
-      <sparkle:shortVersionString>0.28.5</sparkle:shortVersionString>
+      <title>Version 0.28.8</title>
+      <sparkle:version>1411</sparkle:version>
+      <sparkle:shortVersionString>0.28.8</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
 <ul>
-<li><b>긴 회의 안정성이 좋아졌어요</b><br/>장시간 녹음 중 앱이 느려지거나 멈추던 문제를 개선했어요.</li>
-<li><b>노트 탭이 더 가벼워졌어요</b><br/>전사가 길게 쌓여도 부드럽게 열리고 스크롤돼요.</li>
-<li><b>공통 키워드가 기기 간 공유돼요</b><br/>프로필에 등록한 자주 쓰는 용어가 다른 기기에서도 자동 적용돼요.</li>
+<li><b>최대 8시간 녹음 지원</b><br/>긴 회의도 끊김 없이 한 번에 녹음할 수 있어요.</li>
+<li><b>녹음 설정이 안전하게 저장돼요</b><br/>기기 간에도 녹음 옵션이 정확하게 이어져요.</li>
+<li><b>장시간 녹음 안정성 개선</b><br/>긴 회의에서 앱이 느려지거나 멈추던 문제가 해결됐어요.</li>
+<li><b>진행 중 회의와 완료된 회의 분리</b><br/>실시간 자막이 완료된 녹음에 섞이지 않아요.</li>
+<li><b>자주 쓰는 키워드 서버 저장</b><br/>기기를 바꿔도 나만의 키워드가 그대로 유지돼요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>자막을 다듬는 동안 확정된 문장이 사라지지 않아요</li>
-<li>실시간 자막이 최종 문장으로 바뀔 때 내용이 유지돼요</li>
+<li>다듬는 중에도 확정된 자막이 사라지지 않도록 개선했어요</li>
+<li>자막이 최종본으로 바뀌는 순간 문장이 사라지던 문제를 고쳤어요</li>
+<li>번역 언어를 빠르게 바꿔도 선택이 초기화되지 않아요</li>
+<li>캘린더 연동 상태가 더 안정적으로 갱신돼요</li>
 </ul>
         ]]>
       </description>
@@ -29,35 +33,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Long meetings stay smooth</b><br/>Fixed memory buildup that caused freezes during extended recording sessions.</li>
-<li><b>Notes tab handles long transcripts</b><br/>Scrolling and viewing long meeting notes is now much snappier.</li>
-<li><b>Transcript stays put during polish</b><br/>Sentences no longer flicker or disappear while AI refines them.</li>
-<li><b>Common keywords sync to your account</b><br/>Your custom keywords now save to the cloud and follow you across devices.</li>
+<li><b>Record up to 8 hours</b><br/>New long-session option for workshops and all-day meetings.</li>
+<li><b>Long meetings stay smooth</b><br/>Major memory and hang fixes for multi-hour recordings on macOS.</li>
+<li><b>Custom keywords sync</b><br/>Your common keywords now save to your account across devices.</li>
+<li><b>Cleaner live transcript</b><br/>Sentences no longer flicker or disappear while text is being refined.</li>
+<li><b>Tag AI actions optional</b><br/>Adding a tag no longer forces an AI summary rerun.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Fixed occasional app hangs during long recording sessions</li>
-<li>Live sentences no longer briefly vanish when finalized</li>
+<li>Translation language choices are kept when switching quickly</li>
+<li>Calendar connection status refreshes more reliably</li>
+<li>Recording preferences are saved consistently</li>
+<li>Live transcript no longer mixes with completed recordings</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 18 Aug 2026 21:55:42 +0900</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:51:11 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.5/BizCrush-macOS-v0.28.5.zip"
-        sparkle:version="1410"
-        sparkle:shortVersionString="0.28.5"
-        sparkle:edSignature="7/H+zHv/wqixhlR70yJESR26LST8aBm/ZJtpYgl/y879VvTSz0MF4cH4Jnjl6AYLhHKAB315hjf0JZGjrH0fBA=="
-        length="194396604"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.8/BizCrush-macOS-v0.28.8.zip"
+        sparkle:version="1411"
+        sparkle:shortVersionString="0.28.8"
+        sparkle:edSignature="Xwki70baZ6/c4730636X3vmjeMgSgJHE/1vPefzzuk8B7fnLdGxNUH3EVlpblqLJ2ZqogPwt9Ehh9rbbtk8zCQ=="
+        length="194431641"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.5/BizCrush-macOS-v0.28.5.dmg"
-        sparkle:version="1410"
-        sparkle:shortVersionString="0.28.5"
-        length="193537691"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.8/BizCrush-macOS-v0.28.8.dmg"
+        sparkle:version="1411"
+        sparkle:shortVersionString="0.28.8"
+        length="193597008"
         type="application/x-apple-diskimage"
       />
     </item>
