@@ -7,25 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.8</title>
-      <sparkle:version>1411</sparkle:version>
-      <sparkle:shortVersionString>0.28.8</sparkle:shortVersionString>
+      <title>Version 0.28.10</title>
+      <sparkle:version>1412</sparkle:version>
+      <sparkle:shortVersionString>0.28.10</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
 <h2>이번 업데이트</h2>
 <ul>
-<li><b>최대 8시간 녹음 지원</b><br/>긴 회의도 끊김 없이 한 번에 녹음할 수 있어요.</li>
-<li><b>녹음 설정이 안전하게 저장돼요</b><br/>기기 간에도 녹음 옵션이 정확하게 이어져요.</li>
-<li><b>장시간 녹음 안정성 개선</b><br/>긴 회의에서 앱이 느려지거나 멈추던 문제가 해결됐어요.</li>
-<li><b>진행 중 회의와 완료된 회의 분리</b><br/>실시간 자막이 완료된 녹음에 섞이지 않아요.</li>
-<li><b>자주 쓰는 키워드 서버 저장</b><br/>기기를 바꿔도 나만의 키워드가 그대로 유지돼요.</li>
+<li><b>긴 회의도 부드럽게 흘러가요</b><br/>회의 노트 화면의 메모리 사용을 줄여, 긴 회의에서도 끊김 없이 동작해요. ✨</li>
+<li><b>Slack 전달 채널을 골라서 보낼 수 있어요</b><br/>여러 채널을 등록해두고 회의마다 원하는 곳으로 요약을 보낼 수 있어요.</li>
+<li><b>회의 진입 시 자막 위치가 안정됐어요</b><br/>노트 탭에 들어갈 때 스크롤이 튀거나 흐름이 흔들리지 않아요.</li>
+<li><b>AI 정제 중에도 자막이 그대로 유지돼요</b><br/>요약이 다듬어지는 동안 이미 확정된 문장이 사라지지 않아요.</li>
+<li><b>자주 쓰는 키워드가 기기 간에 이어져요</b><br/>공통 키워드가 서버에 저장되어 다른 기기에서도 그대로 이어서 쓸 수 있어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>다듬는 중에도 확정된 자막이 사라지지 않도록 개선했어요</li>
-<li>자막이 최종본으로 바뀌는 순간 문장이 사라지던 문제를 고쳤어요</li>
-<li>번역 언어를 빠르게 바꿔도 선택이 초기화되지 않아요</li>
-<li>캘린더 연동 상태가 더 안정적으로 갱신돼요</li>
+<li>빠르게 번역 언어를 바꿔도 선택한 언어가 유지돼요</li>
+<li>회의 완료 후 라이브 자막이 잘못 남는 문제를 정리했어요</li>
+<li>연결이 끊긴 Slack이 다시 연결하도록 안내돼요</li>
+<li>캘린더 연결 상태 갱신이 더 안정적으로 동작해요</li>
 </ul>
         ]]>
       </description>
@@ -33,38 +33,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Record up to 8 hours</b><br/>New long-session option for workshops and all-day meetings.</li>
-<li><b>Long meetings stay smooth</b><br/>Major memory and hang fixes for multi-hour recordings on macOS.</li>
-<li><b>Custom keywords sync</b><br/>Your common keywords now save to your account across devices.</li>
-<li><b>Cleaner live transcript</b><br/>Sentences no longer flicker or disappear while text is being refined.</li>
-<li><b>Tag AI actions optional</b><br/>Adding a tag no longer forces an AI summary rerun.</li>
+<li><b>Multiple Slack destinations</b><br/>Pick a different Slack channel for each tag or automation rule.</li>
+<li><b>AI correction syncs across devices</b><br/>Your AI summary correction preference now follows you everywhere.</li>
+<li><b>Common keywords now sync</b><br/>Personal vocabulary stays available on every device you sign in on.</li>
+<li><b>Steadier transcripts</b><br/>Final captions stay visible while AI refinement runs in the background.</li>
+<li><b>Smoother long meetings</b><br/>The Note tab uses less memory during multi-hour recordings.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Translation language choices are kept when switching quickly</li>
-<li>Calendar connection status refreshes more reliably</li>
-<li>Recording preferences are saved consistently</li>
-<li>Live transcript no longer mixes with completed recordings</li>
+<li>Slack channel picker is easier to scan and prompts a reconnect when it's needed.</li>
+<li>Fast-translation target is preserved when you tweak meeting language settings.</li>
+<li>Recording preferences now save exactly the way you set them.</li>
+<li>Google and Outlook calendar status recovers more reliably after network hiccups.</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Thu, 20 Aug 2026 16:51:11 +0900</pubDate>
+      <pubDate>Fri, 21 Aug 2026 17:04:56 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.8/BizCrush-macOS-v0.28.8.zip"
-        sparkle:version="1411"
-        sparkle:shortVersionString="0.28.8"
-        sparkle:edSignature="Xwki70baZ6/c4730636X3vmjeMgSgJHE/1vPefzzuk8B7fnLdGxNUH3EVlpblqLJ2ZqogPwt9Ehh9rbbtk8zCQ=="
-        length="194431641"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.10/BizCrush-macOS-v0.28.10.zip"
+        sparkle:version="1412"
+        sparkle:shortVersionString="0.28.10"
+        sparkle:edSignature="mHU5iWoeeAEMPXngvtawamZngZWyoXsEH0zfJMG3mXYKazBnC03UwDWmDsys4vTImZtUy3B38Sh+XkwUG6nODA=="
+        length="194465669"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.8/BizCrush-macOS-v0.28.8.dmg"
-        sparkle:version="1411"
-        sparkle:shortVersionString="0.28.8"
-        length="193597008"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.10/BizCrush-macOS-v0.28.10.dmg"
+        sparkle:version="1412"
+        sparkle:shortVersionString="0.28.10"
+        length="193593743"
         type="application/x-apple-diskimage"
       />
     </item>
