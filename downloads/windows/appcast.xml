@@ -7,26 +7,26 @@
     <language>ko</language>
 
   <item>
-    <title>Version 0.28.9</title>
-    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.28.9.html</link>
+    <title>Version 0.28.11</title>
+    <link>https://bizcrush.github.io/BizCrush/releases/windows/0.28.11.html</link>
     <description xml:lang="ko"><![CDATA[
-<h2>Version 0.28.9</h2>
+<h2>Version 0.28.11</h2>
 <ul>
   <li>전반적인 안정성과 성능이 향상되었어요</li>
 </ul>
     ]]></description>
     <description xml:lang="en"><![CDATA[
-<h2>Version 0.28.9</h2>
+<h2>Version 0.28.11</h2>
 <ul>
   <li>Performance and stability improvements</li>
 </ul>
     ]]></description>
-    <pubDate>Fri, 21 Aug 2026 13:45:20 +0900</pubDate>
-    <sparkle:version>1304</sparkle:version>
-    <sparkle:shortVersionString>0.28.9+1304</sparkle:shortVersionString>
+    <pubDate>Mon, 24 Aug 2026 08:49:44 +0900</pubDate>
+    <sparkle:version>1305</sparkle:version>
+    <sparkle:shortVersionString>0.28.11+1305</sparkle:shortVersionString>
     <sparkle:minimumSystemVersion>10.0</sparkle:minimumSystemVersion>
 
-    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.9/BizCrush-Setup-0.28.9.exe" sparkle:version="1304" sparkle:shortVersionString="0.28.9+1304" length="197420794" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
+    <enclosure url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.11/BizCrush-Setup-0.28.11.exe" sparkle:version="1305" sparkle:shortVersionString="0.28.11+1305" length="197427428" type="application/octet-stream" sparkle:installerArguments="/VERYSILENT /SUPPRESSMSGBOXES /NORESTART" />
   </item>
 
   </channel>
