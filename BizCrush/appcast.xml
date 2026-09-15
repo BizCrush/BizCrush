@@ -7,24 +7,25 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.12</title>
-      <sparkle:version>1413</sparkle:version>
-      <sparkle:shortVersionString>0.28.12</sparkle:shortVersionString>
+      <title>Version 0.28.15</title>
+      <sparkle:version>1414</sparkle:version>
+      <sparkle:shortVersionString>0.28.15</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트</h2>
+<h2>자막·번역이 더 매끄러워졌어요</h2>
 <ul>
-<li><b>슬랙 채널을 골라서 보낼 수 있어요</b><br/>회의 결과를 원하는 슬랙 채널로 전달하고 여러 채널을 관리할 수 있어요.</li>
-<li><b>슬랙 재연결 안내가 생겼어요</b><br/>연결이 끊긴 슬랙을 자동화 화면에서 바로 알아채고 다시 이을 수 있어요.</li>
-<li><b>긴 회의 자막이 매끄러워졌어요</b><br/>긴 회의에서도 자막 스크롤이 튀지 않고 안정적으로 이어져 보여요.</li>
-<li><b>실시간 자막이 끝까지 보여요</b><br/>실시간에서 완성 자막으로 넘어갈 때 문장이 잘리지 않아요.</li>
+<li><b>자막 오버레이 조작이 편해졌어요</b><br/>화면 위 자막의 크기·색·위치를 바로 조절할 수 있어요.</li>
+<li><b>빠른 번역이 실시간으로 흘러요</b><br/>말이 끝나기 전에도 번역이 자막창에 이어져 나타나요.</li>
+<li><b>회의별 이름을 내 것만 저장</b><br/>같은 회의라도 내가 붙인 이름은 내 기기에만 남아요.</li>
+<li><b>회의 참여 QR 공유</b><br/>회의방에서 프로필 QR로 상대를 바로 초대할 수 있어요.</li>
+<li><b>온라인 봇 언어 선택</b><br/>Zoom·Meet 봇이 들을 언어를 미리 지정할 수 있어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>회의 방에 들어갈 때 자막 위치가 흔들리던 문제를 고쳤어요</li>
-<li>빠른 번역에서 선택한 언어가 유지되도록 했어요</li>
-<li>슬랙 채널 선택 창이 좁게 보이던 문제를 고쳤어요</li>
-<li>긴 회의 기록을 안정적으로 불러오도록 개선했어요</li>
+<li>네트워크가 잠깐 끊겨도 앱이 자동으로 복구돼요</li>
+<li>실시간 자막과 최종 자막이 겹치거나 사라지던 문제를 정리했어요</li>
+<li>회의 AI 교정 설정이 앱을 닫아도 유지돼요</li>
+<li>녹음 재생·공유가 안 되던 문제를 고쳤어요</li>
 </ul>
         ]]>
       </description>
@@ -32,38 +33,38 @@
         <![CDATA[
 <h2>What's new</h2>
 <ul>
-<li><b>Send meetings to Slack channels</b><br/>Pick specific Slack channels for delivery and manage them anytime.</li>
-<li><b>Long transcripts load reliably</b><br/>Long meetings open smoothly without missing sections.</li>
-<li><b>Smoother transcript scrolling</b><br/>Scrolling and spacing stay stable as live and batch transcripts hand off.</li>
-<li><b>Slack reconnect made clear</b><br/>Automations now surface when Slack needs to be reconnected.</li>
-<li><b>Fast translation stays put</b><br/>Your selected translation target is preserved across meetings.</li>
+<li><b>Faster subtitle overlay translations</b><br/>Translations now stream to the overlay while you speak, instead of waiting.</li>
+<li><b>More subtitle overlay controls</b><br/>Fine-tune the on-screen subtitle window during a meeting.</li>
+<li><b>Share your meeting profile via QR</b><br/>Guests can join and see your linked profile with a quick scan.</li>
+<li><b>Set languages for online meeting bots</b><br/>Pick which languages the bot listens for on Zoom, Meet and Teams.</li>
+<li><b>Personal meeting titles stay in sync</b><br/>Your custom titles now follow you across devices and reloads.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Live fallback transcripts now show in full</li>
-<li>Transcript scrollbar keeps its position when you return</li>
-<li>Meeting room opens at the right transcript position</li>
-<li>Slack channel picker fits more channels on screen</li>
+<li>Live and batch transcripts stay steady when switching tabs or scrolling.</li>
+<li>The app now recovers on its own after a brief network hiccup.</li>
+<li>Playback and sharing reuse your local recording instead of re-downloading.</li>
+<li>Meetings default to a 4-hour recording limit so long sessions don't cut off.</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Mon, 24 Aug 2026 22:54:05 +0900</pubDate>
+      <pubDate>Tue, 15 Sep 2026 16:46:08 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.12/BizCrush-macOS-v0.28.12.zip"
-        sparkle:version="1413"
-        sparkle:shortVersionString="0.28.12"
-        sparkle:edSignature="ix/zDK9kMxeJTWidCLBxCE4zgAb0diJZGrJhKF42gNXA/+MiXlNU7vbbRUKSZWhl5J50p+Vwj87Uig/Q5D3gBA=="
-        length="194467718"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.15/BizCrush-macOS-v0.28.15.zip"
+        sparkle:version="1414"
+        sparkle:shortVersionString="0.28.15"
+        sparkle:edSignature="VNHSGqjS1rMqCdtfGwN6UZX44KYyCJHuJkwM2R2OyAHW8nkNWWQqwEc2US2RH9O7FGfZASMYTwk4iDZXbzt/CQ=="
+        length="194467491"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.12/BizCrush-macOS-v0.28.12.dmg"
-        sparkle:version="1413"
-        sparkle:shortVersionString="0.28.12"
-        length="193594505"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.15/BizCrush-macOS-v0.28.15.dmg"
+        sparkle:version="1414"
+        sparkle:shortVersionString="0.28.15"
+        length="193594370"
         type="application/x-apple-diskimage"
       />
     </item>
