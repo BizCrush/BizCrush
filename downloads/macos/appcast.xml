@@ -7,64 +7,64 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.15</title>
-      <sparkle:version>1414</sparkle:version>
-      <sparkle:shortVersionString>0.28.15</sparkle:shortVersionString>
+      <title>Version 0.28.17</title>
+      <sparkle:version>1415</sparkle:version>
+      <sparkle:shortVersionString>0.28.17</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>자막·번역이 더 매끄러워졌어요</h2>
+<h2>자막 오버레이가 더 강력해졌어요</h2>
 <ul>
-<li><b>자막 오버레이 조작이 편해졌어요</b><br/>화면 위 자막의 크기·색·위치를 바로 조절할 수 있어요.</li>
-<li><b>빠른 번역이 실시간으로 흘러요</b><br/>말이 끝나기 전에도 번역이 자막창에 이어져 나타나요.</li>
-<li><b>회의별 이름을 내 것만 저장</b><br/>같은 회의라도 내가 붙인 이름은 내 기기에만 남아요.</li>
-<li><b>회의 참여 QR 공유</b><br/>회의방에서 프로필 QR로 상대를 바로 초대할 수 있어요.</li>
-<li><b>온라인 봇 언어 선택</b><br/>Zoom·Meet 봇이 들을 언어를 미리 지정할 수 있어요.</li>
+<li><b>자막 오버레이 설정이 풍부해졌어요</b><br/>실시간 자막 창을 취향대로 더 세밀하게 조절할 수 있어요.</li>
+<li><b>자막 번역이 더 빨라졌어요</b><br/>말이 끝나기 전에도 번역이 먼저 표시돼요.</li>
+<li><b>QR로 프로필을 공유할 수 있어요</b><br/>회의 공유 화면에서 연결된 프로필을 QR 코드로 바로 전달해요.</li>
+<li><b>내가 바꾼 회의 제목이 유지돼요</b><br/>직접 수정한 회의 제목이 저장되고 목록에 더 빨리 표시돼요.</li>
+<li><b>온라인 봇 언어 설정</b><br/>온라인 회의 봇이 들을 언어를 직접 고를 수 있어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>네트워크가 잠깐 끊겨도 앱이 자동으로 복구돼요</li>
-<li>실시간 자막과 최종 자막이 겹치거나 사라지던 문제를 정리했어요</li>
-<li>회의 AI 교정 설정이 앱을 닫아도 유지돼요</li>
-<li>녹음 재생·공유가 안 되던 문제를 고쳤어요</li>
+<li>네트워크가 잠시 끊겨도 앱이 자동으로 복구돼요</li>
+<li>실시간 회의 기록이 더 안정적으로 표시되도록 정리했어요</li>
+<li>AI 교정 끄기 설정이 다시 켜지지 않고 유지되도록 고쳤어요</li>
+<li>녹음 파일을 다시 내려받지 않고 바로 재생·공유할 수 있어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>What's new</h2>
+<h2>Smarter live subtitles</h2>
 <ul>
-<li><b>Faster subtitle overlay translations</b><br/>Translations now stream to the overlay while you speak, instead of waiting.</li>
-<li><b>More subtitle overlay controls</b><br/>Fine-tune the on-screen subtitle window during a meeting.</li>
-<li><b>Share your meeting profile via QR</b><br/>Guests can join and see your linked profile with a quick scan.</li>
-<li><b>Set languages for online meeting bots</b><br/>Pick which languages the bot listens for on Zoom, Meet and Teams.</li>
-<li><b>Personal meeting titles stay in sync</b><br/>Your custom titles now follow you across devices and reloads.</li>
+<li><b>New subtitle overlay controls</b><br/>Customize the live subtitle overlay right from the meeting screen.</li>
+<li><b>Faster live translations</b><br/>Subtitle translations now appear before a sentence even finishes.</li>
+<li><b>Share profiles with a QR code</b><br/>Share linked profiles instantly from the meeting share menu.</li>
+<li><b>Pick your meeting bot's languages</b><br/>Choose which languages your online meeting bot listens for.</li>
+<li><b>Personal meeting titles that stick</b><br/>Your own meeting titles are saved and stay in sync.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Live and batch transcripts stay steady when switching tabs or scrolling.</li>
-<li>The app now recovers on its own after a brief network hiccup.</li>
-<li>Playback and sharing reuse your local recording instead of re-downloading.</li>
-<li>Meetings default to a 4-hour recording limit so long sessions don't cut off.</li>
+<li>The app now recovers on its own after brief network drops</li>
+<li>Live transcripts no longer flicker, shrink, or show duplicate lines</li>
+<li>Turning off AI correction for a meeting now stays off</li>
+<li>Recordings can now run up to four hours by default</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 15 Sep 2026 16:46:08 +0900</pubDate>
+      <pubDate>Wed, 16 Sep 2026 16:49:07 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.15/BizCrush-macOS-v0.28.15.zip"
-        sparkle:version="1414"
-        sparkle:shortVersionString="0.28.15"
-        sparkle:edSignature="VNHSGqjS1rMqCdtfGwN6UZX44KYyCJHuJkwM2R2OyAHW8nkNWWQqwEc2US2RH9O7FGfZASMYTwk4iDZXbzt/CQ=="
-        length="194467491"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.17/BizCrush-macOS-v0.28.17.zip"
+        sparkle:version="1415"
+        sparkle:shortVersionString="0.28.17"
+        sparkle:edSignature="GktMxI5v6knljTnXJDe5wocXTZNyT8pMYrYR8C2NwsaCeWFlvKnSby+Zqda7FnWtICo5IwObweJLZ3mcTZ03BQ=="
+        length="194639804"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.15/BizCrush-macOS-v0.28.15.dmg"
-        sparkle:version="1414"
-        sparkle:shortVersionString="0.28.15"
-        length="193594370"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.17/BizCrush-macOS-v0.28.17.dmg"
+        sparkle:version="1415"
+        sparkle:shortVersionString="0.28.17"
+        length="193776036"
         type="application/x-apple-diskimage"
       />
     </item>
