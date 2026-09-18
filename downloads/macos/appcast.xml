@@ -7,48 +7,55 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.18</title>
-      <sparkle:version>1416</sparkle:version>
-      <sparkle:shortVersionString>0.28.18</sparkle:shortVersionString>
+      <title>Version 0.28.19</title>
+      <sparkle:version>1417</sparkle:version>
+      <sparkle:shortVersionString>0.28.19</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>화면과 자막을 한 창에 송출해요</h2>
+<h2>발표 화면+자막 송출 모드 추가</h2>
 <ul>
-<li><b>무대용 자막 송출 창이 생겼어요</b><br/>자막 버튼에서 '분할 배치'를 고르면 발표 화면과 실시간 자막이 한 창에 합쳐져요.</li>
-<li><b>자막 위치와 크기를 자유롭게</b><br/>송출 창 안에서 자막 박스를 드래그하거나 늘려 원하는 곳에 배치할 수 있어요.</li>
-<li><b>자막 표시 방식 선택</b><br/>원문+번역, 원문만, 번역만 중에서 골라 표시할 수 있어요.</li>
-<li><b>더 깔끔해진 자막 화면</b><br/>자막을 가리던 안내 문구가 사라지고, 테두리는 마우스를 움직일 때만 보여요.</li>
+<li><b>발표 화면과 자막을 한 창에</b><br/>발표 화면과 실시간 자막을 함께 띄우는 분할 배치 모드가 추가됐어요. 🎤</li>
+<li><b>번역 자막이 더 빨라졌어요</b><br/>말이 끝나기 전에도 번역이 먼저 표시돼요.</li>
+<li><b>나만의 회의 제목이 유지돼요</b><br/>직접 바꾼 회의 제목이 어디서든 그대로 유지돼요.</li>
+<li><b>기본 녹음 시간이 4시간으로</b><br/>긴 회의도 끊김 걱정 없이 기본 4시간까지 녹음돼요.</li>
+<li><b>재생과 공유가 빨라졌어요</b><br/>기기에 저장된 녹음을 바로 사용해 재생과 공유가 빨라졌어요.</li>
+</ul>
+<p><b>버그 수정</b></p>
+<ul>
+<li>전체화면으로 띄운 창을 송출할 때 화면이 검게 나오던 문제를 고쳤어요</li>
+<li>인터넷이 잠시 끊겨도 앱이 자동으로 회복돼요</li>
+<li>실시간 자막과 회의 기록이 겹치거나 사라지던 문제를 정리했어요</li>
+<li>AI 교정을 꺼도 설정이 풀리던 문제를 고쳤어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Put subtitles on stage 🎤</h2>
+<h2>Better presentation view</h2>
 <ul>
-<li><b>New stage output mode</b><br/>Show your screen and live subtitles together in one window — great for presentations and events.</li>
-<li><b>Move and resize freely</b><br/>Drag, pinch, or double-click the boxes to arrange them exactly how you want.</li>
-<li><b>Choose what subtitles show</b><br/>Original + translation, original only, or translation only.</li>
-<li><b>Zero setup required</b><br/>Subtitles connect automatically from your meeting.</li>
+<li><b>On-screen zoom controls</b><br/>New −/+ and fullscreen buttons at the bottom of the presentation window — no trackpad needed.</li>
 </ul>
+<p><b>Bug fixes</b></p>
+<ul><li>Fixed the presentation view showing a black screen when sharing an app in fullscreen mode</li></ul>
         ]]>
       </description>
-      <pubDate>Fri, 18 Sep 2026 15:40:32 +0900</pubDate>
+      <pubDate>Fri, 18 Sep 2026 18:19:10 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.18/BizCrush-macOS-v0.28.18.zip"
-        sparkle:version="1416"
-        sparkle:shortVersionString="0.28.18"
-        sparkle:edSignature="r84AT+5nYdBy1P2qjyv3yzaTBjfy6XM/WqzeWYYu6hkatRuXEWiaAVaWYyxc8qjXpJzznnD4TQMd+Ui3JYI+Cw=="
-        length="194788180"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.19/BizCrush-macOS-v0.28.19.zip"
+        sparkle:version="1417"
+        sparkle:shortVersionString="0.28.19"
+        sparkle:edSignature="gnRm0kyJ9xDi24pfRR/Ks6TnM76ZyVE+Usnw1X/QpiDqa10JBXf7WS1NHR1fK+TyfmclsSkb3uE3CDFdtkl1Bg=="
+        length="194791611"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.18/BizCrush-macOS-v0.28.18.dmg"
-        sparkle:version="1416"
-        sparkle:shortVersionString="0.28.18"
-        length="193951744"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.19/BizCrush-macOS-v0.28.19.dmg"
+        sparkle:version="1417"
+        sparkle:shortVersionString="0.28.19"
+        length="193959276"
         type="application/x-apple-diskimage"
       />
     </item>
