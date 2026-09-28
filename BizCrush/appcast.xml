@@ -7,55 +7,58 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.19</title>
-      <sparkle:version>1417</sparkle:version>
-      <sparkle:shortVersionString>0.28.19</sparkle:shortVersionString>
+      <title>Version 0.28.21</title>
+      <sparkle:version>1418</sparkle:version>
+      <sparkle:shortVersionString>0.28.21</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>발표 화면+자막 송출 모드 추가</h2>
+<h2>자막을 화면 옆에 나란히 띄워요</h2>
 <ul>
-<li><b>발표 화면과 자막을 한 창에</b><br/>발표 화면과 실시간 자막을 함께 띄우는 분할 배치 모드가 추가됐어요. 🎤</li>
-<li><b>번역 자막이 더 빨라졌어요</b><br/>말이 끝나기 전에도 번역이 먼저 표시돼요.</li>
-<li><b>나만의 회의 제목이 유지돼요</b><br/>직접 바꾼 회의 제목이 어디서든 그대로 유지돼요.</li>
-<li><b>기본 녹음 시간이 4시간으로</b><br/>긴 회의도 끊김 걱정 없이 기본 4시간까지 녹음돼요.</li>
-<li><b>재생과 공유가 빨라졌어요</b><br/>기기에 저장된 녹음을 바로 사용해 재생과 공유가 빨라졌어요.</li>
+<li><b>자막 분할 배치 모드</b><br/>공유 화면과 자막을 한 창에 나란히 띄워 발표에 바로 쓸 수 있어요.</li>
+<li><b>번역 자막이 더 빨라졌어요</b><br/>문장이 끝나기 전에도 번역이 먼저 화면에 떠요.</li>
+<li><b>키워드 탭이 새로 생겼어요</b><br/>회의 분야별 추천 키워드와 나만의 키워드를 한곳에서 관리해요.</li>
+<li><b>더 많은 자료 파일 지원</b><br/>Word·PowerPoint·Excel·CSV·텍스트 파일도 회의 자료로 올릴 수 있어요.</li>
+<li><b>대만 중국어 지원</b><br/>회의 언어로 대만 중국어를 선택할 수 있어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>전체화면으로 띄운 창을 송출할 때 화면이 검게 나오던 문제를 고쳤어요</li>
-<li>인터넷이 잠시 끊겨도 앱이 자동으로 회복돼요</li>
-<li>실시간 자막과 회의 기록이 겹치거나 사라지던 문제를 정리했어요</li>
-<li>AI 교정을 꺼도 설정이 풀리던 문제를 고쳤어요</li>
+<li>전체화면 창을 띄울 때 화면이 검게 나오던 문제를 고쳤어요</li>
+<li>네트워크가 잠시 끊겨도 앱이 자동으로 다시 연결돼요</li>
+<li>전송을 기다리던 녹음이 다시 정상적으로 업로드돼요</li>
+<li>실시간 대본과 녹음 대본이 겹치거나 일부만 보이던 문제를 고쳤어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Better presentation view</h2>
+<h2>New Keywords tab &amp; more files</h2>
 <ul>
-<li><b>On-screen zoom controls</b><br/>New −/+ and fullscreen buttons at the bottom of the presentation window — no trackpad needed.</li>
+<li><b>Meet the new Keywords tab</b><br/>Save default keywords once, or set them for a single meeting.</li>
+<li><b>Keyword presets by meeting type</b><br/>Pick a meeting category to start from ready-made keywords.</li>
+<li><b>More file types for context</b><br/>You can now add Word, PowerPoint, Excel, CSV, TXT and Markdown files.</li>
+<li><b>Taiwanese Chinese support</b><br/>Taiwanese Chinese is now available as a meeting language.</li>
 </ul>
 <p><b>Bug fixes</b></p>
-<ul><li>Fixed the presentation view showing a black screen when sharing an app in fullscreen mode</li></ul>
+<ul><li>Recordings that were waiting to upload now resume and finish sending on their own</li></ul>
         ]]>
       </description>
-      <pubDate>Fri, 18 Sep 2026 18:19:10 +0900</pubDate>
+      <pubDate>Mon, 28 Sep 2026 17:24:41 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.19/BizCrush-macOS-v0.28.19.zip"
-        sparkle:version="1417"
-        sparkle:shortVersionString="0.28.19"
-        sparkle:edSignature="gnRm0kyJ9xDi24pfRR/Ks6TnM76ZyVE+Usnw1X/QpiDqa10JBXf7WS1NHR1fK+TyfmclsSkb3uE3CDFdtkl1Bg=="
-        length="194791611"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.21/BizCrush-macOS-v0.28.21.zip"
+        sparkle:version="1418"
+        sparkle:shortVersionString="0.28.21"
+        sparkle:edSignature="WRHI3EmkGIbf3ypJNofbzPk32bXUcRxoeqzEGOUgLafvNt4Gr+WkjCrI06JBGfNBZZfYBkRoFTdiVs3NMWJsDg=="
+        length="194781329"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.19/BizCrush-macOS-v0.28.19.dmg"
-        sparkle:version="1417"
-        sparkle:shortVersionString="0.28.19"
-        length="193959276"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.21/BizCrush-macOS-v0.28.21.dmg"
+        sparkle:version="1418"
+        sparkle:shortVersionString="0.28.21"
+        length="193933657"
         type="application/x-apple-diskimage"
       />
     </item>
