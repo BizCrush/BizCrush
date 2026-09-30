@@ -7,58 +7,64 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.23</title>
-      <sparkle:version>1419</sparkle:version>
-      <sparkle:shortVersionString>0.28.23</sparkle:shortVersionString>
+      <title>Version 0.28.26</title>
+      <sparkle:version>1420</sparkle:version>
+      <sparkle:shortVersionString>0.28.26</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>자막과 회의 기록이 더 안정적이에요</h2>
+<h2>발표 화면과 자막을 한 창에</h2>
 <ul>
-<li><b>분할 배치 자막이 더 정확해졌어요</b><br/>화면에 붙여 둔 자막 창에도 분할 배치 설정이 그대로 적용돼요.</li>
+<li><b>분할 배치 자막 송출</b><br/>발표 화면과 자막을 한 창에 담아 송출하고, 버튼으로 크기도 조절해요.</li>
+<li><b>실시간 번역이 더 간단해졌어요</b><br/>모드 선택 없이 자막 언어를 최대 3개까지 골라 볼 수 있어요.</li>
+<li><b>키워드 탭이 새로 생겼어요</b><br/>회의 분야 프리셋을 고르고 Word·PPT·Excel 자료도 올릴 수 있어요.</li>
+<li><b>대만 중국어를 지원해요</b><br/>회의 언어와 번역 언어로 대만 중국어를 고를 수 있어요.</li>
+<li><b>긴 회의도 가볍게 열려요</b><br/>대화 기록을 나눠 불러와서 메모리를 덜 쓰고 더 빨라졌어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>다른 기기에서 회의를 볼 때 이전 대화가 화자 표시 없이 아래에 덧붙던 문제를 고쳤어요</li>
-<li>이용약관과 개인정보 처리방침이 사용 중인 언어에 맞는 페이지로 열려요</li>
+<li>전체화면으로 띄운 창을 캡처하면 검은 화면이 나오던 문제를 고쳤어요</li>
+<li>네트워크가 잠깐 끊겨도 앱이 자동으로 다시 연결돼요</li>
+<li>전송이 밀린 녹음 파일이 다시 올라가도록 개선했어요</li>
+<li>회의를 이어 볼 때 화자 이름이 사라지던 문제를 고쳤어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Split-screen captions</h2>
+<h2>Split-layout captions</h2>
 <ul>
-<li><b>Split-layout captions</b><br/>Show a shared window and live captions side by side.</li>
-<li><b>Faster live translations</b><br/>Subtitles now show translations before a sentence ends.</li>
-<li><b>More context file types</b><br/>Add Word, PowerPoint, Excel, CSV, TXT or Markdown files.</li>
-<li><b>New Keywords tab</b><br/>Set default keywords and pick presets by meeting type.</li>
-<li><b>Taiwanese Chinese</b><br/>Choose Traditional Chinese (Taiwan) as a meeting language.</li>
+<li><b>Split layout captions</b><br/>Show any screen or window with live captions below it, ready for the stage.</li>
+<li><b>Simpler live translation</b><br/>Pick up to three caption languages without switching modes.</li>
+<li><b>New Keywords tab</b><br/>Set default keywords by meeting type, and add Word, Excel or PowerPoint files.</li>
+<li><b>Taiwanese Chinese</b><br/>Choose Traditional Chinese (Taiwan) for meetings and captions.</li>
+<li><b>Smoother long meetings</b><br/>Long transcripts load faster and use less memory.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Capturing a full-screen window in split layout no longer shows a black screen</li>
-<li>Transcripts of bot-recorded meetings no longer repeat old lines without speaker names</li>
-<li>The app now reconnects on its own after a brief network drop</li>
-<li>Turning off AI correction for a meeting now stays off after syncing</li>
+<li>Capturing a full-screen window no longer shows a black screen</li>
+<li>The app now recovers by itself after a brief network drop</li>
+<li>‘Record more’ is back after you end a live-only recording</li>
+<li>The recording limit now defaults to 4 hours, and only the 8-hour option is marked beta</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Tue, 29 Sep 2026 16:40:54 +0900</pubDate>
+      <pubDate>Wed, 30 Sep 2026 18:45:38 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.23/BizCrush-macOS-v0.28.23.zip"
-        sparkle:version="1419"
-        sparkle:shortVersionString="0.28.23"
-        sparkle:edSignature="lJnz8KoPLSto2TW1CiFA3mfgsJH9bKUXQ612u0cxkj7RdSM93e9q0MoC3yA8mSHlbq8RK6ZcvMMM3b/wiW5WDw=="
-        length="194783000"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.26/BizCrush-macOS-v0.28.26.zip"
+        sparkle:version="1420"
+        sparkle:shortVersionString="0.28.26"
+        sparkle:edSignature="ataFTH5Kyqex79+qn0jqfRhUHguBc68OB9tSJeV+OUuMKP+KlC/l9wCbPOJMXvdWoc9Lklmt9HgzSGYq3UouDg=="
+        length="194763382"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.23/BizCrush-macOS-v0.28.23.dmg"
-        sparkle:version="1419"
-        sparkle:shortVersionString="0.28.23"
-        length="193935453"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.26/BizCrush-macOS-v0.28.26.dmg"
+        sparkle:version="1420"
+        sparkle:shortVersionString="0.28.26"
+        length="193922962"
         type="application/x-apple-diskimage"
       />
     </item>
