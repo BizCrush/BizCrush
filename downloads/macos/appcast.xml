@@ -7,64 +7,43 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.26</title>
-      <sparkle:version>1420</sparkle:version>
-      <sparkle:shortVersionString>0.28.26</sparkle:shortVersionString>
+      <title>Version 0.28.27</title>
+      <sparkle:version>1421</sparkle:version>
+      <sparkle:shortVersionString>0.28.27</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>발표 화면과 자막을 한 창에</h2>
-<ul>
-<li><b>분할 배치 자막 송출</b><br/>발표 화면과 자막을 한 창에 담아 송출하고, 버튼으로 크기도 조절해요.</li>
-<li><b>실시간 번역이 더 간단해졌어요</b><br/>모드 선택 없이 자막 언어를 최대 3개까지 골라 볼 수 있어요.</li>
-<li><b>키워드 탭이 새로 생겼어요</b><br/>회의 분야 프리셋을 고르고 Word·PPT·Excel 자료도 올릴 수 있어요.</li>
-<li><b>대만 중국어를 지원해요</b><br/>회의 언어와 번역 언어로 대만 중국어를 고를 수 있어요.</li>
-<li><b>긴 회의도 가볍게 열려요</b><br/>대화 기록을 나눠 불러와서 메모리를 덜 쓰고 더 빨라졌어요.</li>
-</ul>
+<h2>외부 오디오 장치 녹음 문제 해결</h2>
 <p><b>버그 수정</b></p>
 <ul>
-<li>전체화면으로 띄운 창을 캡처하면 검은 화면이 나오던 문제를 고쳤어요</li>
-<li>네트워크가 잠깐 끊겨도 앱이 자동으로 다시 연결돼요</li>
-<li>전송이 밀린 녹음 파일이 다시 올라가도록 개선했어요</li>
-<li>회의를 이어 볼 때 화자 이름이 사라지던 문제를 고쳤어요</li>
+<li>채널이 여러 개인 오디오 인터페이스(예: Focusrite Scarlett 4i4)를 마이크로 쓸 때 소리가 녹음되지 않던 문제를 고쳤어요</li>
+<li>마이크 선택에서 고른 입력 채널이 녹음에 그대로 반영돼요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Split-layout captions</h2>
-<ul>
-<li><b>Split layout captions</b><br/>Show any screen or window with live captions below it, ready for the stage.</li>
-<li><b>Simpler live translation</b><br/>Pick up to three caption languages without switching modes.</li>
-<li><b>New Keywords tab</b><br/>Set default keywords by meeting type, and add Word, Excel or PowerPoint files.</li>
-<li><b>Taiwanese Chinese</b><br/>Choose Traditional Chinese (Taiwan) for meetings and captions.</li>
-<li><b>Smoother long meetings</b><br/>Long transcripts load faster and use less memory.</li>
-</ul>
+<h2>Audio interface mic fix</h2>
 <p><b>Bug fixes</b></p>
-<ul>
-<li>Capturing a full-screen window no longer shows a black screen</li>
-<li>The app now recovers by itself after a brief network drop</li>
-<li>‘Record more’ is back after you end a live-only recording</li>
-<li>The recording limit now defaults to 4 hours, and only the 8-hour option is marked beta</li>
-</ul>
+<ul><li>Recording now picks up sound from multi-channel audio interfaces like the Focusrite Scarlett 4i4. Before, these devices recorded only silence.</li></ul>
         ]]>
       </description>
-      <pubDate>Wed, 30 Sep 2026 18:45:38 +0900</pubDate>
+      <pubDate>Thu, 01 Oct 2026 11:05:22 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.26/BizCrush-macOS-v0.28.26.zip"
-        sparkle:version="1420"
-        sparkle:shortVersionString="0.28.26"
-        sparkle:edSignature="ataFTH5Kyqex79+qn0jqfRhUHguBc68OB9tSJeV+OUuMKP+KlC/l9wCbPOJMXvdWoc9Lklmt9HgzSGYq3UouDg=="
-        length="194763382"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.27/BizCrush-macOS-v0.28.27.zip"
+        sparkle:version="1421"
+        sparkle:shortVersionString="0.28.27"
+        sparkle:edSignature="TU7A/hlnsNYyJkCyfxQd6bLsz0y86h0B7pKXqoENUbnj3qGaUbcoeXClhl1TuOuxNg+8GXXOD3QWWdbUNRxXCg=="
+        length="194765366"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.26/BizCrush-macOS-v0.28.26.dmg"
-        sparkle:version="1420"
-        sparkle:shortVersionString="0.28.26"
-        length="193922962"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.27/BizCrush-macOS-v0.28.27.dmg"
+        sparkle:version="1421"
+        sparkle:shortVersionString="0.28.27"
+        length="193912592"
         type="application/x-apple-diskimage"
       />
     </item>
