@@ -7,60 +7,64 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.30</title>
-      <sparkle:version>1423</sparkle:version>
-      <sparkle:shortVersionString>0.28.30</sparkle:shortVersionString>
+      <title>Version 0.28.31</title>
+      <sparkle:version>1424</sparkle:version>
+      <sparkle:shortVersionString>0.28.31</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>무대 자막 송출과 듀얼 자막 등장 🎤</h2>
+<h2>이번 업데이트</h2>
 <ul>
-<li><b>발표 화면과 자막을 한 창에</b><br/>발표 화면과 실시간 자막을 한 창에 모아 무대 스크린으로 내보낼 수 있어요.</li>
-<li><b>듀얼 자막과 무대 리모컨</b><br/>좌·우에 다른 언어 자막을 띄우고, 노트북에서 리모컨으로 바로 조절해요.</li>
-<li><b>속도·정확도 모드 추가</b><br/>회의에 맞춰 빠른 자막이나 정확한 자막을 고르고, 언어도 더 쉽게 선택해요.</li>
-<li><b>새 키워드 탭과 자료 업로드</b><br/>Word·PPT·Excel 같은 자료를 올려 회의 맥락을 미리 알려줄 수 있어요.</li>
-<li><b>긴 회의록도 가볍게</b><br/>긴 회의 기록을 열어도 메모리를 덜 써서 더 매끄럽게 움직여요.</li>
+<li><b>발표 화면에 자막을 함께 송출해요</b><br/>창이나 화면을 자막과 합쳐 외부 모니터로 띄울 수 있어요.</li>
+<li><b>듀얼 자막과 무대 리모컨</b><br/>좌·우에 다른 언어 자막을 두고 리모컨으로 바로 조정해요.</li>
+<li><b>빠르게 vs 정확하게 번역 모드</b><br/>실시간 번역 설정이 하나로 합쳐지고 언어 선택이 더 넓어졌어요.</li>
+<li><b>키워드 탭과 더 많은 자료 형식</b><br/>회의 자료로 Word·PPT·Excel·CSV·TXT도 올릴 수 있어요.</li>
+<li><b>자막 기록을 따로 지울 수 있어요</b><br/>회의는 두고 자막만 삭제하거나 프라이버시 모드로 비울 수 있어요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>멀티채널 오디오 인터페이스(Scarlett 등)를 쓸 때 소리가 녹음되지 않던 문제를 고쳤어요</li>
-<li>여러 언어가 섞인 회의에서 번역이 사라지거나 원문이 번역란에 겹쳐 보이던 문제를 고쳤어요</li>
-<li>전체화면으로 띄운 창을 캡처하면 검은 화면이 나오던 문제를 고쳤어요</li>
-<li>네트워크가 잠시 끊긴 뒤에도 앱과 녹음 업로드가 자동으로 복구돼요</li>
+<li>Scarlett 같은 다채널 오디오 인터페이스에서 녹음이 무음으로 남던 문제를 고쳤어요</li>
+<li>다른 기기로 볼 때 이전 발언이 화자 없이 아래에 쌓이던 문제를 고쳤어요</li>
+<li>번역에 원문 언어가 섞여 있을 때 번역이 사라지던 문제를 고쳤어요</li>
+<li>Basic 요금제 이용 시간이 월 8시간으로 바르게 표시돼요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>Speed & accuracy modes</h2>
+<h2>What's new in 0.28.31</h2>
 <ul>
-<li><b>Speed or accuracy mode</b><br/>Choose fast or accurate live captions, in a bigger language picker.</li>
-<li><b>Clearer dual subtitles</b><br/>Dual mode shows captions on both sides of your presentation.</li>
+<li><b>Stage captions for talks</b><br/>Show live captions next to your slides on a second screen, with two languages side by side and a remote panel.</li>
+<li><b>Speed or accuracy mode</b><br/>Choose faster captions or more accurate translations, with a bigger language picker.</li>
+<li><b>New Keywords tab</b><br/>Set default keywords per meeting type and add Word, Excel, PowerPoint, CSV or text files as context.</li>
+<li><b>Clear transcripts anytime</b><br/>Delete a meeting's transcripts from the room, including copies saved on this Mac.</li>
+<li><b>Long meetings stay smooth</b><br/>Transcript history now loads in pages, so long meetings use less memory.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Translations in mixed-language meetings now stay intact</li>
-<li>When you remove a translation language, that translation now stops completely</li>
-<li>Only hosts and co-hosts can edit a meeting's keywords and context</li>
+<li>Multi-channel audio interfaces (like Scarlett 4i4) no longer record silence</li>
+<li>Older transcript lines no longer appear below live captions without speaker names</li>
+<li>Basic plan now correctly shows 8 hours per month</li>
+<li>Full-screen windows no longer show as black in stage output, and zoom buttons were added</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Fri, 02 Oct 2026 17:52:29 +0900</pubDate>
+      <pubDate>Tue, 06 Oct 2026 20:33:35 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.30/BizCrush-macOS-v0.28.30.zip"
-        sparkle:version="1423"
-        sparkle:shortVersionString="0.28.30"
-        sparkle:edSignature="mzCYPLwfga4Rg/kWOM5oZKxZi5qf+CY0tHM7XxYIiBWBOSFJrn3q91fFtTwWbhfgcbfmY2LtNoKYuHqjcJ6dAw=="
-        length="194853415"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.31/BizCrush-macOS-v0.28.31.zip"
+        sparkle:version="1424"
+        sparkle:shortVersionString="0.28.31"
+        sparkle:edSignature="hjmCYIzUj0mcoYRznZvVvsh/NZhAWIsc1aDJTeVt0luZP9MIAr55HIlF37HPEBSVPF15e2043C2XoQhf7j4iDg=="
+        length="195057601"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.30/BizCrush-macOS-v0.28.30.dmg"
-        sparkle:version="1423"
-        sparkle:shortVersionString="0.28.30"
-        length="193993244"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.31/BizCrush-macOS-v0.28.31.dmg"
+        sparkle:version="1424"
+        sparkle:shortVersionString="0.28.31"
+        length="194200600"
         type="application/x-apple-diskimage"
       />
     </item>
