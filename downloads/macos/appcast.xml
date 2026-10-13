@@ -7,64 +7,64 @@
     <language>ko</language>
 
     <item>
-      <title>Version 0.28.33</title>
-      <sparkle:version>1425</sparkle:version>
-      <sparkle:shortVersionString>0.28.33</sparkle:shortVersionString>
+      <title>Version 0.28.34</title>
+      <sparkle:version>1426</sparkle:version>
+      <sparkle:shortVersionString>0.28.34</sparkle:shortVersionString>
       <description xml:lang="ko">
         <![CDATA[
-<h2>이번 업데이트</h2>
+<h2>구글 미트 통역이 열렸어요</h2>
 <ul>
-<li><b>무대 자막 리모컨과 듀얼 자막</b><br/>무대 화면 자막을 노트북에서 바로 조절하고, 두 언어를 좌우로 나눠 보여줄 수 있어요.</li>
-<li><b>회의 기록만 따로 삭제</b><br/>회의는 그대로 두고 녹음 기록만 지울 수 있어요.</li>
-<li><b>번역문도 직접 수정</b><br/>기록을 고칠 때 원문과 번역을 함께 보고 번역만 따로 바로잡을 수 있어요.</li>
-<li><b>더 다양한 회의 자료 업로드</b><br/>Word, Excel, CSV 등도 올릴 수 있고 발표 자료는 200MB까지 지원해요.</li>
-<li><b>입력 언어 최대 10개 선택</b><br/>여러 언어가 섞인 회의도 입력 언어를 10개까지 지정할 수 있어요.</li>
+<li><b>구글 미트 양방향 통역</b><br/>내 말은 상대 언어로 전해지고, 상대 말은 내 언어로 들려줘요. 🎧</li>
+<li><b>통역 설정이 쉬워졌어요</b><br/>준비부터 재연결까지 안내를 따라가기만 하면 돼요.</li>
+<li><b>실시간 음성 번역 듣기</b><br/>번역된 내용을 바로 음성으로 들을 수 있어요.</li>
+<li><b>회의 언어를 더 넓게</b><br/>말하는 언어를 최대 10개까지 지정할 수 있어요.</li>
+<li><b>기록 수정이 편해졌어요</b><br/>번역문만 직접 고쳐도 원문과 함께 그대로 남아요.</li>
 </ul>
 <p><b>버그 수정</b></p>
 <ul>
-<li>외장 오디오 인터페이스로 녹음할 때 소리가 들어오지 않던 문제를 고쳤어요</li>
-<li>실시간 자막에서 원문 언어가 번역처럼 중복 표시되던 문제를 고쳤어요</li>
-<li>회의 공유 시 적용된 번역 언어가 그대로 전달되도록 바로잡았어요</li>
-<li>Basic 요금제의 월 이용 시간이 8시간으로 정확히 표시돼요</li>
+<li>회의 기록만 따로 삭제할 수 있고, 삭제 후 다시 채워지지 않아요</li>
+<li>자막에 원문 언어가 번역처럼 중복해서 보이던 문제를 고쳤어요</li>
+<li>일부 마이크에서 녹음이 무음으로 남던 문제를 해결했어요</li>
+<li>자료 파일 업로드가 더 안정적으로 되고 큰 발표 파일도 올릴 수 있어요</li>
 </ul>
         ]]>
       </description>
       <description xml:lang="en">
         <![CDATA[
-<h2>What's new</h2>
+<h2>Live interpretation for Google Meet</h2>
 <ul>
-<li><b>Choose Speed or Accuracy mode</b><br/>Pick faster captions or more precise translation, with a bigger language picker.</li>
-<li><b>Stage remote and dual subtitles</b><br/>Control the stage screen from your laptop and show two languages side by side.</li>
-<li><b>Delete transcripts on their own</b><br/>Clear a meeting's transcript without deleting the meeting itself.</li>
-<li><b>Edit transcripts and translations</b><br/>Fix the original or any translation inline, and your edits stay put.</li>
-<li><b>More file types for context</b><br/>Add Word, PowerPoint, Excel, CSV, text and Markdown files to prep a meeting.</li>
+<li><b>Two-way Google Meet interpreting</b><br/>Your voice is spoken in their language, and you hear theirs privately.</li>
+<li><b>Guided interpreter setup</b><br/>Step-by-step setup and reminders get you connected, and reconnect on their own.</li>
+<li><b>Read-aloud live translation</b><br/>Finished translations are now spoken out loud in 60 languages.</li>
+<li><b>Dual subtitles on stage</b><br/>Two languages sit left and right with your slides in the center.</li>
+<li><b>Context files up to 200MB</b><br/>Large slide decks now upload for keyword and context extraction.</li>
 </ul>
 <p><b>Bug fixes</b></p>
 <ul>
-<li>Multi-channel audio interfaces such as the Scarlett 4i4 no longer record silence</li>
-<li>The original language no longer appears as a duplicate translation while someone is speaking</li>
-<li>Shared meeting links now carry the translation languages you've applied</li>
-<li>The Basic plan now correctly shows 8 hours per month</li>
+<li>Dev and test builds no longer install unexpected updates on quit</li>
+<li>Recordings no longer go silent when an audio interface changes settings</li>
+<li>The original language no longer shows up as a duplicate translation row</li>
+<li>Clearing a transcript now appears above meeting deletion, so it's harder to tap by mistake</li>
 </ul>
         ]]>
       </description>
-      <pubDate>Mon, 12 Oct 2026 14:36:38 +0900</pubDate>
+      <pubDate>Tue, 13 Oct 2026 20:21:39 +0900</pubDate>
 
       <!-- ZIP for Sparkle auto-update (must be first) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.33/BizCrush-macOS-v0.28.33.zip"
-        sparkle:version="1425"
-        sparkle:shortVersionString="0.28.33"
-        sparkle:edSignature="Aed3OYmVNu04KEemlha7Ds9g+w/OAW17NujzsKzdxa3YvlTpXp5QIDh/VR+6wMl/1+L6K0TAKkX0mjbVNxDWDQ=="
-        length="195251824"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.34/BizCrush-macOS-v0.28.34.zip"
+        sparkle:version="1426"
+        sparkle:shortVersionString="0.28.34"
+        sparkle:edSignature="vVnMQ8XGqbrm5ohzbZkuMpKbHrEWykctIstwUxocxwYHwW1qgvq68OCMwTqozCpl1/HdE4GuK9rkJiIm9NtuDQ=="
+        length="195395167"
         type="application/octet-stream"
       />
       <!-- DMG for manual download (Framer selects this) -->
       <enclosure
-        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.33/BizCrush-macOS-v0.28.33.dmg"
-        sparkle:version="1425"
-        sparkle:shortVersionString="0.28.33"
-        length="194378263"
+        url="https://github.com/BizCrush/BizCrush/releases/download/v0.28.34/BizCrush-macOS-v0.28.34.dmg"
+        sparkle:version="1426"
+        sparkle:shortVersionString="0.28.34"
+        length="194585833"
         type="application/x-apple-diskimage"
       />
     </item>
