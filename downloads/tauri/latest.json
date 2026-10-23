@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "- 앱 업데이트를 자동으로 확인하고 다운로드합니다.\n- 다운로드한 업데이트는 앱을 종료할 때 적용되며, 다음 실행부터 새 버전을 사용합니다.\n- 녹음·통역 중에는 업데이트 설치와 재시작을 막습니다.\n- 프로필의 업데이트 배지에서 변경 내용과 다운로드 진행 상황을 확인할 수 있습니다.\n\n기존 0.1.0 앱은 이 설치 파일로 한 번 교체해야 자동 업데이트가 연결됩니다.\n",
-  "pub_date": "2026-10-23T02:31:02.721177+00:00",
+  "version": "0.1.2",
+  "notes": "회의별 강제 치환 규칙을 추가했습니다.\n\n- 회의의 컨텍스트·키워드 화면에서 규칙을 추가·수정·삭제할 수 있습니다.\n- 원문, 모든 번역, TTS와 기존 live 자막에 서버에서 무조건 적용됩니다.\n- 호스트·공동 호스트가 수정할 수 있으며 적용 상태를 표시합니다.\n- 문맥과 인물에 관계없이 치환된다는 경고를 추가했습니다.\n- 기존 AI 보정 ON/OFF 동작을 유지합니다.\n",
+  "pub_date": "2026-10-23T05:44:21.656065+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9mNEg1cnhrSHh2YlBnbGxIaEhRRW0wYll5VXpzTmRDclByakMzalhFQmFsSDgvR1NEUE5EaW4xNDg0WUJ3NWZIWUZ4b3dmRkNOV1JKbTIzK09OVmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzIyNjYyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjFfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCnlMK2ZYS3lqazUxNnJsUGIwVDA0eWp2NW1CNnFxYWkzaWttVWRpdTUrOHh6dG9MNkxzeTFkK0Y3NVlYb1U4RDlXSGpteVhOWFQrMFdIeFJBV01RZEN3PT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.1/BizCrush-Tauri_0.1.1_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFmTEtXb001VUkzUzljWHFZR2N1Vis2K0dDS2huTGFISkdKckRoM0RHOU1aVDhKbXRjVUs1cGpXMnZVQUI5cnFCUnN6UFVIOXJpY3M0SGRvanZ5NEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzM0MjMyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjJfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yCkQrNVN5cG5HNTZCRmNnYVEwQUZZcEwxVVpuYVBmSHNsdk82TlNTU3lBUzFZcGlLd3pTUVBnR0UzRlhtZkJlaVdzQXllRksyalZlNWZ4c0JueGt1SENnPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.2/BizCrush-Tauri_0.1.2_darwin-aarch64.app.tar.gz"
     }
   }
 }
