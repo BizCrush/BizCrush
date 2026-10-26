@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
-  "notes": "키워드 동의어 번역 완료 알림은 해당 회의 화면에서만 표시됩니다.\n\n- 회의 목록, 기본 키워드 화면, 설정과 다른 회의에서는 알림을 표시하지 않습니다.\n- 기본 키워드 번역 완료 토스트를 제거했습니다.\n- 해당 회의로 돌아오면 아직 확인하지 않은 번역 완료 알림을 볼 수 있습니다.\n",
-  "pub_date": "2026-10-26T12:26:41.531983+00:00",
+  "version": "0.1.10",
+  "notes": "모바일 설정과 프로필 표시를 개선했습니다.\n\n- 토글을 누르면 즉시 반응하고 손가락으로 밀어서 바꿀 수 있습니다.\n- 테마 선택을 드롭다운으로 정리하고 기본 미팅 공개범위를 별도 메뉴로 옮겼습니다.\n- API 키 목록은 기본적으로 접혀 있으며 펼칠 때만 불러옵니다.\n- 공개 프로필 전화번호 항목을 제거했습니다.\n- 앱 복귀 시 연결 복구와 프로필 사진 표시 안정성을 개선했습니다.\n",
+  "pub_date": "2026-10-26T16:09:46.848404+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVVaEJyWDhkODVOMCtFSENwdm8vYjE4Zll0Z3RpQ0xuWit3ck1oSGZhY3VBb3BHMFE3UUxoMy9Gc1EzSjRFNWxpSmtidk4wSExrSGFkVFFQWXJRUHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE3NjAxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjhfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS44CndmelVhMFcrSGVGckkvNGdaa09EdHpsZzJkM2ltamc5akNaZC9hNFZROGpOL3N5UCtxVVE3MkFpMkVZOXpPN21hT2FKWXBLaEZQc3pSQ21kVXp1Z0FBPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.8/BizCrush-Tauri_0.1.8_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN6SjM1MXVra3I3L0cxVllOWnB1cSttOXc1MVFZZVBvNHVyaGlvRmZJbmlVdmRMTWNCY3M4QUttZHNNVEgzaFdYVm5JY2lYK3ZqKzY2OFZIZXc2MFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMwOTg2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjEwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTAKZS9qM29lZ3g4U2F0bmRpUmxpMWNzb1RkbmpWcFdNMVc1YlIvSWNvbXYrZ2piU0NhOXViTXJtQ2kxYnA3VEhLWmx5SG1mcDV2MXdXQzZrbFZ4bFk5REE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.10/BizCrush-Tauri_0.1.10_darwin-aarch64.app.tar.gz"
     }
   }
 }
