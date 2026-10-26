@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "업데이트 버튼을 더 쉽게 찾을 수 있도록 바꿨습니다.\n\n- 업데이트가 있으면 프로필 이미지 바로 위에 다운로드 버튼을 표시합니다.\n- 버튼을 누르면 다운로드 진행 상황과 설치 준비 상태를 확인할 수 있습니다.\n- PC와 패드의 작은 창에서도 버튼이 프로필을 가리지 않도록 정리했습니다.\n- 연결이 복구된 뒤 남아 있던 오프라인 로그인 안내를 정리했습니다.\n",
-  "pub_date": "2026-10-26T07:09:25.121022+00:00",
+  "version": "0.1.6",
+  "notes": "키워드가 회의마다 독립적으로 유지되고, 회의 번역 언어에 맞춰 동의어가 자동으로 추가됩니다.\n\n- 기본 키워드는 새 회의를 만들 때 한 번 복사됩니다. 기본값을 바꿔도 기존 회의에는 영향을 주지 않습니다.\n- 키워드 동의어는 회의 번역 언어를 따라 자동 생성하며, 저장된 번역은 재사용합니다.\n- 번역 중에도 녹음은 계속됩니다. 번역 완료 알림에서 다시 연결하면 진행 중인 음성 인식에 반영됩니다.\n- 별도 번역 스위치와 언어 선택을 없애고, 키워드 안내를 보완했습니다.\n",
+  "pub_date": "2026-10-26T08:05:38.982350+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDczdTIzN0JCTUxjNGFnNnBUZ3Fuck9kUVFldzZrajVsWnp0aCtUNXRvT3R0THZWRUkvNUxBMW9vR2NPQ3U5SWk4MEJROUNKeHJFWDY5T09vTzlBcVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTk4NTY1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjVfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS41CjVJOUlJZXZveU4zYWZLTkJzb0oyczVsei9QdFJFdVVwZmZhR0V2aWVWTE0rTGVSTlU3VUVTU3l1Q0l0WVo1NmZ4Q2tOaDdKd29RZ2JOVExYcll3UkJnPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.5/BizCrush-Tauri_0.1.5_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpPOTRhQ1hkc2ZsUk1xWXlxWFdPdlo3T2pGL2szNkw2bDd2MXVGSXBoRkJzY3NQWEIyVzNLT042eG0zZjQ3RWI0cGVKSmk4aVltSFVJVWhweUdUdmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDAxOTM4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjZfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS42CksyRTRjRjQrdWlHUUh0WFN6NTZOckx5RFBuRFI0LzFUM2Nzdzg5KzhjZXkvWEdkd2drM0w0QkVBZE9ybnh1TllvVXBRMWRmcTVkTFBXYlBZZzlsakNRPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.6/BizCrush-Tauri_0.1.6_darwin-aarch64.app.tar.gz"
     }
   }
 }
