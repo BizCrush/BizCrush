@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "강제 치환 화면의 불필요한 안내를 정리했습니다.\n\n- 규칙이 없을 때 표시하던 안내와 서버 반영 완료 문구를 제거했습니다.\n- 적용 중·실패 상태와 무조건 치환 경고는 유지합니다.\n",
-  "pub_date": "2026-10-23T10:28:46.536026+00:00",
+  "version": "0.1.4",
+  "notes": "미팅 화면과 키워드 편집을 더 간결하게 다듬었습니다.\n\n- 미팅 제목·태그 배치와 목록 선택 영역을 정리하고, 예정된 미팅 내용을 왼쪽으로 맞췄습니다.\n- 키워드 입력·목록 간격을 줄이고 강제 치환 버튼과 여백을 다듬었습니다.\n- 녹음 중에도 다른 미팅을 삭제할 수 있습니다. 녹음 중이거나 시작을 준비하는 미팅은 삭제되지 않도록 보호합니다.\n- 실시간 연결 복구, 로그인과 저장 처리의 안정성을 개선했습니다.\n",
+  "pub_date": "2026-10-26T06:46:44.626474+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9rK2orYVlUdE9Sa1JFVjNCWTJTOUNWSUdNU1c4RlRNZXpEOXp3ckN5dFBEbzVweXJlWmNwVXJkZzZsbitjOEdwZ1JwUEpWMXkwY2VSKzMyb2p2VVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzUxMjY5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjNfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4zCmdvTFZwWkpDOTVvcTY5UXNJbk82elV4WS9FTHVFU3JmZG5VMWF6dVZTVHh3WmhSOFdqU28xZEtEZU1lQnlKbmt6VGoxeVpBSk9kVFduQlM3ZDB4OENBPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.3/BizCrush-Tauri_0.1.3_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdrT0hwSWJkbDRMOUVwRXlXaE5XWm1sNSt4cTNUdld5NFNTVDZ2MFYxY0RQM3VubEpETTdsbm5VQUw4cUhkMFRaVkozT2R0TUxVd2JadUxOSzdwRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTk3MjA0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjRfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMS40ClJXbUdmVVZ6TWFncXFpWTBRV2Y0YlFmUUFkb2M5S3FxZ0RDMGx2elNrR2J3YjRKNWlHMlQzaE5qRmNYUFNpWHlVRTZSQjZsY0Y0cFd3Y0cxanBtNkJBPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.4/BizCrush-Tauri_0.1.4_darwin-aarch64.app.tar.gz"
     }
   }
 }
