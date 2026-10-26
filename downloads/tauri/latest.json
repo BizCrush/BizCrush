@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
-  "notes": "모바일 설정과 프로필 표시를 개선했습니다.\n\n- 토글을 누르면 즉시 반응하고 손가락으로 밀어서 바꿀 수 있습니다.\n- 테마 선택을 드롭다운으로 정리하고 기본 미팅 공개범위를 별도 메뉴로 옮겼습니다.\n- API 키 목록은 기본적으로 접혀 있으며 펼칠 때만 불러옵니다.\n- 공개 프로필 전화번호 항목을 제거했습니다.\n- 앱 복귀 시 연결 복구와 프로필 사진 표시 안정성을 개선했습니다.\n",
-  "pub_date": "2026-10-26T16:09:46.848404+00:00",
+  "version": "0.1.11",
+  "notes": "발언 편집과 설정을 개선했습니다.\n\n- 발언 편집창이 화면에 들어오도록 필요한 만큼만 스크롤합니다.\n- 긴 전사를 편집하거나 저장·취소할 때 맨 아래로 이동하는 문제를 수정했습니다.\n- 기본 미팅 공개범위는 선택 즉시 저장되며, 제목과 설명을 간결하게 정리했습니다.\n",
+  "pub_date": "2026-10-26T16:30:45.069589+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN6SjM1MXVra3I3L0cxVllOWnB1cSttOXc1MVFZZVBvNHVyaGlvRmZJbmlVdmRMTWNCY3M4QUttZHNNVEgzaFdYVm5JY2lYK3ZqKzY2OFZIZXc2MFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMwOTg2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjEwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTAKZS9qM29lZ3g4U2F0bmRpUmxpMWNzb1RkbmpWcFdNMVc1YlIvSWNvbXYrZ2piU0NhOXViTXJtQ2kxYnA3VEhLWmx5SG1mcDV2MXdXQzZrbFZ4bFk5REE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.10/BizCrush-Tauri_0.1.10_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZsbE5PWFdLRlB2MGtLaDloOUJBSmtGOFFNOFRESEFoa21ja2N6WTVETkFpRjZJNi92M1hheW5FaWhhVndpdFlaeDRIK3hkY0dpKzlGWkdvZ0k2YndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMyMjQ1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjExX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTEKdUNGT0RsRER3QzAybncxQmRyNlRlK1VNazdvd2xZUE9nWkVQVytYL0FXT0lZN1UzTWEwSUdDOEViSzlBR0swWUxHNmNDS3VrdnAwMkV1VGcveXFiQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.11/BizCrush-Tauri_0.1.11_darwin-aarch64.app.tar.gz"
     }
   }
 }
