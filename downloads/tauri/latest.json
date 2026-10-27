@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
-  "notes": "녹음 플레이어를 간결한 한 줄 UI로 통일했습니다.\n\n- 재생·일시정지, 탐색 바, 재생 시간, 배속을 같은 모양으로 표시합니다.\n- 녹음 선택과 PC 음량 조절은 더 보기에서 이용할 수 있습니다.\n- 재생 위치와 배속 유지, 모바일 화면 밖 재생 버튼을 지원합니다.\n",
-  "pub_date": "2026-10-27T05:29:57.455170+00:00",
+  "version": "0.1.15",
+  "notes": "연결 안정성을 개선했습니다.\n\n- 시스템 인증서를 불러오지 못해도 공개 인증서로 서버 연결을 안전하게 검증합니다.\n- 인증서 설정에 실패했을 때 원인 정보를 더 정확히 남깁니다.\n",
+  "pub_date": "2026-10-27T08:53:58.617274+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDd5Z1BDVW43T3VydW5KMnZqZUlFc0cwSm5TUGc0RVR3Y1I5d0dJT3NVL1owRDFocTliTmtkbTZYOGNVendoQk52L3FtbUQxemtlekoyZG5XQzRma2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc4OTk3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTQKaDhXZ1NMVTI2SExXaEd0M1Y3dkl2YnFTYVkycGdiZnBpbS9va09LVHcyVTNCS2EzeTZXcEdFWkRjRGYwMUZRZ3Q1cEgrYXhjT2JSSk95bmttYWVRQ0E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.14/BizCrush-Tauri_0.1.14_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHgzbi9razRJSHAwUmgraksxM2FNNTVmU0hFQkZBZzFJays2U3N6TUlSbkY1eUY3S2RsbTloL21pK2JtMmJaYTRnYnluanFjdWw4c1h3REU1ODh0a0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkxMjM4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTUKU3d2UmI1bEtnSHJEUEcyR2ZrTzc2aWJwNkxKdk9PNGNnYnRoa3lvQXMyNDFCMWdWRkQ2SWc3ZElWd2t6dGRCaXEyb1ZEOWdlU1VCMDJ3QU93aWVlQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.15/BizCrush-Tauri_0.1.15_darwin-aarch64.app.tar.gz"
     }
   }
 }
