@@ -1,11 +1,11 @@
 {
-  "version": "0.1.21",
-  "notes": "키워드 번역 재연결 안내를 개선했습니다.\n\n- 기본 키워드에 저장된 번역본은 새 회의의 첫 연결부터 적용됩니다.\n- 새 번역이 추가되지 않은 완료 작업과 첫 연결 전 완료 작업은 재연결 안내를 표시하지 않습니다.\n- 녹음 중 새 번역이 추가됐을 때의 재연결 선택은 유지합니다.\n",
-  "pub_date": "2026-10-27T13:38:05.915862+00:00",
+  "version": "0.1.22",
+  "notes": "전화·업로드 유형 표시와 필터를 수정했습니다.\n\n- 실시간 갱신 후에도 통화·업로드 아이콘과 유형 분류를 유지합니다.\n- 녹음·전화·파일 업로드·온라인 필터가 같은 판별 기준을 사용합니다.\n- 로그인 확인 중 로고 애니메이션을 표시합니다.\n",
+  "pub_date": "2026-10-27T21:14:09.516883+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9xbUM2dU5VMGlUcW5iWko3VlM1Q2JJZ0lsRTQxeDFybHBKcHk0bkRnU0p3R1NEblo5TzRCekxwdXl2SWV1NzR6ZDVYUHp2bVdIZmJTR0pDR1ByQlEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA4Mjg1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjIxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjEKK2E0a2xNL0loYUdPRXV2cEphQ0NUWkRxUnJ4dDRqU1R4YUM1KzVmK0NqbnlLNzdOTFZ4ekM0RTJtdmIvNzJQZzU4NE5lNU9MZUpkNjZVVytIaWhLQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.21/BizCrush-Tauri_0.1.21_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDByZU5BSWtuaytycithVXdNQllva1F6L0VKTExEZ1VMUjFMMnFHc2lseVV0Vy85dXpMTXVsUE5pUjQxTWM4czVkam1MblhmUkVtbm9qdUdhcnJxUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1NjQ5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjIyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjIKZlhYc0lZZ3dVb29xbDlJcXhaTUVTc3hhcVBmYzA2WVV1VDJNL0lnRlltakpnRmt1d0tJQ0ozbGhWM09IaU1ZWVhuUFhweExORG9EV2tsNHJsNVMvQUE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.22/BizCrush-Tauri_0.1.22_darwin-aarch64.app.tar.gz"
     }
   }
 }
