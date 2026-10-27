@@ -1,11 +1,11 @@
 {
-  "version": "0.1.16",
-  "notes": "네트워크가 전환될 때 서버 연결을 더 안정적으로 복구합니다.\n\n- 일시적인 네트워크 주소 할당 오류가 나면 조회 요청을 제한된 횟수로 다시 시도합니다.\n- 이전 버전의 인증서 초기화 복구 개선도 포함합니다.\n",
-  "pub_date": "2026-10-27T09:01:52.911523+00:00",
+  "version": "0.1.17",
+  "notes": "현재 플랜에 맞게 요금제 버튼을 표시합니다.\n\n- 프로·엔터프라이즈 플랜에서는 업그레이드 대신 관리 버튼을 표시합니다.\n- 플랜 변경 후 버튼 문구가 바로 갱신됩니다.\n",
+  "pub_date": "2026-10-27T11:12:22.123614+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVEOUdvc1ZIenRkODNVR2xyTFlSSE0yNWU0enlXWXNpajZ5cGVDZG4rdnM2YUpudVJkZWtZY2t0N3JwRW5PdnArQSs1MkNQWjZieXpTWTNnd3JlN3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDkxNzEyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTYKUVIvdGVubzJpN2ZYK1EzVGU5RlN3UHl2NWhjV1RkTnhjUFA3UTNTeUJtZlNMei9NYVpRZlNrd3cvbkJYT3c2TGNtRHFHalB5dGpzRDdRelpweU5xQUE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.16/BizCrush-Tauri_0.1.16_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHdYdDdUcnZtSXRmZFJxUFk0SU5ZSkxDMmQyZWhIb3ExSS85bVRZNGdabzIwN2tnZnpGYzRoYjJmMlY0UC9YTExMSXBGSU4vMUhMblZ6TGNiaUQ3L3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5NTQyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTcKTVRGZzU3VDlSamdDSG8rb2xkOEhFbEtDRlJCQytRUUl4UElHMkRQUWpvakZlaVVkdC83VW10L25YTDhCWjBFTncrQXZ3djd0VlN4ZzZldUhEUmNLQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.17/BizCrush-Tauri_0.1.17_darwin-aarch64.app.tar.gz"
     }
   }
 }
