@@ -1,11 +1,11 @@
 {
-  "version": "0.1.22",
-  "notes": "전화·업로드 유형 표시와 필터를 수정했습니다.\n\n- 실시간 갱신 후에도 통화·업로드 아이콘과 유형 분류를 유지합니다.\n- 녹음·전화·파일 업로드·온라인 필터가 같은 판별 기준을 사용합니다.\n- 로그인 확인 중 로고 애니메이션을 표시합니다.\n",
-  "pub_date": "2026-10-27T21:14:09.516883+00:00",
+  "version": "0.1.23",
+  "notes": "미팅 목록과 미팅 화면의 LIVE 표시를 수정했습니다.\n\n- 모바일 목록과 미팅 화면에 LIVE 배지를 표시합니다.\n- Android·iOS 등 다른 기기에서 녹음 중인 미팅도 서버 상태에 따라 LIVE로 표시합니다.\n- 모바일 앱이 백그라운드로 이동하면 저장된 녹음 재생을 일시정지합니다.\n- 녹음 재생 오류 복구와 만료·삭제·접근 불가 안내를 개선했습니다.\n\n모바일 내부 테스트: 0.29.0 (2293). Android는 arm64-v8a·armeabi-v7a만 포함합니다.\n",
+  "pub_date": "2026-10-27T21:45:42.505633+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDByZU5BSWtuaytycithVXdNQllva1F6L0VKTExEZ1VMUjFMMnFHc2lseVV0Vy85dXpMTXVsUE5pUjQxTWM4czVkam1MblhmUkVtbm9qdUdhcnJxUEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM1NjQ5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjIyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjIKZlhYc0lZZ3dVb29xbDlJcXhaTUVTc3hhcVBmYzA2WVV1VDJNL0lnRlltakpnRmt1d0tJQ0ozbGhWM09IaU1ZWVhuUFhweExORG9EV2tsNHJsNVMvQUE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.22/BizCrush-Tauri_0.1.22_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdzbDRjbW9ZQk1meFBhRXpBUUNvbVJSZVY4M3ZTa3U0MDl5Y0Fqdy9aeHFPWTJOV0tQK1Jsa1dqQ3pRdGVVNThtUmJrSkV3dElkWWJVSGxmeTJiRFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTM3NTQyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjIzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjMKNFlSZTdSOXdzZXhvZkdkcjg4MEtDbDlOSGtDSTdNYWM5dGNEcDFVSiswWlVjQUpmK1JRNERIM09GeC83YnMyUGliNVZQQk94VloyUkN4S1l3MjRWQWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.23/BizCrush-Tauri_0.1.23_darwin-aarch64.app.tar.gz"
     }
   }
 }
