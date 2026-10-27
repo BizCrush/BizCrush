@@ -1,11 +1,11 @@
 {
-  "version": "0.1.13",
-  "notes": "안정성과 오류 복구를 개선했습니다.\n\n- 이메일 인증코드가 틀리거나 만료됐을 때 안내와 재입력을 개선했습니다.\n- 모바일 업데이트 확인을 스토어별로 처리합니다.\n- 서버 인증서 검증과 일시적인 DNS·게이트웨이 오류 복구를 개선했습니다.\n- 비공개 모드 전환 시 녹음 업로드 순서를 안전하게 처리합니다.\n- 캐시 저장 시 반복되는 키체인 조회를 줄였습니다.\n- 모바일에서 재생 컨트롤이 화면 밖으로 사라져도 오디오를 일시정지하거나 이어서 재생할 수 있습니다.\n",
-  "pub_date": "2026-10-27T05:14:10.172028+00:00",
+  "version": "0.1.14",
+  "notes": "녹음 플레이어를 간결한 한 줄 UI로 통일했습니다.\n\n- 재생·일시정지, 탐색 바, 재생 시간, 배속을 같은 모양으로 표시합니다.\n- 녹음 선택과 PC 음량 조절은 더 보기에서 이용할 수 있습니다.\n- 재생 위치와 배속 유지, 모바일 화면 밖 재생 버튼을 지원합니다.\n",
+  "pub_date": "2026-10-27T05:29:57.455170+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDQ1Q3B0dlllOFZzclpVQ2hnK3AxMVJFc2tIaU1ESXJiVkZ2b2MxNnJhaWYvL1lwWjlseUtZY2tBVE81TW5FVGFleW5Qb1BycWFjcHdMblZ3MXR4dkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc4MDUwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjEzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTMKY3lTK1lYTkZvSmJDSE5xU29hOVV1OWQvL1BuaXRVWlNFVHpYOUdlMlluVGk4Sm5HcDVtRlp3eWx2QmU2UXJtc2xCdjY2M0E1dWMraG44ZmRoS2gwQVE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.13/BizCrush-Tauri_0.1.13_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDd5Z1BDVW43T3VydW5KMnZqZUlFc0cwSm5TUGc0RVR3Y1I5d0dJT3NVL1owRDFocTliTmtkbTZYOGNVendoQk52L3FtbUQxemtlekoyZG5XQzRma2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc4OTk3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTQKaDhXZ1NMVTI2SExXaEd0M1Y3dkl2YnFTYVkycGdiZnBpbS9va09LVHcyVTNCS2EzeTZXcEdFWkRjRGYwMUZRZ3Q1cEgrYXhjT2JSSk95bmttYWVRQ0E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.14/BizCrush-Tauri_0.1.14_darwin-aarch64.app.tar.gz"
     }
   }
 }
