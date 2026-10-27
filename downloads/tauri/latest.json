@@ -1,11 +1,11 @@
 {
-  "version": "0.1.11",
-  "notes": "발언 편집과 설정을 개선했습니다.\n\n- 발언 편집창이 화면에 들어오도록 필요한 만큼만 스크롤합니다.\n- 긴 전사를 편집하거나 저장·취소할 때 맨 아래로 이동하는 문제를 수정했습니다.\n- 기본 미팅 공개범위는 선택 즉시 저장되며, 제목과 설명을 간결하게 정리했습니다.\n",
-  "pub_date": "2026-10-26T16:30:45.069589+00:00",
+  "version": "0.1.12",
+  "notes": "공유 메뉴에서 Slack과 Notion을 더 쉽게 구분할 수 있도록 개선했습니다.\n\n- Slack으로 보내기에 Slack 서비스 로고를 표시합니다.\n- Notion으로 보내기에 Notion 서비스 로고를 표시합니다.\n- PC와 모바일의 라이트·다크 모드에 함께 적용됩니다.\n",
+  "pub_date": "2026-10-27T04:47:11.356054+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZsbE5PWFdLRlB2MGtLaDloOUJBSmtGOFFNOFRESEFoa21ja2N6WTVETkFpRjZJNi92M1hheW5FaWhhVndpdFlaeDRIK3hkY0dpKzlGWkdvZ0k2YndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDMyMjQ1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjExX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTEKdUNGT0RsRER3QzAybncxQmRyNlRlK1VNazdvd2xZUE9nWkVQVytYL0FXT0lZN1UzTWEwSUdDOEViSzlBR0swWUxHNmNDS3VrdnAwMkV1VGcveXFiQ3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.11/BizCrush-Tauri_0.1.11_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRyanJNWTkzZk00MVhIQit6R2RZVVZiaVdpMzRGczRsVHpYQkdabTd3Q3dPQUVJZmV6ZjFTTXZHa3VzcDZOQTNuUlVmNUJsbGFyTElCa0tOZmxXV3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc2NDMxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjEyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTIKQkh6Z3g0d3BqdGY5eUFNaElJd0UvbFBCWDJxbTZuUUt3SXo4RGcvbElkdlhnem1vN2VZTFdLbWVLeVJTSDZzZkFtTnAxSmxzQkhRZ3ZPa0xRYVhDRHc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.12/BizCrush-Tauri_0.1.12_darwin-aarch64.app.tar.gz"
     }
   }
 }
