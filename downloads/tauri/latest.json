@@ -1,11 +1,11 @@
 {
-  "version": "0.1.18",
-  "notes": "미팅 검색과 목록 갱신을 개선했습니다.\n\n- 미팅 변경 사항이 실시간으로 반영되도록 동기화를 개선했습니다.\n- 연결이 끊겼다가 돌아왔을 때 누락된 변경 사항을 복구합니다.\n",
-  "pub_date": "2026-10-27T11:33:48.251298+00:00",
+  "version": "0.1.20",
+  "notes": "앱 사용성과 안정성을 개선했습니다.\n\n- 모바일 미팅 목록과 일정의 로딩 표시를 가운데 정렬했습니다.\n- 계정을 전환하면 이전 화면과 탐색 상태를 초기화합니다.\n- Android에서 화면 전환 후 녹음 재시작과 앱 시작 시 미팅 목록 복구를 개선했습니다.\n",
+  "pub_date": "2026-10-27T13:00:09.832270+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtvTHpoRWdGRUM3OGt5WVUyYXM2TjN5TzR2dU04Q01yaTdadXRScllNdjlqWGFvdEJRZ21tQ0RWSVhWK3g5Q3Z3QldobkQ4OUFDeHMrNmhCTlpnRFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAwODI4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTgKZmxvVUtQemJWelR4NmZ1a1h4Yll5SytCT01zZXRUMis5Zm10NG1NY1czQmRlTHEramVseThDdmRWYTJwNXlmY1YvdjAxN3B0aFc1K1BQNzBEdnJYQ3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.18/BizCrush-Tauri_0.1.18_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9RQW5HTHFnTzh1M2orVkhSUHNyRzRUcWsvdjNHMk1PQnBxTng5dGZ5Mmg4VHhGaHVURGxGUEh5TG1zWWFUMUJZcStKbi9tMWlLenpZdG1sVk1VTGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTA2MDA5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjIwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjAKblJWL1ZUTllHOWRpTzJzcDBSSjFDVU15Z1NERnFFQjJIaTVYNHBDdnFWTTJ2L2Rha3NVR1IwMjdrM3YxRk8xSUEwN3AyT29tM2grMGJlWC9hcnNTQmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.20/BizCrush-Tauri_0.1.20_darwin-aarch64.app.tar.gz"
     }
   }
 }
