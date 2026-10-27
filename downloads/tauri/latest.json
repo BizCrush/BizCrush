@@ -1,11 +1,11 @@
 {
-  "version": "0.1.17",
-  "notes": "현재 플랜에 맞게 요금제 버튼을 표시합니다.\n\n- 프로·엔터프라이즈 플랜에서는 업그레이드 대신 관리 버튼을 표시합니다.\n- 플랜 변경 후 버튼 문구가 바로 갱신됩니다.\n",
-  "pub_date": "2026-10-27T11:12:22.123614+00:00",
+  "version": "0.1.18",
+  "notes": "미팅 검색과 목록 갱신을 개선했습니다.\n\n- 미팅 변경 사항이 실시간으로 반영되도록 동기화를 개선했습니다.\n- 연결이 끊겼다가 돌아왔을 때 누락된 변경 사항을 복구합니다.\n",
+  "pub_date": "2026-10-27T11:33:48.251298+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHdYdDdUcnZtSXRmZFJxUFk0SU5ZSkxDMmQyZWhIb3ExSS85bVRZNGdabzIwN2tnZnpGYzRoYjJmMlY0UC9YTExMSXBGSU4vMUhMblZ6TGNiaUQ3L3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDk5NTQyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTcKTVRGZzU3VDlSamdDSG8rb2xkOEhFbEtDRlJCQytRUUl4UElHMkRQUWpvakZlaVVkdC83VW10L25YTDhCWjBFTncrQXZ3djd0VlN4ZzZldUhEUmNLQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.17/BizCrush-Tauri_0.1.17_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtvTHpoRWdGRUM3OGt5WVUyYXM2TjN5TzR2dU04Q01yaTdadXRScllNdjlqWGFvdEJRZ21tQ0RWSVhWK3g5Q3Z3QldobkQ4OUFDeHMrNmhCTlpnRFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAwODI4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjE4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMTgKZmxvVUtQemJWelR4NmZ1a1h4Yll5SytCT01zZXRUMis5Zm10NG1NY1czQmRlTHEramVseThDdmRWYTJwNXlmY1YvdjAxN3B0aFc1K1BQNzBEdnJYQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.18/BizCrush-Tauri_0.1.18_darwin-aarch64.app.tar.gz"
     }
   }
 }
