@@ -1,11 +1,11 @@
 {
-  "version": "0.1.25",
-  "notes": "미팅 QR의 정사각형 비율과 여백을 개선하고 작은 화면의 공유 버튼 접근성을 개선했습니다. 통화녹음 공유 웹의 스크립트 조회와 상태 안내를 수정했습니다. Android 업데이트 후 재실행 안정성 개선도 포함합니다.\n",
-  "pub_date": "2026-10-28T03:30:04.102836+00:00",
+  "version": "0.1.26",
+  "notes": "일시적인 HTTP/2 소켓 연결 오류의 복구를 개선했습니다. 업데이트·결제 작업에서 예상되는 거절 상태를 올바르게 안내하고 오류 보고를 정리했습니다.\n",
+  "pub_date": "2026-10-28T04:55:38.994025+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBxZ0pJaFBrL2dZWnFHRFBrR3pWeXQxMmYxbTVOUGdJNVZTWmpMODVhSGMvSWw2Z3NtRzR1TlFMd2RLVUttOGhiM0xrYjlqUXdCOEI4ZkZLR1hJMlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU4MjA0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjI1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjUKVXFzd2p2QmJEMXlsc2MwZ3RXejJkWWorbWt3RG1lYzNJcmpiek5PSEhFdDdDaGEzKzh3aHZPcW5BZkJBOXIrSTJLY2RDb3pJdmk2eUl6Vk1DUFZ6Q1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.25/BizCrush-Tauri_0.1.25_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDR2RVlFOWtOU3ZnY1Z4ODR2UXRvOW4ycUtyS0doeXBkZzNDUmJuYVlMd21ZNXdsT3llOVlrRXdzenp5Z09NRlFueGJDVGZGRTVudXM0blk2V3ZBZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTYzMzM4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjI2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKeDA2Yktwb29Ld3Ewd2habW4rT0t6Rmw2d0xzK1FZN3hKUmJ4SWRBSUpuS25MVXhsajlhUEhVWHdtOER0cmhZT01kVEJ3RklFRmJKbTA0YThpNmRXQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.26/BizCrush-Tauri_0.1.26_darwin-aarch64.app.tar.gz"
     }
   }
 }
