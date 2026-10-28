@@ -1,11 +1,11 @@
 {
-  "version": "0.1.26",
-  "notes": "일시적인 HTTP/2 소켓 연결 오류의 복구를 개선했습니다. 업데이트·결제 작업에서 예상되는 거절 상태를 올바르게 안내하고 오류 보고를 정리했습니다.\n",
-  "pub_date": "2026-10-28T04:55:38.994025+00:00",
+  "version": "0.1.27",
+  "notes": "데스크톱에서 현재 회의의 저장된 내용을 다시 불러올 수 있습니다.\n\n- 보기 → 새로고침: macOS ⌘R, Windows Ctrl+R 또는 F5.\n- 회의의 ··· 메뉴에도 새로고침을 추가했습니다.\n- 데이터 갱신 중에도 녹음과 작성 중인 요약 초안은 유지됩니다.\n- 요약 탭을 열거나 다른 버전을 선택하면 전사 수정 후 저장된 최신 요약을 다시 확인합니다.\n",
+  "pub_date": "2026-10-28T05:03:55.051457+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDR2RVlFOWtOU3ZnY1Z4ODR2UXRvOW4ycUtyS0doeXBkZzNDUmJuYVlMd21ZNXdsT3llOVlrRXdzenp5Z09NRlFueGJDVGZGRTVudXM0blk2V3ZBZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTYzMzM4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjI2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjYKeDA2Yktwb29Ld3Ewd2habW4rT0t6Rmw2d0xzK1FZN3hKUmJ4SWRBSUpuS25MVXhsajlhUEhVWHdtOER0cmhZT01kVEJ3RklFRmJKbTA0YThpNmRXQkE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.26/BizCrush-Tauri_0.1.26_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBIclZjQzRjS3FtUUdpR25CandkNkg1VGJGNC93aEp4T3pOS1ljVXJhNkVxL0xEc285V0JIbUJvT1NMcVZWNFhNN1RmM0lvSXlHZ0R4VjhlR3JuWmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTYzODM0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjI3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjcKQ3JxTVhidmlQcURWL1B5VHBjdllwRTIvaVJuelNtb2ZUd2JFQjRJMmxzbklZZG54QlMydXdjVXhSQmlOOTB2U1BzRXNpSysrODlpUHJtTHkwbFE3RGc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.27/BizCrush-Tauri_0.1.27_darwin-aarch64.app.tar.gz"
     }
   }
 }
