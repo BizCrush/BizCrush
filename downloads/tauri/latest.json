@@ -1,11 +1,11 @@
 {
-  "version": "0.1.31",
-  "notes": "온라인 회의 통역이 Zoom을 지원합니다.\n\n- Google Meet 통역의 이름을 온라인 회의 통역으로 바꿨습니다.\n- Google Meet과 Zoom 링크에서 통역 설정을 열 수 있습니다.\n- Zoom 회의에서는 실행 중인 Zoom 앱을 우선 선택합니다.\n",
-  "pub_date": "2026-10-28T12:28:24.532777+00:00",
+  "version": "0.1.32",
+  "notes": "로그인과 비밀번호 재설정 오류 안내를 개선했습니다.\n\n- 로그인 요청이 일시적으로 제한되면 다시 시도할 수 있도록 안내합니다.\n- 비밀번호 재설정 실패 원인을 개인정보 없이 기록하도록 개선했습니다.\n- 백그라운드에서 돌아왔을 때 중단된 조회를 안전하게 복구합니다.\n",
+  "pub_date": "2026-10-28T13:20:36.361303+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJ6L1N4OGFXd3Z5MnIzTGVHYmxjdzNxblF6QXhlUkJmNmxyWjA5Nm4wZmZ2cm5wa0JHdEFOdVNYVW1tYSt0amdEdFRONnBxNFQ5cDc4a0s3WmxhU3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTkwNTA0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjMxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzEKa2o4UGY0OHh2NXlYTklkTWxQZGIyeStRMWk5WndrUzZabUVlb0JvamJkTmxLbE91dnhGLzdnOXNwL2FjTkw4ZnJMMWduRmlDWStpVnpMT2VGQWliQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.31/BizCrush-Tauri_0.1.31_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHd2dm44MzViOXpSdjRIV2w2ck1RbTVkaXFkMDdiN0doTitCbE8rV0FKSmM2WmQzaGNzR3hVN1NTcU5JOEJGV3NIOGg3TXU0MGdVdVZCWUtZVkx0R1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTkzNjM2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjMyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzIKYzVXczViSVQ2bEMvSjd4WWxtbjZzWXJhTUVDUTVDU2UxZzgzclRqRzVMNWVNcFdiSndkbWNTZUNiVzZFeGMySjhac01MN3Y3UHB3TEpWTUlxV0RSQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.32/BizCrush-Tauri_0.1.32_darwin-aarch64.app.tar.gz"
     }
   }
 }
