@@ -1,11 +1,11 @@
 {
-  "version": "0.1.28",
-  "notes": "업로드한 파일의 전사 진행 상태를 올바르게 표시합니다.\n\n- 작업 시작 전에는 전사 대기 중, 작업 중에는 전사 처리 중 표시와 로딩 아이콘을 보여 줍니다.\n- 전사 처리 실패를 빈 결과와 구분하고 다시 처리할 수 있는 위치를 안내합니다.\n- 이미 전사를 삭제한 녹음을 대기 중으로 표시하지 않습니다.\n",
-  "pub_date": "2026-10-28T05:56:22.798392+00:00",
+  "version": "0.1.29",
+  "notes": "전사 복사를 더 쉽게 사용할 수 있습니다.\n\n- PC 전사 화면 우측 하단에 떠 있는 전사 복사 버튼을 추가했습니다.\n- PC와 모바일에서 번역만, 원문만, 번역+원문 중 복사할 내용을 선택할 수 있습니다.\n- 번역만 복사할 때 원문이 섞이지 않으며 모바일 녹음별 복사 범위를 유지합니다.\n",
+  "pub_date": "2026-10-28T08:25:36.877987+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9HclFiQlpCdEExeHpoMXpjdENSREFMM1NMdWFiVDJxZXZNempkcmd5QkZxNkxwS2hacGpaRE5CSTV2cEMrSm1heEdwMEU3ODlaUnRUd3BrWFBsMXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTY2OTgyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjI4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjgKU3pucEVhN1FnWndSZG5mdjN3VVpLa0IxVmhUV094RVFHbk1yNU1KWFF5UThFVHFMWWJ0SEZyQmx1KzBvNHM5NVRZcTNhVnZIWU12L1BQcEJGNFY0REE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.28/BizCrush-Tauri_0.1.28_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdqQVNNaWJyVjdkRVg2U0xEYnhGZzU1ZENJMElJbFNUMFFGUkFqRW4wWk8yK0xBZE5pMUhiOWhYS0ZGdDFBUjFTb1crVFo2cWRIT3dMVDBJdXltZVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTc1OTM2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjI5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMjkKbFFLTTlWeHZ5cXRPMmxkdUd0dTVRckFGUHJsMjA3SjBOZTZFK2VWQmdicUtMZHhGQ3dZMVVKclFpaWNzNXFOK2NMcXJCaUE5SXdtb2cvSVNlZW1kQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.29/BizCrush-Tauri_0.1.29_darwin-aarch64.app.tar.gz"
     }
   }
 }
