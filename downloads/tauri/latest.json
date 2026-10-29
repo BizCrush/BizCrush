@@ -1,11 +1,11 @@
 {
-  "version": "0.1.32",
-  "notes": "로그인과 비밀번호 재설정 오류 안내를 개선했습니다.\n\n- 로그인 요청이 일시적으로 제한되면 다시 시도할 수 있도록 안내합니다.\n- 비밀번호 재설정 실패 원인을 개인정보 없이 기록하도록 개선했습니다.\n- 백그라운드에서 돌아왔을 때 중단된 조회를 안전하게 복구합니다.\n",
-  "pub_date": "2026-10-28T13:20:36.361303+00:00",
+  "version": "0.1.33",
+  "notes": "# BizCrush 0.1.33\n\n- macOS에서 마이크의 PCM 형식과 채널 구성을 정확히 변환해 녹음 속도와 음높이를 유지합니다.\n- 다양한 마이크 샘플레이트와 녹음 중 입력 형식 변경을 처리하고, 고주파 잡음이 음성에 섞이는 현상을 줄였습니다.\n",
+  "pub_date": "2026-10-29T21:14:47.533282+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHd2dm44MzViOXpSdjRIV2w2ck1RbTVkaXFkMDdiN0doTitCbE8rV0FKSmM2WmQzaGNzR3hVN1NTcU5JOEJGV3NIOGg3TXU0MGdVdVZCWUtZVkx0R1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTkzNjM2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjMyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzIKYzVXczViSVQ2bEMvSjd4WWxtbjZzWXJhTUVDUTVDU2UxZzgzclRqRzVMNWVNcFdiSndkbWNTZUNiVzZFeGMySjhac01MN3Y3UHB3TEpWTUlxV0RSQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.32/BizCrush-Tauri_0.1.32_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhmb2pLM0t5YVVhNE9TYk85Zkh1VzBJRHAwYTFvM3dack1uUVlnME40MDFEZGpDU0tiZFBhbDdBVE5CQmUyR3h1ajVMR2J1QitUNjVSU2xWdTh6T3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzA4NDg3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjMzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzMKcGszUE84dUpvQjNnK0tyNVR2L3Q2R3NRS3pVQTZCV3B0Sm1WTjRPeThaZDlsd0pTdWZCeGdJeElCcEJ5N0NqNFVRQjQ2Yk9nR08xZHIyTVFKNGVPQWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.33/BizCrush-Tauri_0.1.33_darwin-aarch64.app.tar.gz"
     }
   }
 }
