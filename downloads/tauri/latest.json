@@ -1,15 +1,15 @@
 {
-  "version": "0.1.44",
-  "notes": "회의 요약 완료 알림을 PC와 모바일에서 받을 수 있습니다. 기기 언어로 알림을 표시하고, 알림을 누르면 해당 회의 요약을 엽니다. 오디오 가져오기에서 이미지 파일을 차단했습니다.\n\nMeeting summary notifications now appear on desktop and mobile in your device language. Open the meeting summary directly from an alert. Image files are rejected by audio import.\n",
-  "pub_date": "2026-11-01T14:19:50.435398+00:00",
+  "version": "0.1.46",
+  "notes": "녹음 복귀 시 화면 업데이트 오류, 이메일 인증 오류 처리, Android 알림 등록·Play 서비스 복구를 수정했습니다. 기기 언어별 요약 완료 알림과 이미지 가져오기 검증을 반영하고, 통역 전사 순서·사진 확대·알림함 오류 표시를 개선했습니다.\nWindows 화면 파일을 올바르게 포함하도록 패키징을 수정했습니다.\n",
+  "pub_date": "2026-11-01T16:54:24.945036+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtOQUVQempSalpkTkhtc3JQdU9USGtJRjRiNm0wSE5QRExFZzRXRW9YN2lvejJkbktobmV3NVlqZVBqWlhsdWJ3QnIrdXJvaVBlbVE2ZmpXWEppaGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQyNjI3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQ0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDQKa0pnTE9DTmpNbUUzLzBXOVFsQzN5a2lIQ2lJOEJIZ1Y1alRpRGp3bzhJbnRuSzJ6bUtkRWdCSldsN3dja1o5c212ZHhzcGt1WGxqMmVNUUwvNEVJREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.44/BizCrush-Tauri_0.1.44_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDkvem8rWXVoYm1yMEE2TnROMVdxMk93d01BRmJhc1IwZWJpNUJDZzJOU0NvZUNpNk8xMW0ybW5UeUMzeHAyQ1VON1Rtc2hxMVM3WVZjSE1wZjRGUWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTUxNzU0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQ2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDYKREl6RURSMEszVEpBaEhLS2RXS05ONTlRSlRaQmNTdUVyZGZpcWhZWWJoMFp6YVh4blM4OC94T1J3elJHT1hQcFlicnZnSHZNSFVMV2lZeFVEN1hPQnc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.46/BizCrush-Tauri_0.1.46_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlzQnVuRDQxTGphcDVwNGxUNEIvaStxY0paZnBSNWlXVTBOL2ZTejNnejVGcTFQRWVpV2FmOHowMUUvUVdSb01KdVlabW52TCt1U0F3cnpsV2YzcGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQxNjY0CWZpbGU6Qml6Q3J1c2hfMC4xLjQ0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDQKTmZUUGdkNGFzbHpsMDdZUlZHR2RjdnVMc0JFbkpOK0Y0KzhkOUlucHYvc1h1NTJTZnV4NkxVaGUzV2hpSE9JSTFWZmVVTmE5bGd5TEVhcEx4eU9ZQ2c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.44/BizCrush_0.1.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhKNHNHc1h6ekVlTHdoQnd1VGNkNmRtQ1BZcmFzbWlaWmhuR1V4dUhycit3UlpTVHhxYkcrRGFwNUJLNHprSEtJTjYzZlV3NTJGbWRheGh1SmFES3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTUyMDUzCWZpbGU6Qml6Q3J1c2hfMC4xLjQ2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDYKWjBabFFybWVQMG1rNjNibUh3cms2S0F4dDZnWnk5TVhuREdZV0NFYlBVdEdtVEpOMUgxNjlhVTBvVC9RdklNaXJRRldMRUNlMms0QnU1ajF0UEI5RFE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.46/BizCrush_0.1.46_x64-setup.exe"
     }
   }
 }
