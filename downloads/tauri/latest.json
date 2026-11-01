@@ -1,11 +1,11 @@
 {
-  "version": "0.1.41",
-  "notes": "# BizCrush 0.1.41\n\n- 통역 언어를 한국어·영어·원어 이름과 언어 코드로 검색할 수 있습니다.\n- 저장한 내 언어·상대방 언어를 정확히 복원하고 언어 변경 시 연결을 유지합니다.\n- 회의 봇 화면에 BizCrush 로고와 현재 통역 언어를 표시합니다.\n- 회의 설정 동기화, 서버 연결, 파일 업로드와 키워드 번역 편집을 개선했습니다.\n",
-  "pub_date": "2026-11-01T04:47:51.429087+00:00",
+  "version": "0.1.42",
+  "notes": "# BizCrush 0.1.42\n\n- Google Meet 초대 문구 전체를 붙여넣어 회의 봇을 초대할 수 있습니다.\n- 초대 문구의 언어와 관계없이 Meet 링크를 서버에서 추출합니다.\n- Meet 링크가 없으면 t.meet 주소의 회의 코드로 참가 링크를 생성합니다.\n",
+  "pub_date": "2026-11-01T05:19:35.629701+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtIblYzWXdPdnhTVkllWVpCV0N1ck9zYUlCazBGYUY2Tmwyc0ZoM04xOUZnbklQbXRkejM5Y3g3V0JDT09ubEFMRmtqTldDYXJVWE5adjMyN0xSU3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA4NDcxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDEKaGQ5U1FwZFNZcWdZelV0K3JIQmZnY0xpQWRwemV3QldYM1ZjTGhPNEkwVGErNFBwM1RIcUxPTDBCNzYxSzcxMEtmc29yaTY4ZnVhMStxWDVMWU5CQ0E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.41/BizCrush-Tauri_0.1.41_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN0VSt1YzZ5b29ZNjFONFFrcjZGTks3bXBPMEtjMVlXck5XT0xUWHcxQkhOYXppbEh5UWNjMTE4dGM0WXJYdDFaSHp2cHNPeWdzMklOZ1NrdmhvRXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTEwMzc1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDIKK25TWmpKOTlKbkdVczg2LzZLU1AxQ0xVOExZSnBQSkl4ejVRZ011S2xnVlRrSFphSUE1MTVZdVlMdW1OMXFoWWNLbFJsbllnbUxuNlV0bmw4WXd5QWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.42/BizCrush-Tauri_0.1.42_darwin-aarch64.app.tar.gz"
     }
   }
 }
