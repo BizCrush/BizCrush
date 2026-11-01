@@ -1,11 +1,11 @@
 {
-  "version": "0.1.42",
-  "notes": "# BizCrush 0.1.42\n\n- Google Meet 초대 문구 전체를 붙여넣어 회의 봇을 초대할 수 있습니다.\n- 초대 문구의 언어와 관계없이 Meet 링크를 서버에서 추출합니다.\n- Meet 링크가 없으면 t.meet 주소의 회의 코드로 참가 링크를 생성합니다.\n",
-  "pub_date": "2026-11-01T05:19:35.629701+00:00",
+  "version": "0.1.43",
+  "notes": "큰 녹음 파일은 기기에서 압축한 뒤 업로드하며, 업로드 한도를 100MB로 맞췄습니다. 장시간 녹음의 재생과 파일 처리를 개선했습니다.\n",
+  "pub_date": "2026-11-01T09:43:45.063408+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN0VSt1YzZ5b29ZNjFONFFrcjZGTks3bXBPMEtjMVlXck5XT0xUWHcxQkhOYXppbEh5UWNjMTE4dGM0WXJYdDFaSHp2cHNPeWdzMklOZ1NrdmhvRXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTEwMzc1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDIKK25TWmpKOTlKbkdVczg2LzZLU1AxQ0xVOExZSnBQSkl4ejVRZ011S2xnVlRrSFphSUE1MTVZdVlMdW1OMXFoWWNLbFJsbllnbUxuNlV0bmw4WXd5QWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.42/BizCrush-Tauri_0.1.42_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVEbEtWbWFDQVVBKzRpZjZWK2s5eFFXS05zMWN4REJhd0Q1TGRUL1ROd0VWWlNueDJFMnhISktxQk9xRmZRckVxbmJ6aEs3V2dsK0FCOUJ2MjRsOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTI2MjI1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDMKWG4rK2NHU0orUHdEWnQ0Y3NPNVQvMmJuYzYrYm5YV1VWSi94eGFJWmFGNEQ1b3p0RFFKMEdLblhEdmZsUHloSzZDNXN0OXRESXQvU0tKdURlNzhkREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.43/BizCrush-Tauri_0.1.43_darwin-aarch64.app.tar.gz"
     }
   }
 }
