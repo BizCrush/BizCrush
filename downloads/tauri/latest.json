@@ -1,11 +1,11 @@
 {
-  "version": "0.1.33",
-  "notes": "# BizCrush 0.1.33\n\n- macOS에서 마이크의 PCM 형식과 채널 구성을 정확히 변환해 녹음 속도와 음높이를 유지합니다.\n- 다양한 마이크 샘플레이트와 녹음 중 입력 형식 변경을 처리하고, 고주파 잡음이 음성에 섞이는 현상을 줄였습니다.\n",
-  "pub_date": "2026-10-29T21:14:47.533282+00:00",
+  "version": "0.1.41",
+  "notes": "# BizCrush 0.1.41\n\n- 통역 언어를 한국어·영어·원어 이름과 언어 코드로 검색할 수 있습니다.\n- 저장한 내 언어·상대방 언어를 정확히 복원하고 언어 변경 시 연결을 유지합니다.\n- 회의 봇 화면에 BizCrush 로고와 현재 통역 언어를 표시합니다.\n- 회의 설정 동기화, 서버 연결, 파일 업로드와 키워드 번역 편집을 개선했습니다.\n",
+  "pub_date": "2026-11-01T04:47:51.429087+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhmb2pLM0t5YVVhNE9TYk85Zkh1VzBJRHAwYTFvM3dack1uUVlnME40MDFEZGpDU0tiZFBhbDdBVE5CQmUyR3h1ajVMR2J1QitUNjVSU2xWdTh6T3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzA4NDg3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjMzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMzMKcGszUE84dUpvQjNnK0tyNVR2L3Q2R3NRS3pVQTZCV3B0Sm1WTjRPeThaZDlsd0pTdWZCeGdJeElCcEJ5N0NqNFVRQjQ2Yk9nR08xZHIyTVFKNGVPQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.33/BizCrush-Tauri_0.1.33_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtIblYzWXdPdnhTVkllWVpCV0N1ck9zYUlCazBGYUY2Tmwyc0ZoM04xOUZnbklQbXRkejM5Y3g3V0JDT09ubEFMRmtqTldDYXJVWE5adjMyN0xSU3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA4NDcxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDEKaGQ5U1FwZFNZcWdZelV0K3JIQmZnY0xpQWRwemV3QldYM1ZjTGhPNEkwVGErNFBwM1RIcUxPTDBCNzYxSzcxMEtmc29yaTY4ZnVhMStxWDVMWU5CQ0E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.41/BizCrush-Tauri_0.1.41_darwin-aarch64.app.tar.gz"
     }
   }
 }
