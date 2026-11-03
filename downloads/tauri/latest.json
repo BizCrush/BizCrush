@@ -1,15 +1,15 @@
 {
-  "version": "0.1.49",
-  "notes": "녹음 중 임시 번역이 확정 후에도 남아 다른 기기와 다르게 표시되던 문제를 수정했습니다. 확정 자막으로 전환할 때 임시 번역을 정리하고, 뒤늦게 도착한 확정 번역은 계속 반영합니다.\n",
-  "pub_date": "2026-11-02T17:56:10.405793+00:00",
+  "version": "0.1.50",
+  "notes": "- 설정에서 iCloud Drive·Google Drive 동기화 폴더를 연결하고 내 녹음을 자동 또는 수동으로 백업할 수 있습니다.\n- 저장된 녹음을 검색하고 불러와 재생하며, 다른 기기에서 같은 계정·폴더로 접근할 수 있습니다.\n- 자동·일괄 백업은 내가 만든 녹음만 포함합니다. 공유 녹음과 생성자를 확인하지 못한 녹음은 제외합니다.\n- 연동 버튼 옆 ⓘ에서 저장 대상, 기기 간 사용, 원본과 백업 사본의 차이를 확인할 수 있습니다.\n- 모바일 캘린더의 검색 버튼을 누르면 전체 미팅 목록의 검색으로 전환됩니다.\n",
+  "pub_date": "2026-11-03T04:34:08.381289+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdXTm8xcE5vN0IvbER2dFFOMkRqN2dhL0Z2OUFXRkZKNFMwNlJwMVEwbEJyNVRDeDNXNUpEeVk4Tm4xZU0raU5yY2ZsUjJYeml0VEx1VS84cXFLS3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQxODQ4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjQ5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNDkKczFRWTROOVh1QkNXWEk0bWxLNjlPOUlMS1Q2Q0RFaUVsV29oUm1UbklrV0NucE5USGUraUhGTVRKN1NNV3NydXFEcnVUN0JqSURmUE5nbURrSHVsQUE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.49/BizCrush-Tauri_0.1.49_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFvaE1yMVFDQVhVOU56SnRtNFkyYVFDUjNwc1B1RmVhQ3M0bTlvM3Y3THhNd1g2d2R1TTVkdVlqL05ldklpSU1YWDlMYytLdjJSZUR3WHVNWEw5OUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjgwMzAxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjUwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTAKbHpqMjBjVFBUdEM1THRQVzZEcW02YzBmWi9qTytXRVFWbXNYMmtiUmJ1QlJ1TWVEaFZST09LdlZGOGZCdVBlN2NDaEtscW1SMnArSUpNbHpPdGhsQnc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.50/BizCrush-Tauri_0.1.50_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhYVThMMXpleGhqN2FuUXczK3pyeVFxSkpULy9BTWVaNjZuUzc3bFVBanVzMnZrL0gybzZPZXV5RG5aN0JOb0hlZ0szNzNrSGtNOFpvREVrR1pQY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQyMTcwCWZpbGU6Qml6Q3J1c2hfMC4xLjQ5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNDkKS2laT0hjQ0drSHhud0Y4S2JLNWRtOXpiaURtQ0xQWUVtU0oydFlMZ2hLNHZUQTVzNFAzQkxGL3V3bktEZ3JmRzZYNWI2VERyOGkyZElKZWJUUXRBRFE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.49/BizCrush_0.1.49_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhjZE85SWZ2MXdHTEVseVg2T2pidC9SeWNFMStVemtJR1EraGtNSFNieE50QjhiOUVUYnFRWTVoWFZhRU9TVTZNODl3L0ZUa1d6NjZ3dlNhUytYYkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjgwNDQ4CWZpbGU6Qml6Q3J1c2hfMC4xLjUwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTAKYmJWeVJMRTZOcCtLWlVnL080YmxIZTk4cmhwamRiWjc4R1ZDV2s0UFBmTU9XdVZyTkpyV3BsZ2N0UWNnbHVjcTVIdUl2ZHdoUEhRTnA4RG5aVjEvRHc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.50/BizCrush_0.1.50_x64-setup.exe"
     }
   }
 }
