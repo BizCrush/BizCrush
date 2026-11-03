@@ -1,15 +1,15 @@
 {
-  "version": "0.1.51",
-  "notes": "업로드가 완료된 내 녹음이 로컬 파일 목록과 클라우드 백업에서 누락되는 문제를 수정했습니다. 다른 계정과 공유 녹음은 기존 소유권 확인 정책에 따라 제외됩니다.\n",
-  "pub_date": "2026-11-03T04:59:09.967247+00:00",
+  "version": "0.1.52",
+  "notes": "서버 정보가 없는 녹음 한 건 때문에 나머지 내 녹음까지 저장되지 않던 문제를 수정했습니다. 공유 녹음 제외와 소유자 확인 대기를 구분해 안내합니다. 기존 연결 폴더와 원본은 유지됩니다.\n",
+  "pub_date": "2026-11-03T05:50:28.948097+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtGUzRrQTV6VXFzOU9XS2oxaWFmNmRXSHFKd21JS3dDL09JL0xqOVNKSGY0dWZ0OFpHSUsrTGVnbENkUlFQd3BLeVRIU2hMRm4za2lHZi9md21OVFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjgxNzU1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjUxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTEKU0I0bVptRlJhUDFuZGlsQ1hBbzcwSU5QMG9ZcWowQ2NHZGNPZlN3TmR4V05Sd2EyeFQwVGRCTzlBSW9pdXVDTzE1NFJEUC9RdjVhODc1ajA3VDhoQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.51/BizCrush-Tauri_0.1.51_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpTYXFITG13bnpuaE5zU0t2SGdtWTBVYjJJZ0RNNEtxcS9xamdZZXlMdllDR09qdkVoanBhaUNGT1FyMnFhS2xNL2VSbmdybmVqR1BPR2x6cUFuVWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg1MDI0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjUyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNTIKK0gzOVRGVktES3U0d21jd3hWcWhnYkNocHlBRWZBRFpjSFAwdkNPL3g0YWJJbFUvUEZyME1zSyswS2RUbk1MbmlDZGMzcSs0Uk1NWUhabnVHUXZzQmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.52/BizCrush-Tauri_0.1.52_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9jRnJEeURUMUhDVDZKK3ZjaTl6VEFqUkQ1WnRXemRsekYvVFczSzRiOUNSdzNhdzN5YXdjdTIvbWsySnhXVTNKN0YrWmt1R24rZnBtQkVhUWdlRkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjgxOTQ5CWZpbGU6Qml6Q3J1c2hfMC4xLjUxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTEKdXI4RlJ5cy9hNVpLWkFWSDhNVWNNZHIxN0x6cXF4K3Fua2RSYTVBQXluYVpiNkwzamp6UUNaTDY3Kys2NTNEN0dFYlZrM0VvbFE2K3U4T25DMDJtQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.51/BizCrush_0.1.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFiN2pjTWlDL2ZmZUF0cUdFOFpPd2JhcitOUUZFZjNXSWpFUk1TVUN2WldSbzdEL0JjVkV3YlpwTm5ocHJycjg2bnlRWTNUSzJMY29GeHdCNEpnK1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg1MDI4CWZpbGU6Qml6Q3J1c2hfMC4xLjUyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNTIKdHZkZnhaSHJLdXd4V1Y4cWRrTURQd3QvUW9BS0xtUUJ3bVdZdURvamQzaHpFdzgwd1FkQjNOU08zRjQxMGQ0TGdROTR0S0NyanJxUmM0VkVmdWFxQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.52/BizCrush_0.1.52_x64-setup.exe"
     }
   }
 }
