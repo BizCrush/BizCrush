@@ -1,15 +1,23 @@
 {
-  "version": "0.1.71",
-  "notes": "# BizCrush Desktop 0.1.71\n\n- macOS: Recover presentation settings immediately when screen sharing is stopped or cancelled during startup.\n- macOS: Allow presentation output to be started again after stopping or changing shared content.\n- Windows: Version alignment for the shared desktop update feed; no Windows behavior changes.\n",
-  "pub_date": "2026-11-04T23:27:09.131418+00:00",
+  "version": "0.3.0",
+  "notes": "Update release notes now follow your app language, or your system language when using System default.\nChanging the app language updates the release notes immediately.\nIf a translation is unavailable, release notes are shown in English.",
+  "pub_date": "2026-11-04T23:41:46.321563+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBHK2ZpbmxsZzhzYjgwdGtITWduRHd4NjFZUDZNb21sZHNHdStpaXhlTVpFdUx5SlRNbXcxbU1tTFNBQkx1NWcwUkhmYkRrSTRrOEZUZjRnUGkwUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM0NjYzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjcxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzEKU1BkTWIrZ0FoK1FvZWxNYTVNc2E2VTA3dm5NUkI3eTJ4elgrTitNSS9kNC9NZDhsMDh4RGhyRW85bFd6N1VITEVLS0RRcEdGQVUzZ0NCT0tMQXBLQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.71/BizCrush-Tauri_0.1.71_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDYzVEtWZWdFQWVuNFZsblBKSGhNVXk4OGI4MG5sMUc1MU5HaVloSy9rWTJnSWZRQUxrWU9UdjlQU20xWFczbGN1WXFBcTllcHBKeTRKUUV6VGxldlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM1NTg4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjBfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4wCmVCTDlobzJxMFl5U2tGN3FhT1ZkMEZDTDlzVnlFbVJ4c3gwOWxsSGliSU9POEZNNE5wUVJZWXBMSzYvSk11Q3k2emtxMTFiSzA4UDFGVjhsQm5SZkNBPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.0/BizCrush-Tauri_0.3.0_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJpQjlyUFZrT0RvTDRxWk1XaDFGNEYyMnhaVE9TWHJ5dHVtczlvOU5ZSEwwdDRPNXNTZGF1aEJKYmxLQUYrU2c5WER1a09rV3dmaEZXREVSYTZQZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM0ODI5CWZpbGU6Qml6Q3J1c2hfMC4xLjcxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzEKTnpXS0llUXI2WUNFYXVXbk16WXlwTTRwNFpWQS9ZK2JsbURXb29uVzFGblFMRjVCYlhVUkFhUXVLOWx4WnVNMUs2WUZqRzY2VFpNRm81U2p4a2VNQnc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.71/BizCrush_0.1.71_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZZc2dZeWV6WklMa2dHT3lqdVpSaDdLSjROYXRkUytpQUVkb2FKdGd4NzVPNEFxdEIzL2lLU3FITi8zUEJnaC9SY2p4eXNrcVFHVFVHMGJHR1RGM0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM1NzA2CWZpbGU6Qml6Q3J1c2hfMC4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4wCmFtTER0b25kYkZMa0FjWCt0cXZ0SGljcW1yK3lJY1M2UlZUUkl3bzFKd2Q4dStPT0hQcmU1S2M1OEJpbTFyWHpzNkljRUhqb0o2eDlha3BTa1hGbkFRPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.0/BizCrush_0.3.0_x64-setup.exe"
     }
+  },
+  "notes_i18n": {
+    "en": "Update release notes now follow your app language, or your system language when using System default.\nChanging the app language updates the release notes immediately.\nIf a translation is unavailable, release notes are shown in English.",
+    "ko": "업데이트 변경사항이 앱 언어에 맞춰 표시됩니다. 시스템 기본값을 사용하면 기기 언어를 따릅니다.\n앱 언어를 바꾸면 변경사항도 즉시 전환됩니다.\n번역이 없는 언어는 영어 변경사항을 표시합니다.",
+    "ja": "アップデート内容がアプリの言語に合わせて表示されます。「システムのデフォルト」を使用する場合は、端末の言語に従います。\nアプリの言語を変更すると、アップデート内容もすぐに切り替わります。\n翻訳がない場合は英語で表示されます。",
+    "de": "Die Versionshinweise folgen jetzt der App-Sprache. Bei „Systemstandard“ wird die Systemsprache verwendet.\nWenn Sie die App-Sprache ändern, wechseln die Versionshinweise sofort mit.\nIst keine Übersetzung verfügbar, werden die Hinweise auf Englisch angezeigt.",
+    "fr": "Les notes de mise à jour suivent désormais la langue de l’application, ou celle du système si vous utilisez le réglage par défaut du système.\nChanger la langue de l’application actualise immédiatement les notes.\nSi une traduction est indisponible, les notes s’affichent en anglais.",
+    "es": "Las notas de actualización siguen ahora el idioma de la aplicación, o el idioma del sistema si usa la opción predeterminada del sistema.\nAl cambiar el idioma de la aplicación, las notas se actualizan inmediatamente.\nSi no hay una traducción disponible, las notas se muestran en inglés."
   }
 }
