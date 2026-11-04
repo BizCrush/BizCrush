@@ -1,15 +1,15 @@
 {
-  "version": "0.1.62",
-  "notes": "회의 목록의 추가 참석자 수에서 본인을 제외합니다. 본인을 포함해 3명이면 상대 이름 +1로 표시하며, 2명이면 상대 이름만 표시합니다.\n",
-  "pub_date": "2026-11-04T08:19:45.392409+00:00",
+  "version": "0.1.63",
+  "notes": "PC 로그인 화면을 모바일과 같은 디자인으로 통일했습니다.\n이메일 인증·비밀번호 입력과 로그인 방법 전환을 더 안정적으로 개선했습니다.\n",
+  "pub_date": "2026-11-04T08:42:47.518422+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVhcS85eFNTaE5UeDBDYXExUEpxTWUwOEZxREE2aUxhQUFTempmN1NIN2piN3AyNkc3bmRrU1JMWnpqNG9ZeitiSXprZ0ZpclpNMytXQVpWNjBHQUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzc5NjgzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjYyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjIKZ3duZWtrVE5ta2JpOE9DUXBHRWdUdWRnQndIQ2kwMldJVE9hZVJ4RjZ6dDJsK3ROWkJkVklNbG4vbVBNVDgxK2gxNEVSNERidER5ZFp2bEdyU2JsQlE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.62/BizCrush-Tauri_0.1.62_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDY2QzNWNGR0YnBETUlINmNPSnJVNkpDNTUwQmFXZ0Q0Mk4rWnRRUEdhRW9xSkNFMHhLdzJyM3lLZDlvK3NCTWdIbXd5TzUwbnJFR2tlZjhMVUpadUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzgxNDM3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjYzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjMKMnA0RUErQWpyQzZEUUdBRGRrYS82Y2lRM2kyb1ZhMUZtZFdRNlVrbFdxbmpmcDhxcG82dUNZOWsxOVdFVEsrNTlBa0tFSC84Yzh5VWd6dTJOYXdCRGc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.63/BizCrush-Tauri_0.1.63_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpuYWhYczJKWkdRVmpWUjgvSEhnMFYyY2plUUVoUmp1USs3N29LOGRkRU9GeE1UZWhpUktBR1pzSUthTTBHRTNTTGtUR1NuTEJwWWFYL3ZhMThoWkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzgwMzg1CWZpbGU6Qml6Q3J1c2hfMC4xLjYyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjIKcVJ3N0dwbnJqaFZBbGVKeGdNRkpEVCtWMDdiUEFaMVFveXNNTVVsSGlJeXpDdjBNeXk4aDVmbjFEVUxlUExtWHRWNW1Ub3hhUC9CeGc3cDloZkI5Q2c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.62/BizCrush_0.1.62_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZJeVZxSjlCNmFaOXR0SXBSN3RKWXBncUZVTE9KOTlPMnp0VHF6dkpmS0JKL1YvUVc3dDhabDk2bHdvUFZHWlBrSi80RjNqSjJYNFBhcHFjZFVIdHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzgxNzY3CWZpbGU6Qml6Q3J1c2hfMC4xLjYzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjMKdXdsMlNWU3V4bG1VZ01uTThIbG1EeXNkTmxFSGNIYkQ5TStNcXI2bWNEWjVBWjJWM3hRcXkyYjhMZlVLNzdHcE51VzViem5aSlhoVy8ra3pjRWFPQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.63/BizCrush_0.1.63_x64-setup.exe"
     }
   }
 }
