@@ -1,15 +1,15 @@
 {
-  "version": "0.1.69",
-  "notes": "# BizCrush Desktop 0.1.69\n\n- Set, change, or clear the language of a primary keyword.\n- Keep the language label when renaming or reopening the keyword editor.\n",
-  "pub_date": "2026-11-04T18:23:57.717672+00:00",
+  "version": "0.1.70",
+  "notes": "# BizCrush Desktop 0.1.70\n\n- Keep live transcripts at the bottom when an interim sentence wraps onto more lines.\n- Resume following when you scroll back to the bottom, and preserve your place when reading earlier text.\n- Follow live transcript reflow when resizing the desktop window.\n",
+  "pub_date": "2026-11-04T18:47:30.677110+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDg5TjdJaGp0UzMyTUJvQXhjR2gvOTZzUnNBVVNUc085MWF0Uyt4cWQwTEFycnZMNjZYRFh3UkVkVDc1M2NPQkYvSjZjUkhveTZybk9OSnlyM1hWL0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2NDQ4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjY5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNjkKVFR4OHVCTFpJRmhWTHBmdVNHZHJ4YU12UWZpNEI4aVBuU2RNdEp1UFJqaXIxZFJ5YXNnOS8zSkpoc1ZhNmNuUDBZS3ZkRjNYWXQ3dDE5TkZWR2h5QWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.69/BizCrush-Tauri_0.1.69_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9hS3RLM1ZpUVBLc2JPNmZva0laMVIvUUZyN2N4REhReDA4NFVkU0JOaFJJZW00WjZ4c3FZbjdMQkRpbUlUVWV3TG1IVmdpNkU1QzJCTWR0MDNWYWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE4MDE4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4xLjcwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNzAKL1JrZldDbFVnTkJKOUhxYVlVQVpVQ2xOVFNiRDZ4bDdWaDlGSFREQlRzb3pKTjZjeFFjYTlzZ1hYNms0MXl5RE4yUjhSbXhOWi9sbjIrTDRsMHVaQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.70/BizCrush-Tauri_0.1.70_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDYxZDBxY0RRVDJWQTFhN0FtSWptOW0zWFROdWJsc24yQytMNTFDUXNEeFoyUmo0akM3bWFBcEVyeGtBR2JsaURwL2tMb0ovNGsvdUdZVHhDMzJsUmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE2NjM3CWZpbGU6Qml6Q3J1c2hfMC4xLjY5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNjkKdXRSQXhtNFdKZHl4UTZqRU45TGFaYWx1ajA3U21YK1hkbDZRYXFBeUp5c0ZSVVcxSGJkZEVJT2lOUU5KSlFhdFJvYlc3TGNpdXFoeWdGN2kvYkRHQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.69/BizCrush_0.1.69_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDgxc25PK04rcXc3M2xrbXA2Q2NoUGFpTkRsTTMvZVd1Yi9ZM2FJazE2QytiMytkSEN4bjJZOVJzWExYMXBTcWYvaUd3eHVvSW5VeG96RGN3WXM3OEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODE4MDUwCWZpbGU6Qml6Q3J1c2hfMC4xLjcwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuNzAKc2VEbllwcGJmNm84UjBqKzFvVkZGYTI5MjRYQ1ZQLzVtb0ZMNnhHS3BYNU9aVW9pSWk3dkhKL3RlZzUvRm5wVnphU1hWM2FwSWZYaVllenNUWkxPREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.1.70/BizCrush_0.1.70_x64-setup.exe"
     }
   }
 }
