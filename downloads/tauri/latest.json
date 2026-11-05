@@ -1,23 +1,23 @@
 {
-  "version": "0.3.3",
-  "notes": "Live translations stay visible while the original speech becomes final. Late translations remain attached to the correct sentence.",
-  "pub_date": "2026-11-05T02:13:18.377987+00:00",
+  "version": "0.3.4",
+  "notes": "The presentation remote now stays visible above fullscreen output on Windows. Unsaved settings and the remote’s minimized state are preserved when entering or leaving fullscreen.",
+  "pub_date": "2026-11-05T03:42:11.421261+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHc5YTZzbjBqdFZyY2pMZElLRGp4RkkyNVV0L21YWVZLdm9SUXRaM2RzRHVVaHlHaDVkbHJQMC9tRjFZQjYyVnVTZVlRSWRNNUFDUlMvRXlrbHJxUVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ0NzEwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjNfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4zClBBbnFOZEd5KzE1M2FpUzJDK25sUWNPRGpNaEFTaytRZlQvMFhHcnFZOVBmQ0ZISmJQYllpd0RuSHBuZEtyRllsMGNXMGJMVlVMT3pobUhQbWlzdkJBPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.3/BizCrush-Tauri_0.3.3_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpwV09yN2ZYYm9RSHFoSktPMThtNjFDdHptbGttUVNjRVZYRi8wc0NtZWVQTXBPQ0NxOE1ZMjFndndGUWVYaDJPaEhUdnNWSmpVaHRXZE1mOGJEK3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUwMTA1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjRfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy40Ckx1dDZIUmVwaW5EeEpaS2dlVFhzSXZOdmptZnVYY0NTbXVIVElmejZmNEdWaE9JR1Q1eGM4dEpqZlpZUjBvQTBKMXozUndzcEpIMW9OT29pb3BROER3PT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.4/BizCrush-Tauri_0.3.4_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtvR1BlejdaemRhTjQxREdxYi9XRTI0TE1GTC9NTnBHdHJIQ3B4L3JuNnIxSzI1emtZK1F4UjlwV2lPOWlZYzlYV3ZvYlNlSDN3c2dVR2hxV1BjWUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ0Nzk4CWZpbGU6Qml6Q3J1c2hfMC4zLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4zCmIzTWg2WGJjOUxiYkR6eUVrL3VjMHZ2bkZUQ29YMGlPakdPNC9XSWw0aDhkQTAwelpJN0JpTkYvcGlpcEc1dFpTaU5UMGM4RU9tdVBXa1lQdzRpL0NBPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.3/BizCrush_0.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdRNkpHZEgySzlqOXQwZUhEYkFCN1NkalljWDlGc3lhRm50b0JGTzBScWxidHRRTU8zUUp0SnFxYnI4THFzUkd6cnNNd21UYTFwZ09Wb2F3TVl4cndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUwMTMxCWZpbGU6Qml6Q3J1c2hfMC4zLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40CkFOOXU1OWt6MkwyWUJiWk5GK1g3VE9xWGVHQlhncVBxTHFoNU1JWUtUb3JqNVRaSEMrZVlzL2hNcnlYbWxBeU51cHp2Zm9ZOHBzc24wTFZxakNRQ0JnPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.4/BizCrush_0.3.4_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Live translations stay visible while the original speech becomes final. Late translations remain attached to the correct sentence.",
-    "ko": "원문이 확정되는 동안에도 실시간 번역이 유지됩니다. 늦게 도착한 번역이 해당 문장에 안정적으로 이어집니다.",
-    "ja": "原文の確定中もリアルタイム翻訳を表示し続けます。遅れて届く翻訳も正しい文に反映されます。",
-    "de": "Live-Übersetzungen bleiben sichtbar, während der Originaltext abgeschlossen wird. Später eintreffende Übersetzungen bleiben dem richtigen Satz zugeordnet.",
-    "fr": "Les traductions restent visibles pendant la finalisation du texte original. Les traductions tardives restent associées à la bonne phrase.",
-    "es": "Las traducciones siguen visibles mientras se finaliza el texto original. Las traducciones tardías se mantienen vinculadas a la frase correcta."
+    "en": "The presentation remote now stays visible above fullscreen output on Windows. Unsaved settings and the remote’s minimized state are preserved when entering or leaving fullscreen.",
+    "ko": "Windows에서 프레젠테이션을 전체화면으로 전환해도 리모콘이 유지됩니다. 전체화면 전환 전후에 미저장 설정과 리모콘의 최소화 상태가 보존됩니다.",
+    "ja": "Windowsでプレゼンテーションを全画面表示にしてもリモコンが表示され続けます。全画面表示の切り替え時も未保存の設定と最小化の状態を保持します。",
+    "de": "Unter Windows bleibt die Präsentationssteuerung über der Vollbildausgabe sichtbar. Ungespeicherte Einstellungen und der minimierte Zustand bleiben beim Wechsel in und aus dem Vollbild erhalten.",
+    "fr": "Sous Windows, la télécommande de présentation reste visible au-dessus de la sortie en plein écran. Les réglages non enregistrés et l’état minimisé sont conservés lors du changement de mode.",
+    "es": "En Windows, el control de presentación permanece visible sobre la salida a pantalla completa. Los ajustes sin guardar y el estado minimizado se conservan al cambiar de modo."
   }
 }
