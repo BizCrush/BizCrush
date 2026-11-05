@@ -1,23 +1,23 @@
 {
-  "version": "0.3.2",
-  "notes": "Fixed live transcript editing. Hosts and co-hosts can right-click finalized text to edit and save it while recording, regardless of the old instant-editing setting.",
-  "pub_date": "2026-11-05T01:47:02.178258+00:00",
+  "version": "0.3.3",
+  "notes": "Live translations stay visible while the original speech becomes final. Late translations remain attached to the correct sentence.",
+  "pub_date": "2026-11-05T02:13:18.377987+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZVYWN0dDJuejVJTnZqczNLK1NTRTk3cUsrVGd0cXBmY2ZCN0syclFRa0VoSXJIdkNhelZmM0xtYVovdEk0OTBJeE5UaWNGMGFCNmUxcThuK3Y5NkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQzMDA1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjJfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4yCktya2h2c1d0MWkzT3l2cHZYS3NFNmlycm42czBnQjdVUkZMMklDOXNlWGd3U2Rncy8zN0V0VVk5OS9Ya0cxcXFiWGhxcmZQSTB3YjdCYmhNMlRNSEN3PT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.2/BizCrush-Tauri_0.3.2_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHc5YTZzbjBqdFZyY2pMZElLRGp4RkkyNVV0L21YWVZLdm9SUXRaM2RzRHVVaHlHaDVkbHJQMC9tRjFZQjYyVnVTZVlRSWRNNUFDUlMvRXlrbHJxUVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ0NzEwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjNfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4zClBBbnFOZEd5KzE1M2FpUzJDK25sUWNPRGpNaEFTaytRZlQvMFhHcnFZOVBmQ0ZISmJQYllpd0RuSHBuZEtyRllsMGNXMGJMVlVMT3pobUhQbWlzdkJBPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.3/BizCrush-Tauri_0.3.3_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHh0Mm1DL1JraENZWXl0QnJKalo4SHdaRzhVbEhGanA4OFNZcWt3OCthcytVVEc1VFE3T09rc2xsQmZidWJidnFUcTVsZG50NlpRMTNpcUVIam1lTmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQzMjIyCWZpbGU6Qml6Q3J1c2hfMC4zLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4yCjdid0VNS2xSeUhkNDE1MkhTZVd1MWx6VUk5cDdTanFHaitsVWVhbFZaellEa0hpL1QxU09MUldQNCtNNlI5OG9YeTZRMStGbHVUc2NiS0hDaHB6cENBPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.2/BizCrush_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtvR1BlejdaemRhTjQxREdxYi9XRTI0TE1GTC9NTnBHdHJIQ3B4L3JuNnIxSzI1emtZK1F4UjlwV2lPOWlZYzlYV3ZvYlNlSDN3c2dVR2hxV1BjWUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ0Nzk4CWZpbGU6Qml6Q3J1c2hfMC4zLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4zCmIzTWg2WGJjOUxiYkR6eUVrL3VjMHZ2bkZUQ29YMGlPakdPNC9XSWw0aDhkQTAwelpJN0JpTkYvcGlpcEc1dFpTaU5UMGM4RU9tdVBXa1lQdzRpL0NBPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.3/BizCrush_0.3.3_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Fixed live transcript editing. Hosts and co-hosts can right-click finalized text to edit and save it while recording, regardless of the old instant-editing setting.",
-    "ko": "실시간 전사 편집이 되지 않던 문제를 수정했습니다. 기존 즉시 편집 설정과 관계없이 호스트와 공동 호스트가 녹음 중 확정된 문장을 우클릭해 수정하고 저장할 수 있습니다.",
-    "ja": "リアルタイム文字起こしを編集できない問題を修正しました。以前の即時編集設定にかかわらず、ホストと共同ホストは録音中に確定した文章を右クリックして編集・保存できます。",
-    "de": "Die Bearbeitung von Live-Transkripten wurde korrigiert. Hosts und Co-Hosts können bestätigten Text während der Aufnahme per Rechtsklick bearbeiten und speichern, unabhängig von der bisherigen Einstellung.",
-    "fr": "Correction de la modification des transcriptions en direct. Les hôtes et co-hôtes peuvent modifier et enregistrer le texte finalisé par clic droit pendant l’enregistrement, quel que soit l’ancien réglage.",
-    "es": "Se corrigió la edición de transcripciones en directo. Los anfitriones y coanfitriones pueden hacer clic derecho en el texto finalizado para editarlo y guardarlo durante la grabación, independientemente del ajuste anterior."
+    "en": "Live translations stay visible while the original speech becomes final. Late translations remain attached to the correct sentence.",
+    "ko": "원문이 확정되는 동안에도 실시간 번역이 유지됩니다. 늦게 도착한 번역이 해당 문장에 안정적으로 이어집니다.",
+    "ja": "原文の確定中もリアルタイム翻訳を表示し続けます。遅れて届く翻訳も正しい文に反映されます。",
+    "de": "Live-Übersetzungen bleiben sichtbar, während der Originaltext abgeschlossen wird. Später eintreffende Übersetzungen bleiben dem richtigen Satz zugeordnet.",
+    "fr": "Les traductions restent visibles pendant la finalisation du texte original. Les traductions tardives restent associées à la bonne phrase.",
+    "es": "Las traducciones siguen visibles mientras se finaliza el texto original. Las traducciones tardías se mantienen vinculadas a la frase correcta."
   }
 }
