@@ -1,23 +1,23 @@
 {
-  "version": "0.3.9",
-  "notes": "Close presentation setup with X, Cancel or Esc while it is starting. If startup takes too long, troubleshooting guidance helps you check screen capture apps and permissions, then retry.\nSelected caption languages are registered with the meeting automatically. System audio capture recovery during presentation transitions is improved on macOS.\nStopping a recording preserves the transcript while post-transcription batches arrive, avoiding repeated scrolling from the beginning.",
-  "pub_date": "2026-11-05T17:54:19.712316+00:00",
+  "version": "0.3.10",
+  "notes": "Presentation language and display changes made from another device now refresh the presenter’s local remote. The active capture and the other caption pane are preserved.",
+  "pub_date": "2026-11-05T18:17:53.355186+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhyZUVJQldaMVQ3a0xzRFhBUDFPdEcxUDEvOXorZUJXa2FyRCtRRXIwUlg1SnliV1ZaUGNrdmJTbTJrL1NpOUNUT05oMjRibXdBLzk1dHJVNE0wbkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwNzg5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjlfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy45CnJLaGdxMHZ2YkpWcGVueS81TzZocHJYalFMUUsrVmhBSFdDQjR1bldtRkNmU3ZFWjA1Q1NRTkxZdndJQzRuaXhmSEQ5aXVqUUN0R3h1YXpZOXE2MkN3PT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.9/BizCrush-Tauri_0.3.9_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHp3QlZKY0pQY2JsSDF5WXJTckdqWnZHY0lhNWdzS3pyY293eFQzeklIVEpTbDBXQTU2LzB0dThSUTZyRXYxODRVZGhhelFFbjJMVS9XMVpPNnhSSXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyMzYyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjEwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTAKbzBLSlNRdER4QWFHZWdQbVY1M09LQUhqU1RmeWtYTjdvUHkxWEVWSll0RzU2a0IzNmhQYjdmS1BLSWRGaVZVR1ovRmwwcThSZUk0VisvVUZqU2RSQ0E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.10/BizCrush-Tauri_0.3.10_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtzR2I3N1hnQXU5MTB4OWNhR0dEQU9DalYvTTVHKy9sa1V1TkxXRzBTZWNTZWRkbGxaSit4N0hPanlKQ3l0MmdOTlhONHlmUDYyOVJhWkFhQUhsVHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxMjU5CWZpbGU6Qml6Q3J1c2hfMC4zLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy45CmdMTlNJVzJ5WTMxN3VhZSt2cUU0Z0pQaXg0RkVTQnFEL05DcnJSL2NIZjl6QW5WOWhsMlhaMVVuM3NpcjZqT2xZTUVqMk5wQ0dkMDAyQUJJMkhWQURRPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.9/BizCrush_0.3.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJjVHpwOTNsNExEb20rSWJ5b3E2dHhnT2xvV255Nm1yUmh5L3pQUDFpZnJLSFJPUXVtMmR1bkthUXpLakl6V29nTVI5NFhWTkFGSFR4ZVNqK1VIUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyNjczCWZpbGU6Qml6Q3J1c2hfMC4zLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTAKYlZNQ2M4MENFTUdrV3ZKNEs5L01JMGk0MGZjc2phZGJPV0VSVWk4VGU3RHBTc0F3NmI3cktrSkhsb1l0emxnTkptQzZIalFIY3Q2Vys0ZlpidTFyQVE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.10/BizCrush_0.3.10_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "프레젠테이션을 여는 중에도 X·취소·Esc로 닫을 수 있습니다. 시작이 지연되면 화면 캡처·공유 프로그램과 권한을 확인할 수 있도록 안내하고 재시도를 지원합니다.\n선택한 자막 언어를 미팅에 자동 등록하고, macOS에서 프레젠테이션 전환 중 시스템 오디오 캡처 복구를 개선했습니다.\n녹음 종료 후 후처리 전사가 도착할 때 읽던 목록을 유지해, 처음부터 아래로 반복 스크롤되는 문제를 수정했습니다.",
-    "en": "Close presentation setup with X, Cancel or Esc while it is starting. If startup takes too long, troubleshooting guidance helps you check screen capture apps and permissions, then retry.\nSelected caption languages are registered with the meeting automatically. System audio capture recovery during presentation transitions is improved on macOS.\nStopping a recording preserves the transcript while post-transcription batches arrive, avoiding repeated scrolling from the beginning.",
-    "ja": "プレゼンテーションの開始中も、X・キャンセル・Escで設定を閉じられます。開始に時間がかかる場合は、画面収録・共有アプリや権限を確認する案内を表示し、再試行できます。\n選択した字幕言語をミーティングに自動登録し、macOSでのプレゼンテーション切り替え時のシステム音声の復旧を改善しました。\n録音終了後の文字起こし処理中も表示中の履歴を保持し、先頭から末尾へ繰り返しスクロールする問題を修正しました。",
-    "de": "Die Präsentationseinrichtung lässt sich während des Starts mit X, Abbrechen oder Esc schließen. Dauert der Start zu lange, helfen Hinweise zu Bildschirmaufnahme-Apps und Berechtigungen beim erneuten Versuch.\nAusgewählte Untertitelsprachen werden automatisch im Meeting registriert. Die Wiederherstellung der Systemaudioaufnahme beim Präsentationswechsel unter macOS wurde verbessert.\nBeim Beenden einer Aufnahme bleibt der Transkriptverlauf während der Nachverarbeitung erhalten, ohne wiederholt vom Anfang nach unten zu scrollen.",
-    "fr": "Fermez la configuration avec X, Annuler ou Échap pendant le démarrage. Si le démarrage prend trop de temps, des indications vous aident à vérifier les applications de capture et les autorisations avant de réessayer.\nLes langues de sous-titres choisies sont automatiquement ajoutées à la réunion. La reprise de la capture audio système lors des transitions de présentation a été améliorée sur macOS.\nÀ l’arrêt de l’enregistrement, la transcription reste affichée pendant le traitement, sans défilements répétés du début vers la fin.",
-    "es": "Cierra la configuración con X, Cancelar o Esc mientras se inicia. Si tarda demasiado, se muestran indicaciones para revisar las aplicaciones de captura y los permisos, y volver a intentarlo.\nLos idiomas de subtítulos elegidos se registran automáticamente en la reunión. Se ha mejorado la recuperación de la captura de audio del sistema durante las transiciones de presentación en macOS.\nAl detener la grabación, se conserva la transcripción durante el procesamiento, evitando desplazamientos repetidos desde el principio."
+    "ko": "다른 기기에서 바꾼 프레젠테이션 언어와 표시 설정이 송출 컴퓨터의 로컬 리모컨에도 반영됩니다. 현재 캡처와 반대쪽 자막 설정을 유지합니다.",
+    "en": "Presentation language and display changes made from another device now refresh the presenter’s local remote. The active capture and the other caption pane are preserved.",
+    "ja": "別の端末で変更した字幕言語と表示設定が、送出側のローカルリモコンにも反映されます。キャプチャと反対側の字幕設定を維持します。",
+    "de": "Änderungen an Untertitelsprache und Darstellung von einem anderen Gerät erscheinen jetzt auch in der lokalen Fernbedienung. Die Aufnahme und die andere Untertitelseite bleiben erhalten.",
+    "fr": "Les modifications de langue et d’affichage depuis un autre appareil actualisent désormais la télécommande locale. La capture et l’autre volet de sous-titres sont conservés.",
+    "es": "Los cambios de idioma y visualización desde otro dispositivo ahora actualizan el mando local. Se conservan la captura activa y el otro panel de subtítulos."
   }
 }
