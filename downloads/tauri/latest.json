@@ -1,23 +1,23 @@
 {
-  "version": "0.3.7",
-  "notes": "Keep live translations visible while sentences split and finalize. Stabilize caption order and layout, and include the latest startup and recording recovery fixes.",
-  "pub_date": "2026-11-05T07:18:37.945942+00:00",
+  "version": "0.3.8",
+  "notes": "Hosts and co-hosts can change a running presentation’s caption languages and appearance from another device in the same meeting.\nSupports top, bottom, left, right, dual and floating captions while keeping the current shared screen.",
+  "pub_date": "2026-11-05T16:20:14.874811+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDM5TW1oWXZValVSOGFVOTIwcnh4RkV6Nk42M0x5Mjg2VU4vTnB3VWhoNm5OK1I3T1BEbGpIL2swVVlzc2NnbGxWaDcwSjVaNkZhUmJnM3AreUZoMkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODYyNjY5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjdfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy43ClhTaFNZWGlsSVdzc0UrY0FMWFV1Y01UYW9EV0hhdlNqWEl3bWdmN3dINUgzSTR1RHExbDlPTXdqTENXWHNWN3V0aHd3TEZQM1VRb01UTHZLWERiTER3PT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.7/BizCrush-Tauri_0.3.7_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN5bjE5NVl1cDJyM29KTW1KTEt1Y3Q5RTFKTms3WkFUdlNseUJaMzc2TnlqQzhKNTQ1SVV1UG1jV3dxRSt3aURqUjFoeGl4M01lQTBQSUtxOGRpcVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk0NjE2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjhfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy44CmxpelI3aG1iQW5QOXlvSXhqWCsvYmVYK3BVak91Yy9TRmxhTklCMVkyRERsK1hYdlRKazhzVTQxL0gvSFNQaEhqY29UZmFwRUYvaVp0QlBRbWZHbUN3PT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.8/BizCrush-Tauri_0.3.8_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDE5VHM5WEc0a09Idmg0VExHRDhaa1l0Q2hJUStKVEZENU1BMlI3R1IyZVgwNEtsTFAvQ0Vvbm9CeHBuV0V4UGppbVY3SUJJRTg5am5QalI0VzRBSmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODYzMTE3CWZpbGU6Qml6Q3J1c2hfMC4zLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy43CjFlajhTc2VmZk5aTTJ4NUlVVThNdGVKeStwZkE3T3R1SW5aT0pqeFhFMm5mWHVWbkxhQWtlNERSalhOK0taS1ZuR0dYclNjSkYwdnZnUndmalByZUFRPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.7/BizCrush_0.3.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDB6NUZURnZiT3Z0cFh1TW55ZnpqWHZZd0t0MVR2Y1dUT2FQVi9iMU00VzMyYWFNanh3SFJnQ2pIZFV0bXBBZVBvd2hDbk1xVFE5RUY3WWJIMXd1UXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk1NjE0CWZpbGU6Qml6Q3J1c2hfMC4zLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy44CnNLWmZydGl0MFVxMHp0Y1Qzbnp3YmNBM1RqZnhZL0tHTmlKZzk3M2F0L05DY0o5TjhwTHA1ZVFyRTF5djJWYnVLcThDV01oclVyTmpNY3VESHNwR0NnPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.8/BizCrush_0.3.8_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "문장 분할·확정 중에도 실시간 번역이 유지되도록 개선했습니다. 자막 순서와 줄 높이를 안정화하고 최신 실행·녹음 복구 수정을 반영했습니다.",
-    "en": "Keep live translations visible while sentences split and finalize. Stabilize caption order and layout, and include the latest startup and recording recovery fixes.",
-    "ja": "文章の分割・確定時もリアルタイム翻訳を保持し、字幕の順序とレイアウトを安定化しました。",
-    "de": "Live-Übersetzungen bleiben beim Teilen und Abschließen von Sätzen sichtbar. Reihenfolge und Layout der Untertitel wurden stabilisiert.",
-    "fr": "Les traductions restent visibles pendant la séparation et la finalisation des phrases. L’ordre et la disposition des sous-titres sont stabilisés.",
-    "es": "Las traducciones permanecen visibles al dividir y finalizar frases. Se estabilizan el orden y el diseño de los subtítulos."
+    "ko": "같은 미팅의 호스트와 코호스트가 다른 기기에서 진행 중인 프레젠테이션의 언어와 자막 표시 설정을 바꿀 수 있습니다.\n위·아래·좌·우·좌우·플로팅 송출을 지원하며 현재 공유 화면을 유지합니다.",
+    "en": "Hosts and co-hosts can change a running presentation’s caption languages and appearance from another device in the same meeting.\nSupports top, bottom, left, right, dual and floating captions while keeping the current shared screen.",
+    "ja": "同じミーティングのホストと共同ホストが、別の端末から進行中のプレゼンテーションの字幕言語や表示設定を変更できます。\n上下・左右・両側・フローティング字幕に対応し、現在の共有画面を維持します。",
+    "de": "Hosts und Co-Hosts können die Untertitelsprachen und Darstellung einer laufenden Präsentation von einem anderen Gerät im selben Meeting ändern.\nUnterstützt Untertitel oben, unten, links, rechts, beidseitig und schwebend, während der geteilte Bildschirm erhalten bleibt.",
+    "fr": "Les hôtes et co-hôtes peuvent modifier les langues et l’apparence des sous-titres d’une présentation en cours depuis un autre appareil dans la même réunion.\nLes affichages en haut, en bas, à gauche, à droite, des deux côtés et flottants conservent l’écran partagé actuel.",
+    "es": "Los anfitriones y coanfitriones pueden cambiar los idiomas y la apariencia de los subtítulos de una presentación en curso desde otro dispositivo de la misma reunión.\nSe admiten subtítulos arriba, abajo, a la izquierda, a la derecha, en ambos lados y flotantes, manteniendo la pantalla compartida actual."
   }
 }
