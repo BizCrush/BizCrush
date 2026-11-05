@@ -1,23 +1,23 @@
 {
-  "version": "0.3.10",
-  "notes": "Presentation language and display changes made from another device now refresh the presenter’s local remote. The active capture and the other caption pane are preserved.",
-  "pub_date": "2026-11-05T18:17:53.355186+00:00",
+  "version": "0.3.11",
+  "notes": "Switch between Top, Bottom, Left, Right, L/R and Floating from the presentation remote while preserving the selected capture and caption settings. The title and Apply button stay visible. New setups default to selected language only.",
+  "pub_date": "2026-11-05T19:44:51.742536+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHp3QlZKY0pQY2JsSDF5WXJTckdqWnZHY0lhNWdzS3pyY293eFQzeklIVEpTbDBXQTU2LzB0dThSUTZyRXYxODRVZGhhelFFbjJMVS9XMVpPNnhSSXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyMzYyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjEwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTAKbzBLSlNRdER4QWFHZWdQbVY1M09LQUhqU1RmeWtYTjdvUHkxWEVWSll0RzU2a0IzNmhQYjdmS1BLSWRGaVZVR1ovRmwwcThSZUk0VisvVUZqU2RSQ0E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.10/BizCrush-Tauri_0.3.10_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRxVW9XNDN1d1BIK0JEcHBwTUlCSjNvV3ZFVk9COVRReTc0N3FzLzZ2ZklPTDRnV0tmNTk3SXE1Tm9paW9qNDJQeWNpNW13dnhvakU4dDRycTBudVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA3NTg5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjExX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTEKL3YyTi8zNytMZm1pVlQyaDZxQVd2RTkvUWdvNnEyME1QZnRUZ2duODE3OGVqYW1mc0oxT3Q1L2t3bjBPcXJJa3BxdVp1NWUxekU5bENrNnhRODZLQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.11/BizCrush-Tauri_0.3.11_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJjVHpwOTNsNExEb20rSWJ5b3E2dHhnT2xvV255Nm1yUmh5L3pQUDFpZnJLSFJPUXVtMmR1bkthUXpLakl6V29nTVI5NFhWTkFGSFR4ZVNqK1VIUlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAyNjczCWZpbGU6Qml6Q3J1c2hfMC4zLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTAKYlZNQ2M4MENFTUdrV3ZKNEs5L01JMGk0MGZjc2phZGJPV0VSVWk4VGU3RHBTc0F3NmI3cktrSkhsb1l0emxnTkptQzZIalFIY3Q2Vys0ZlpidTFyQVE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.10/BizCrush_0.3.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN6SS9BMTJBeTVxb3JDeFRvcHVOR21OdmpKT2FwQVZCcEF5b2hrTlpsYXVnYWF4Vjg2bVptVWw3Z2Q3Z2I0QnhqRFNDTmVYcE4zRFJTazdVWWp6dXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA3ODkxCWZpbGU6Qml6Q3J1c2hfMC4zLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTEKR0JTSC9zYmQ0bGVKR0kxWXA3eWh0TnJodzVHaG9DUUU0VmpYZS80RWFuZDV4QkNjL0Nyc055YkNxMXpFUDdLU3BKTXpUMWc3QVVma3QzTjRkakVWQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.11/BizCrush_0.3.11_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "다른 기기에서 바꾼 프레젠테이션 언어와 표시 설정이 송출 컴퓨터의 로컬 리모컨에도 반영됩니다. 현재 캡처와 반대쪽 자막 설정을 유지합니다.",
-    "en": "Presentation language and display changes made from another device now refresh the presenter’s local remote. The active capture and the other caption pane are preserved.",
-    "ja": "別の端末で変更した字幕言語と表示設定が、送出側のローカルリモコンにも反映されます。キャプチャと反対側の字幕設定を維持します。",
-    "de": "Änderungen an Untertitelsprache und Darstellung von einem anderen Gerät erscheinen jetzt auch in der lokalen Fernbedienung. Die Aufnahme und die andere Untertitelseite bleiben erhalten.",
-    "fr": "Les modifications de langue et d’affichage depuis un autre appareil actualisent désormais la télécommande locale. La capture et l’autre volet de sous-titres sont conservés.",
-    "es": "Los cambios de idioma y visualización desde otro dispositivo ahora actualizan el mando local. Se conservan la captura activa y el otro panel de subtítulos."
+    "ko": "프레젠테이션 리모컨에서 위·아래·왼쪽·오른쪽·좌우·플로팅 배치를 전환할 수 있습니다. 선택한 캡처와 자막 설정을 유지하며, 제목과 적용 버튼을 항상 표시합니다. 새 설정은 선택한 언어만 표시하는 모드로 시작합니다.",
+    "en": "Switch between Top, Bottom, Left, Right, L/R and Floating from the presentation remote while preserving the selected capture and caption settings. The title and Apply button stay visible. New setups default to selected language only.",
+    "ja": "プレゼンテーションのリモコンで上・下・左・右・左右・フローティングを切り替えられます。選択したキャプチャと字幕設定を保持し、タイトルと適用ボタンを常に表示します。新しい設定では選択言語のみを表示します。",
+    "de": "Die Präsentationsfernbedienung wechselt zwischen Oben, Unten, Links, Rechts, L/R und Schwebend. Aufnahme und Untertiteleinstellungen bleiben erhalten. Titel und Anwenden bleiben sichtbar. Neue Einstellungen zeigen nur die gewählte Sprache.",
+    "fr": "La télécommande permet de passer entre Haut, Bas, Gauche, Droite, G/D et Flottant en conservant la capture et les réglages des sous-titres. Le titre et le bouton Appliquer restent visibles. Les nouvelles configurations affichent uniquement la langue choisie.",
+    "es": "Cambia entre Arriba, Abajo, Izquierda, Derecha, I/D y Flotante desde el mando, conservando la captura y los ajustes de subtítulos. El título y Aplicar permanecen visibles. Las nuevas configuraciones muestran solo el idioma seleccionado."
   }
 }
