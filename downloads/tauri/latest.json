@@ -1,23 +1,23 @@
 {
-  "version": "0.3.8",
-  "notes": "Hosts and co-hosts can change a running presentation’s caption languages and appearance from another device in the same meeting.\nSupports top, bottom, left, right, dual and floating captions while keeping the current shared screen.",
-  "pub_date": "2026-11-05T16:20:14.874811+00:00",
+  "version": "0.3.9",
+  "notes": "Close presentation setup with X, Cancel or Esc while it is starting. If startup takes too long, troubleshooting guidance helps you check screen capture apps and permissions, then retry.\nSelected caption languages are registered with the meeting automatically. System audio capture recovery during presentation transitions is improved on macOS.\nStopping a recording preserves the transcript while post-transcription batches arrive, avoiding repeated scrolling from the beginning.",
+  "pub_date": "2026-11-05T17:54:19.712316+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN5bjE5NVl1cDJyM29KTW1KTEt1Y3Q5RTFKTms3WkFUdlNseUJaMzc2TnlqQzhKNTQ1SVV1UG1jV3dxRSt3aURqUjFoeGl4M01lQTBQSUtxOGRpcVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk0NjE2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjhfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy44CmxpelI3aG1iQW5QOXlvSXhqWCsvYmVYK3BVak91Yy9TRmxhTklCMVkyRERsK1hYdlRKazhzVTQxL0gvSFNQaEhqY29UZmFwRUYvaVp0QlBRbWZHbUN3PT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.8/BizCrush-Tauri_0.3.8_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhyZUVJQldaMVQ3a0xzRFhBUDFPdEcxUDEvOXorZUJXa2FyRCtRRXIwUlg1SnliV1ZaUGNrdmJTbTJrL1NpOUNUT05oMjRibXdBLzk1dHJVNE0wbkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAwNzg5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjlfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy45CnJLaGdxMHZ2YkpWcGVueS81TzZocHJYalFMUUsrVmhBSFdDQjR1bldtRkNmU3ZFWjA1Q1NRTkxZdndJQzRuaXhmSEQ5aXVqUUN0R3h1YXpZOXE2MkN3PT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.9/BizCrush-Tauri_0.3.9_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDB6NUZURnZiT3Z0cFh1TW55ZnpqWHZZd0t0MVR2Y1dUT2FQVi9iMU00VzMyYWFNanh3SFJnQ2pIZFV0bXBBZVBvd2hDbk1xVFE5RUY3WWJIMXd1UXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODk1NjE0CWZpbGU6Qml6Q3J1c2hfMC4zLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy44CnNLWmZydGl0MFVxMHp0Y1Qzbnp3YmNBM1RqZnhZL0tHTmlKZzk3M2F0L05DY0o5TjhwTHA1ZVFyRTF5djJWYnVLcThDV01oclVyTmpNY3VESHNwR0NnPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.8/BizCrush_0.3.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtzR2I3N1hnQXU5MTB4OWNhR0dEQU9DalYvTTVHKy9sa1V1TkxXRzBTZWNTZWRkbGxaSit4N0hPanlKQ3l0MmdOTlhONHlmUDYyOVJhWkFhQUhsVHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTAxMjU5CWZpbGU6Qml6Q3J1c2hfMC4zLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy45CmdMTlNJVzJ5WTMxN3VhZSt2cUU0Z0pQaXg0RkVTQnFEL05DcnJSL2NIZjl6QW5WOWhsMlhaMVVuM3NpcjZqT2xZTUVqMk5wQ0dkMDAyQUJJMkhWQURRPT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.9/BizCrush_0.3.9_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "같은 미팅의 호스트와 코호스트가 다른 기기에서 진행 중인 프레젠테이션의 언어와 자막 표시 설정을 바꿀 수 있습니다.\n위·아래·좌·우·좌우·플로팅 송출을 지원하며 현재 공유 화면을 유지합니다.",
-    "en": "Hosts and co-hosts can change a running presentation’s caption languages and appearance from another device in the same meeting.\nSupports top, bottom, left, right, dual and floating captions while keeping the current shared screen.",
-    "ja": "同じミーティングのホストと共同ホストが、別の端末から進行中のプレゼンテーションの字幕言語や表示設定を変更できます。\n上下・左右・両側・フローティング字幕に対応し、現在の共有画面を維持します。",
-    "de": "Hosts und Co-Hosts können die Untertitelsprachen und Darstellung einer laufenden Präsentation von einem anderen Gerät im selben Meeting ändern.\nUnterstützt Untertitel oben, unten, links, rechts, beidseitig und schwebend, während der geteilte Bildschirm erhalten bleibt.",
-    "fr": "Les hôtes et co-hôtes peuvent modifier les langues et l’apparence des sous-titres d’une présentation en cours depuis un autre appareil dans la même réunion.\nLes affichages en haut, en bas, à gauche, à droite, des deux côtés et flottants conservent l’écran partagé actuel.",
-    "es": "Los anfitriones y coanfitriones pueden cambiar los idiomas y la apariencia de los subtítulos de una presentación en curso desde otro dispositivo de la misma reunión.\nSe admiten subtítulos arriba, abajo, a la izquierda, a la derecha, en ambos lados y flotantes, manteniendo la pantalla compartida actual."
+    "ko": "프레젠테이션을 여는 중에도 X·취소·Esc로 닫을 수 있습니다. 시작이 지연되면 화면 캡처·공유 프로그램과 권한을 확인할 수 있도록 안내하고 재시도를 지원합니다.\n선택한 자막 언어를 미팅에 자동 등록하고, macOS에서 프레젠테이션 전환 중 시스템 오디오 캡처 복구를 개선했습니다.\n녹음 종료 후 후처리 전사가 도착할 때 읽던 목록을 유지해, 처음부터 아래로 반복 스크롤되는 문제를 수정했습니다.",
+    "en": "Close presentation setup with X, Cancel or Esc while it is starting. If startup takes too long, troubleshooting guidance helps you check screen capture apps and permissions, then retry.\nSelected caption languages are registered with the meeting automatically. System audio capture recovery during presentation transitions is improved on macOS.\nStopping a recording preserves the transcript while post-transcription batches arrive, avoiding repeated scrolling from the beginning.",
+    "ja": "プレゼンテーションの開始中も、X・キャンセル・Escで設定を閉じられます。開始に時間がかかる場合は、画面収録・共有アプリや権限を確認する案内を表示し、再試行できます。\n選択した字幕言語をミーティングに自動登録し、macOSでのプレゼンテーション切り替え時のシステム音声の復旧を改善しました。\n録音終了後の文字起こし処理中も表示中の履歴を保持し、先頭から末尾へ繰り返しスクロールする問題を修正しました。",
+    "de": "Die Präsentationseinrichtung lässt sich während des Starts mit X, Abbrechen oder Esc schließen. Dauert der Start zu lange, helfen Hinweise zu Bildschirmaufnahme-Apps und Berechtigungen beim erneuten Versuch.\nAusgewählte Untertitelsprachen werden automatisch im Meeting registriert. Die Wiederherstellung der Systemaudioaufnahme beim Präsentationswechsel unter macOS wurde verbessert.\nBeim Beenden einer Aufnahme bleibt der Transkriptverlauf während der Nachverarbeitung erhalten, ohne wiederholt vom Anfang nach unten zu scrollen.",
+    "fr": "Fermez la configuration avec X, Annuler ou Échap pendant le démarrage. Si le démarrage prend trop de temps, des indications vous aident à vérifier les applications de capture et les autorisations avant de réessayer.\nLes langues de sous-titres choisies sont automatiquement ajoutées à la réunion. La reprise de la capture audio système lors des transitions de présentation a été améliorée sur macOS.\nÀ l’arrêt de l’enregistrement, la transcription reste affichée pendant le traitement, sans défilements répétés du début vers la fin.",
+    "es": "Cierra la configuración con X, Cancelar o Esc mientras se inicia. Si tarda demasiado, se muestran indicaciones para revisar las aplicaciones de captura y los permisos, y volver a intentarlo.\nLos idiomas de subtítulos elegidos se registran automáticamente en la reunión. Se ha mejorado la recuperación de la captura de audio del sistema durante las transiciones de presentación en macOS.\nAl detener la grabación, se conserva la transcripción durante el procesamiento, evitando desplazamientos repetidos desde el principio."
   }
 }
