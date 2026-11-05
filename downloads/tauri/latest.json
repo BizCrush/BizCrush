@@ -1,23 +1,19 @@
 {
-  "version": "0.3.0",
-  "notes": "Update release notes now follow your app language, or your system language when using System default.\nChanging the app language updates the release notes immediately.\nIf a translation is unavailable, release notes are shown in English.",
-  "pub_date": "2026-11-04T23:41:46.321563+00:00",
+  "version": "0.3.1",
+  "notes": "Fixed an issue that prevented deleting all transcripts. Recording files are retained when transcripts are deleted.",
+  "pub_date": "2026-11-05T00:52:38.513524+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDYzVEtWZWdFQWVuNFZsblBKSGhNVXk4OGI4MG5sMUc1MU5HaVloSy9rWTJnSWZRQUxrWU9UdjlQU20xWFczbGN1WXFBcTllcHBKeTRKUUV6VGxldlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM1NTg4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjBfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4wCmVCTDlobzJxMFl5U2tGN3FhT1ZkMEZDTDlzVnlFbVJ4c3gwOWxsSGliSU9POEZNNE5wUVJZWXBMSzYvSk11Q3k2emtxMTFiSzA4UDFGVjhsQm5SZkNBPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.0/BizCrush-Tauri_0.3.0_darwin-aarch64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZZc2dZeWV6WklMa2dHT3lqdVpSaDdLSjROYXRkUytpQUVkb2FKdGd4NzVPNEFxdEIzL2lLU3FITi8zUEJnaC9SY2p4eXNrcVFHVFVHMGJHR1RGM0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM1NzA2CWZpbGU6Qml6Q3J1c2hfMC4zLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy4wCmFtTER0b25kYkZMa0FjWCt0cXZ0SGljcW1yK3lJY1M2UlZUUkl3bzFKd2Q4dStPT0hQcmU1S2M1OEJpbTFyWHpzNkljRUhqb0o2eDlha3BTa1hGbkFRPT0K",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.0/BizCrush_0.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHk2V0Jtd3ZHdStOVS8zdzF5MzlEbDVaT3V0czN3MW5NY0JPVUhtS3pRK2l2eXUwbXk1WTBnajFXaVNKb0o3azhpbWZ6dUtKWjBkWkpMSGxnTzJVc1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODM5OTU4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjFfZGFyd2luLWFhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuMy4xCjRlZzRLR3loZ1ozZFVDZVFKWk5LeHlkdS92aEQrQndEcVlwNmYxY2t1eEZ4aVQyd281UG50cElyK0Y1UHkrdzZXTjc3REtINDhQMlh5SzFRam5TM0R3PT0K",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.1/BizCrush-Tauri_0.3.1_darwin-aarch64.app.tar.gz"
     }
   },
   "notes_i18n": {
-    "en": "Update release notes now follow your app language, or your system language when using System default.\nChanging the app language updates the release notes immediately.\nIf a translation is unavailable, release notes are shown in English.",
-    "ko": "업데이트 변경사항이 앱 언어에 맞춰 표시됩니다. 시스템 기본값을 사용하면 기기 언어를 따릅니다.\n앱 언어를 바꾸면 변경사항도 즉시 전환됩니다.\n번역이 없는 언어는 영어 변경사항을 표시합니다.",
-    "ja": "アップデート内容がアプリの言語に合わせて表示されます。「システムのデフォルト」を使用する場合は、端末の言語に従います。\nアプリの言語を変更すると、アップデート内容もすぐに切り替わります。\n翻訳がない場合は英語で表示されます。",
-    "de": "Die Versionshinweise folgen jetzt der App-Sprache. Bei „Systemstandard“ wird die Systemsprache verwendet.\nWenn Sie die App-Sprache ändern, wechseln die Versionshinweise sofort mit.\nIst keine Übersetzung verfügbar, werden die Hinweise auf Englisch angezeigt.",
-    "fr": "Les notes de mise à jour suivent désormais la langue de l’application, ou celle du système si vous utilisez le réglage par défaut du système.\nChanger la langue de l’application actualise immédiatement les notes.\nSi une traduction est indisponible, les notes s’affichent en anglais.",
-    "es": "Las notas de actualización siguen ahora el idioma de la aplicación, o el idioma del sistema si usa la opción predeterminada del sistema.\nAl cambiar el idioma de la aplicación, las notas se actualizan inmediatamente.\nSi no hay una traducción disponible, las notas se muestran en inglés."
+    "en": "Fixed an issue that prevented deleting all transcripts. Recording files are retained when transcripts are deleted.",
+    "ko": "전사 전체 삭제가 실패하던 문제를 수정했습니다. 전사를 삭제해도 녹음 파일은 유지됩니다.",
+    "ja": "文字起こしをすべて削除できない問題を修正しました。文字起こしを削除しても録音ファイルは保持されます。",
+    "de": "Ein Fehler wurde behoben, durch den sich nicht alle Transkripte löschen ließen. Aufnahmedateien bleiben beim Löschen der Transkripte erhalten.",
+    "fr": "Correction d’un problème empêchant la suppression de toutes les transcriptions. Les fichiers audio sont conservés lors de la suppression des transcriptions.",
+    "es": "Se corrigió un problema que impedía eliminar todas las transcripciones. Los archivos de grabación se conservan al eliminar las transcripciones."
   }
 }
