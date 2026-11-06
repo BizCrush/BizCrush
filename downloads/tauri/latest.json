@@ -1,23 +1,23 @@
 {
-  "version": "0.3.11",
-  "notes": "Switch between Top, Bottom, Left, Right, L/R and Floating from the presentation remote while preserving the selected capture and caption settings. The title and Apply button stay visible. New setups default to selected language only.",
-  "pub_date": "2026-11-05T19:44:51.742536+00:00",
+  "version": "0.3.13",
+  "notes": "Use a consistent presentation remote on desktop and mobile. Save named presets from the remote and load them before starting output. Fullscreen Settings brings the remote forward. Adjust display values with sliders or inputs. Floating and split modes stay fixed during a presentation. Confirm and delete saved presets from your synced account list.",
+  "pub_date": "2026-11-06T04:33:36.586055+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRxVW9XNDN1d1BIK0JEcHBwTUlCSjNvV3ZFVk9COVRReTc0N3FzLzZ2ZklPTDRnV0tmNTk3SXE1Tm9paW9qNDJQeWNpNW13dnhvakU4dDRycTBudVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA3NTg5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjExX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTEKL3YyTi8zNytMZm1pVlQyaDZxQVd2RTkvUWdvNnEyME1QZnRUZ2duODE3OGVqYW1mc0oxT3Q1L2t3bjBPcXJJa3BxdVp1NWUxekU5bENrNnhRODZLQ3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.11/BizCrush-Tauri_0.3.11_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJhL3ZtSVY0bWtDZnFSWDFVTk1TT2Fmckx5V1FZRkNBUFM3cldzL2JOR0lwRXlRakhxakZMc0tGdlZ5ZjB3QWxidElHQ21uSWJBV0E2bXNGQ25ScEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM5MzE0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjEzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTMKNklxdm1oRlVNOHgzV3hTUVlqSzhnR2o2SXdCMlBobm53QVA1am5ORUtaRlBlM1J0U0RhTTNSSnBLdGFKVjJkRFVIUzdPQlBISE5tSEF6eVFoRDEvQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.13/BizCrush-Tauri_0.3.13_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDN6SS9BMTJBeTVxb3JDeFRvcHVOR21OdmpKT2FwQVZCcEF5b2hrTlpsYXVnYWF4Vjg2bVptVWw3Z2Q3Z2I0QnhqRFNDTmVYcE4zRFJTazdVWWp6dXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTA3ODkxCWZpbGU6Qml6Q3J1c2hfMC4zLjExX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTEKR0JTSC9zYmQ0bGVKR0kxWXA3eWh0TnJodzVHaG9DUUU0VmpYZS80RWFuZDV4QkNjL0Nyc055YkNxMXpFUDdLU3BKTXpUMWc3QVVma3QzTjRkakVWQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.11/BizCrush_0.3.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9IYzI1dlJ3VVF3eWdDcTJXWEp6Qm9rN0tzSzJuOWxoMnhtdFBCdG42NkdlbHFvSzgzdDRlR0JJOFUyVCs5VmpKSVVMSENFTUlTMnBXMVFxazhlOEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM5NjE2CWZpbGU6Qml6Q3J1c2hfMC4zLjEzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTMKL2MyUis5M3pTVnRCQ3hLbUcrdVRraTl0UmtidXJ1UjQzeEticjlBR0FsSXdkR1NCRXY0cE84bDB1TnlwUkJEdksxbitVRE5ZU0RMclk5d016Yk9IQ2c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.13/BizCrush_0.3.13_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "프레젠테이션 리모컨에서 위·아래·왼쪽·오른쪽·좌우·플로팅 배치를 전환할 수 있습니다. 선택한 캡처와 자막 설정을 유지하며, 제목과 적용 버튼을 항상 표시합니다. 새 설정은 선택한 언어만 표시하는 모드로 시작합니다.",
-    "en": "Switch between Top, Bottom, Left, Right, L/R and Floating from the presentation remote while preserving the selected capture and caption settings. The title and Apply button stay visible. New setups default to selected language only.",
-    "ja": "プレゼンテーションのリモコンで上・下・左・右・左右・フローティングを切り替えられます。選択したキャプチャと字幕設定を保持し、タイトルと適用ボタンを常に表示します。新しい設定では選択言語のみを表示します。",
-    "de": "Die Präsentationsfernbedienung wechselt zwischen Oben, Unten, Links, Rechts, L/R und Schwebend. Aufnahme und Untertiteleinstellungen bleiben erhalten. Titel und Anwenden bleiben sichtbar. Neue Einstellungen zeigen nur die gewählte Sprache.",
-    "fr": "La télécommande permet de passer entre Haut, Bas, Gauche, Droite, G/D et Flottant en conservant la capture et les réglages des sous-titres. Le titre et le bouton Appliquer restent visibles. Les nouvelles configurations affichent uniquement la langue choisie.",
-    "es": "Cambia entre Arriba, Abajo, Izquierda, Derecha, I/D y Flotante desde el mando, conservando la captura y los ajustes de subtítulos. El título y Aplicar permanecen visibles. Las nuevas configuraciones muestran solo el idioma seleccionado."
+    "ko": "발표 PC와 모바일의 리모컨 UI를 통합했습니다. 리모컨에서 이름을 붙여 설정을 저장하고, 송출 시작 화면에서 불러올 수 있습니다. 전체화면에서도 설정 버튼으로 리모컨을 열 수 있으며 슬라이더·입력란 조작을 개선했습니다. 송출 중에는 플로팅과 스플릿 모드를 유지합니다. 저장한 설정을 확인 후 삭제하고 계정 목록에 동기화할 수 있습니다.",
+    "en": "Use a consistent presentation remote on desktop and mobile. Save named presets from the remote and load them before starting output. Fullscreen Settings brings the remote forward. Adjust display values with sliders or inputs. Floating and split modes stay fixed during a presentation. Confirm and delete saved presets from your synced account list.",
+    "ja": "発表用PCとモバイルのリモコンUIを統一しました。リモコンから名前を付けて設定を保存し、配信開始画面で読み込めます。全画面の設定ボタンからリモコンを開けるようになり、スライダーと入力欄の操作も改善しました。配信中はフローティングと分割モードを切り替えません。 保存した設定を確認して削除し、アカウントの一覧にも反映できます。",
+    "de": "Einheitliche Präsentationsfernbedienung auf PC und Mobilgeräten. Benannte Einstellungen werden in der Fernbedienung gespeichert und vor dem Start geladen. Die Vollbild-Einstellungen holen die Fernbedienung nach vorne. Schieberegler und Eingabefelder wurden verbessert. Der Ausgabemodus bleibt während der Präsentation unverändert. Gespeicherte Einstellungen können nach Bestätigung aus dem synchronisierten Konto gelöscht werden.",
+    "fr": "La télécommande de présentation est unifiée sur ordinateur et mobile. Enregistrez les réglages nommés depuis la télécommande et chargez-les avant la sortie. Le bouton Réglages en plein écran affiche la télécommande. Les curseurs et champs de saisie sont améliorés. Le mode flottant ou partagé reste fixe pendant la présentation. Supprimez les réglages enregistrés de votre compte synchronisé après confirmation.",
+    "es": "El mando de presentación es uniforme en ordenador y móvil. Guarda ajustes con nombre desde el mando y cárgalos antes de iniciar la salida. Ajustes en pantalla completa muestra el mando. Se mejoraron los deslizadores y campos de entrada. El modo flotante o dividido se mantiene durante la presentación. Confirma y elimina los ajustes guardados de tu cuenta sincronizada."
   }
 }
