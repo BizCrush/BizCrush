@@ -1,23 +1,23 @@
 {
-  "version": "0.3.15",
-  "notes": "The shared remote now opens automatically when floating captions start. Reopening an existing floating output raises its same remote. You can still hide, minimize or close the remote independently.",
-  "pub_date": "2026-11-06T05:59:53.805623+00:00",
+  "version": "0.3.16",
+  "notes": "Control recording on other devices as a host or co-host. Select the recording source and target microphone, including while recording or paused. Device name, model and OS are shown.",
+  "pub_date": "2026-11-06T09:34:15.279384+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHk2czkrbVU1cThBaFBWTDFsWDhaYUtTeTRIQTA1NmhwZ21WZCtUV0JyTXgyYUdKa1B4VDErUElZSk9mS1RZYWx2VnIyQ2M4SE1xZGxyY3d1MjJlcXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ0NzM4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTUKenBrSDFGZ29uc0FjUG9LdExQdmZMTWVsakxZMmdVdEFsSzlHS1MxcU9EM0pVNjVxTWRZZllqaTlRL3VyS1FrK0RWTDA0TUNkWDdsZ0lyamZqSVU4Q3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.15/BizCrush-Tauri_0.3.15_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRtTW9hQzNGZWI3K2FJa1BYajVreXhxNTdSMFM3dThqZTNWSTRXVUJiMHB5MnJLOWg3V0FRK284RGFZMFc2cjkzc1RTQjJIRGVzSlZuMVhKaS94dWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU3NjA1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTYKblRsZElaYkljSDRpbjRQREpicGJ4UFFpU1kvZGhIUURMejJiTTFtOVNJRVk3eThHT0ZQNFlLQXFrcWFxVWhTa3VnMFRiMzkzblBmWWgybXcxaEFRQVE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.16/BizCrush-Tauri_0.3.16_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlYQkMvc3ZxbGR1NDc3Y2xaZkIwdm5sYlJ4QmZ1UzgyL3Q3QUF6dktYSzcvenZkQ1FSRGhhQS9ZSXpQazd1MUJOTWlTR0dscndMSHRRVUhwWVorWEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ0NzkzCWZpbGU6Qml6Q3J1c2hfMC4zLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTUKTXdZMzRoNmlBUzBidkxycTZEdDRabC9VUzBPYnE0MGJxZHcyK2ZoK3RGV2RNZXR3QmRMVlBZY1pGODJpcnpwN1d0QWxNTFBSY0d6NkhSQTd1MDZDREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.15/BizCrush_0.3.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdrMWJtWVhPUDU2WUxWNEVQR0R3UGRQUm4vZk9vRGw4bGliMGczTStCaGJxRk1LeFRiZ3VHOTZtNm5qWGZlWG9sZXdiQjVMTkJ4ZnQyVTZOV2hLelFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU3NjU1CWZpbGU6Qml6Q3J1c2hfMC4zLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTYKenBEYm5Cb1BVWkhRa1cvaVg4YVFMaHFzaXQ4QkZtbEtiZlVtdmtRMWFZc3g2NXQvakdmNHlFVW5zS3YzNHQveCtrKytYYkR5MnR5UGZVZCsxRWNmQ0E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.16/BizCrush_0.3.16_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "플로팅 자막을 시작하면 공용 리모컨도 자동으로 함께 열립니다. 이미 열려 있는 플로팅 자막을 다시 선택하면 같은 리모컨을 다시 표시합니다. 리모컨은 따로 숨기거나 최소화하고 닫을 수 있습니다.",
-    "en": "The shared remote now opens automatically when floating captions start. Reopening an existing floating output raises its same remote. You can still hide, minimize or close the remote independently.",
-    "ja": "フローティング字幕を開始すると共通リモコンも自動的に開きます。既存の字幕を再表示すると同じリモコンが表示されます。リモコンは個別に非表示・最小化・終了できます。",
-    "de": "Beim Start schwebender Untertitel öffnet sich die gemeinsame Fernbedienung automatisch. Eine bestehende Ausgabe zeigt dieselbe Fernbedienung erneut. Sie kann weiterhin unabhängig ausgeblendet, minimiert oder geschlossen werden.",
-    "fr": "La télécommande commune s’ouvre automatiquement au lancement des sous-titres flottants. Rouvrir une sortie existante affiche la même télécommande. Elle reste indépendante pour la masquer, la réduire ou la fermer.",
-    "es": "El mando común se abre automáticamente al iniciar subtítulos flotantes. Al volver a una salida existente se muestra el mismo mando. Puedes ocultarlo, minimizarlo o cerrarlo de forma independiente."
+    "en": "Control recording on other devices as a host or co-host. Select the recording source and target microphone, including while recording or paused. Device name, model and OS are shown.",
+    "ko": "호스트·코호스트가 다른 기기의 녹음을 제어하고 마이크·시스템 오디오·마이크 장치를 선택할 수 있습니다. 녹음 중·일시정지 중 입력 변경과 기기명·모델·OS 표시를 지원합니다.",
+    "ja": "ホストと共同ホストは他のデバイスの録音を操作し、録音中や一時停止中も音声ソースとマイクを選択できます。デバイス名、モデル、OSも表示します。",
+    "de": "Hosts und Co-Hosts können Aufnahmen auf anderen Geräten steuern und Audioquelle sowie Mikrofon wählen, auch während der Aufnahme oder Pause. Gerätename, Modell und Betriebssystem werden angezeigt.",
+    "fr": "Les hôtes et co-hôtes peuvent contrôler les enregistrements sur d’autres appareils et choisir la source audio et le microphone, même pendant un enregistrement ou une pause. Le nom, le modèle et le système sont affichés.",
+    "es": "Los anfitriones y coanfitriones pueden controlar grabaciones en otros dispositivos y elegir la fuente de audio y el micrófono, incluso al grabar o pausar. Se muestran el nombre, el modelo y el sistema del dispositivo."
   }
 }
