@@ -1,23 +1,23 @@
 {
-  "version": "0.3.16",
-  "notes": "Control recording on other devices as a host or co-host. Select the recording source and target microphone, including while recording or paused. Device name, model and OS are shown.",
-  "pub_date": "2026-11-06T09:34:15.279384+00:00",
+  "version": "0.3.17",
+  "notes": "Fixed restarting recording on another device after stopping. Recording and presentation controls now show an administrator-disabled notice and lock when remote controls are disabled.",
+  "pub_date": "2026-11-06T14:09:44.265735+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRtTW9hQzNGZWI3K2FJa1BYajVreXhxNTdSMFM3dThqZTNWSTRXVUJiMHB5MnJLOWg3V0FRK284RGFZMFc2cjkzc1RTQjJIRGVzSlZuMVhKaS94dWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU3NjA1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTYKblRsZElaYkljSDRpbjRQREpicGJ4UFFpU1kvZGhIUURMejJiTTFtOVNJRVk3eThHT0ZQNFlLQXFrcWFxVWhTa3VnMFRiMzkzblBmWWgybXcxaEFRQVE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.16/BizCrush-Tauri_0.3.16_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhGSExnSzdFcGF5c3ByYUluQ2s4aTdvaVRVS3hKYktUYTBybnlVd1BOTUFuTFRIS3o2RW82bVp2R3NPMnRaZzV2Q3piSVZWMTdxUXVHM2UzSTh3a2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0MDI3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTcKRU93VlMzYm5wTXN1QjZWcDIxT2NVdXpMaVVGbXJuWUN1a3BYMDlZSkxxaG1yRXU3OXBaaTBZWGRDOWp0TVRxa0UyLzFFanVYNU9DampKTitaRGpZQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.17/BizCrush-Tauri_0.3.17_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdrMWJtWVhPUDU2WUxWNEVQR0R3UGRQUm4vZk9vRGw4bGliMGczTStCaGJxRk1LeFRiZ3VHOTZtNm5qWGZlWG9sZXdiQjVMTkJ4ZnQyVTZOV2hLelFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTU3NjU1CWZpbGU6Qml6Q3J1c2hfMC4zLjE2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTYKenBEYm5Cb1BVWkhRa1cvaVg4YVFMaHFzaXQ4QkZtbEtiZlVtdmtRMWFZc3g2NXQvakdmNHlFVW5zS3YzNHQveCtrKytYYkR5MnR5UGZVZCsxRWNmQ0E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.16/BizCrush_0.3.16_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVPRTNnRXZUNWhiUnNtZlFVSGdMQksranRRaXd0UkRnOGR6VE9wUi82NWVReU5QWm93YTl2YURRdVljZjM5NVZBOHBZb0w3RVRaWTFhbDBMZEl0c2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0MTg0CWZpbGU6Qml6Q3J1c2hfMC4zLjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTcKcTRQS2hzQVR5Y0N5TXFzT3BpVExaOUdRSTFaMG14UjA2QzNJM1h4aGgrY094N09FaWRWVEt2bTNPTmZ6MXowei94anFuRDgxZkZ4dStQNFM1b0x5RGc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.17/BizCrush_0.3.17_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Control recording on other devices as a host or co-host. Select the recording source and target microphone, including while recording or paused. Device name, model and OS are shown.",
-    "ko": "호스트·코호스트가 다른 기기의 녹음을 제어하고 마이크·시스템 오디오·마이크 장치를 선택할 수 있습니다. 녹음 중·일시정지 중 입력 변경과 기기명·모델·OS 표시를 지원합니다.",
-    "ja": "ホストと共同ホストは他のデバイスの録音を操作し、録音中や一時停止中も音声ソースとマイクを選択できます。デバイス名、モデル、OSも表示します。",
-    "de": "Hosts und Co-Hosts können Aufnahmen auf anderen Geräten steuern und Audioquelle sowie Mikrofon wählen, auch während der Aufnahme oder Pause. Gerätename, Modell und Betriebssystem werden angezeigt.",
-    "fr": "Les hôtes et co-hôtes peuvent contrôler les enregistrements sur d’autres appareils et choisir la source audio et le microphone, même pendant un enregistrement ou une pause. Le nom, le modèle et le système sont affichés.",
-    "es": "Los anfitriones y coanfitriones pueden controlar grabaciones en otros dispositivos y elegir la fuente de audio y el micrófono, incluso al grabar o pausar. Se muestran el nombre, el modelo y el sistema del dispositivo."
+    "ko": "녹음 정지 후 다른 기기에서 다시 시작할 수 있도록 수정했습니다. 관리자가 원격 제어를 비활성화하면 녹음·프레젠테이션 제어 화면에 안내하고 조작을 차단합니다.",
+    "en": "Fixed restarting recording on another device after stopping. Recording and presentation controls now show an administrator-disabled notice and lock when remote controls are disabled.",
+    "ja": "録音停止後に別のデバイスから再開できるように修正しました。管理者がリモート操作を無効にすると、録音・プレゼンテーションの操作画面に通知を表示し、操作をロックします。",
+    "de": "Aufnahmen können nach dem Stoppen auf einem anderen Gerät neu gestartet werden. Wenn ein Administrator die Fernsteuerung deaktiviert, werden Aufnahme- und Präsentationssteuerungen mit einem Hinweis gesperrt.",
+    "fr": "La reprise d’un enregistrement sur un autre appareil après son arrêt est corrigée. Les commandes d’enregistrement et de présentation sont verrouillées avec un avis lorsque l’administrateur désactive la commande à distance.",
+    "es": "Se corrigió el reinicio de grabaciones en otro dispositivo después de detenerlas. Los controles de grabación y presentación muestran un aviso y se bloquean cuando un administrador desactiva el control remoto."
   }
 }
