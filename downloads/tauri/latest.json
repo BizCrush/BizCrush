@@ -1,23 +1,23 @@
 {
-  "version": "0.3.14",
-  "notes": "Floating caption Settings now opens the shared presentation remote for languages, display options and named preset saves or deletion. Caption window position and size stay unchanged. The remote can be hidden, minimized or closed.",
-  "pub_date": "2026-11-06T05:40:11.587081+00:00",
+  "version": "0.3.15",
+  "notes": "The shared remote now opens automatically when floating captions start. Reopening an existing floating output raises its same remote. You can still hide, minimize or close the remote independently.",
+  "pub_date": "2026-11-06T05:59:53.805623+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNxajFaQ1ZkSC9XZ1JDOXV4aHJrckErTG03WHFqR0RkdE9hMHJQaGJWS1IwWlhtRzJYWlY3VWZYVkJkV2VLMGJTWStWMHFHZnVSd1pWSEFhbkNabUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQzNDAyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTQKeG4zb1dkSTZudHgzUmJWaU9rdkl1cHlad2xrRnl6clM2cFlUcU41Qm0zTU1Tamd0cWtsK2k5aEYrUzAwSGJ5U3VDaVdHc3U4MVRWZ3U2OW51SVBkQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.14/BizCrush-Tauri_0.3.14_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHk2czkrbVU1cThBaFBWTDFsWDhaYUtTeTRIQTA1NmhwZ21WZCtUV0JyTXgyYUdKa1B4VDErUElZSk9mS1RZYWx2VnIyQ2M4SE1xZGxyY3d1MjJlcXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ0NzM4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTUKenBrSDFGZ29uc0FjUG9LdExQdmZMTWVsakxZMmdVdEFsSzlHS1MxcU9EM0pVNjVxTWRZZllqaTlRL3VyS1FrK0RWTDA0TUNkWDdsZ0lyamZqSVU4Q3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.15/BizCrush-Tauri_0.3.15_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9DTFUya2Y2aEY5UERuVzh1T0FXR1FyWU14TVR1dFlsWk9lbndiZEN6amhNU1VKZlNBaXNuTmQ5OTl5TXV1bmRYaGNRbjRtRWRha1FrMzBIWmZLc0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQzNjExCWZpbGU6Qml6Q3J1c2hfMC4zLjE0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTQKUm9WMzlkMExRSnUxbEVldXlCV0dZdElxaDdaTnhMbW41ZGxDcjhsZGxnM1dkTnVYazZZemQwMkxwdnFJd1hZNFNkdEZqMkdxNXpvQ3pJcHV2Nm9YQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.14/BizCrush_0.3.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlYQkMvc3ZxbGR1NDc3Y2xaZkIwdm5sYlJ4QmZ1UzgyL3Q3QUF6dktYSzcvenZkQ1FSRGhhQS9ZSXpQazd1MUJOTWlTR0dscndMSHRRVUhwWVorWEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQ0NzkzCWZpbGU6Qml6Q3J1c2hfMC4zLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTUKTXdZMzRoNmlBUzBidkxycTZEdDRabC9VUzBPYnE0MGJxZHcyK2ZoK3RGV2RNZXR3QmRMVlBZY1pGODJpcnpwN1d0QWxNTFBSY0d6NkhSQTd1MDZDREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.15/BizCrush_0.3.15_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "플로팅 자막의 설정 버튼도 새로운 공용 프레젠테이션 리모컨을 엽니다. 언어와 표시 설정, 이름을 붙인 설정 저장과 삭제를 같은 화면에서 사용할 수 있습니다. 자막 창의 위치와 크기를 유지하며, 리모컨 숨김·최소화·닫기를 지원합니다.",
-    "en": "Floating caption Settings now opens the shared presentation remote for languages, display options and named preset saves or deletion. Caption window position and size stay unchanged. The remote can be hidden, minimized or closed.",
-    "ja": "フローティング字幕の設定ボタンから共通のプレゼンテーションリモコンを開けるようになりました。言語・表示設定、名前付き設定の保存と削除を同じ画面で操作できます。字幕ウィンドウの位置とサイズを保ち、リモコンの非表示・最小化・終了に対応します。",
-    "de": "Die Einstellungen schwebender Untertitel öffnen jetzt die gemeinsame Präsentationsfernbedienung für Sprache, Anzeige und benannte Einstellungen. Position und Größe der Untertitel bleiben erhalten. Die Fernbedienung lässt sich ausblenden, minimieren und schließen.",
-    "fr": "Les réglages des sous-titres flottants ouvrent désormais la télécommande commune pour les langues, l’affichage et les réglages nommés. La position et la taille des sous-titres restent inchangées. La télécommande peut être masquée, réduite ou fermée.",
-    "es": "Los ajustes de subtítulos flotantes ahora abren el mando común para idiomas, visualización y ajustes guardados con nombre. Se mantienen la posición y el tamaño de los subtítulos. El mando se puede ocultar, minimizar o cerrar."
+    "ko": "플로팅 자막을 시작하면 공용 리모컨도 자동으로 함께 열립니다. 이미 열려 있는 플로팅 자막을 다시 선택하면 같은 리모컨을 다시 표시합니다. 리모컨은 따로 숨기거나 최소화하고 닫을 수 있습니다.",
+    "en": "The shared remote now opens automatically when floating captions start. Reopening an existing floating output raises its same remote. You can still hide, minimize or close the remote independently.",
+    "ja": "フローティング字幕を開始すると共通リモコンも自動的に開きます。既存の字幕を再表示すると同じリモコンが表示されます。リモコンは個別に非表示・最小化・終了できます。",
+    "de": "Beim Start schwebender Untertitel öffnet sich die gemeinsame Fernbedienung automatisch. Eine bestehende Ausgabe zeigt dieselbe Fernbedienung erneut. Sie kann weiterhin unabhängig ausgeblendet, minimiert oder geschlossen werden.",
+    "fr": "La télécommande commune s’ouvre automatiquement au lancement des sous-titres flottants. Rouvrir une sortie existante affiche la même télécommande. Elle reste indépendante pour la masquer, la réduire ou la fermer.",
+    "es": "El mando común se abre automáticamente al iniciar subtítulos flotantes. Al volver a una salida existente se muestra el mismo mando. Puedes ocultarlo, minimizarlo o cerrarlo de forma independiente."
   }
 }
