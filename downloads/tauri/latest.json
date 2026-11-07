@@ -1,26 +1,19 @@
 {
-  "version": "0.3.18",
-  "notes": "BizCrush now supports nine interface languages, including Simplified Chinese, Brazilian Portuguese, and Russian.",
-  "pub_date": "2026-11-07T07:04:32.218593+00:00",
+  "version": "0.3.19",
+  "notes": "Recover recordings and transcripts when upload fails and a complete backup is available.",
+  "pub_date": "2026-11-07T15:12:23.647248+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNlTE1QUjB2N1JTU2kwR0l0Z0UyVk55Nk5jdGlVWUlSV0hYTGx3YmVwOHVYN3pERFRmd2RqSjFqWnVvZGZKaXV4UmZHcXNVQ3pTVmEzdElTaG5Bb2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM0OTQ5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTgKMTNDN3Jtbnl1anQ4alQ1T3hLaEFUcUp1ME1ucWpBekV3N0NXNDlYNHRJeTRmeDFCTUtsVHhPdjRYdXRuUCs4RCt3RjVhaGZFT1ZzdkRENnk1bHN3Qmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.18/BizCrush-Tauri_0.3.18_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDc2akZNS3hBcUd3Z2NDQTBVTWlYOGd4bjdLUERHcUZVNi9YSTVSODUrOGlSUGVheUwreVVHd2ZDaXVpM1ljcmZ6YmFUK01tZEcvUDhCczlwRlBnQ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY0MzA3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTkKSTBnRDdaaWtrZCt2M1lYRjdwbWhuRFAzNWJlMDJNVVZhdTBQMUU4QldHSUc2R1pNeVc5RE5BN2x1WkZiQjY2YVk3dW1VbFNuWDllbFI0RFpGaDhBQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.19/BizCrush-Tauri_0.3.19_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDM0anI5cXpqZS9MSHBuN0xCL1hzejZtUGFBZmp2UWpMdS9lQ0hBR2JOeE9BcktJQ3pudjUvZGJWT1FCRHJaMnA3bGJNVTVhRXl5TUxxT0pNM0hGMUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM1MDcyCWZpbGU6Qml6Q3J1c2hfMC4zLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTgKR1pIZC92RUNNMVowbVBDb2Nrd2ozcjhvcmFtMXpBZXF6YWUybUdOc04wYUFJVkhvVjhtWklIS0VYRmlGS04vK0hRZmxjbmJ2Q21aSDEyVkJTOEVSRHc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.18/BizCrush_0.3.18_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFJVXVtVzZhOUVmUS9TUU1kNGxTQWo4RHpoYmsyUUlReFVTR1BERjRaelFLM1BqQ3dOR0VDZno3c1F0aVdIVjJDcTZtUnRYZFBhTUlyTXVZU1FBNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY0MzQzCWZpbGU6Qml6Q3J1c2hfMC4zLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTkKS0tMYTBDTjRRVEJ2VEJJZjh6V1lpN1pxOFQyQWFHdER6ZjgzU0ZQWVpwSHhJNnZTR09adEhtR0puVXJIODRDSWM4OXp0M1ZsQUw5RUxvVFJYOENLQXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.19/BizCrush_0.3.19_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "BizCrush now supports nine interface languages, including Simplified Chinese, Brazilian Portuguese, and Russian.",
-    "ko": "간체 중국어, 브라질 포르투갈어, 러시아어를 추가해 BizCrush 화면을 9개 언어로 사용할 수 있습니다.",
-    "ja": "簡体字中国語、ブラジルポルトガル語、ロシア語を追加し、BizCrush の画面を9言語で使えるようになりました。",
-    "de": "BizCrush unterstützt jetzt neun Oberflächensprachen, darunter vereinfachtes Chinesisch, brasilianisches Portugiesisch und Russisch.",
-    "fr": "BizCrush propose désormais neuf langues d’interface, dont le chinois simplifié, le portugais brésilien et le russe.",
-    "es": "BizCrush ahora admite nueve idiomas de interfaz, incluidos chino simplificado, portugués de Brasil y ruso.",
-    "zh-CN": "BizCrush 现已支持 9 种界面语言，新增简体中文、巴西葡萄牙语和俄语。",
-    "pt-BR": "O BizCrush agora está disponível em nove idiomas de interface, incluindo chinês simplificado, português do Brasil e russo.",
-    "ru": "Интерфейс BizCrush теперь доступен на девяти языках, включая упрощённый китайский, бразильский португальский и русский."
+    "ko": "녹음 업로드가 실패해도, 서버에 완전한 백업이 있으면 녹음과 전사를 복구합니다.",
+    "en": "Recover recordings and transcripts when upload fails and a complete backup is available."
   }
 }
