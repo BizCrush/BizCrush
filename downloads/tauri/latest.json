@@ -1,23 +1,26 @@
 {
-  "version": "0.3.17",
-  "notes": "Fixed restarting recording on another device after stopping. Recording and presentation controls now show an administrator-disabled notice and lock when remote controls are disabled.",
-  "pub_date": "2026-11-06T14:09:44.265735+00:00",
+  "version": "0.3.18",
+  "notes": "BizCrush now supports nine interface languages, including Simplified Chinese, Brazilian Portuguese, and Russian.",
+  "pub_date": "2026-11-07T07:04:32.218593+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhGSExnSzdFcGF5c3ByYUluQ2s4aTdvaVRVS3hKYktUYTBybnlVd1BOTUFuTFRIS3o2RW82bVp2R3NPMnRaZzV2Q3piSVZWMTdxUXVHM2UzSTh3a2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0MDI3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTcKRU93VlMzYm5wTXN1QjZWcDIxT2NVdXpMaVVGbXJuWUN1a3BYMDlZSkxxaG1yRXU3OXBaaTBZWGRDOWp0TVRxa0UyLzFFanVYNU9DampKTitaRGpZQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.17/BizCrush-Tauri_0.3.17_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNlTE1QUjB2N1JTU2kwR0l0Z0UyVk55Nk5jdGlVWUlSV0hYTGx3YmVwOHVYN3pERFRmd2RqSjFqWnVvZGZKaXV4UmZHcXNVQ3pTVmEzdElTaG5Bb2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM0OTQ5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTgKMTNDN3Jtbnl1anQ4alQ1T3hLaEFUcUp1ME1ucWpBekV3N0NXNDlYNHRJeTRmeDFCTUtsVHhPdjRYdXRuUCs4RCt3RjVhaGZFT1ZzdkRENnk1bHN3Qmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.18/BizCrush-Tauri_0.3.18_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVPRTNnRXZUNWhiUnNtZlFVSGdMQksranRRaXd0UkRnOGR6VE9wUi82NWVReU5QWm93YTl2YURRdVljZjM5NVZBOHBZb0w3RVRaWTFhbDBMZEl0c2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTc0MTg0CWZpbGU6Qml6Q3J1c2hfMC4zLjE3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTcKcTRQS2hzQVR5Y0N5TXFzT3BpVExaOUdRSTFaMG14UjA2QzNJM1h4aGgrY094N09FaWRWVEt2bTNPTmZ6MXowei94anFuRDgxZkZ4dStQNFM1b0x5RGc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.17/BizCrush_0.3.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDM0anI5cXpqZS9MSHBuN0xCL1hzejZtUGFBZmp2UWpMdS9lQ0hBR2JOeE9BcktJQ3pudjUvZGJWT1FCRHJaMnA3bGJNVTVhRXl5TUxxT0pNM0hGMUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDM1MDcyCWZpbGU6Qml6Q3J1c2hfMC4zLjE4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTgKR1pIZC92RUNNMVowbVBDb2Nrd2ozcjhvcmFtMXpBZXF6YWUybUdOc04wYUFJVkhvVjhtWklIS0VYRmlGS04vK0hRZmxjbmJ2Q21aSDEyVkJTOEVSRHc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.18/BizCrush_0.3.18_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "녹음 정지 후 다른 기기에서 다시 시작할 수 있도록 수정했습니다. 관리자가 원격 제어를 비활성화하면 녹음·프레젠테이션 제어 화면에 안내하고 조작을 차단합니다.",
-    "en": "Fixed restarting recording on another device after stopping. Recording and presentation controls now show an administrator-disabled notice and lock when remote controls are disabled.",
-    "ja": "録音停止後に別のデバイスから再開できるように修正しました。管理者がリモート操作を無効にすると、録音・プレゼンテーションの操作画面に通知を表示し、操作をロックします。",
-    "de": "Aufnahmen können nach dem Stoppen auf einem anderen Gerät neu gestartet werden. Wenn ein Administrator die Fernsteuerung deaktiviert, werden Aufnahme- und Präsentationssteuerungen mit einem Hinweis gesperrt.",
-    "fr": "La reprise d’un enregistrement sur un autre appareil après son arrêt est corrigée. Les commandes d’enregistrement et de présentation sont verrouillées avec un avis lorsque l’administrateur désactive la commande à distance.",
-    "es": "Se corrigió el reinicio de grabaciones en otro dispositivo después de detenerlas. Los controles de grabación y presentación muestran un aviso y se bloquean cuando un administrador desactiva el control remoto."
+    "en": "BizCrush now supports nine interface languages, including Simplified Chinese, Brazilian Portuguese, and Russian.",
+    "ko": "간체 중국어, 브라질 포르투갈어, 러시아어를 추가해 BizCrush 화면을 9개 언어로 사용할 수 있습니다.",
+    "ja": "簡体字中国語、ブラジルポルトガル語、ロシア語を追加し、BizCrush の画面を9言語で使えるようになりました。",
+    "de": "BizCrush unterstützt jetzt neun Oberflächensprachen, darunter vereinfachtes Chinesisch, brasilianisches Portugiesisch und Russisch.",
+    "fr": "BizCrush propose désormais neuf langues d’interface, dont le chinois simplifié, le portugais brésilien et le russe.",
+    "es": "BizCrush ahora admite nueve idiomas de interfaz, incluidos chino simplificado, portugués de Brasil y ruso.",
+    "zh-CN": "BizCrush 现已支持 9 种界面语言，新增简体中文、巴西葡萄牙语和俄语。",
+    "pt-BR": "O BizCrush agora está disponível em nove idiomas de interface, incluindo chinês simplificado, português do Brasil e russo.",
+    "ru": "Интерфейс BizCrush теперь доступен на девяти языках, включая упрощённый китайский, бразильский португальский и русский."
   }
 }
