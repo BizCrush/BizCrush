@@ -1,19 +1,26 @@
 {
-  "version": "0.3.19",
-  "notes": "Recover recordings and transcripts when upload fails and a complete backup is available.",
-  "pub_date": "2026-11-07T15:12:23.647248+00:00",
+  "version": "0.3.20",
+  "notes": "Fixed an issue where the More menu and other buttons at the top of the meeting window sometimes did not respond to clicks on macOS.",
+  "pub_date": "2026-11-09T03:49:56.706091+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDc2akZNS3hBcUd3Z2NDQTBVTWlYOGd4bjdLUERHcUZVNi9YSTVSODUrOGlSUGVheUwreVVHd2ZDaXVpM1ljcmZ6YmFUK01tZEcvUDhCczlwRlBnQ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY0MzA3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjE5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMTkKSTBnRDdaaWtrZCt2M1lYRjdwbWhuRFAzNWJlMDJNVVZhdTBQMUU4QldHSUc2R1pNeVc5RE5BN2x1WkZiQjY2YVk3dW1VbFNuWDllbFI0RFpGaDhBQkE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.19/BizCrush-Tauri_0.3.19_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZUUUtDUjI1dWx2ckg1UlRVaVVHMmVNdlhDeXhwbzQ3RjB3blRVSG9rWVVXQWpUckhsRUE1dk5QVVhkWHplek5rZDA2aHM2ZXpCa28vY20zdWVOTFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk2MTY5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjIwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjAKbzk0UHhWS2ZzVmV4bDAzQWpvVWRmV2s5aVFxM1ByanhHSGMvZk1GRGJQc255cCtIYTdYTGxQNUM0TUIyaTkzYVlWbW5POFgwT1hLdTE1SHBCV3FsQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.20/BizCrush-Tauri_0.3.20_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFJVXVtVzZhOUVmUS9TUU1kNGxTQWo4RHpoYmsyUUlReFVTR1BERjRaelFLM1BqQ3dOR0VDZno3c1F0aVdIVjJDcTZtUnRYZFBhTUlyTXVZU1FBNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDY0MzQzCWZpbGU6Qml6Q3J1c2hfMC4zLjE5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMTkKS0tMYTBDTjRRVEJ2VEJJZjh6V1lpN1pxOFQyQWFHdER6ZjgzU0ZQWVpwSHhJNnZTR09adEhtR0puVXJIODRDSWM4OXp0M1ZsQUw5RUxvVFJYOENLQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.19/BizCrush_0.3.19_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtyUnRkaFdhWFJqRWpnenZQSTd2Ynp0ckUvekxja1VkSHBnRDA2L3BlcGFhN0ZEMnFydDV0SHpvKzZxV043NnFKcTMwekNnOGFqdXdwRklMVlJnOHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk2MDkwCWZpbGU6Qml6Q3J1c2hfMC4zLjIwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjAKbkxvNUVQdG5xTlA0L3J6L3NHS3B0L3A1WkF0N04zVlhIZmVFSUpxci9pT3lqSFJyZUsvOXZWSFZaK2Q4ajEwaU9DWWt4Z0t1UmJvMytIWGwzY2dtQmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.20/BizCrush_0.3.20_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "녹음 업로드가 실패해도, 서버에 완전한 백업이 있으면 녹음과 전사를 복구합니다.",
-    "en": "Recover recordings and transcripts when upload fails and a complete backup is available."
+    "en": "Fixed an issue where the More menu and other buttons at the top of the meeting window sometimes did not respond to clicks on macOS.",
+    "ko": "macOS에서 회의 화면 상단의 더 보기 메뉴와 다른 버튼이 간헐적으로 눌리지 않던 문제를 수정했습니다.",
+    "ja": "macOSで、会議画面上部の「その他」メニューや他のボタンをクリックしても反応しないことがある問題を修正しました。",
+    "de": "Ein Fehler unter macOS wurde behoben, durch den das Menü „Mehr“ und andere Schaltflächen oben im Besprechungsfenster gelegentlich nicht auf Klicks reagierten.",
+    "fr": "Correction d’un problème sous macOS qui empêchait parfois le menu Plus et d’autres boutons en haut de la fenêtre de réunion de réagir aux clics.",
+    "es": "Se corrigió un problema en macOS por el que el menú Más y otros botones de la parte superior de la ventana de reunión a veces no respondían a los clics.",
+    "zh-CN": "修复了 macOS 上会议窗口顶部的“更多”菜单及其他按钮偶尔无法响应点击的问题。",
+    "pt-BR": "Corrigimos um problema no macOS que às vezes impedia o menu Mais e outros botões na parte superior da janela da reunião de responder aos cliques.",
+    "ru": "Исправлена ошибка в macOS, из-за которой меню «Ещё» и другие кнопки в верхней части окна встречи иногда не реагировали на нажатия."
   }
 }
