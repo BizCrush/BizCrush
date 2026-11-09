@@ -1,26 +1,19 @@
 {
-  "version": "0.3.22",
-  "notes": "On macOS 26 and later, system audio recording can capture the other caller when you use the Mac Phone app for an iPhone call.",
-  "pub_date": "2026-11-09T15:01:48.762881+00:00",
+  "version": "0.3.23",
+  "notes": "Delete saved copies from Recording sync. Deleted recordings are excluded from future saves to the same folder.",
+  "pub_date": "2026-11-09T17:03:44.368209+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHc4MGo0UUFUK0NjQU9XbFJEZEpoVExrdFBzRzMvQ2h1ZDJ5ckxmRTdZa3VXM3JDZkIrV0s5cTJGWngzMjdqRUV4UDh2MUlIbzBiM3pjbXhZOG4xelF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM2MzI3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjIyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjIKcDBYUlRYa1ZHNk5pUHlGWTl0cUp6L01Hc1A3dHB6WjdYN0xxajJvWGZjb1l1K2FTQ3Vob2xib0RFN1Q4QndrRzdwWUU1b0Q4M1lJZmdYYnhuVkNFQ3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.22/BizCrush-Tauri_0.3.22_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlZMWU1UzFzTGp2NWhwOHkrQ2tkdSthYkdQbEJiU0ZUcWpOUjF1bUE3UmlMMjRQYzV2WGdHZkN6b1ZqV2lxYnZVUWYyU1M4RmNYa3BaaTl4c1JiblFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQzMTg3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjIzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjMKRUc2ejR6ODhHcmJvRVIrTExodStwWlZoeTU4dmt4SUREU2JQc2VHS0dVZWgrN3hKdm1XZjB3SW5VSEFOZW1kV21sSjlJZ1d6VVBqOENDTExqYm9sRFE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.23/BizCrush-Tauri_0.3.23_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZEa2ZPTXlXUWNxTVRCT2pKazdrMTE4V3VBZU41djNsdlRwSmt1K21mc0ZXaURyK0p0RmRKbVZoL0lNcEdNSEdBYVdnM0c4aEZ1bk1WQW5leU50cHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjM2NDk4CWZpbGU6Qml6Q3J1c2hfMC4zLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjIKV0U1UytWekpxeldiQUplODVHTjUzUVlnd05RVVU1WFhDY3A0dDk5cU9jUWNRUXVTamFyR1RYRkJRSEY1V0h4eVBtSytQcEp3aEFSUHFGZkphd2ZSRHc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.22/BizCrush_0.3.22_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9Bb21rYVBvUyt5b0hORDdtOEJoVVl1VnZjY3dVLzlpbU5mbDhBbXBpN3hNMWpzMWdEY2tUK2xmWXRndzE4d0hIZFdDRlJhZktkSXFydk13TnFocVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQzODIzCWZpbGU6Qml6Q3J1c2hfMC4zLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjMKemxoYUMwM2I1ZDVGWjdOY3ZLdCs2ZC9uQUlNSmQwWkk0cEJIcFFENUxHWWU1OUxPdGEwckQ5VVRkNGhMVjdCU3lwd2VrOUJqVkdRdHlYbDhNMmZQQ2c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.23/BizCrush_0.3.23_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "On macOS 26 and later, system audio recording can capture the other caller when you use the Mac Phone app for an iPhone call.",
-    "ko": "macOS 26 이상에서 맥 전화 앱으로 iPhone 통화를 할 때 시스템 오디오 녹음에 상대방 음성이 포함되도록 개선했습니다.",
-    "ja": "macOS 26以降で、Macの電話アプリでiPhoneの通話をする際に相手の音声をシステムオーディオ録音に取り込めるようになりました。",
-    "de": "Ab macOS 26 kann die Systemaudioaufnahme bei iPhone-Anrufen über die Telefon-App des Mac auch die Stimme der anderen Person erfassen.",
-    "fr": "À partir de macOS 26, l’enregistrement de l’audio système peut capter la voix de votre interlocuteur lors d’un appel iPhone dans l’app Téléphone du Mac.",
-    "es": "A partir de macOS 26, la grabación del audio del sistema puede captar la voz de la otra persona al usar la app Teléfono del Mac para una llamada del iPhone.",
-    "pt-BR": "No macOS 26 ou posterior, a gravação do áudio do sistema pode captar a voz da outra pessoa em ligações do iPhone feitas no app Telefone do Mac.",
-    "ru": "В macOS 26 и новее запись системного звука может захватывать голос собеседника при вызове iPhone через приложение «Телефон» на Mac.",
-    "zh-CN": "在 macOS 26 及更高版本中，使用 Mac 上的“电话”App 进行 iPhone 通话时，系统音频录制可以录下对方的声音。"
+    "en": "Delete saved copies from Recording sync. Deleted recordings are excluded from future saves to the same folder.",
+    "ko": "녹음 동기화 목록에서 저장된 사본을 삭제할 수 있습니다. 삭제한 녹음은 같은 폴더에 다시 저장되지 않습니다."
   }
 }
