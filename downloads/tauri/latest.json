@@ -1,19 +1,19 @@
 {
-  "version": "0.3.23",
-  "notes": "Delete saved copies from Recording sync. Deleted recordings are excluded from future saves to the same folder.",
-  "pub_date": "2026-11-09T17:03:44.368209+00:00",
+  "version": "0.3.24",
+  "notes": "Improved translations for notices and errors about meetings, recordings, and connectivity. Native presentation, conference audio, and remote recording controls require Conference access.",
+  "pub_date": "2026-11-10T03:29:21.049780+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlZMWU1UzFzTGp2NWhwOHkrQ2tkdSthYkdQbEJiU0ZUcWpOUjF1bUE3UmlMMjRQYzV2WGdHZkN6b1ZqV2lxYnZVUWYyU1M4RmNYa3BaaTl4c1JiblFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQzMTg3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjIzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjMKRUc2ejR6ODhHcmJvRVIrTExodStwWlZoeTU4dmt4SUREU2JQc2VHS0dVZWgrN3hKdm1XZjB3SW5VSEFOZW1kV21sSjlJZ1d6VVBqOENDTExqYm9sRFE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.23/BizCrush-Tauri_0.3.23_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpqN29zNVE5bXJscVY2M2Rtd1NKVlFwNWpBK2lVWE8rMHd3TXhoalIzU092WDJoUlY2cWp5bmVFZlIwSE15eG9NZFJnb1RGQ05nRmRuTEM1aEc0MUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgwMzkyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjQKVC8xeGVuc2R4WU5CVDBTR1hScm5INTQyVGRmeGpqSExRaEhaTkI0aEp3aFplRVNzNEVyS2xBa3h6QWxHamFidXV1WWJ1SHIwMVhOdzYya1ZSZXpBREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.24/BizCrush-Tauri_0.3.24_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9Bb21rYVBvUyt5b0hORDdtOEJoVVl1VnZjY3dVLzlpbU5mbDhBbXBpN3hNMWpzMWdEY2tUK2xmWXRndzE4d0hIZFdDRlJhZktkSXFydk13TnFocVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjQzODIzCWZpbGU6Qml6Q3J1c2hfMC4zLjIzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjMKemxoYUMwM2I1ZDVGWjdOY3ZLdCs2ZC9uQUlNSmQwWkk0cEJIcFFENUxHWWU1OUxPdGEwckQ5VVRkNGhMVjdCU3lwd2VrOUJqVkdRdHlYbDhNMmZQQ2c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.23/BizCrush_0.3.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtGS1ZIb0toUndPKy9lVEVvbkxFRzZ6cWZ1UDFOMVdyeFdGcHdEeGZURlJsV3hMbWRzNzYyc3lNQ21qZTNSMmlrbVpNdWJ5azRjL3JsVUF5NTJyTlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgxMzYwCWZpbGU6Qml6Q3J1c2hfMC4zLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjQKcDUwZmVzN1RWOWxXREcya3JERStZZDYzSzRQTktkNndBSDN4R2Q0UnRLZVU4OVRSZzE1ZVd6elJONzh3K28razcwWDFTL0pKVEtrMWtnREVTcDNsQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.24/BizCrush_0.3.24_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Delete saved copies from Recording sync. Deleted recordings are excluded from future saves to the same folder.",
-    "ko": "녹음 동기화 목록에서 저장된 사본을 삭제할 수 있습니다. 삭제한 녹음은 같은 폴더에 다시 저장되지 않습니다."
+    "en": "Improved translations for notices and errors about meetings, recordings, and connectivity. Native presentation, conference audio, and remote recording controls require Conference access.",
+    "ko": "회의, 녹음, 연결 상태 안내와 오류 메시지의 번역을 개선했습니다. 앱의 프레젠테이션, 회의 통역 음성, 원격 녹음 제어에는 Conference 이용 권한이 필요합니다."
   }
 }
