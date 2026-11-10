@@ -1,19 +1,19 @@
 {
-  "version": "0.3.25",
-  "notes": "Auto-read is available in live meetings. The app shows a headphone reminder during recording and explains token usage in the settings. Meeting history keeps loading when filters are applied or the connection recovers.",
-  "pub_date": "2026-11-10T04:55:54.065146+00:00",
+  "version": "0.3.26",
+  "notes": "See your Crush Membership and shared usage in your account, and open web billing directly from desktop settings. On Windows, microphone capture retries when the device audio format is rejected.",
+  "pub_date": "2026-11-10T16:07:02.694074+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBTY0EycjNCMk9hdEU0blFxQ3M5cTJ5aC9CUVZ5MjdNRG9nbnlRbFh3Q2RxZ0NvMFhwR01yaUxmN0JKZWdDOVRtLzkwUkgxV0t3YW9uNm91N3FkTUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg1ODIzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjUKUWlHQ0t5OHBObHZQVFVsaDcrampTSWhxd0F4cWJxZTV3Vk1JV050ekpnUnBXTEgzcDU4bVRQb0h3QUM5ZHVmcnIvVlQxNllGaHhwL1JYd09VUzV3QlE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.25/BizCrush-Tauri_0.3.25_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFYeWJkYy9MRHlTcHVBU0o2K3RnTUtJVEt3OTdXcjA5QmM3NXcyQmZZcXVZZ1lwY3o1WW9XNjNWa3lNWlplK2hwMXJ6L04xN1Qwa3BvRzQzWWJQK2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI2MDgwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjYKb2Q0L1U1R1hJOWEvcGZEb1dTaDFzZ1BkcDNzN2NDRTlnM1Z6TW5qNDdsZWk2MWdvUnhwUEVvU2pVNzdZYkVwMy9FckRKOWpjR2ozL3ZqY0ErVDZ3Qnc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.26/BizCrush-Tauri_0.3.26_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDl6ZEhOcHhjUmxBTEp4Y3N2TnMzTjBQeTg1TFBVR3RzaGpxNHZvUTNQQmtjazBTWU5pSFA0RG5YQVAwMVpGeDBmblBFdVplZGZqdjY3aklXS1kwVEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg2NTUzCWZpbGU6Qml6Q3J1c2hfMC4zLjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjUKdVpUTVFJL1g2bFNQVVpWUWZ0ZnJHejZWZzBqYTRWT3Zpb3BlajFCeXl5cnllVkYzTFc0cndFMkR0ZnVIN0w4SEt0OWwvOEVHWVorempSQzBaeUI4Qnc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.25/BizCrush_0.3.25_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJaZGRwT01kZGFMNW5GMU82SUE1TDNvMDlHVzJ5OWY0ZXJ4d2ZhTGJ3VjBwWTd6Q3ZhcjMwK25vRk1DUFRNd2Z0YlpNdWVPS21iV1dSdmxCSTQ4ekFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI2ODEzCWZpbGU6Qml6Q3J1c2hfMC4zLjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjYKVzY5ZWpFRWtrMG16ZzNLbnd6YXAvc2FkNkh2cmtUVlVjbElEVWdObGM0cXM2bkZhT25UdW5BcEM1dHZFdW5FUUs1UUNjTDMvMWxLbW9mTGVmMGlhQlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.26/BizCrush_0.3.26_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Auto-read is available in live meetings. The app shows a headphone reminder during recording and explains token usage in the settings. Meeting history keeps loading when filters are applied or the connection recovers.",
-    "ko": "자동 읽기는 라이브 미팅에서만 사용할 수 있습니다. 녹음 중에는 이어폰 착용을 안내하고, 설정에는 토큰 소모 안내를 표시합니다. 미팅 목록은 필터를 적용하거나 연결이 복구된 뒤에도 다음 페이지를 이어서 불러옵니다."
+    "ko": "계정에서 Crush 멤버십과 공유 사용량을 확인할 수 있습니다. 데스크톱 설정에서 웹 결제 관리로 바로 이동할 수 있습니다. Windows에서는 장치의 오디오 형식이 거부될 때 마이크 연결을 다시 시도합니다.",
+    "en": "See your Crush Membership and shared usage in your account, and open web billing directly from desktop settings. On Windows, microphone capture retries when the device audio format is rejected."
   }
 }
