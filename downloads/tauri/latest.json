@@ -1,19 +1,19 @@
 {
-  "version": "0.3.24",
-  "notes": "Improved translations for notices and errors about meetings, recordings, and connectivity. Native presentation, conference audio, and remote recording controls require Conference access.",
-  "pub_date": "2026-11-10T03:29:21.049780+00:00",
+  "version": "0.3.25",
+  "notes": "Auto-read is available in live meetings. The app shows a headphone reminder during recording and explains token usage in the settings. Meeting history keeps loading when filters are applied or the connection recovers.",
+  "pub_date": "2026-11-10T04:55:54.065146+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpqN29zNVE5bXJscVY2M2Rtd1NKVlFwNWpBK2lVWE8rMHd3TXhoalIzU092WDJoUlY2cWp5bmVFZlIwSE15eG9NZFJnb1RGQ05nRmRuTEM1aEc0MUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgwMzkyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjQKVC8xeGVuc2R4WU5CVDBTR1hScm5INTQyVGRmeGpqSExRaEhaTkI0aEp3aFplRVNzNEVyS2xBa3h6QWxHamFidXV1WWJ1SHIwMVhOdzYya1ZSZXpBREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.24/BizCrush-Tauri_0.3.24_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBTY0EycjNCMk9hdEU0blFxQ3M5cTJ5aC9CUVZ5MjdNRG9nbnlRbFh3Q2RxZ0NvMFhwR01yaUxmN0JKZWdDOVRtLzkwUkgxV0t3YW9uNm91N3FkTUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg1ODIzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjUKUWlHQ0t5OHBObHZQVFVsaDcrampTSWhxd0F4cWJxZTV3Vk1JV050ekpnUnBXTEgzcDU4bVRQb0h3QUM5ZHVmcnIvVlQxNllGaHhwL1JYd09VUzV3QlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.25/BizCrush-Tauri_0.3.25_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtGS1ZIb0toUndPKy9lVEVvbkxFRzZ6cWZ1UDFOMVdyeFdGcHdEeGZURlJsV3hMbWRzNzYyc3lNQ21qZTNSMmlrbVpNdWJ5azRjL3JsVUF5NTJyTlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgxMzYwCWZpbGU6Qml6Q3J1c2hfMC4zLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjQKcDUwZmVzN1RWOWxXREcya3JERStZZDYzSzRQTktkNndBSDN4R2Q0UnRLZVU4OVRSZzE1ZVd6elJONzh3K28razcwWDFTL0pKVEtrMWtnREVTcDNsQ3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.24/BizCrush_0.3.24_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDl6ZEhOcHhjUmxBTEp4Y3N2TnMzTjBQeTg1TFBVR3RzaGpxNHZvUTNQQmtjazBTWU5pSFA0RG5YQVAwMVpGeDBmblBFdVplZGZqdjY3aklXS1kwVEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjg2NTUzCWZpbGU6Qml6Q3J1c2hfMC4zLjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjUKdVpUTVFJL1g2bFNQVVpWUWZ0ZnJHejZWZzBqYTRWT3Zpb3BlajFCeXl5cnllVkYzTFc0cndFMkR0ZnVIN0w4SEt0OWwvOEVHWVorempSQzBaeUI4Qnc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.25/BizCrush_0.3.25_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Improved translations for notices and errors about meetings, recordings, and connectivity. Native presentation, conference audio, and remote recording controls require Conference access.",
-    "ko": "회의, 녹음, 연결 상태 안내와 오류 메시지의 번역을 개선했습니다. 앱의 프레젠테이션, 회의 통역 음성, 원격 녹음 제어에는 Conference 이용 권한이 필요합니다."
+    "en": "Auto-read is available in live meetings. The app shows a headphone reminder during recording and explains token usage in the settings. Meeting history keeps loading when filters are applied or the connection recovers.",
+    "ko": "자동 읽기는 라이브 미팅에서만 사용할 수 있습니다. 녹음 중에는 이어폰 착용을 안내하고, 설정에는 토큰 소모 안내를 표시합니다. 미팅 목록은 필터를 적용하거나 연결이 복구된 뒤에도 다음 페이지를 이어서 불러옵니다."
   }
 }
