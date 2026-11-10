@@ -1,19 +1,19 @@
 {
-  "version": "0.3.26",
-  "notes": "See your Crush Membership and shared usage in your account, and open web billing directly from desktop settings. On Windows, microphone capture retries when the device audio format is rejected.",
-  "pub_date": "2026-11-10T16:07:02.694074+00:00",
+  "version": "0.3.27",
+  "notes": "See app usage at a glance and open web billing with your desktop account.",
+  "pub_date": "2026-11-10T17:09:58.062308+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFYeWJkYy9MRHlTcHVBU0o2K3RnTUtJVEt3OTdXcjA5QmM3NXcyQmZZcXVZZ1lwY3o1WW9XNjNWa3lNWlplK2hwMXJ6L04xN1Qwa3BvRzQzWWJQK2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI2MDgwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjYKb2Q0L1U1R1hJOWEvcGZEb1dTaDFzZ1BkcDNzN2NDRTlnM1Z6TW5qNDdsZWk2MWdvUnhwUEVvU2pVNzdZYkVwMy9FckRKOWpjR2ozL3ZqY0ErVDZ3Qnc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.26/BizCrush-Tauri_0.3.26_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJXYVJBaEdjVzRHb0k5eDJFaUFwZ01kVXVYZ2UvRWdiaERDMy8xYy9KaDc2VVl4OGNGaUxpWmgycnVvMEJQQjkrNW9zYjMvVC9JamtvU2RuV2Vod2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI5ODk0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjcKSmJxVHJWUDcyTmV5WkVXejVMUTlPTFBjZ0s0NU5EdXozc1diMjZXTlhFbkdNTmJpeDRHUEdnVkR0M0pHT0ZCaUxaSkI2cVFZakpLNWg3S3J4UmI2RHc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.27/BizCrush-Tauri_0.3.27_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJaZGRwT01kZGFMNW5GMU82SUE1TDNvMDlHVzJ5OWY0ZXJ4d2ZhTGJ3VjBwWTd6Q3ZhcjMwK25vRk1DUFRNd2Z0YlpNdWVPS21iV1dSdmxCSTQ4ekFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI2ODEzCWZpbGU6Qml6Q3J1c2hfMC4zLjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjYKVzY5ZWpFRWtrMG16ZzNLbnd6YXAvc2FkNkh2cmtUVlVjbElEVWdObGM0cXM2bkZhT25UdW5BcEM1dHZFdW5FUUs1UUNjTDMvMWxLbW9mTGVmMGlhQlE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.26/BizCrush_0.3.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHdiVHQxQndvVkFuQUpJenJGMjlUVmJUTngrd1lETFMyZllJc2dFZ0pobmJsejl0VDJDcHlNZHhlVWhmdTB1ZHZHaWdrMXZRUG1ybFNWNWY1RWlvWHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzMwNTk3CWZpbGU6Qml6Q3J1c2hfMC4zLjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjcKQVJpUy9SQTNTbnIwbEdmeWVzMDQrOGpEalFRc01RVDBzL2hHT1loMkF0bFNQdE1CdDZKZ0Vocm1wZURVK2dUL3VPbUt3N1NYZXF5MGNPS2JJaWVVQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.27/BizCrush_0.3.27_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "계정에서 Crush 멤버십과 공유 사용량을 확인할 수 있습니다. 데스크톱 설정에서 웹 결제 관리로 바로 이동할 수 있습니다. Windows에서는 장치의 오디오 형식이 거부될 때 마이크 연결을 다시 시도합니다.",
-    "en": "See your Crush Membership and shared usage in your account, and open web billing directly from desktop settings. On Windows, microphone capture retries when the device audio format is rejected."
+    "ko": "계정의 앱별 사용량을 막대그래프로 표시하고, 앱 계정으로 웹 결제 화면을 열 수 있습니다.",
+    "en": "See app usage at a glance and open web billing with your desktop account."
   }
 }
