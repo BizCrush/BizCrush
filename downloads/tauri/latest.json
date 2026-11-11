@@ -1,23 +1,23 @@
 {
-  "version": "0.3.31",
-  "notes": "Added a dedicated space at the top of the macOS window for dragging. Meeting buttons and search fields remain easy to click.",
-  "pub_date": "2026-11-11T14:35:39.631270+00:00",
+  "version": "0.3.32",
+  "notes": "Fixed the transcript jumping to the previous playback position when clicking an utterance. The view now stays on the selected utterance while audio seeks.",
+  "pub_date": "2026-11-11T15:23:19.369059+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHkvVmpVUEhnc2h6a0R0MmU3b1pjTmp6eHhpQzFOb1BFZW1xMkFHTVB6eEtIT3UxNGt0UU1OYlB0MUhrU0RkNlJ5VnUwQVR3SHhwN1lKK2U3OHI5TEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA2OTUyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjMxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzEKbEV3QzMrcDA4WUs2Y21RcEYxd2I2QXlOMGNyNmh4LzlZOWE3Q2k4NlYrdnRZaUZyWVlaaDFIM1c1bjFremlqNFJxWFp2cFBRN2x5THFEVjQzSGNiQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.31/BizCrush-Tauri_0.3.31_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtISGhWbFExK040b3piVWhUY0VJK1gvMEFablJ6dlgyNWxLbE9sdU45R0NJL2ovcldjdXc2RFArWHhaVXB6RmNiZFNZZGRMWWNrekNSam94VzM0NFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA5NzkzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjMyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzIKcWo0WHlTeTI5RFhGMVJGb2wzQmdVcXY5R1R4N2NxQTRnbUxqQk5RcTFzTnB3eXZIY09YbE9pQXZmOVFuMFlNeTJuRk1ycXdNcXZYNzhtTyt4ZldjQWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.32/BizCrush-Tauri_0.3.32_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDcyQVBMTno5OGs3cmZZelpJbGNhY2FmTjVxOTY2RktBY09CWUFObGhlVU5telJsclYzL3FrVkpTQXdZUWJpNng1cVpYRk1MZnljL3RTSjJydnlIZ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA3NzM5CWZpbGU6Qml6Q3J1c2hfMC4zLjMxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzEKTHdBenF1UFlxRHAzUHdaY1BHK2JNOWYvaEdhVG03bEhBbk5hbHN5dlBiWVVnTCtEYkJORWJjaUduWWora09lSFJCOTE3cmxKS2dhRG8xOXBJWnVxQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.31/BizCrush_0.3.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDl5R3EzNFo3eXdZT01Lb0dBS25adjdFRFVSK0dReXNoZDd2R1RINGwrckgzMWtsT2d4a3NaOCtRWEYrdVN3cmJZdUl1RkIyUU81QTRqM25tVHhyYVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwNTk4CWZpbGU6Qml6Q3J1c2hfMC4zLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzIKYTRQbE80Z3hJRWZmUWZ1cmRZVDVReUxLa0s4dkRYblB2dHh1SGVuVk5OdW43VTdOVmIrcGZZWWRkcVJOTjRzaWdzZ0JRVGFmS3dVY0ljNGliR1RwQVE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.32/BizCrush_0.3.32_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Added a dedicated space at the top of the macOS window for dragging. Meeting buttons and search fields remain easy to click.",
-    "ko": "맥에서 창을 쉽게 옮길 수 있도록 상단에 드래그 전용 여백을 추가했습니다. 회의 버튼과 검색 입력도 편하게 사용할 수 있습니다.",
-    "ja": "macOSのウインドウ上部にドラッグ専用の余白を追加しました。会議ボタンや検索欄も引き続き使いやすく操作できます。",
-    "de": "Am oberen Rand des macOS-Fensters gibt es jetzt einen eigenen Bereich zum Verschieben. Besprechungsschaltflächen und Suchfelder bleiben einfach anklickbar.",
-    "fr": "Un espace dédié en haut de la fenêtre macOS permet désormais de la déplacer facilement. Les boutons de réunion et les champs de recherche restent accessibles.",
-    "es": "Se añadió un espacio en la parte superior de la ventana de macOS para arrastrarla con facilidad. Los botones de reunión y los campos de búsqueda siguen siendo fáciles de usar."
+    "en": "Fixed the transcript jumping to the previous playback position when clicking an utterance. The view now stays on the selected utterance while audio seeks.",
+    "ko": "발화를 누르면 이전 재생 위치로 스크롤됐다가 돌아오는 문제를 수정했습니다. 오디오가 이동하는 동안에도 선택한 발화가 화면에 유지됩니다.",
+    "ja": "発話をクリックした際に以前の再生位置へスクロールしてから戻る問題を修正しました。音声のシーク中も選択した発話が画面に表示されます。",
+    "de": "Ein Fehler wurde behoben, durch den das Transkript beim Anklicken einer Äußerung kurz zur vorherigen Wiedergabeposition sprang. Die ausgewählte Äußerung bleibt beim Suchen im Audio sichtbar.",
+    "fr": "Correction du retour temporaire à la position de lecture précédente lors du clic sur un énoncé. L’énoncé sélectionné reste visible pendant le déplacement dans l’audio.",
+    "es": "Se corrigió el salto temporal de la transcripción a la posición de reproducción anterior al hacer clic en una intervención. La intervención seleccionada permanece visible mientras el audio cambia de posición."
   }
 }
