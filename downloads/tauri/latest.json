@@ -1,23 +1,23 @@
 {
-  "version": "0.3.29",
-  "notes": "Presentation captions continue updating when another window has focus. Fixed macOS presentation video getting stuck on an old frame, with automatic recovery when frame delivery stalls.",
-  "pub_date": "2026-11-11T07:18:42.659349+00:00",
+  "version": "0.3.30",
+  "notes": "Fixed recordings pausing when clicking another transcript utterance during playback. Playback now continues while moving to the selected utterance.",
+  "pub_date": "2026-11-11T13:11:22.168251+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlXVUlyWTl0UFNRcE5tTmpObTdpU0VsQmd4S0luN0JkRHB5UjlJVk5oZExBUENjRTB1bnVRUEVTRkhvL2hIRmpqVDNLTWoxZks5NmsvOXdOY2Mxd3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzc4MDI0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjkKekJQWUtXM2RTWlJZSWdldGphUkNiSXVHc1M1VzB3OUNoTjJldjhPb0gzaUE1eHZIZ2Z5ZE5zSTgzY2JRazdQYzJ4aXExSlRzM1hvbFdna0tYVy8rQlE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.29/BizCrush-Tauri_0.3.29_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhPLzIwRmJkaWhneG5KVDdabjROZHh4SmRWbEw4VEJiLzRDM3M5ZkxsS0JaSEhsekxHekQ2eCtFMTY3TG1sbmcrSERPOG93WlNYLzNnbUxmc2RUUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAxODQ1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjMwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzAKSjNNWUpkUy9PMXNJYklyTGR5WkZjVlVTbU5LS1JMblVmNFpLRzhkQ1cyVyt2R3ZFUGxYM1c0YjZ3dTJTeTVMVXp2OU1GYVp2eXFweDJXOFJ6VDJSQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.30/BizCrush-Tauri_0.3.30_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHg4SzdzY2IvdFNDTHU4M0RDbHlEVjVjcnpGNE1ORlZ1MytHVGFrK3Nvek1lbkJnSHRENzRFTHphdndnbFlLNGJiNFgxTVEvSXpoaG43eDRrVHcrVWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgxNTIyCWZpbGU6Qml6Q3J1c2hfMC4zLjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjkKenZNL3VZc3FJTDZNeW1nM1lCWlUxYjRleHJUYWlHdDkrZWk2eHdkdmcvOTYwYktPemlNdlN5dy9CQXN1MkF3cEdwWFpSaUV5VmZPckI2N1NSYTlYQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.29/BizCrush_0.3.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdqWTEwWjZ5K3B4V2ZPMW1XczU5YlNjZlduZEVtd1RyQmtIUXFSTmEyOFo1dm8xRHMzeDNQeitHL3F6aSs4TDA0VkVFQklNNlhYdlF6VnpjQjQybFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAyNjgxCWZpbGU6Qml6Q3J1c2hfMC4zLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzAKTGc2bDZ6Q3dXNWFPd1pUanMxZ2JsUUlOWURlbkZ4Znd6enJtdDhCK0JlNmRVeWc4dXhQUUlpU1VJaXJwUUZqYmhrc3Q0KzlQd3FyVGtLTTYyOGNQQmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.30/BizCrush_0.3.30_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Presentation captions continue updating when another window has focus. Fixed macOS presentation video getting stuck on an old frame, with automatic recovery when frame delivery stalls.",
-    "ko": "다른 창을 선택해도 프레젠테이션 자막이 실시간으로 갱신됩니다. macOS 프레젠테이션 영상이 예전 화면에 멈추는 문제를 수정하고, 프레임 전달이 정체되면 자동으로 복구하도록 개선했습니다.",
-    "ja": "別のウィンドウにフォーカスを移しても、プレゼンテーション字幕がリアルタイムで更新されます。macOSで映像が古いフレームのまま停止する問題を修正し、フレーム配信が滞った際の自動復旧を追加しました。",
-    "de": "Präsentationsuntertitel werden auch dann weiter aktualisiert, wenn ein anderes Fenster den Fokus hat. Ein Einfrieren des Präsentationsvideos unter macOS wurde behoben; bei stockender Bildübertragung erfolgt eine automatische Wiederherstellung.",
-    "fr": "Les sous-titres de présentation continuent de se mettre à jour lorsque vous utilisez une autre fenêtre. Correction du gel de la vidéo sur une ancienne image sous macOS, avec récupération automatique si la transmission des images se bloque.",
-    "es": "Los subtítulos de presentación siguen actualizándose al cambiar a otra ventana. Se corrigió el bloqueo del vídeo en una imagen antigua en macOS y se añadió recuperación automática cuando se detiene la entrega de fotogramas."
+    "en": "Fixed recordings pausing when clicking another transcript utterance during playback. Playback now continues while moving to the selected utterance.",
+    "ko": "녹음 재생 중 다른 발화를 누르면 재생이 멈추는 문제를 수정했습니다. 선택한 발화로 이동할 때도 재생이 계속됩니다.",
+    "ja": "録音の再生中に別の発話をクリックすると再生が停止する問題を修正しました。選択した発話へ移動する際も再生が続きます。",
+    "de": "Ein Fehler wurde behoben, durch den die Aufnahme beim Anklicken einer anderen Äußerung im Transkript pausierte. Die Wiedergabe läuft beim Wechsel zur ausgewählten Äußerung weiter.",
+    "fr": "Correction d’un problème qui mettait l’enregistrement en pause lors d’un clic sur un autre énoncé de la transcription. La lecture continue désormais pendant le déplacement vers l’énoncé choisi.",
+    "es": "Se corrigió un problema que pausaba la grabación al hacer clic en otra intervención de la transcripción. La reproducción continúa al desplazarse a la intervención seleccionada."
   }
 }
