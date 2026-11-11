@@ -1,23 +1,23 @@
 {
-  "version": "0.3.30",
-  "notes": "Fixed recordings pausing when clicking another transcript utterance during playback. Playback now continues while moving to the selected utterance.",
-  "pub_date": "2026-11-11T13:11:22.168251+00:00",
+  "version": "0.3.31",
+  "notes": "Added a dedicated space at the top of the macOS window for dragging. Meeting buttons and search fields remain easy to click.",
+  "pub_date": "2026-11-11T14:35:39.631270+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhPLzIwRmJkaWhneG5KVDdabjROZHh4SmRWbEw4VEJiLzRDM3M5ZkxsS0JaSEhsekxHekQ2eCtFMTY3TG1sbmcrSERPOG93WlNYLzNnbUxmc2RUUUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAxODQ1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjMwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzAKSjNNWUpkUy9PMXNJYklyTGR5WkZjVlVTbU5LS1JMblVmNFpLRzhkQ1cyVyt2R3ZFUGxYM1c0YjZ3dTJTeTVMVXp2OU1GYVp2eXFweDJXOFJ6VDJSQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.30/BizCrush-Tauri_0.3.30_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHkvVmpVUEhnc2h6a0R0MmU3b1pjTmp6eHhpQzFOb1BFZW1xMkFHTVB6eEtIT3UxNGt0UU1OYlB0MUhrU0RkNlJ5VnUwQVR3SHhwN1lKK2U3OHI5TEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA2OTUyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjMxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzEKbEV3QzMrcDA4WUs2Y21RcEYxd2I2QXlOMGNyNmh4LzlZOWE3Q2k4NlYrdnRZaUZyWVlaaDFIM1c1bjFremlqNFJxWFp2cFBRN2x5THFEVjQzSGNiQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.31/BizCrush-Tauri_0.3.31_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdqWTEwWjZ5K3B4V2ZPMW1XczU5YlNjZlduZEVtd1RyQmtIUXFSTmEyOFo1dm8xRHMzeDNQeitHL3F6aSs4TDA0VkVFQklNNlhYdlF6VnpjQjQybFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDAyNjgxCWZpbGU6Qml6Q3J1c2hfMC4zLjMwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzAKTGc2bDZ6Q3dXNWFPd1pUanMxZ2JsUUlOWURlbkZ4Znd6enJtdDhCK0JlNmRVeWc4dXhQUUlpU1VJaXJwUUZqYmhrc3Q0KzlQd3FyVGtLTTYyOGNQQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.30/BizCrush_0.3.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDcyQVBMTno5OGs3cmZZelpJbGNhY2FmTjVxOTY2RktBY09CWUFObGhlVU5telJsclYzL3FrVkpTQXdZUWJpNng1cVpYRk1MZnljL3RTSjJydnlIZ2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA3NzM5CWZpbGU6Qml6Q3J1c2hfMC4zLjMxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzEKTHdBenF1UFlxRHAzUHdaY1BHK2JNOWYvaEdhVG03bEhBbk5hbHN5dlBiWVVnTCtEYkJORWJjaUduWWora09lSFJCOTE3cmxKS2dhRG8xOXBJWnVxQXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.31/BizCrush_0.3.31_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Fixed recordings pausing when clicking another transcript utterance during playback. Playback now continues while moving to the selected utterance.",
-    "ko": "녹음 재생 중 다른 발화를 누르면 재생이 멈추는 문제를 수정했습니다. 선택한 발화로 이동할 때도 재생이 계속됩니다.",
-    "ja": "録音の再生中に別の発話をクリックすると再生が停止する問題を修正しました。選択した発話へ移動する際も再生が続きます。",
-    "de": "Ein Fehler wurde behoben, durch den die Aufnahme beim Anklicken einer anderen Äußerung im Transkript pausierte. Die Wiedergabe läuft beim Wechsel zur ausgewählten Äußerung weiter.",
-    "fr": "Correction d’un problème qui mettait l’enregistrement en pause lors d’un clic sur un autre énoncé de la transcription. La lecture continue désormais pendant le déplacement vers l’énoncé choisi.",
-    "es": "Se corrigió un problema que pausaba la grabación al hacer clic en otra intervención de la transcripción. La reproducción continúa al desplazarse a la intervención seleccionada."
+    "en": "Added a dedicated space at the top of the macOS window for dragging. Meeting buttons and search fields remain easy to click.",
+    "ko": "맥에서 창을 쉽게 옮길 수 있도록 상단에 드래그 전용 여백을 추가했습니다. 회의 버튼과 검색 입력도 편하게 사용할 수 있습니다.",
+    "ja": "macOSのウインドウ上部にドラッグ専用の余白を追加しました。会議ボタンや検索欄も引き続き使いやすく操作できます。",
+    "de": "Am oberen Rand des macOS-Fensters gibt es jetzt einen eigenen Bereich zum Verschieben. Besprechungsschaltflächen und Suchfelder bleiben einfach anklickbar.",
+    "fr": "Un espace dédié en haut de la fenêtre macOS permet désormais de la déplacer facilement. Les boutons de réunion et les champs de recherche restent accessibles.",
+    "es": "Se añadió un espacio en la parte superior de la ventana de macOS para arrastrarla con facilidad. Los botones de reunión y los campos de búsqueda siguen siendo fáciles de usar."
   }
 }
