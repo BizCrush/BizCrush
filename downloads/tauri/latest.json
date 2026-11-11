@@ -1,23 +1,23 @@
 {
-  "version": "0.3.28",
-  "notes": "Fixed presentation screen sharing getting stuck while recording system audio on macOS.",
-  "pub_date": "2026-11-11T04:05:40.112180+00:00",
+  "version": "0.3.29",
+  "notes": "Presentation captions continue updating when another window has focus. Fixed macOS presentation video getting stuck on an old frame, with automatic recovery when frame delivery stalls.",
+  "pub_date": "2026-11-11T07:18:42.659349+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9nbXNFb2lETE1FM0l2RlczTmZDWnhZT0V2OWkyeERWWmVmM1VOZ21iUzNpN0VOOEpyb0VSenR4TnpJV0tJM3phaE5HRDdKY0VCenFBeXlHbHFSVXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY5NjYyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjgKOTdrbTlSa294MU5RdnZuVExZOXEwWE5iUXdKWVVtdW5sdHBXQmsrQ2pVc1dpUnFRRzhPTXN1TUxtdDZqS3Z4U01ZYlZHbVdYcytsemxjclB0bTdXQ1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.28/BizCrush-Tauri_0.3.28_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlXVUlyWTl0UFNRcE5tTmpObTdpU0VsQmd4S0luN0JkRHB5UjlJVk5oZExBUENjRTB1bnVRUEVTRkhvL2hIRmpqVDNLTWoxZks5NmsvOXdOY2Mxd3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mzc4MDI0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjI5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMjkKekJQWUtXM2RTWlJZSWdldGphUkNiSXVHc1M1VzB3OUNoTjJldjhPb0gzaUE1eHZIZ2Z5ZE5zSTgzY2JRazdQYzJ4aXExSlRzM1hvbFdna0tYVy8rQlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.29/BizCrush-Tauri_0.3.29_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHgxeFRnY3g1SjhjKy8vbVEvR0ZVaVNWUlhrdGdZeHR6aHZkTzJDRVRDN2xLSWlZNGlvZXNQU2trQy92RHAwUmhqcXZnaW01S214cEx5UHFublJPNVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzY5OTQwCWZpbGU6Qml6Q3J1c2hfMC4zLjI4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjgKMjhPOG9HT2Y0YWY1Y3JjSlV5NnViWTB5dDBIeWphbTlFTGtoWHd1ZlJsM1VUSTVSUXRrSG5yYjJSYis0aWFjZHdzVG9vQVptaVcvU1QySXIwY0RkQUE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.28/BizCrush_0.3.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHg4SzdzY2IvdFNDTHU4M0RDbHlEVjVjcnpGNE1ORlZ1MytHVGFrK3Nvek1lbkJnSHRENzRFTHphdndnbFlLNGJiNFgxTVEvSXpoaG43eDRrVHcrVWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzgxNTIyCWZpbGU6Qml6Q3J1c2hfMC4zLjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMjkKenZNL3VZc3FJTDZNeW1nM1lCWlUxYjRleHJUYWlHdDkrZWk2eHdkdmcvOTYwYktPemlNdlN5dy9CQXN1MkF3cEdwWFpSaUV5VmZPckI2N1NSYTlYQXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.29/BizCrush_0.3.29_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Fixed presentation screen sharing getting stuck while recording system audio on macOS.",
-    "ko": "macOS에서 시스템 오디오를 녹음하는 동안 프레젠테이션 화면 공유가 대기 상태에 멈추는 문제를 수정했습니다.",
-    "ja": "macOSでシステム音声を録音中に、プレゼンテーションの画面共有が待機状態のままになる問題を修正しました。",
-    "de": "Ein Problem wurde behoben, durch das die Bildschirmfreigabe für Präsentationen unter macOS während der Aufnahme von Systemaudio hängen blieb.",
-    "fr": "Correction du partage d’écran des présentations qui restait bloqué pendant l’enregistrement de l’audio système sur macOS.",
-    "es": "Se corrigió un problema que bloqueaba la pantalla de espera al compartir presentaciones mientras se grababa el audio del sistema en macOS."
+    "en": "Presentation captions continue updating when another window has focus. Fixed macOS presentation video getting stuck on an old frame, with automatic recovery when frame delivery stalls.",
+    "ko": "다른 창을 선택해도 프레젠테이션 자막이 실시간으로 갱신됩니다. macOS 프레젠테이션 영상이 예전 화면에 멈추는 문제를 수정하고, 프레임 전달이 정체되면 자동으로 복구하도록 개선했습니다.",
+    "ja": "別のウィンドウにフォーカスを移しても、プレゼンテーション字幕がリアルタイムで更新されます。macOSで映像が古いフレームのまま停止する問題を修正し、フレーム配信が滞った際の自動復旧を追加しました。",
+    "de": "Präsentationsuntertitel werden auch dann weiter aktualisiert, wenn ein anderes Fenster den Fokus hat. Ein Einfrieren des Präsentationsvideos unter macOS wurde behoben; bei stockender Bildübertragung erfolgt eine automatische Wiederherstellung.",
+    "fr": "Les sous-titres de présentation continuent de se mettre à jour lorsque vous utilisez une autre fenêtre. Correction du gel de la vidéo sur une ancienne image sous macOS, avec récupération automatique si la transmission des images se bloque.",
+    "es": "Los subtítulos de presentación siguen actualizándose al cambiar a otra ventana. Se corrigió el bloqueo del vídeo en una imagen antigua en macOS y se añadió recuperación automática cuando se detiene la entrega de fotogramas."
   }
 }
