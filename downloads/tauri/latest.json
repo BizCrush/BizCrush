@@ -1,26 +1,26 @@
 {
-  "version": "0.3.39",
-  "notes": "Simplified the translation language list: sequential translation appears once as a section heading.",
-  "pub_date": "2026-11-12T11:28:35.173054+00:00",
+  "version": "0.3.40",
+  "notes": "Improved meeting sharing and connection recovery, made recording completion more reliable, and added F8 source switching for Windows presentations.",
+  "pub_date": "2026-11-12T15:34:41.645811+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVmQ0tmVEtaY2xHakhZamdlT3JZOTEzWnVjejgrTXM5QWJtTXRGc1hvK1JHMk0yTjNYRGJHWWlkazJycEc5V0duZDRoV2x2TnhvdjM1dXB5K1JEbHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgxOTQwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjM5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzkKZDZrUDkrQitoQ3NKSmx1U3BXcUdKTWk2T3pvZnN4aHlTYmhWUlllY1lIMkFOMzFvd0pSODY2c3M1dlZGK2c0TGJManZvY3ErOWFlNEwyZmR6bEJ0Q3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.39/BizCrush-Tauri_0.3.39_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhmajVRUFhtR3NvTm5iYnRmY1REck9tYzQwRXZnWXBKbTdDYnpOcEgwdThjRUZxM3F2Z1NBNjFqd3JJN0IzMnNySHdEakRoOFFVUVJKbTZScFRYZlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk2ODkyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDAKaTNHaDdKcG5GcmdPYUZSY3RJSnlPRnZQTEhNd2s2YlZXK0w5SVI1WWVMZGdQVmJ4cGg0VVV2RkJwZVZzNkhlektRU0ZHVEkwSWNrMDMyL2I1dzJ0REE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.40/BizCrush-Tauri_0.3.40_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDY2MWxLQXlNQlFpWVJteUcvclVQcHFPQ0tDOXg3NjdsN0VadUhqc29BVHJzQk1Nc2VpbFR2R3JYNVNsazVncGVDb0Y3RDNaQ25MQTF1RlZFQ21Ia2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDgyOTE0CWZpbGU6Qml6Q3J1c2hfMC4zLjM5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzkKTXZnOWNLb0dTWlRYR3phN09PYnRGU1BZelpoUCtreVk1K2NiMzNITXVBTEQ2cVdhdUtLZjZJbkdlSDVPdjVHL0tuYS9iL2REZkl2MWcyY3BPR0hOQUE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.39/BizCrush_0.3.39_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVpeGt0aC9tUjFPQmFIT2NNaHFrR2JBKzZ0akE5bmpwZnY1NDN6eGYwMGZnQmxxOVRWbE9NQ1F5bkhLS0k3WVFkVVdrcWlqd094QStpZjZGQkFBTXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDk3NjgxCWZpbGU6Qml6Q3J1c2hfMC4zLjQwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDAKSU92d3dITjgrc2tIeGkrOFRXMitFNmpVTkJ2ODRMcnVtQXpUMjNYeWQ5SXB3S0VCWDdDY2VPbVdJK0s5cDZDMTVGVkoyZ0toTnR0YzNla24yRnlsREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.40/BizCrush_0.3.40_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Simplified the translation language list: sequential translation appears once as a section heading.",
-    "ko": "번역 언어 목록에서 순차 번역을 구분 제목에만 표시하도록 정리했습니다.",
-    "ja": "翻訳言語一覧の逐次翻訳の表示をセクション見出しのみに整理しました。",
-    "de": "In der Sprachliste erscheint sequenzielle Übersetzung nur noch als Abschnittsüberschrift.",
-    "fr": "Dans la liste des langues, la traduction séquentielle apparaît uniquement dans le titre de la section.",
-    "es": "La traducción secuencial aparece una sola vez, en el título de la sección de idiomas.",
-    "pt-BR": "A tradução sequencial aparece apenas no título da seção na lista de idiomas.",
-    "ru": "В списке языков последовательный перевод теперь указан только в заголовке раздела.",
-    "zh-CN": "翻译语言列表中的逐句翻译仅在分组标题中显示。"
+    "en": "Improved meeting sharing and connection recovery, made recording completion more reliable, and added F8 source switching for Windows presentations.",
+    "ko": "회의 공유와 연결 복구를 개선하고 녹음 종료의 안정성을 높였습니다. Windows 프레젠테이션에서 F8로 송출 화면을 변경할 수 있습니다.",
+    "ja": "会議の共有と接続の復旧、録音終了の安定性を改善しました。Windows のプレゼンテーションで F8 キーによる共有画面の切り替えに対応しました。",
+    "de": "Verbesserte Besprechungsfreigabe, Verbindungswiederherstellung und zuverlässigerer Aufnahmeabschluss. F8 wechselt die Quelle bei Windows-Präsentationen.",
+    "fr": "Amélioration du partage des réunions, du rétablissement de la connexion et de la fin des enregistrements. F8 change la source des présentations sous Windows.",
+    "es": "Mejoras al compartir reuniones, recuperar la conexión y finalizar grabaciones. F8 permite cambiar la fuente de las presentaciones en Windows.",
+    "pt-BR": "Melhorias no compartilhamento de reuniões, na recuperação da conexão e na finalização das gravações. F8 troca a fonte das apresentações no Windows.",
+    "ru": "Улучшены общий доступ к встречам, восстановление соединения и завершение записи. F8 переключает источник презентации в Windows.",
+    "zh-CN": "改进会议分享、连接恢复和录音结束的稳定性。Windows 演示支持使用 F8 切换共享画面。"
   }
 }
