@@ -1,23 +1,26 @@
 {
-  "version": "0.3.32",
-  "notes": "Fixed the transcript jumping to the previous playback position when clicking an utterance. The view now stays on the selected utterance while audio seeks.",
-  "pub_date": "2026-11-11T15:23:19.369059+00:00",
+  "version": "0.3.34",
+  "notes": "Reading text size now changes transcripts and translations without enlarging menus or settings. Fixed overlapping meeting-list guidance at larger text sizes. Clarified that Crush Membership includes BizCrush, TalkCrush and CapCrush.",
+  "pub_date": "2026-11-12T04:25:28.577028+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtISGhWbFExK040b3piVWhUY0VJK1gvMEFablJ6dlgyNWxLbE9sdU45R0NJL2ovcldjdXc2RFArWHhaVXB6RmNiZFNZZGRMWWNrekNSam94VzM0NFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDA5NzkzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjMyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzIKcWo0WHlTeTI5RFhGMVJGb2wzQmdVcXY5R1R4N2NxQTRnbUxqQk5RcTFzTnB3eXZIY09YbE9pQXZmOVFuMFlNeTJuRk1ycXdNcXZYNzhtTyt4ZldjQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.32/BizCrush-Tauri_0.3.32_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFsUzN3eWxCdFRmTS9ZNHFNUWhMU1kzMi85L0QxRlBQeUdwN3JKUGpDN2gzRGs5R3NIakJRdElVbEtYTkFycis3Y1pjQ295ajRhWEpWYnN2Q0VkZndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDU3MDE1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjM0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzQKMGdwaEJrNUZFM0dKWGsxaGJDVlJEV2c1c2lUREJnUVNaZVBmWm5sSjVTajFFT3YwOUFQQ1RDdHdxRkdIcmdWN2U4ajlDdFdNdkJKN29teU9XWGN5QlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.34/BizCrush-Tauri_0.3.34_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDl5R3EzNFo3eXdZT01Lb0dBS25adjdFRFVSK0dReXNoZDd2R1RINGwrckgzMWtsT2d4a3NaOCtRWEYrdVN3cmJZdUl1RkIyUU81QTRqM25tVHhyYVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDEwNTk4CWZpbGU6Qml6Q3J1c2hfMC4zLjMyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzIKYTRQbE80Z3hJRWZmUWZ1cmRZVDVReUxLa0s4dkRYblB2dHh1SGVuVk5OdW43VTdOVmIrcGZZWWRkcVJOTjRzaWdzZ0JRVGFmS3dVY0ljNGliR1RwQVE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.32/BizCrush_0.3.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlxekdlUWc3WHdwRitsM0R2TitMUVFsMjFmZXhuV1RVRDdnZWxtRVN6U3lKR010d3Nub2dZOUVkTXFWemkxbkNnYjQxR0ZEN2liNU5uUVlEeTUrTkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDU3NTI4CWZpbGU6Qml6Q3J1c2hfMC4zLjM0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzQKand6UEtMUDJnWFBHdjZyNWJrTkgzb1RuRUcrcnRFWkk3cjhDK2FPRXliWHJlZ0ZiVEdKOU43WUFWZWZGa3l0cGNEM09HWURiaTRCREJBb2JGVGdDQlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.34/BizCrush_0.3.34_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Fixed the transcript jumping to the previous playback position when clicking an utterance. The view now stays on the selected utterance while audio seeks.",
-    "ko": "발화를 누르면 이전 재생 위치로 스크롤됐다가 돌아오는 문제를 수정했습니다. 오디오가 이동하는 동안에도 선택한 발화가 화면에 유지됩니다.",
-    "ja": "発話をクリックした際に以前の再生位置へスクロールしてから戻る問題を修正しました。音声のシーク中も選択した発話が画面に表示されます。",
-    "de": "Ein Fehler wurde behoben, durch den das Transkript beim Anklicken einer Äußerung kurz zur vorherigen Wiedergabeposition sprang. Die ausgewählte Äußerung bleibt beim Suchen im Audio sichtbar.",
-    "fr": "Correction du retour temporaire à la position de lecture précédente lors du clic sur un énoncé. L’énoncé sélectionné reste visible pendant le déplacement dans l’audio.",
-    "es": "Se corrigió el salto temporal de la transcripción a la posición de reproducción anterior al hacer clic en una intervención. La intervención seleccionada permanece visible mientras el audio cambia de posición."
+    "en": "Reading text size now changes transcripts and translations without enlarging menus or settings. Fixed overlapping meeting-list guidance at larger text sizes. Clarified that Crush Membership includes BizCrush, TalkCrush and CapCrush.",
+    "ko": "글자 크기를 조절하면 메뉴와 설정은 그대로 유지되고 녹취·번역 본문만 확대됩니다. 큰 글자에서 미팅 목록 안내가 겹치는 문제를 수정했습니다. Crush 멤버십에서 BizCrush·TalkCrush·CapCrush를 함께 사용할 수 있도록 안내를 명확히 했습니다.",
+    "ja": "文字サイズの調整は文字起こしと翻訳の本文に適用され、メニューや設定の文字サイズは変わりません。文字を大きくした際にミーティング一覧の案内が重なる問題を修正しました。CrushメンバーシップでBizCrush・TalkCrush・CapCrushを利用できることを明記しました。",
+    "de": "Die Lesegröße ändert jetzt nur Transkripte und Übersetzungen, ohne Menüs oder Einstellungen zu vergrößern. Überlappende Hinweise in der Besprechungsliste bei größerer Schrift wurden behoben. Es wird nun ausdrücklich angegeben, dass die Crush-Mitgliedschaft BizCrush, TalkCrush und CapCrush umfasst.",
+    "fr": "Le réglage de la taille du texte agrandit uniquement les transcriptions et traductions, sans modifier les menus ni les réglages. Les indications de la liste des réunions ne se superposent plus avec un texte agrandi. Il est désormais précisé que l’abonnement Crush inclut BizCrush, TalkCrush et CapCrush.",
+    "es": "El tamaño de lectura ahora cambia solo las transcripciones y traducciones, sin ampliar los menús ni los ajustes. Se corrigió la superposición de indicaciones en la lista de reuniones con texto grande. Se aclaró que la membresía Crush incluye BizCrush, TalkCrush y CapCrush.",
+    "pt-BR": "O tamanho de leitura agora altera apenas as transcrições e traduções, sem ampliar os menus ou as configurações. Corrigimos a sobreposição de orientações na lista de reuniões com texto ampliado. Agora está explícito que a assinatura Crush inclui BizCrush, TalkCrush e CapCrush.",
+    "ru": "Размер текста теперь изменяется только в расшифровках и переводах, не увеличивая меню и настройки. Исправлено наложение подсказок в списке встреч при крупном тексте. Уточнено, что подписка Crush включает BizCrush, TalkCrush и CapCrush.",
+    "zh-CN": "调整文字大小现在仅放大转录和翻译正文，不会放大菜单或设置。修复了大字体下会议列表提示文字重叠的问题。明确说明 Crush 会员包括 BizCrush、TalkCrush 和 CapCrush。"
   }
 }
