@@ -1,26 +1,26 @@
 {
-  "version": "0.3.35",
-  "notes": "Fixed empty calendar dates remaining stuck on loading while another meeting was loading. Menu icons and close buttons now scale consistently with text size.",
-  "pub_date": "2026-11-12T05:28:33.349987+00:00",
+  "version": "0.3.38",
+  "notes": "Added natural, brisk speech output for Mandarin (Taiwan), Cantonese, Nepali and Sinhala. These languages are clearly marked as sequential translation in language selectors. Translation starts after each sentence is finalized. Language names and explanations follow your interface language.",
+  "pub_date": "2026-11-12T09:59:17.102321+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFhWmVPRkhxczlxemR1ckZsYy93VDJaREJ0Ri93Rk5uMlB0NG5RRXNZRjkxU1J2WkNBbFVUa3NHUWtiTlIzdVVjTTlTL0NPSnBRYXcwenJIQisybUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDYwNTEzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjM1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzUKNVRiVmF4WjV0VlR1eFRBdnZBS1VqOGtXWWk2TnZRUS9abkQ1dWVTcGl0a1N0YlRaNlZDdk41Z3BmTmdMMUlUL0syMHVDQSsvSUpqOTZ4ekRxWGswREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.35/BizCrush-Tauri_0.3.35_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFjMFJkTHM5K0locmFrSzY0TnBwZmlLQ0loS3ZNWkZlUDRRaGRmWTYzRmFhdHY4L2RsQmtVYkovWWJ4WDAvb1FibHczNWxSdzc2WG9XYzZWYkFZYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc3MDY2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjM4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuMzgKTjU1dHJmUDMrK2YxUnlZN2JZWjRLaFA4WnFTWkJUWURaS1JUSFFTRG84clBZS1dyTi9YNWl3czhqSmE1VkhzMzgwazlLWFoweitUdHhrNWxrOFZGQWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.38/BizCrush-Tauri_0.3.38_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDQrbzVKM2Rzcm9XYjJHWWErR1RRUnNHMnBDSWJQV1NPSWt6d2twK0VMWDZSOTZXR1Z2K0FJUUNKRkRyTmNOV1YrZUJ3dXVqQmxDSk0xWXNldVU0MFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDYxMzEyCWZpbGU6Qml6Q3J1c2hfMC4zLjM1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzUKYW1DMVRpdFRhS3VwNUZjblVtdHA5bHR1Zi9qYXNtWnRTVFRPWmNxM0ZVY1BudEJtRER0MENVdW9Ic2VqYmN1a3grTjMxVjlYcFVONkQzMWlqckV1QkE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.35/BizCrush_0.3.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHdPTEZaeTQvTkcvRlFJVnI3OURWZGJ6V1RwVFgvMVJJOU5aYklGNUU2ZmJLTUUyV25kQ3pUeWllYUZGeThhUHFWN1hXQmZIYmd4dCtWOHJ4V3o3RVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc3NTU2CWZpbGU6Qml6Q3J1c2hfMC4zLjM4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMzgKMzZFZHpnblQyY1BJY010YytLMlhJZFA0MW5manovSWRWcGdSaldHZGRPNlBzcjdjUXhBVDVrSzRwSDhrRWw1ZFNZWHRIV1pFMkdiVlJWRFovR2xpQ2c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.38/BizCrush_0.3.38_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Fixed empty calendar dates remaining stuck on loading while another meeting was loading. Menu icons and close buttons now scale consistently with text size.",
-    "ko": "다른 미팅을 불러오는 동안 일정이 없는 날짜에서 캘린더 로딩이 끝나지 않던 문제를 수정했습니다. 메뉴 아이콘과 닫기 버튼이 글자 크기에 맞춰 일관되게 확대됩니다.",
-    "ja": "別のミーティングの読み込み中に、予定のない日付のカレンダーが読み込み中のままになる問題を修正しました。メニューアイコンと閉じるボタンが文字サイズに合わせて一貫して拡大されます。",
-    "de": "Leere Kalendertage bleiben beim Laden einer anderen Besprechung nicht mehr im Ladezustand. Menüsymbole und Schließen-Schaltflächen skalieren jetzt einheitlich mit der Schriftgröße.",
-    "fr": "Les dates sans événement ne restent plus bloquées sur le chargement lorsqu’une autre réunion se charge. Les icônes des menus et les boutons de fermeture suivent désormais la taille du texte de manière cohérente.",
-    "es": "Se corrigió el bloqueo de la carga en fechas sin eventos mientras se cargaba otra reunión. Los iconos de menú y los botones de cierre ahora cambian de tamaño de forma coherente con el texto.",
-    "pt-BR": "Corrigimos datas sem eventos que permaneciam carregando enquanto outra reunião era carregada. Os ícones de menu e os botões de fechar agora acompanham o tamanho do texto de forma consistente.",
-    "ru": "Исправлено зависание загрузки пустых дат календаря при загрузке другой встречи. Значки меню и кнопки закрытия теперь одинаково масштабируются вместе с размером текста.",
-    "zh-CN": "修复了加载其他会议时，无日程日期的日历一直显示加载中的问题。菜单图标和关闭按钮现在会随文字大小一致缩放。"
+    "en": "Added natural, brisk speech output for Mandarin (Taiwan), Cantonese, Nepali and Sinhala. These languages are clearly marked as sequential translation in language selectors. Translation starts after each sentence is finalized. Language names and explanations follow your interface language.",
+    "ko": "대만식 중국어·광둥어·네팔어·싱할라어 음성 출력을 추가했습니다. 해당 언어는 언어 선택 목록에 순차 번역으로 표시되며, 문장이 확정된 뒤 번역하여 자연스럽고 빠르게 읽습니다. 언어 이름과 안내도 UI 언어에 맞춰 제공합니다.",
+    "ja": "台湾の中国語、広東語、ネパール語、シンハラ語の自然で軽快な音声出力を追加しました。これらの言語は選択画面に逐次翻訳と表示され、文の確定後に翻訳します。言語名と説明も画面の言語に合わせて表示します。",
+    "de": "Natürliche, zügige Sprachausgabe für Mandarin (Taiwan), Kantonesisch, Nepali und Singhalesisch hinzugefügt. Diese Sprachen sind in der Auswahl als sequenzielle Übersetzung gekennzeichnet. Die Übersetzung beginnt nach Abschluss jedes Satzes. Namen und Hinweise folgen der Sprache der Benutzeroberfläche.",
+    "fr": "Ajout de voix naturelles et rapides en mandarin de Taïwan, cantonais, népalais et cingalais. Ces langues sont signalées comme traduction séquentielle dans les sélecteurs. La traduction commence après chaque phrase finalisée. Les noms et explications suivent la langue de votre interface.",
+    "es": "Se añadieron voces naturales y ágiles en mandarín de Taiwán, cantonés, nepalí y cingalés. Estos idiomas aparecen como traducción secuencial en los selectores. La traducción comienza al finalizar cada frase. Los nombres y las explicaciones siguen el idioma de la interfaz.",
+    "pt-BR": "Adicionamos vozes naturais e ágeis em mandarim de Taiwan, cantonês, nepalês e cingalês. Esses idiomas são identificados como tradução sequencial nos seletores. A tradução começa após cada frase ser concluída. Os nomes e as explicações seguem o idioma da interface.",
+    "ru": "Добавлена естественная и быстрая озвучка на тайваньском варианте китайского, кантонском, непальском и сингальском языках. В списках выбора они помечены как последовательный перевод, который выполняется после завершения фразы. Названия и пояснения соответствуют языку интерфейса.",
+    "zh-CN": "新增台湾华语、粤语、尼泊尔语和僧伽罗语的自然、轻快语音输出。这些语言在选择列表中标记为逐句翻译，每句话确认完成后进行翻译。语言名称和说明也会根据界面语言显示。"
   }
 }
