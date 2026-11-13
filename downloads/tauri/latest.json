@@ -1,26 +1,26 @@
 {
-  "version": "0.3.41",
-  "notes": "Added event materials management in Settings for company accounts, with access to customer upload links and per-file keywords and context.",
-  "pub_date": "2026-11-13T03:32:23.729771+00:00",
+  "version": "0.3.42",
+  "notes": "Removed the event materials shortcut from app settings. Manage event materials in the web admin page.",
+  "pub_date": "2026-11-13T04:23:21.126168+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtmMVhWWWdMeEtQREpuejZiLzV4dE5Ma0FsZCtGVXc4R2NRQ0t6Zk1ZTVlTOGY1ZGNJZEdLTzFKb01ZMDRiNkJWM0dqTExLeDJveUhsbEQxaXZGVlFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQwMDQyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDEKOXJ5enJRM1o4UFd5MXAwMFNNalcvUTMyN0RCTkoyam9EbHRrTFBINFdvOHUwSE54S25rVGF5bWR3V1d4RlR4Z3hnYzJBTzRlNFpPb2RxWmJENGM4Q1E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.41/BizCrush-Tauri_0.3.41_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9PZnd4a2haQ09YcysxNk9rWVhONXE5ekowTGdSeXBaU1BIQ0hERFlNeHNLTFY4Qm1BaDNOa1N6S2hzRDhBOWdSeUJ5bldNTFZ2dzlEZng1ZUYzbEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQzMTkyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDIKT2VNUnB3cTE3Z3JrL0xvRGpGOGVqb3B1TXUwcWdFaFhVM0UvVFhFWjlIQWtXSlNHSy8yVitMY0ZRM1ZJZTBtNlhOb2t0Y1RIbzdteGM1aldWM0J5RHc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.42/BizCrush-Tauri_0.3.42_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlmOFJnRGEwUmxrK0FsdmpXOUxsSWNpZXEzbjNrS0JIOXJNbW9COGwzUEhMZFF0dTJGN0t1NHJPWERqN1RGblk3QjErL2E4cGZkOWFRZjZCNzl5aEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQwNzQzCWZpbGU6Qml6Q3J1c2hfMC4zLjQxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDEKTVNremdiUkRpZ2tSKzNKZlBCSjZ3a3paaW9iSzVxQ2hZcjNjY2RJQXR3R09Gb0owbGRxaWxuMi9uMUQvT3ZsWWJtRmFzSVFTUHc1QU5XWm85NWlJRGc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.41/BizCrush_0.3.41_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhZQnYrTE9ONU42L2JwTE5DWXJhUG1zOWc4QW9xZWZvMTFRWTE2M2NwTEhUU003YmUvUGxzWUJPbmdrd2szOXV6Tnh6TWo3ajdWOHZ4a0dLZllBd0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQzODAwCWZpbGU6Qml6Q3J1c2hfMC4zLjQyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDIKbTA2R1l5bmxpQ1dQSUEwL0tITmZSYytxYlVUVFlvd01hcHBXekNDSWV0YUo4UkVSa1BxNWVkTnJ1Y2c4WnlsYVowalltVDNHWUZVYXZCRHcrZGdYQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.42/BizCrush_0.3.42_x64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Added event materials management in Settings for company accounts, with access to customer upload links and per-file keywords and context.",
-    "ko": "회사 계정의 설정에 행사 사전자료 메뉴를 추가했습니다. 고객 업로드 링크와 파일별 키워드·컨텍스트 관리 화면을 열 수 있습니다.",
-    "ja": "会社アカウントの設定にイベント事前資料メニューを追加しました。お客様用アップロードリンクとファイルごとのキーワード・コンテキストを管理できます。",
-    "de": "Veranstaltungsunterlagen sind jetzt in den Einstellungen für Firmenkonten erreichbar, mit Upload-Links für Kunden sowie Schlüsselwörtern und Kontext pro Datei.",
-    "fr": "Les comptes d’entreprise peuvent accéder aux documents d’événement depuis les paramètres, avec les liens de dépôt et les mots-clés et le contexte de chaque fichier.",
-    "es": "Las cuentas de empresa pueden abrir los materiales del evento desde Ajustes, con enlaces de carga para clientes y palabras clave y contexto por archivo.",
-    "pt-BR": "Contas da empresa agora acessam os materiais do evento pelas configurações, com links de envio para clientes e palavras-chave e contexto de cada arquivo.",
-    "ru": "В настройках корпоративных аккаунтов добавлен доступ к материалам мероприятия, ссылкам для загрузки клиентами, ключевым словам и контексту каждого файла.",
-    "zh-CN": "公司账号可在设置中打开活动准备资料，管理客户上传链接以及每个文件的关键词和上下文。"
+    "en": "Removed the event materials shortcut from app settings. Manage event materials in the web admin page.",
+    "ko": "앱 설정의 행사 사전자료 바로가기를 제거했습니다. 행사자료는 웹 관리자 페이지에서 관리할 수 있습니다.",
+    "ja": "アプリ設定からイベント事前資料へのショートカットを削除しました。資料はWeb管理ページで管理できます。",
+    "de": "Die Verknüpfung zu Veranstaltungsunterlagen wurde aus den App-Einstellungen entfernt. Die Verwaltung erfolgt auf der Web-Adminseite.",
+    "fr": "Le raccourci vers les documents d’événement a été retiré des paramètres. Gérez les documents sur la page d’administration web.",
+    "es": "Se ha eliminado el acceso a los materiales del evento de los ajustes. Gestione los materiales en la página de administración web.",
+    "pt-BR": "O atalho de materiais do evento foi removido das configurações. Gerencie os materiais na página de administração web.",
+    "ru": "Ярлык материалов мероприятия удалён из настроек приложения. Управляйте материалами на веб-странице администратора.",
+    "zh-CN": "已移除应用设置中的活动资料快捷入口。请在网页管理页面管理活动资料。"
   }
 }
