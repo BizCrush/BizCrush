@@ -1,26 +1,30 @@
 {
-  "version": "0.3.42",
-  "notes": "Removed the event materials shortcut from app settings. Manage event materials in the web admin page.",
-  "pub_date": "2026-11-13T04:23:21.126168+00:00",
+  "version": "0.3.43",
+  "notes": "Manage context and keywords independently for each reference file. Find files with search, usage filters and pagination. On mobile, open a file from the list to edit its settings and retain drafts while switching files.",
+  "pub_date": "2026-11-13T20:53:08.378697+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9PZnd4a2haQ09YcysxNk9rWVhONXE5ekowTGdSeXBaU1BIQ0hERFlNeHNLTFY4Qm1BaDNOa1N6S2hzRDhBOWdSeUJ5bldNTFZ2dzlEZng1ZUYzbEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQzMTkyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDIKT2VNUnB3cTE3Z3JrL0xvRGpGOGVqb3B1TXUwcWdFaFhVM0UvVFhFWjlIQWtXSlNHSy8yVitMY0ZRM1ZJZTBtNlhOb2t0Y1RIbzdteGM1aldWM0J5RHc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.42/BizCrush-Tauri_0.3.42_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlkMDZQSkttSkRrKzZMMFJOdHpnNGlMQk9NTGp0eS9QWTA3Y2IxZFo1UHNURGU3TWd0NmNNYXgrVTIxTTRINzNHWXJZY2VzaGoxOWY2UlpEakxnMEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAwNTAzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDMKemNPT0s0VG1ZMk9PL3kvK3AzMWVCWGlKeU40NTNFZE5wQ3g0emw5bU9oVGlzMVd0UVkvaWJ3VEdySENGZUZwWXNYNndqMnUxeVpFRksvQkQvdVFNQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.43/BizCrush-Tauri_0.3.43_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhZQnYrTE9ONU42L2JwTE5DWXJhUG1zOWc4QW9xZWZvMTFRWTE2M2NwTEhUU003YmUvUGxzWUJPbmdrd2szOXV6Tnh6TWo3ajdWOHZ4a0dLZllBd0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQzODAwCWZpbGU6Qml6Q3J1c2hfMC4zLjQyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDIKbTA2R1l5bmxpQ1dQSUEwL0tITmZSYytxYlVUVFlvd01hcHBXekNDSWV0YUo4UkVSa1BxNWVkTnJ1Y2c4WnlsYVowalltVDNHWUZVYXZCRHcrZGdYQkE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.42/BizCrush_0.3.42_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpCM0JmQ2NLalMwV1dvb3hJYmJNSjNsRXVUSW9yam9oUUVvUzRZcjAvVkdxOHU1aGQrNmRlbTZlTDM1UEgwSDI4T21pZk9wZnRBaHhNWDBjVmFrSEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAyNDIwCWZpbGU6Qml6Q3J1c2hfMC4zLjQzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDMKNVFZem1tcVpFOCtVSVd3UXUvOWtnU3NVOE9Ddi9ncDB0c0wwOXBpZFVBUVRVN3czcFp4U3lnNENVSjRFSE1hS01KT2x2ZVdCR3JlSHh1YTVvS2VpQlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.43/BizCrush_0.3.43_x64-setup.exe"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhhdTdRUXcrU09NTks0QjhyZVVtV2ozSUR4WHVxcHN4Y21qcStsZ2JMemhNeVpQMkpqUUlvQXIwUXB1cEJPOTRwcEtvVURpZzNqc2xlL3pDZ0Yxd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAzMTE2CWZpbGU6Qml6Q3J1c2hfMC4zLjQzX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40Mwo2YytadjBLaldPMng1dG1xM1l4Um1IcHBuQXVIMzFTaVVRYUxscnN1R2RFOUR3anBoNmU5WnBmRUgrN1djdWovMEU5ajQ2WmNKZTlKeWFkMnJ0SWNDZz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.43/BizCrush_0.3.43_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Removed the event materials shortcut from app settings. Manage event materials in the web admin page.",
-    "ko": "앱 설정의 행사 사전자료 바로가기를 제거했습니다. 행사자료는 웹 관리자 페이지에서 관리할 수 있습니다.",
-    "ja": "アプリ設定からイベント事前資料へのショートカットを削除しました。資料はWeb管理ページで管理できます。",
-    "de": "Die Verknüpfung zu Veranstaltungsunterlagen wurde aus den App-Einstellungen entfernt. Die Verwaltung erfolgt auf der Web-Adminseite.",
-    "fr": "Le raccourci vers les documents d’événement a été retiré des paramètres. Gérez les documents sur la page d’administration web.",
-    "es": "Se ha eliminado el acceso a los materiales del evento de los ajustes. Gestione los materiales en la página de administración web.",
-    "pt-BR": "O atalho de materiais do evento foi removido das configurações. Gerencie os materiais na página de administração web.",
-    "ru": "Ярлык материалов мероприятия удалён из настроек приложения. Управляйте материалами на веб-странице администратора.",
-    "zh-CN": "已移除应用设置中的活动资料快捷入口。请在网页管理页面管理活动资料。"
+    "en": "Manage context and keywords independently for each reference file. Find files with search, usage filters and pagination. On mobile, open a file from the list to edit its settings and retain drafts while switching files.",
+    "ko": "참고 파일마다 컨텍스트와 키워드를 따로 설정할 수 있습니다. 검색, 사용 상태 필터와 페이지 이동으로 파일을 쉽게 찾을 수 있습니다. 모바일은 목록에서 파일을 선택해 편집하며, 파일을 바꿔도 작성 중인 내용이 유지됩니다.",
+    "ja": "参考ファイルごとにコンテキストとキーワードを個別に設定できます。検索、使用状態の絞り込み、ページ移動に対応しました。モバイルでは一覧からファイルを選んで編集でき、切り替えても編集中の内容が保持されます。",
+    "de": "Kontext und Schlüsselwörter lassen sich je Referenzdatei getrennt verwalten. Suche, Nutzungsfilter und Seitenwechsel erleichtern die Dateiauswahl. Auf Mobilgeräten öffnen Sie Dateien aus der Liste; Entwürfe bleiben beim Wechsel erhalten.",
+    "fr": "Gérez séparément le contexte et les mots-clés de chaque fichier. Retrouvez vos fichiers avec la recherche, les filtres et la pagination. Sur mobile, ouvrez un fichier depuis la liste ; vos brouillons sont conservés lorsque vous changez de fichier.",
+    "es": "Gestiona por separado el contexto y las palabras clave de cada archivo. Encuentra archivos con búsqueda, filtros y paginación. En el móvil, abre un archivo desde la lista; los borradores se conservan al cambiar de archivo.",
+    "pt-BR": "Gerencie o contexto e as palavras-chave de cada arquivo separadamente. Encontre arquivos com busca, filtros e paginação. No celular, abra um arquivo na lista; seus rascunhos são mantidos ao trocar de arquivo.",
+    "ru": "Контекст и термины настраиваются отдельно для каждого файла. Доступны поиск, фильтры использования и страницы списка. На телефоне файл открывается из списка; черновики сохраняются при переключении файлов.",
+    "zh-CN": "可分别设置每个参考文件的上下文和关键词。通过搜索、使用状态筛选和分页快速查找文件。移动端从列表选择文件进行编辑，切换文件时保留草稿。"
   }
 }
