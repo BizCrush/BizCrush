@@ -1,30 +1,30 @@
 {
-  "version": "0.3.43",
-  "notes": "Manage context and keywords independently for each reference file. Find files with search, usage filters and pagination. On mobile, open a file from the list to edit its settings and retain drafts while switching files.",
-  "pub_date": "2026-11-13T20:53:08.378697+00:00",
+  "version": "0.3.44",
+  "notes": "Restored the existing default keyword editor. Open View attachments in each meeting’s keyword and context editor to control context and keywords independently for each file.",
+  "pub_date": "2026-11-13T22:22:56.886967+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlkMDZQSkttSkRrKzZMMFJOdHpnNGlMQk9NTGp0eS9QWTA3Y2IxZFo1UHNURGU3TWd0NmNNYXgrVTIxTTRINzNHWXJZY2VzaGoxOWY2UlpEakxnMEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAwNTAzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDMKemNPT0s0VG1ZMk9PL3kvK3AzMWVCWGlKeU40NTNFZE5wQ3g0emw5bU9oVGlzMVd0UVkvaWJ3VEdySENGZUZwWXNYNndqMnUxeVpFRksvQkQvdVFNQkE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.43/BizCrush-Tauri_0.3.43_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhSYjZjZHBlandXNkNXUk1tVHV1QUNpMUZocElSZkZjeVpKNWU5VWhjYkJaemhJeGI0VVptdWIwb1VxdWNGbDRKQzdleU9kWE4yclVoK29EZzRVUEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA3MzA2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDQKU2FIUVNKeS91dWZseUkyb1AyWVQrTkJTQkVsdFNnczd2VG5IUnVYclp5UU5RUUhoak9tem9PazFNWFYxOGx3dGJSWG9Cam9GVkVhZ3Fwd1ZJWG1tRGc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.44/BizCrush-Tauri_0.3.44_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpCM0JmQ2NLalMwV1dvb3hJYmJNSjNsRXVUSW9yam9oUUVvUzRZcjAvVkdxOHU1aGQrNmRlbTZlTDM1UEgwSDI4T21pZk9wZnRBaHhNWDBjVmFrSEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAyNDIwCWZpbGU6Qml6Q3J1c2hfMC4zLjQzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDMKNVFZem1tcVpFOCtVSVd3UXUvOWtnU3NVOE9Ddi9ncDB0c0wwOXBpZFVBUVRVN3czcFp4U3lnNENVSjRFSE1hS01KT2x2ZVdCR3JlSHh1YTVvS2VpQlE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.43/BizCrush_0.3.43_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBpdmg1dHhsdHNXQnh4MlJJMWg3a2ZvVVBnU0lCUW4xY0VrNEY3eVZjRzZOK09pLzEyaVdUZEdwUkhqQUlVK2xUQkcwWUROb1VwWE5KYVVQSXp3ZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA4NTExCWZpbGU6Qml6Q3J1c2hfMC4zLjQ0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDQKeTI1bENFWEJNamtZNmJERkovUGZtc2x3ZkZWaW9IbnlJc0dWV1BoWTV3VktPY0RobUlTK2hPRmFGdzJpeHFnV3dpcXdHclJLZHhpQnZteTVPWG8wRFE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.44/BizCrush_0.3.44_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhhdTdRUXcrU09NTks0QjhyZVVtV2ozSUR4WHVxcHN4Y21qcStsZ2JMemhNeVpQMkpqUUlvQXIwUXB1cEJPOTRwcEtvVURpZzNqc2xlL3pDZ0Yxd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjAzMTE2CWZpbGU6Qml6Q3J1c2hfMC4zLjQzX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40Mwo2YytadjBLaldPMng1dG1xM1l4Um1IcHBuQXVIMzFTaVVRYUxscnN1R2RFOUR3anBoNmU5WnBmRUgrN1djdWovMEU5ajQ2WmNKZTlKeWFkMnJ0SWNDZz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.43/BizCrush_0.3.43_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDMzc2pER2FpSFo2SUhCenFjQlBuVzljNGlrSnNHUnpDSXBENTN3VmU1enpvcStWMXpwcTQ2dmdMRm9CV1I5dVZZV3o3STFsQmlKZ3FsOVdLOTlHRkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA4NTEzCWZpbGU6Qml6Q3J1c2hfMC4zLjQ0X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NApQekdJNXM0R1RoNkJlYUo2bUJIZHQ2K25JWVhxZEpGalp1Tml4UjR2eXNVb1NJcjEzNDBSTEhGUHAyU3JNbVBrcUNsU1VqRzIwYUdHbE1xSXVnSUZDQT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.44/BizCrush_0.3.44_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Manage context and keywords independently for each reference file. Find files with search, usage filters and pagination. On mobile, open a file from the list to edit its settings and retain drafts while switching files.",
-    "ko": "참고 파일마다 컨텍스트와 키워드를 따로 설정할 수 있습니다. 검색, 사용 상태 필터와 페이지 이동으로 파일을 쉽게 찾을 수 있습니다. 모바일은 목록에서 파일을 선택해 편집하며, 파일을 바꿔도 작성 중인 내용이 유지됩니다.",
-    "ja": "参考ファイルごとにコンテキストとキーワードを個別に設定できます。検索、使用状態の絞り込み、ページ移動に対応しました。モバイルでは一覧からファイルを選んで編集でき、切り替えても編集中の内容が保持されます。",
-    "de": "Kontext und Schlüsselwörter lassen sich je Referenzdatei getrennt verwalten. Suche, Nutzungsfilter und Seitenwechsel erleichtern die Dateiauswahl. Auf Mobilgeräten öffnen Sie Dateien aus der Liste; Entwürfe bleiben beim Wechsel erhalten.",
-    "fr": "Gérez séparément le contexte et les mots-clés de chaque fichier. Retrouvez vos fichiers avec la recherche, les filtres et la pagination. Sur mobile, ouvrez un fichier depuis la liste ; vos brouillons sont conservés lorsque vous changez de fichier.",
-    "es": "Gestiona por separado el contexto y las palabras clave de cada archivo. Encuentra archivos con búsqueda, filtros y paginación. En el móvil, abre un archivo desde la lista; los borradores se conservan al cambiar de archivo.",
-    "pt-BR": "Gerencie o contexto e as palavras-chave de cada arquivo separadamente. Encontre arquivos com busca, filtros e paginação. No celular, abra um arquivo na lista; seus rascunhos são mantidos ao trocar de arquivo.",
-    "ru": "Контекст и термины настраиваются отдельно для каждого файла. Доступны поиск, фильтры использования и страницы списка. На телефоне файл открывается из списка; черновики сохраняются при переключении файлов.",
-    "zh-CN": "可分别设置每个参考文件的上下文和关键词。通过搜索、使用状态筛选和分页快速查找文件。移动端从列表选择文件进行编辑，切换文件时保留草稿。"
+    "ko": "기본 키워드 화면을 기존 UI로 복원했습니다. 미팅의 키워드·컨텍스트 화면에서 첨부파일 보기를 열어 파일별 컨텍스트와 키워드를 독립적으로 설정할 수 있습니다.",
+    "en": "Restored the existing default keyword editor. Open View attachments in each meeting’s keyword and context editor to control context and keywords independently for each file.",
+    "ja": "基本キーワード画面を従来のUIに戻しました。各ミーティングのキーワード・コンテキスト画面で添付ファイルを開き、ファイルごとに個別に設定できます。",
+    "de": "Der bisherige Editor für Standardstichwörter ist wiederhergestellt. Über Anhänge anzeigen im Meeting lassen sich Kontext und Stichwörter je Datei unabhängig einstellen.",
+    "fr": "L’éditeur habituel des mots-clés par défaut est rétabli. Ouvrez les pièces jointes depuis une réunion pour régler séparément le contexte et les mots-clés de chaque fichier.",
+    "es": "Se ha restaurado el editor habitual de palabras clave predeterminadas. Abra los archivos adjuntos de una reunión para configurar por separado el contexto y las palabras clave de cada archivo.",
+    "pt-BR": "O editor anterior de palavras-chave padrão foi restaurado. Abra os anexos de uma reunião para configurar separadamente o contexto e as palavras-chave de cada arquivo.",
+    "ru": "Восстановлен прежний редактор ключевых слов по умолчанию. Откройте вложения в настройках встречи, чтобы отдельно управлять контекстом и ключевыми словами каждого файла.",
+    "zh-CN": "已恢复原有的默认关键词界面。在会议的关键词与上下文界面中打开附件，可按文件独立设置上下文和关键词。"
   }
 }
