@@ -1,30 +1,30 @@
 {
-  "version": "0.3.44",
-  "notes": "Restored the existing default keyword editor. Open View attachments in each meeting’s keyword and context editor to control context and keywords independently for each file.",
-  "pub_date": "2026-11-13T22:22:56.886967+00:00",
+  "version": "0.3.45",
+  "notes": "Moved View attachments to the meeting app bar to make more room for keywords and context. Open it with the file icon on mobile or the labeled button on desktop.",
+  "pub_date": "2026-11-14T03:58:37.644553+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhSYjZjZHBlandXNkNXUk1tVHV1QUNpMUZocElSZkZjeVpKNWU5VWhjYkJaemhJeGI0VVptdWIwb1VxdWNGbDRKQzdleU9kWE4yclVoK29EZzRVUEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA3MzA2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDQKU2FIUVNKeS91dWZseUkyb1AyWVQrTkJTQkVsdFNnczd2VG5IUnVYclp5UU5RUUhoak9tem9PazFNWFYxOGx3dGJSWG9Cam9GVkVhZ3Fwd1ZJWG1tRGc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.44/BizCrush-Tauri_0.3.44_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDltNGxZZW9KTnA3ZVppQktWQjVxTGhPT1Zqd0JaektFYVd1MGYvU3FjeDBLbXFuUW1uNnBqSWlvZmZXSmtvYXJ4cExyWXNoWnorQUpJZjZ2OEM4WGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI3ODIzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDUKTGw4djdpYnVDL3prSDI3MEIya1hacmQ0YWxtdk10QmJwVjNhbTRzWUNacHhuU2xmeWdYRzRqcjZ6SDJ5SHNxQ1hTdVNEMmJGNk40OWR0KzkwY2ZKQ2c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.45/BizCrush-Tauri_0.3.45_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBpdmg1dHhsdHNXQnh4MlJJMWg3a2ZvVVBnU0lCUW4xY0VrNEY3eVZjRzZOK09pLzEyaVdUZEdwUkhqQUlVK2xUQkcwWUROb1VwWE5KYVVQSXp3ZWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA4NTExCWZpbGU6Qml6Q3J1c2hfMC4zLjQ0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDQKeTI1bENFWEJNamtZNmJERkovUGZtc2x3ZkZWaW9IbnlJc0dWV1BoWTV3VktPY0RobUlTK2hPRmFGdzJpeHFnV3dpcXdHclJLZHhpQnZteTVPWG8wRFE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.44/BizCrush_0.3.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZYZGVnWnlEbVpwRWZRakp1RzhZZk8rUWhOT2tiNCtPSzJER05JK3NjaUlHUEdMQTZNOXlpaUV3djhUSVNnTUFPTE1vZCtiVklmZ1ltNDJNVWtkbVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI4MDAxCWZpbGU6Qml6Q3J1c2hfMC4zLjQ1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDUKQk0raWpSQ21VTms2Q2FGdUtnVDJhWnN2d3Z0YjZ0SGNLVm5iVlQ3TW4zNkMrV29PN2JNZzlOVTFnOGF2K3lJZjZ1REV5WU5wa3A1RU82QStHSjVCQXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.45/BizCrush_0.3.45_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDMzc2pER2FpSFo2SUhCenFjQlBuVzljNGlrSnNHUnpDSXBENTN3VmU1enpvcStWMXpwcTQ2dmdMRm9CV1I5dVZZV3o3STFsQmlKZ3FsOVdLOTlHRkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjA4NTEzCWZpbGU6Qml6Q3J1c2hfMC4zLjQ0X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NApQekdJNXM0R1RoNkJlYUo2bUJIZHQ2K25JWVhxZEpGalp1Tml4UjR2eXNVb1NJcjEzNDBSTEhGUHAyU3JNbVBrcUNsU1VqRzIwYUdHbE1xSXVnSUZDQT09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.44/BizCrush_0.3.44_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJWSTNNbXlXbUZGNWQ4V2dPNUZkYjRIQkRrRnZNcU9Ic3c2Vk85dGZpczdSczFEZUR4SjRvelRmdFdhNnJ3U1Q2OUdJSFNYcWh0U0tiY0hsZjhnSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI4MzQ5CWZpbGU6Qml6Q3J1c2hfMC4zLjQ1X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NQpwRlJ0N2FxZDRINlM2d2gzVGNmalBpUHFHQldFOTVSSGNQM3V4RE5BWWhlMytEdUNGMDlDUDhBOFJkWmxmd2ZPcUU3UDMzZmExdmN1L1Y0V0ZybzBDdz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.45/BizCrush_0.3.45_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "기본 키워드 화면을 기존 UI로 복원했습니다. 미팅의 키워드·컨텍스트 화면에서 첨부파일 보기를 열어 파일별 컨텍스트와 키워드를 독립적으로 설정할 수 있습니다.",
-    "en": "Restored the existing default keyword editor. Open View attachments in each meeting’s keyword and context editor to control context and keywords independently for each file.",
-    "ja": "基本キーワード画面を従来のUIに戻しました。各ミーティングのキーワード・コンテキスト画面で添付ファイルを開き、ファイルごとに個別に設定できます。",
-    "de": "Der bisherige Editor für Standardstichwörter ist wiederhergestellt. Über Anhänge anzeigen im Meeting lassen sich Kontext und Stichwörter je Datei unabhängig einstellen.",
-    "fr": "L’éditeur habituel des mots-clés par défaut est rétabli. Ouvrez les pièces jointes depuis une réunion pour régler séparément le contexte et les mots-clés de chaque fichier.",
-    "es": "Se ha restaurado el editor habitual de palabras clave predeterminadas. Abra los archivos adjuntos de una reunión para configurar por separado el contexto y las palabras clave de cada archivo.",
-    "pt-BR": "O editor anterior de palavras-chave padrão foi restaurado. Abra os anexos de uma reunião para configurar separadamente o contexto e as palavras-chave de cada arquivo.",
-    "ru": "Восстановлен прежний редактор ключевых слов по умолчанию. Откройте вложения в настройках встречи, чтобы отдельно управлять контекстом и ключевыми словами каждого файла.",
-    "zh-CN": "已恢复原有的默认关键词界面。在会议的关键词与上下文界面中打开附件，可按文件独立设置上下文和关键词。"
+    "ko": "미팅의 첨부파일 보기 버튼을 상단 앱바로 옮겨 키워드·컨텍스트 화면의 공간을 넓혔습니다. 모바일에서는 파일 아이콘으로, PC에서는 첨부파일 보기 버튼으로 열 수 있습니다.",
+    "en": "Moved View attachments to the meeting app bar to make more room for keywords and context. Open it with the file icon on mobile or the labeled button on desktop.",
+    "ja": "ミーティングの添付ファイルボタンを上部のアプリバーに移動し、キーワードとコンテキストの表示領域を広げました。モバイルではファイルアイコン、PCではラベル付きボタンから開けます。",
+    "de": "Anhänge anzeigen befindet sich jetzt in der oberen Meeting-Leiste und schafft mehr Platz für Stichwörter und Kontext. Auf Mobilgeräten öffnet das Dateisymbol die Ansicht, am Desktop die beschriftete Schaltfläche.",
+    "fr": "Le bouton des pièces jointes se trouve désormais dans la barre supérieure de la réunion pour laisser plus de place aux mots-clés et au contexte. Utilisez l’icône de fichier sur mobile ou le bouton avec libellé sur ordinateur.",
+    "es": "El botón de archivos adjuntos está ahora en la barra superior de la reunión para dejar más espacio a las palabras clave y al contexto. Ábralo con el icono de archivo en móvil o el botón con texto en escritorio.",
+    "pt-BR": "O botão de anexos agora fica na barra superior da reunião, deixando mais espaço para palavras-chave e contexto. Abra pelo ícone de arquivo no celular ou pelo botão com texto no computador.",
+    "ru": "Кнопка вложений перенесена в верхнюю панель встречи, чтобы освободить место для ключевых слов и контекста. На мобильном устройстве используйте значок файла, на компьютере — кнопку с подписью.",
+    "zh-CN": "已将会议附件入口移至顶部应用栏，为关键词与上下文留出更多空间。手机上点击文件图标，电脑上点击附件按钮即可打开。"
   }
 }
