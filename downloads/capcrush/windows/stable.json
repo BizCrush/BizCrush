@@ -1,12 +1,12 @@
 {
-  "version": "1.1.1",
-  "build": 4,
+  "version": "1.1.2",
+  "build": 5,
   "channel": "windows-stable",
-  "notes": "CapCrush desktop 1.1.1\n\nAutomatic signed updates with independent Mac and Windows channels. Updates download in the background and are installed on restart after captions stop. Includes independent horizontal/vertical caption padding, caption entrance motion, hover controls and the CapCrush icon.\n",
+  "notes": "CapCrush desktop 1.1.2\n\nA focused desktop caption workspace: removed promotional branding and introduction copy, moved Sign in beside Settings, and raised Caption preview next to the audio controls. Includes signed automatic updates.\n",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.1/CapCrush_1.1.1_windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWnZNazRBNnVuU0s2bGlhNzFOY1Y4SERTVWEvemVIY2dMT2dkMlEzS2NTMG5sSjdCdkVjNGVRMWdOVVRHUkQ2bzNab2VIYnY5eUtKRDJKT0tGRDhNTWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUyMDg3CWZpbGU6Q2FwQ3J1c2hfMS4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4xCkttcFllYzFRQ1hzcEkyTnZIZFBnMHNaNjNtN3YzeG9jNDZFMW9GY2podVQ4dXpmelVnUGdtSUxpS00rSHpsOS9mOVV1OTRRVk52TSsyRU95bE54Y0NBPT0K"
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.2/CapCrush_1.1.2_windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWmxaSkNibnB3VVN6ZExvTkpqSEJsMlZsR2gzZDB0RlpUQ0o3ZXNva1Bjc1FlcTJGbHpGdDNvT1c1QkQrZ005WVhtNi9sM3JGZGxIMG1rNndlSlo0U0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU0NjY0CWZpbGU6Q2FwQ3J1c2hfMS4xLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4yCm9NNExsam04czF1NHdTL3QvcDZOWklvVFJHMmJZdEZucGlhMFpFOVlacXd2b1k1aDd3b2J5YUppOFJXRk1zdHlaVW54T1MxQ3RONDliSnc3UEx3R0RRPT0K"
     }
   }
 }
