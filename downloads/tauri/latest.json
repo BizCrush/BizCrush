@@ -1,30 +1,30 @@
 {
-  "version": "0.3.45",
-  "notes": "Moved View attachments to the meeting app bar to make more room for keywords and context. Open it with the file icon on mobile or the labeled button on desktop.",
-  "pub_date": "2026-11-14T03:58:37.644553+00:00",
+  "version": "0.3.46",
+  "notes": "Fixed the attachment view so the title and back button stay visible while scrolling the file list, keywords and context.",
+  "pub_date": "2026-11-14T05:29:55.401170+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDltNGxZZW9KTnA3ZVppQktWQjVxTGhPT1Zqd0JaektFYVd1MGYvU3FjeDBLbXFuUW1uNnBqSWlvZmZXSmtvYXJ4cExyWXNoWnorQUpJZjZ2OEM4WGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI3ODIzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDUKTGw4djdpYnVDL3prSDI3MEIya1hacmQ0YWxtdk10QmJwVjNhbTRzWUNacHhuU2xmeWdYRzRqcjZ6SDJ5SHNxQ1hTdVNEMmJGNk40OWR0KzkwY2ZKQ2c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.45/BizCrush-Tauri_0.3.45_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDgyQkt1a3NPS1VoeHkxVk94SjZzaUp1bmo1ZVJrUG1XWmxzcDNmMDdBdXBpMzJtQWRQcWFNQllCUnFpQ2FlYWN1T2IvUzUwVzk4ajVnei9lTFJ1QndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMzNTQ3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDYKNlJ0b05FV2RQbGNvbjBsWFRvK1kxdmhLYVI1cWRRRC93OWtvQnkzOFhRYnZiaURjRTFkM0dqZDdGL1BCbkZsMTFLanc4aVBKc1ppcDd1ZXViczVqRHc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.46/BizCrush-Tauri_0.3.46_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDZYZGVnWnlEbVpwRWZRakp1RzhZZk8rUWhOT2tiNCtPSzJER05JK3NjaUlHUEdMQTZNOXlpaUV3djhUSVNnTUFPTE1vZCtiVklmZ1ltNDJNVWtkbVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI4MDAxCWZpbGU6Qml6Q3J1c2hfMC4zLjQ1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDUKQk0raWpSQ21VTms2Q2FGdUtnVDJhWnN2d3Z0YjZ0SGNLVm5iVlQ3TW4zNkMrV29PN2JNZzlOVTFnOGF2K3lJZjZ1REV5WU5wa3A1RU82QStHSjVCQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.45/BizCrush_0.3.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVQOXFuTUlNa3h2VG1BT29HOWFMWEc1RTZnQjhZcU43UG1rUW5RRUk0MXZzTFFRK1BsbHJ4dEJYdVQ3aFNjVTFXR1ZIcHNXWGRZNmE3eVJZc3lMSEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMzNjg0CWZpbGU6Qml6Q3J1c2hfMC4zLjQ2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDYKQkx0SHZDaGpNaCtXVnNVVThuaXAyYUhka0VXbUhzNUYyVzVQbDRlNDFIWUxNOVZHdUVVWnlTMHJyU1ZKcEpTZTV6TUxoc0l6SE1lbGJHRlByRHZYQVE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.46/BizCrush_0.3.46_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJWSTNNbXlXbUZGNWQ4V2dPNUZkYjRIQkRrRnZNcU9Ic3c2Vk85dGZpczdSczFEZUR4SjRvelRmdFdhNnJ3U1Q2OUdJSFNYcWh0U0tiY0hsZjhnSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjI4MzQ5CWZpbGU6Qml6Q3J1c2hfMC4zLjQ1X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NQpwRlJ0N2FxZDRINlM2d2gzVGNmalBpUHFHQldFOTVSSGNQM3V4RE5BWWhlMytEdUNGMDlDUDhBOFJkWmxmd2ZPcUU3UDMzZmExdmN1L1Y0V0ZybzBDdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.45/BizCrush_0.3.45_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlISkpCWEdqcWNUalYySjQ0bFI3MUhtQURobmZXNGU4Vi9rQldmRlN3dG1XS3dXM1grdWhhbTJZR2FReThUZ3VSTUNRQzdsQWJGZnlDTE1PQ2xIeVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjM0MDUwCWZpbGU6Qml6Q3J1c2hfMC4zLjQ2X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NgpJMTBBOU5QT0xQRmprSGFxa3k5dDBQR08yajhSdVVlai9TOGtWNE56R1VzUFUvWEkwTG8zMUJqcnFpQmZuZExtRG96N1pqTFZSUzNOZ0NBNlB5MzBEdz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.46/BizCrush_0.3.46_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "미팅의 첨부파일 보기 버튼을 상단 앱바로 옮겨 키워드·컨텍스트 화면의 공간을 넓혔습니다. 모바일에서는 파일 아이콘으로, PC에서는 첨부파일 보기 버튼으로 열 수 있습니다.",
-    "en": "Moved View attachments to the meeting app bar to make more room for keywords and context. Open it with the file icon on mobile or the labeled button on desktop.",
-    "ja": "ミーティングの添付ファイルボタンを上部のアプリバーに移動し、キーワードとコンテキストの表示領域を広げました。モバイルではファイルアイコン、PCではラベル付きボタンから開けます。",
-    "de": "Anhänge anzeigen befindet sich jetzt in der oberen Meeting-Leiste und schafft mehr Platz für Stichwörter und Kontext. Auf Mobilgeräten öffnet das Dateisymbol die Ansicht, am Desktop die beschriftete Schaltfläche.",
-    "fr": "Le bouton des pièces jointes se trouve désormais dans la barre supérieure de la réunion pour laisser plus de place aux mots-clés et au contexte. Utilisez l’icône de fichier sur mobile ou le bouton avec libellé sur ordinateur.",
-    "es": "El botón de archivos adjuntos está ahora en la barra superior de la reunión para dejar más espacio a las palabras clave y al contexto. Ábralo con el icono de archivo en móvil o el botón con texto en escritorio.",
-    "pt-BR": "O botão de anexos agora fica na barra superior da reunião, deixando mais espaço para palavras-chave e contexto. Abra pelo ícone de arquivo no celular ou pelo botão com texto no computador.",
-    "ru": "Кнопка вложений перенесена в верхнюю панель встречи, чтобы освободить место для ключевых слов и контекста. На мобильном устройстве используйте значок файла, на компьютере — кнопку с подписью.",
-    "zh-CN": "已将会议附件入口移至顶部应用栏，为关键词与上下文留出更多空间。手机上点击文件图标，电脑上点击附件按钮即可打开。"
+    "ko": "첨부파일 목록과 파일별 키워드·컨텍스트를 스크롤해도 상단 제목과 뒤로가기 버튼이 고정되도록 수정했습니다.",
+    "en": "Fixed the attachment view so the title and back button stay visible while scrolling the file list, keywords and context.",
+    "ja": "添付ファイル一覧やファイルごとのキーワード・コンテキストをスクロールしても、上部のタイトルと戻るボタンが表示されるよう修正しました。",
+    "de": "Titel und Zurück-Schaltfläche bleiben jetzt beim Scrollen durch Anhänge, Stichwörter und Kontext sichtbar.",
+    "fr": "Le titre et le bouton de retour restent désormais visibles pendant le défilement des pièces jointes, des mots-clés et du contexte.",
+    "es": "El título y el botón Atrás ahora permanecen visibles al desplazarse por los archivos adjuntos, las palabras clave y el contexto.",
+    "pt-BR": "O título e o botão Voltar agora permanecem visíveis ao rolar a lista de anexos, as palavras-chave e o contexto.",
+    "ru": "Заголовок и кнопка возврата теперь остаются видимыми при прокрутке вложений, ключевых слов и контекста.",
+    "zh-CN": "修复了附件页面的滚动问题，浏览文件列表、关键词和上下文时，顶部标题和返回按钮会保持可见。"
   }
 }
