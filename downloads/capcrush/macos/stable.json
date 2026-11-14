@@ -1,16 +1,16 @@
 {
-  "version": "1.1.1",
-  "build": 4,
+  "version": "1.1.2",
+  "build": 5,
   "channel": "macos-stable",
-  "notes": "CapCrush desktop 1.1.1\n\nAutomatic signed updates with independent Mac and Windows channels. Updates download in the background and are installed on restart after captions stop. Includes independent horizontal/vertical caption padding, caption entrance motion, hover controls and the CapCrush icon.\n",
+  "notes": "CapCrush desktop 1.1.2\n\nA focused desktop caption workspace: removed promotional branding and introduction copy, moved Sign in beside Settings, and raised Caption preview next to the audio controls. Includes signed automatic updates.\n",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-macos-v1.1.1/CapCrush_1.1.1_darwin-aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdFVFaUVZWktYVTRJMkV0MHlLaW5UWkpSSEg0aXZrbk1ocnI3ZnU5UEw0M0lBL1R4SGN4dElwM0oxUHFhSnIzM1pBV3dUQnh0MmZCN1ByaHgya2NTTHI2cnh0ZXkyMFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUwMTUzCWZpbGU6Q2FwQ3J1c2guYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xClVQWU9VZzZrQ3MzeXBkT2VzTlVVUmJsUCtwK0NLL2RWa2kyMXZxY1JCQTdkaGE5VUZRU2NIWC9kdFpXRk9uUWpjYWJvQ1dkUXVidU03RVJkU1BLY0NnPT0K"
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-macos-v1.1.2/CapCrush_1.1.2_darwin-aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdFVFaUVZWktYVXd3NnA5TTd1VWthakZQNnRRUWlGWEdON2tkU2cycG1sL0lsOVhETHZwaFU4bVh3VzV0RWIxaHhPbm0wYWpnblQ3V2JPNkgwc201aTVVbloxend2WVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU0Mjk3CWZpbGU6Q2FwQ3J1c2guYXBwLnRhci5negl2ZXJzaW9uOjEuMS4yCnZPQUVrVDNJV0UzeExXTE8wbUl0Uzdvd0VOMEwzRk5SMG44cGZGdmpTUlpiZklSYTZWenVvRDkzRzZVc2U5dzN5cFRSRWV6YnRIRWNGU2VTODJtaURnPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-macos-v1.1.1/CapCrush_1.1.1_darwin-x86_64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdFVFaUVZWktYVStmbDcrQzV0STRIWWxYd1ZkNjg0VjdJR3R3ZFZubFVyR3BkZ2o4ZTRMemVMY3R6c3NUc25DOG5vYTlucHo1bmV5NVZhL3YzNzQ5aEFIVCtDYjVOQkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUxMjI2CWZpbGU6Q2FwQ3J1c2guYXBwLnRhci5negl2ZXJzaW9uOjEuMS4xCnNkOENaTElJaldBazlGK25ReVBBRXJwRHEzcmNBNHU3QStmNUFsU0hPaWtUSmFCbnlVN0JVb3dudHJ4YkVkNFZOdEZNQ1FWcUdUMHZxdXozYlJUTERBPT0K"
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-macos-v1.1.2/CapCrush_1.1.2_darwin-x86_64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdFVFaUVZWktYVXo4YnhZcWEwT09FVDhZbkNrRFRKWExsRkE5MnN0SFBPK3pHQk5lWGJLQW1vWXhnZm0zN3ZsQXA4N29rZjRYRGZRTWhRejdzRk13SC9vVHllWXFSK0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjU1Mjc4CWZpbGU6Q2FwQ3J1c2guYXBwLnRhci5negl2ZXJzaW9uOjEuMS4yCnVrZk5tcU1PSTFFUHRMY0hvK1o3eFNTMmF1OTc1WklxdE9mZUM3d29VOWtOQ3JpZ3N2eEFTbGh0T2x2NTNmeTYyTVRKUStUZmJ6TFR5emUzOVFHakRBPT0K"
     }
   }
 }
