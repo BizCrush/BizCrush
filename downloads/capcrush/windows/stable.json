@@ -1,0 +1,12 @@
+{
+  "version": "1.1.1",
+  "build": 4,
+  "channel": "windows-stable",
+  "notes": "CapCrush desktop 1.1.1\n\nAutomatic signed updates with independent Mac and Windows channels. Updates download in the background and are installed on restart after captions stop. Includes independent horizontal/vertical caption padding, caption entrance motion, hover controls and the CapCrush icon.\n",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.1/CapCrush_1.1.1_windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWnZNazRBNnVuU0s2bGlhNzFOY1Y4SERTVWEvemVIY2dMT2dkMlEzS2NTMG5sSjdCdkVjNGVRMWdOVVRHUkQ2bzNab2VIYnY5eUtKRDJKT0tGRDhNTWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUyMDg3CWZpbGU6Q2FwQ3J1c2hfMS4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4xCkttcFllYzFRQ1hzcEkyTnZIZFBnMHNaNjNtN3YzeG9jNDZFMW9GY2podVQ4dXpmelVnUGdtSUxpS00rSHpsOS9mOVV1OTRRVk52TSsyRU95bE54Y0NBPT0K"
+    }
+  }
+}
