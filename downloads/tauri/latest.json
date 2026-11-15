@@ -1,30 +1,30 @@
 {
-  "version": "0.3.46",
-  "notes": "Fixed the attachment view so the title and back button stay visible while scrolling the file list, keywords and context.",
-  "pub_date": "2026-11-14T05:29:55.401170+00:00",
+  "version": "0.3.47",
+  "notes": "When tokens run out, live captions stop while your recording continues. Finishing saves the audio without starting automatic transcription. Add tokens to start a new recording, or choose Transcribe for saved audio.",
+  "pub_date": "2026-11-15T13:43:08.764124+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDgyQkt1a3NPS1VoeHkxVk94SjZzaUp1bmo1ZVJrUG1XWmxzcDNmMDdBdXBpMzJtQWRQcWFNQllCUnFpQ2FlYWN1T2IvUzUwVzk4ajVnei9lTFJ1QndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMzNTQ3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDYKNlJ0b05FV2RQbGNvbjBsWFRvK1kxdmhLYVI1cWRRRC93OWtvQnkzOFhRYnZiaURjRTFkM0dqZDdGL1BCbkZsMTFLanc4aVBKc1ppcDd1ZXViczVqRHc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.46/BizCrush-Tauri_0.3.46_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRjajZOVW1ab1ZGZncvWnNoNUhxYTVKVDNYRWtvclEvckFmWGNiS0t5SSt1TkN6cVVrMXRxS1Q2YkJvZUNYeU0zb3NIeWFET2NzYU9aNUtiTzFLZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ4ODc2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDcKZlRvYmN0STJZRURQekp4ZkI4K1NTOHkvS2tjeWk1YkgrTGwrNU96OXBuQ1Rya3dvcWx4NER6cTY1clhCLzRZcS9CN1NRMHlZNlM3dXhTbURxN2pVQXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.47/BizCrush-Tauri_0.3.47_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVQOXFuTUlNa3h2VG1BT29HOWFMWEc1RTZnQjhZcU43UG1rUW5RRUk0MXZzTFFRK1BsbHJ4dEJYdVQ3aFNjVTFXR1ZIcHNXWGRZNmE3eVJZc3lMSEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMzNjg0CWZpbGU6Qml6Q3J1c2hfMC4zLjQ2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDYKQkx0SHZDaGpNaCtXVnNVVThuaXAyYUhka0VXbUhzNUYyVzVQbDRlNDFIWUxNOVZHdUVVWnlTMHJyU1ZKcEpTZTV6TUxoc0l6SE1lbGJHRlByRHZYQVE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.46/BizCrush_0.3.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9EVUJlOE84ajVTaTdKZGM2a2M2Z2pqTEQ3WEFrWUdIUWtDRkpDUldDK3h4WU1wa1JHb1ZwbnhHa2tMMWRxU3JBSjBNUlN1K1BqRFhuQzdtODVQUnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ5Mzc1CWZpbGU6Qml6Q3J1c2hfMC4zLjQ3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDcKczdiVVpQRzFJWUtVdEMraERWcWRNRDF2WGh6R3N2cnhCM3lKQWcwNjdqVU9HNmFpMnZpdGt1MEJmTHZDa0hSN2VlOW9ueXEydGtXVk5hZS9HL25NQVE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.47/BizCrush_0.3.47_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlISkpCWEdqcWNUalYySjQ0bFI3MUhtQURobmZXNGU4Vi9rQldmRlN3dG1XS3dXM1grdWhhbTJZR2FReThUZ3VSTUNRQzdsQWJGZnlDTE1PQ2xIeVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjM0MDUwCWZpbGU6Qml6Q3J1c2hfMC4zLjQ2X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NgpJMTBBOU5QT0xQRmprSGFxa3k5dDBQR08yajhSdVVlai9TOGtWNE56R1VzUFUvWEkwTG8zMUJqcnFpQmZuZExtRG96N1pqTFZSUzNOZ0NBNlB5MzBEdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.46/BizCrush_0.3.46_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDJwSHBhVHByejY1TEl0RU5WOVBCU2UzNGdqWmQram5ORmtEZnM0bWh1NGRyZVppQ21wV2dmbVA1eGZQYjB6Sk9wYjdqY2JxbXNFMk1BblNrRk9wZVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ5NzA4CWZpbGU6Qml6Q3J1c2hfMC4zLjQ3X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40NwpuTkt4R2pKaXFXWUpxdUZsT2h5VzFrNFRya0tYN1RWaDRuQzZ3OE4xd29KMHluTjJ4bEdIZW5CaDlrNGwyQTNFQUFIckd5S2g4ckd3VmRzUzgwZHFEdz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.47/BizCrush_0.3.47_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "첨부파일 목록과 파일별 키워드·컨텍스트를 스크롤해도 상단 제목과 뒤로가기 버튼이 고정되도록 수정했습니다.",
-    "en": "Fixed the attachment view so the title and back button stay visible while scrolling the file list, keywords and context.",
-    "ja": "添付ファイル一覧やファイルごとのキーワード・コンテキストをスクロールしても、上部のタイトルと戻るボタンが表示されるよう修正しました。",
-    "de": "Titel und Zurück-Schaltfläche bleiben jetzt beim Scrollen durch Anhänge, Stichwörter und Kontext sichtbar.",
-    "fr": "Le titre et le bouton de retour restent désormais visibles pendant le défilement des pièces jointes, des mots-clés et du contexte.",
-    "es": "El título y el botón Atrás ahora permanecen visibles al desplazarse por los archivos adjuntos, las palabras clave y el contexto.",
-    "pt-BR": "O título e o botão Voltar agora permanecem visíveis ao rolar a lista de anexos, as palavras-chave e o contexto.",
-    "ru": "Заголовок и кнопка возврата теперь остаются видимыми при прокрутке вложений, ключевых слов и контекста.",
-    "zh-CN": "修复了附件页面的滚动问题，浏览文件列表、关键词和上下文时，顶部标题和返回按钮会保持可见。"
+    "ko": "토큰이 부족해지면 실시간 자막만 중단하고 녹음은 계속합니다. 녹음을 마치면 오디오만 저장하며 자동 전사는 시작하지 않습니다. 새 녹음은 토큰 충전 후 시작할 수 있고, 저장한 오디오는 직접 전사를 요청할 수 있습니다.",
+    "en": "When tokens run out, live captions stop while your recording continues. Finishing saves the audio without starting automatic transcription. Add tokens to start a new recording, or choose Transcribe for saved audio.",
+    "ja": "トークンが不足するとリアルタイム字幕だけを停止し、録音は続きます。録音終了後は音声のみを保存し、自動文字起こしは開始しません。チャージ後に新しい録音を開始したり、保存済み音声の文字起こしを選べます。",
+    "de": "Wenn die Token aufgebraucht sind, stoppen die Live-Untertitel und die Aufnahme läuft weiter. Beim Beenden wird nur Audio gespeichert, ohne automatische Transkription. Laden Sie Token für eine neue Aufnahme auf oder starten Sie die Transkription gespeicherter Audiodateien selbst.",
+    "fr": "Lorsque les jetons sont épuisés, les sous-titres en direct s’arrêtent et l’enregistrement continue. À la fin, seul l’audio est enregistré, sans transcription automatique. Rechargez vos jetons pour un nouvel enregistrement ou lancez la transcription d’un audio enregistré.",
+    "es": "Cuando se agotan los tokens, los subtítulos en directo se detienen y la grabación continúa. Al finalizar se guarda solo el audio, sin transcripción automática. Recarga tokens para iniciar otra grabación o elige transcribir un audio guardado.",
+    "zh-CN": "代币不足时，仅停止实时字幕，录音会继续。结束录音后仅保存音频，不会自动转写。充值后即可开始新录音，也可以手动选择转写已保存的音频。",
+    "pt-BR": "Quando os tokens acabam, as legendas ao vivo param e a gravação continua. Ao finalizar, apenas o áudio é salvo, sem transcrição automática. Recarregue os tokens para iniciar outra gravação ou escolha transcrever um áudio salvo.",
+    "ru": "Когда токены заканчиваются, субтитры в реальном времени останавливаются, а запись продолжается. После завершения сохраняется только аудио, без автоматической расшифровки. Пополните токены для новой записи или запустите расшифровку сохранённого аудио вручную."
   }
 }
