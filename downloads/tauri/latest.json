@@ -1,30 +1,30 @@
 {
-  "version": "0.3.48",
-  "notes": "The plan screen now shows your remaining usage as a percentage. Your remaining percentage and balance bar stay visible when you have a membership.",
-  "pub_date": "2026-11-15T14:58:12.091048+00:00",
+  "version": "0.3.49",
+  "notes": "Restored summary language settings. On mobile, choose to copy original text, translations, or both and see a confirmation when copying completes.",
+  "pub_date": "2026-11-16T10:02:57.913723+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRHY1hhM3JnbGdmZW9uQTRHQmQvYjJKMDBvY0F4NUYvQlZFUHdlbEhNaEYyeTFmaGdyUkkzYkRRQjBZOE5MVWUzUG1YaXpDMDlvNFdVYWhHYnNPYWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzUzOTUzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDgKQThvVE9LSUxya2VvU0c3MTUzSWpDek00T0JhVmJoNkJxMnhad3lIb25OV3hQVjdvWWIzcDRZcW5UdGNxVEJyZzE5bFl3RXNBU1hVZTU0WFVMMEY3RGc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.48/BizCrush-Tauri_0.3.48_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFQN1JKUVRNK05xeGR0dFBCRzVmM2J4YnpDVjkrWUZRZEVUN0d6emhPWDZ4bzFwVkIxaEhEckNHcExMNU5MSzNOalZxSlVhUktEOFVaRXJ4S0M2eGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIyNTIzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDkKOExId2lIZFg2WmVBVmY2OTJHZTh4aXV0WmRDWDZNTFhrVEhMSTRvcHNzMFVHblBlZUdUekxJV0F6L3h5amtub1FBcFJKZkpFT2RJZGhsZmpablNTQmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.49/BizCrush-Tauri_0.3.49_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC82eC9hMi9Hb0MrT01nZlR0eHZHZU9kRG1VdzZMam1DZHd6TUZMVDd5aE1sWEIxVGpya0NkZ3VPc2RrbE5xZVJoeFFSaUlBVE5jTkpDL3JwamszRUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU0Mjc0CWZpbGU6Qml6Q3J1c2hfMC4zLjQ4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDgKWHg3dGRIay9jdE56djVOT1NMeGVrZ0JyYktqL2ZDYU51OEJtL1dCQkUyOU1ZRHVMUE1ZYXZtSDFkT3d1dzd2bDRmMkt2LzFlYWV2NS9ldjcvLzhnQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.48/BizCrush_0.3.48_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRWN2N1cXp1cStRWlNBUlNhZFJIVnhEWlY1Z2Z5ZUdVVEo3aWFrWU1iT093S1BVY0JVOUdrT3BUalhUUTVjeG5xalFza083ZFJvb0MzcGM5MEJYQ1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIyNzkwCWZpbGU6Qml6Q3J1c2hfMC4zLjQ5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDkKelVURFIwV29XTGs4QmxtTm9iWEFrRVNWOVdCWFNsUk5wT2g5NnpKa1YwQ1l4dlNaNWRhWjhqcnNuVTVaYjMrREh1Mm8xQjZFNzJjT2I3THNhMEdmQmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.49/BizCrush_0.3.49_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9HY1pNNU80b3p2Zit0QVdIdmtOeC9LeFpDRlE5S0tFdXJNTHR5ZTR5MWVITVFOV1g5MFF1ZURwRFJNOENOU2REYVFvcndkOW9FLzI3TEVmemE4bndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzU0NjIxCWZpbGU6Qml6Q3J1c2hfMC4zLjQ4X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40OApQd0hQUFg1UlBMTFlqWERPb3VCeDVpSFEvZldDN21FRVprTCtTd0RtL0MzM3EvcndHNDdNR1Z4a2RjbDFxWEx3dVk2cmdXV1p3UkVvOE15L3BBcUpEQT09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.48/BizCrush_0.3.48_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVrN3c0OGc3d3hYT2ROMk41Z0xHV1hSWVJKd2pTVHk0Y0dBbVdKM01pK1Rqd1JIMEtldUhjL2JMcTk3c3NrSjB2SnBhczRGb2FjY0x2NTZmUTIvRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIzMzU5CWZpbGU6Qml6Q3J1c2hfMC4zLjQ5X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40OQpGSGQ3ZVpJQ05rSHgvand4NHBQdlI3K2p2N3hHSzNkTVlSMkpVYjJCZzByck9ZeEYvOGJWY3czV3dhWkxlTjJOTjhvQTRMbXFkVDFtRXo4NWVqK0pCQT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.49/BizCrush_0.3.49_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "요금제 화면에서 남은 사용량을 백분율로 표시합니다. 멤버십 이용 시에도 잔여율과 남은 양을 나타내는 막대를 항상 확인할 수 있습니다.",
-    "en": "The plan screen now shows your remaining usage as a percentage. Your remaining percentage and balance bar stay visible when you have a membership.",
-    "ja": "プラン画面に残りの使用量をパーセントで表示します。メンバーシップ利用中も残りの割合と残量バーを常に確認できます。",
-    "de": "Die Tarifansicht zeigt das verbleibende Kontingent in Prozent. Der verbleibende Prozentsatz und der Balken bleiben auch mit einer Mitgliedschaft sichtbar.",
-    "fr": "L’écran du forfait affiche désormais votre utilisation restante en pourcentage. Ce pourcentage et la barre de solde restent visibles avec un abonnement.",
-    "es": "La pantalla del plan muestra el porcentaje de uso restante. El porcentaje y la barra de saldo permanecen visibles cuando tienes una membresía.",
-    "zh-CN": "套餐页面现在以百分比显示剩余用量。订阅会员时，也能始终查看剩余百分比和余量进度条。",
-    "pt-BR": "A tela do plano agora mostra o uso restante em porcentagem. A porcentagem e a barra de saldo permanecem visíveis com uma assinatura.",
-    "ru": "На экране тарифа теперь отображается оставшийся объём в процентах. Процент остатка и шкала баланса видны и при активной подписке."
+    "ko": "요약 언어 설정을 복구했습니다. 모바일에서 원문·번역·둘 다 복사를 선택할 수 있으며, 복사가 완료되면 안내가 표시됩니다.",
+    "en": "Restored summary language settings. On mobile, choose to copy original text, translations, or both and see a confirmation when copying completes.",
+    "ja": "要約言語の設定を復元しました。モバイルで原文・翻訳・両方のコピーを選択でき、コピー完了時に確認が表示されます。",
+    "de": "Die Spracheinstellung für Zusammenfassungen ist wieder verfügbar. Auf Mobilgeräten lassen sich Originaltext, Übersetzungen oder beide mit einer Bestätigung kopieren.",
+    "fr": "Le réglage de la langue du résumé est rétabli. Sur mobile, copiez le texte original, la traduction ou les deux, avec une confirmation de copie.",
+    "es": "Se ha restaurado el idioma del resumen. En móvil, elige copiar el texto original, la traducción o ambos y recibe una confirmación.",
+    "zh-CN": "已恢复摘要语言设置。移动端可选择复制原文、译文或两者，并显示复制完成提示。",
+    "pt-BR": "A configuração do idioma do resumo foi restaurada. No celular, escolha copiar o texto original, as traduções ou ambos e veja a confirmação da cópia.",
+    "ru": "Восстановлена настройка языка сводки. На мобильном устройстве можно копировать оригинал, перевод или оба текста с подтверждением."
   }
 }
