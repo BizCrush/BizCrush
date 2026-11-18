@@ -1,16 +1,16 @@
 {
-  "version": "1.1.3",
-  "build": 6,
+  "version": "1.1.4",
+  "build": 7,
   "channel": "windows-stable",
-  "notes": "CapCrush for Windows 1.1.3 (6)\n\n- Separate native installers for Windows x64 (Intel / AMD) and Windows ARM64 (Snapdragon and other ARM64 PCs).\n- A compact, draggable titlebar with the CapCrush logo, Sign in and Settings.\n- Caption preview near the top of the main window and a smaller default window.\n- An independent signed Windows update channel.\n\nCapCrush captures computer output audio. The microphone stays off.\nWindows publisher code signing is not applied yet. Please report any installation warnings with a screenshot.\n",
+  "notes": "실시간 자막에서 화자가 바뀌면 새 줄에 화자 번호가 표시됩니다. 화자 분리는 기본으로 켜져 있으며 설정에서 끌 수 있습니다.\n\nLive captions show a speaker number on a new line when the speaker changes. Speaker separation is enabled by default and can be turned off in Settings.\n",
   "platforms": {
     "windows-aarch64": {
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.3/CapCrush_1.1.3_windows-aarch64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWnFHajBoTWFBQldBeCtIVHAwNGdBaVhJeVRSVlVjMjJmZ3pyNUl1Q2hSdzJjYjlUNi9ZMnFwU3RSRkhYcWQ5bUtmRjdVSWgyMWUrQVNiclA1VCt5TmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ3MTc2CWZpbGU6Q2FwQ3J1c2hfMS4xLjNfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjMKSk12bjQvSS9LNnFYYzkxMUdwNEQ0UFB5Q2NMSlpkNE1ITlE2c094UFVmUlE1Mk1wc1NFNzZPVHRDeU96b2tmNEUxWllSLzc3Y3BkNkY3SXhiNHRVQVE9PQo="
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.4/CapCrush_1.1.4_windows-aarch64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWmpNSWYvbEtWbWJ6bEc2K0hxQ0VYNkNhSERnMGxRdTE2M0F5SE4rY1VnTGs0Wm9WNjZnR3BtVUo4c1BtdWRrKy9jOFpJdU9YL0U0UENBY3l0VzQrckFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0OTI3CWZpbGU6Q2FwQ3J1c2hfMS4xLjRfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjQKbzlmSkxPd0VsNkREV1JXa3Uwa0ZPbkhVOFFJQndUNGRTVzZXbENwd1EvdlF3SENmMkVYY2FxV0pjeTB2SjNTMHh3WFhPeWY2MjJ2UW41aHo0NGlKQkE9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.3/CapCrush_1.1.3_windows-x86_64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWnZUaG95YlBVYnNxVVBKUGRRTmdIL3NFWW5NRDg0YUJGYjFXTGErR2RydUV5MUpHdmRJanVtRVRNOGRpSEZJaHQrdFVGZkoxVHFLd2h4Nnl3UlZBUXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ3MTg5CWZpbGU6Q2FwQ3J1c2hfMS4xLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4zCjVpcEtpR01sdzlQYTltUldnZjAwaGJCdGhseWppKzlWTnZHTkExYStaQzdRc0JaNUREY216UFNTUm53RnM0aGxnd3BGekdQUlo3SFpaZEJ1TDVyV0FnPT0K"
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/capcrush-windows-v1.1.4/CapCrush_1.1.4_windows-x86_64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRHhDcUI4R1JyWnNuVFZIYlV6S0N4NFhBejlvNGM2OHVEUmFESk44TVZ3bG5qOHdodm5EZDN3TEl5blluMWFvenRHTklvQjRhc1B4Ykc2d0VrSDJDWW9FTzBhdG4vYnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg1MjExCWZpbGU6Q2FwQ3J1c2hfMS4xLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS40ClZpcWlydFA5ZkxTdi82dmFiTmcrMjFjaGNmZHV2bEd1b016MkxwRG1qMWFHMFZHNDhnbEM0R0wyWHlUZ0JQc2xLMFZWYXI5WS9PZG5oQkJ3K2ZBNERRPT0K"
     }
   }
 }
