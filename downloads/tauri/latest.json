@@ -1,30 +1,30 @@
 {
-  "version": "0.3.49",
-  "notes": "Restored summary language settings. On mobile, choose to copy original text, translations, or both and see a confirmation when copying completes.",
-  "pub_date": "2026-11-16T10:02:57.913723+00:00",
+  "version": "0.3.50",
+  "notes": "The interpretation session stays active when the default audio device changes. If the active audio connection drops, BizCrush tries to reconnect automatically. Virtual audio inputs are supported.",
+  "pub_date": "2026-11-18T06:56:40.054821+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFQN1JKUVRNK05xeGR0dFBCRzVmM2J4YnpDVjkrWUZRZEVUN0d6emhPWDZ4bzFwVkIxaEhEckNHcExMNU5MSzNOalZxSlVhUktEOFVaRXJ4S0M2eGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIyNTIzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjQ5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNDkKOExId2lIZFg2WmVBVmY2OTJHZTh4aXV0WmRDWDZNTFhrVEhMSTRvcHNzMFVHblBlZUdUekxJV0F6L3h5amtub1FBcFJKZkpFT2RJZGhsZmpablNTQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.49/BizCrush-Tauri_0.3.49_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtwRVVYUlo1MkU3YXhGMVcyM2JSc0pYa1JIY1h0R2Uwby9lN3JsOXNoWFJhSGxvbmQ5YngvbVRKUnFwQlpmeGFYUGUyaHNyQTk3NGJnWDV3d3VTYmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0NjQ2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjUwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTAKRThGY0RYWFhtYjFMZWN6c1V2VnJWVXVPVStCaHB1YVdMeFNWTGR1d0V3a0wrUWhRaE1LemdaekhwQTJQd0JnTDh1Um5jN1VlWENMT2NCS3hQOHRnQkE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.50/BizCrush-Tauri_0.3.50_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRWN2N1cXp1cStRWlNBUlNhZFJIVnhEWlY1Z2Z5ZUdVVEo3aWFrWU1iT093S1BVY0JVOUdrT3BUalhUUTVjeG5xalFza083ZFJvb0MzcGM5MEJYQ1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIyNzkwCWZpbGU6Qml6Q3J1c2hfMC4zLjQ5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNDkKelVURFIwV29XTGs4QmxtTm9iWEFrRVNWOVdCWFNsUk5wT2g5NnpKa1YwQ1l4dlNaNWRhWjhqcnNuVTVaYjMrREh1Mm8xQjZFNzJjT2I3THNhMEdmQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.49/BizCrush_0.3.49_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDE3V3Z3VUdJVlJJRitlRHE0Z1dGNENBOE9Jd29TWFBLMGxEaWVPRkJzUVM0Y1AvazVHdHQ3aS9iQlE5amVYbHFXUmNSNGx4OW05Uk1FelhsWWZlRFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0NTU4CWZpbGU6Qml6Q3J1c2hfMC4zLjUwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTAKWWp3MlhzUFUrNXZiMXVyYWFGM0xJa3BSeEp1ZDU4UllXOWFGSnlnelVyRUVJckw1SmNkbmVBQXgxZ2JxOEZiS0x0aG5sNmhsYWxSSVI1d0lyWVdOQlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.50/BizCrush_0.3.50_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVrN3c0OGc3d3hYT2ROMk41Z0xHV1hSWVJKd2pTVHk0Y0dBbVdKM01pK1Rqd1JIMEtldUhjL2JMcTk3c3NrSjB2SnBhczRGb2FjY0x2NTZmUTIvRUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIzMzU5CWZpbGU6Qml6Q3J1c2hfMC4zLjQ5X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy40OQpGSGQ3ZVpJQ05rSHgvand4NHBQdlI3K2p2N3hHSzNkTVlSMkpVYjJCZzByck9ZeEYvOGJWY3czV3dhWkxlTjJOTjhvQTRMbXFkVDFtRXo4NWVqK0pCQT09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.49/BizCrush_0.3.49_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhKM2VoMGhZbUVxdEgwdHhsdzZvdkNTdnBTNjlaSlVsUHlNM211U0RaS2ppNVRzb0NHaWkxTm42TWdRaFd0NGZNVEpsV3I4M2NLMmo4cllhc1k2THcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0OTc4CWZpbGU6Qml6Q3J1c2hfMC4zLjUwX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41MAo1MDFQV0FBTmM5VEFUNmt3dzMvdTRLeWhGcElYOWhhS0tmRkFGelkyemJ6c09vOG00NUZYdlhEYVdDYUFMK2hld0h2SzdnZUc3UHdGOWVYNm1wMkhCQT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.50/BizCrush_0.3.50_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "ko": "요약 언어 설정을 복구했습니다. 모바일에서 원문·번역·둘 다 복사를 선택할 수 있으며, 복사가 완료되면 안내가 표시됩니다.",
-    "en": "Restored summary language settings. On mobile, choose to copy original text, translations, or both and see a confirmation when copying completes.",
-    "ja": "要約言語の設定を復元しました。モバイルで原文・翻訳・両方のコピーを選択でき、コピー完了時に確認が表示されます。",
-    "de": "Die Spracheinstellung für Zusammenfassungen ist wieder verfügbar. Auf Mobilgeräten lassen sich Originaltext, Übersetzungen oder beide mit einer Bestätigung kopieren.",
-    "fr": "Le réglage de la langue du résumé est rétabli. Sur mobile, copiez le texte original, la traduction ou les deux, avec une confirmation de copie.",
-    "es": "Se ha restaurado el idioma del resumen. En móvil, elige copiar el texto original, la traducción o ambos y recibe una confirmación.",
-    "zh-CN": "已恢复摘要语言设置。移动端可选择复制原文、译文或两者，并显示复制完成提示。",
-    "pt-BR": "A configuração do idioma do resumo foi restaurada. No celular, escolha copiar o texto original, as traduções ou ambos e veja a confirmação da cópia.",
-    "ru": "Восстановлена настройка языка сводки. На мобильном устройстве можно копировать оригинал, перевод или оба текста с подтверждением."
+    "ko": "기본 오디오 장치가 자동으로 바뀌어도 통역 세션을 유지합니다. 사용 중인 오디오 연결이 끊기면 자동으로 다시 연결을 시도합니다. 가상 오디오 입력도 사용할 수 있습니다.",
+    "en": "The interpretation session stays active when the default audio device changes. If the active audio connection drops, BizCrush tries to reconnect automatically. Virtual audio inputs are supported.",
+    "ja": "既定のオーディオデバイスが変わっても通訳セッションを維持します。使用中のオーディオ接続が切れると、自動で再接続を試みます。仮想オーディオ入力も使用できます。",
+    "de": "Die Dolmetschsitzung bleibt bei einem Wechsel des Standardaudiogeräts aktiv. Bei einem Verbindungsabbruch versucht BizCrush, die Audioverbindung automatisch wiederherzustellen. Virtuelle Audioeingänge werden unterstützt.",
+    "fr": "La session d’interprétation reste active lorsque le périphérique audio par défaut change. Si la connexion audio en cours est interrompue, BizCrush tente de la rétablir automatiquement. Les entrées audio virtuelles sont prises en charge.",
+    "es": "La sesión de interpretación sigue activa cuando cambia el dispositivo de audio predeterminado. Si se pierde la conexión de audio activa, BizCrush intenta restablecerla automáticamente. Se admiten entradas de audio virtuales.",
+    "zh-CN": "默认音频设备变更时，口译会话会保持运行。当前音频连接中断后，BizCrush 会尝试自动重连。支持虚拟音频输入。",
+    "pt-BR": "A sessão de interpretação continua ativa quando o dispositivo de áudio padrão muda. Se a conexão de áudio ativa cair, o BizCrush tenta reconectar automaticamente. Entradas de áudio virtuais são compatíveis.",
+    "ru": "Сеанс устного перевода продолжается при смене аудиоустройства по умолчанию. Если текущее аудиоподключение прерывается, BizCrush пытается восстановить его автоматически. Поддерживаются виртуальные аудиовходы."
   }
 }
