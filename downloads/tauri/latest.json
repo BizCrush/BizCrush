@@ -1,27 +1,27 @@
 {
-  "version": "0.3.51",
-  "notes": "When you change the summary language in an online meeting, BizCrush uses it for both live summaries and the summary after the meeting.",
-  "pub_date": "2026-11-18T11:05:37.927939+00:00",
+  "version": "0.3.52",
+  "notes": "Change the summary language directly from the Summary tab in an online meeting.",
+  "pub_date": "2026-11-18T13:46:16.812456+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlpc1F0alFncHVPaElVcHJYNnYzSE9pMFJpUmhtTjJxTllBY0trd05Sa2RHVGVZNTAzbUw0b3FSVnU4RmVWN3I3ZzNieXVFSVBraXY3c1BINHgyZ3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5MjI3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjUxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTEKc2VMUFhrMThobmN3TVBGWGNuVE8yV1ROT2Rza3c3TnhRQWsyTE5aRzliYjJVcWRQRTVjeVROalh3Q1dSQ2dYcE44MG9QRGVjRFhXSjhQUjJDaXhCRFE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.51/BizCrush-Tauri_0.3.51_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9MZEFUbXRNb2tPRDR6VU51Si9Xa01ETGsrSHNoaWhIb2ppRW1xMDd0SjFLN01NdENIT1RhYnY3WmRVVHdvT0pGQXk2Q1BGK0RETi9EZmpSdzQxWWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA4OTc0CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjUyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTIKRGl5akFIbkRUZ2RwdXFjWUp4MWV6bHVQUGx6anM3THRDL0Y4Uk5obmU2ZitTeFdlcmliRWJORW5FOTA3a3l0NGdrZjNUN1NpZkxEcjNTNDJtbXJpQ0E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.52/BizCrush-Tauri_0.3.52_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC84WmQrNFFCRlRGVm84eHBLY21TblAxVXJYVU50cWdHeUlmbnN6MEhyTTZaaE5KcEhrL1NIb1ovTm8xeG5VemM1SWN4enZsUFp0RW41R3ZxTThwNlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5ODA2CWZpbGU6Qml6Q3J1c2hfMC4zLjUxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTEKNEg4bG1DaklIcExuRjMzcWFtWmZTUVIxdksyelhZbFpGOUNuRUlQSG5ZMDFCbWsvWFIrVEdFeGo3bDFiWWsyWVVhcGJPb1FsU3dnbEFuRytEWVc5Q0E9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.51/BizCrush_0.3.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDQ1SkEydHd1SHlua1FCUXhQS0lMY0ErSFhMYnpBRmR6SDNiTk1LT1VMSStVMGoyRnZiMk1ZdmV5SW9rOUlJZHRJQUc0NngwUitSMzFYb1VleUdJMUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA5MTU4CWZpbGU6Qml6Q3J1c2hfMC4zLjUyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTIKUi9FcGxnY0NCZE9LWHBINkZyU1kxVDZ3SG5uajhETjN5WmJkVVYzQ1YwalFLOTFzMUMwM085M3RUTkxJd3dNZVBUamJlc1lFZFRuc241cTVtRjlSQUE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.52/BizCrush_0.3.52_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHplRFZRdU1xeUo2a0E3T3RNT1VDRGEveDhXQ3ZOSFl0RFZ5OU5PK25MMG91UmJqYmtsbE9PRnlqNDY2UjJjbVJlWE05Y2lpOFpRRTlnQnJnUnRhTGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5NDM4CWZpbGU6Qml6Q3J1c2hfMC4zLjUxX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41MQpFS0lZRTJDNGFyRUplcDJWYWhFUmc4SE5haUZqU1JuZVl0aVMzNmMxVDh5Ym8xWVBlL2Noc0c3N2Y2RVB2V09KTVhQQStlbGxPV2N2UVdocm1lOW1Cdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.51/BizCrush_0.3.51_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHhoYXBUcEhCRWxrWmRGM3ZFWU5YOEg1N05jY09tdUpKODVlVGRQcUNmWS9DeFBsaUJWQWdCbTZyTVJlemZmK2E5YzRERDIrMlVtZlNHUUNPUzN1dHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDA5NTQyCWZpbGU6Qml6Q3J1c2hfMC4zLjUyX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41MgplRkZWL2liVWlFR0lDVDNNZk5zWjNvTHZKTExNeUR6dVVERTAvRHphRmNSUHNFdnJkUW4reVpsSzM3UUJUSkk3WUtrMHI0SC9rVTlCcXJtK3hmTkpCUT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.52/BizCrush_0.3.52_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "When you change the summary language in an online meeting, BizCrush uses it for both live summaries and the summary after the meeting.",
-    "ko": "온라인 회의 중 요약 언어를 바꾸면 실시간 요약과 회의 종료 후 요약에 모두 적용됩니다.",
-    "ja": "オンライン会議で要約の言語を変更すると、会議中の要約と終了後の要約の両方に反映されます。",
-    "de": "Wenn Sie die Sprache der Zusammenfassung in einer Online-Besprechung ändern, gilt sie für die Live-Zusammenfassung und die Zusammenfassung nach der Besprechung.",
-    "fr": "Lorsque vous changez la langue du résumé pendant une réunion en ligne, elle s’applique aux résumés en direct et au résumé de fin de réunion.",
-    "es": "Cuando cambias el idioma del resumen en una reunión en línea, se aplica tanto a los resúmenes en directo como al resumen posterior a la reunión."
+    "en": "Change the summary language directly from the Summary tab in an online meeting.",
+    "ko": "온라인 회의의 요약 탭에서 요약 언어를 바로 변경할 수 있습니다.",
+    "ja": "オンライン会議の要約タブから要約の言語を直接変更できます。",
+    "de": "Sie können die Sprache der Zusammenfassung direkt im Tab „Zusammenfassung“ einer Online-Besprechung ändern.",
+    "fr": "Vous pouvez changer la langue du résumé directement depuis l’onglet Résumé d’une réunion en ligne.",
+    "es": "Puedes cambiar el idioma del resumen directamente en la pestaña Resumen de una reunión en línea."
   }
 }
