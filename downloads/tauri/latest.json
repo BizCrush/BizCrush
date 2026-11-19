@@ -1,30 +1,30 @@
 {
-  "version": "0.3.56",
-  "notes": "- Removed Export transcription from the desktop meeting's More menu.\n- Moved Recording on other devices to Settings. Open a meeting you host or co-host to control its devices.",
-  "pub_date": "2026-11-19T22:04:16.929856+00:00",
+  "version": "0.3.57",
+  "notes": "- Control current recordings on other devices from Settings. Choose a device by its meeting and device name.",
+  "pub_date": "2026-11-19T22:50:20.806226+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhYRHhQV1d5THFVOUptTy9BS0hEUURNMDVBMHFJU2hxTzhIWHpyWE1RMVpPQjE0Ym1pU0k5bmRKOWZjVnBOSjNjZzN2M0x0ekVhWlpXSGxhNHlMb3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI1MjA4CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU2X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTYKdmFVYnZFc0RIRWdaemoyRDZPWnV6bHVpY2hISThSajJHekttV3lFNjN1OWIwQ01VV0lQek1DNXVKQ2p2M2ExUEppK2d0L01aM05Kd0xvK3NsKytoQnc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.56/BizCrush-Tauri_0.3.56_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNmNEQ5SmIxNm5ZMjRsVmVEWVp6SmhDK1ZVVzA1US8wTHpSV2RFbzV5Mld1dU5NbEowVmo0K011YW1oZE1Eemk5Ly8zSThUczZjQmR1R3NwQjhjRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI4MDE3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTcKaTNwaGpiUXFjd05iT0dqSG5UVzNYRUxxSFN5cU1iZ2gzS2NMa3JpTXZjQWwyYlMxOW9pUUdUVkhIK1BaWFVQYjEyOUw0WXNRRE53UGJBamdFa29oQWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.57/BizCrush-Tauri_0.3.57_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDU5anFwaHh6NEszYmIrYytGR3BwZXFFYmUwSzI2ODAzd3dhY0pMcWtOdU85NTVxUTgzVWZVeGVhL2lPZ3gzb0NEamY5dVhsRzZNeWhuY3FBajA4VUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI1NDY2CWZpbGU6Qml6Q3J1c2hfMC4zLjU2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTYKYkNsOFBDQ2srYVNoaTNuNVI5Y3I5Tm91T2RwVjZoMGdMc3JQSzZYWDFaMmc0MWl4cDJ1L3pPUzJhS3EvRFQvclBBNWtzVy9ZSW0rTXBzV1hNeElsQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.56/BizCrush_0.3.56_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFmaUZuaTZGUGl5b0JIQzR5QnFLdnB5YnNId3AveEppR3JCZlJvalJ0OXlKS1NwTElLL1V0aUxGQ1BpUE5OWUduakxYdHo5N3RlZ3ZHTXE4MURKOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI4MjE1CWZpbGU6Qml6Q3J1c2hfMC4zLjU3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTcKZVBhemxkMUZnaUFGQURMcnF4aGNHYW0vcVVyMTZCMHRTNEN4OVlaMkw4aVBCb1pydXl1U0lOWmptYUlEY2RnVW9XVCtzMkV2NSt1dHEwOEl3akN1Qmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.57/BizCrush_0.3.57_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDc5SzhScFNYSUxXWmN3aThkTmtiWnhhSXBRYXc5Mmx0TnNCTGQxTjladG5Qcjd3NlFlVW9RbGJKUjhoaXg5WklxME1LNFM4M25mYzhUSjZQeG5RcWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI1ODM0CWZpbGU6Qml6Q3J1c2hfMC4zLjU2X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41NgpBN1VacXowSHVzYjhOYWF6dmF1WG5LcE04Q2kwUnNZSkZyMHkzOUVOOG5zOEMyc3ZJd1hzdXBtSnNhd0JodVYwMDBPbzN2ZEFydG5RR1BITWJNVWVEdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.56/BizCrush_0.3.56_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlIRURWYmlLU2pXWGYvamdGSm0xOUFMVUlnZkkxd3dSSno1TUp0SHpDanYzeFd5bmZYRkNibTMwenBremw5VzRUL2xmL21aSURZM1NhN3NlWVFsMUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI4NTk3CWZpbGU6Qml6Q3J1c2hfMC4zLjU3X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41NwpqclJNUFl6TTc1VDlIZEx2MzhQdlJHam5PRVRlOWJlcWdROHFkUWpSaGZ2NEpGUnd1WXZQSWJRUnVoNHNxMnhHN1FmRUlWeTZqeXUrcUY3UXlEZnBEUT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.57/BizCrush_0.3.57_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "- Removed Export transcription from the desktop meeting's More menu.\n- Moved Recording on other devices to Settings. Open a meeting you host or co-host to control its devices.",
-    "ko": "- PC 미팅의 더 보기에서 전사 내보내기를 제거했습니다.\n- 다른 기기 녹음 제어를 설정으로 옮겼습니다. 호스트나 공동 호스트인 미팅을 먼저 열면 해당 미팅의 기기를 제어할 수 있습니다.",
-    "ja": "- デスクトップのミーティングの「その他」メニューから文字起こしのエクスポートを削除しました。\n- 他のデバイスの録音操作を設定に移動しました。ホストまたは共同ホストのミーティングを開くと、そのミーティングのデバイスを操作できます。",
-    "de": "- Der Transkriptexport wurde aus dem Menü „Mehr“ in Desktop-Besprechungen entfernt.\n- Die Steuerung der Aufnahme auf anderen Geräten ist jetzt in den Einstellungen verfügbar. Öffnen Sie eine Besprechung, die Sie leiten oder gemeinsam leiten, um deren Geräte zu steuern.",
-    "fr": "- L’export de la transcription a été retiré du menu Plus des réunions sur ordinateur.\n- Le contrôle des enregistrements sur les autres appareils se trouve désormais dans les paramètres. Ouvrez une réunion dont vous êtes l’hôte ou le co-hôte pour en contrôler les appareils.",
-    "es": "- Se eliminó la exportación de la transcripción del menú Más en las reuniones de escritorio.\n- La grabación en otros dispositivos se trasladó a Configuración. Abre una reunión en la que seas anfitrión o coanfitrión para controlar sus dispositivos.",
-    "pt-BR": "- A exportação da transcrição foi removida do menu Mais nas reuniões do aplicativo para computador.\n- A gravação em outros dispositivos foi movida para Configurações. Abra uma reunião em que você seja anfitrião ou coanfitrião para controlar os dispositivos.",
-    "ru": "- Из меню «Ещё» в настольной версии встречи удалён экспорт расшифровки.\n- Управление записью на других устройствах перенесено в настройки. Откройте встречу, в которой вы являетесь организатором или соорганизатором, чтобы управлять её устройствами.",
-    "zh-CN": "- 已从桌面端会议的“更多”菜单中移除导出转录文本。\n- 其他设备的录音控制已移至设置。打开一场您担任主持人或共同主持人的会议，即可控制该会议的设备。"
+    "en": "- Control current recordings on other devices from Settings. Choose a device by its meeting and device name.",
+    "ko": "- 설정에서 다른 기기의 진행 중인 녹음을 확인하고 제어할 수 있습니다. 미팅과 기기 이름을 확인한 뒤 기기를 선택하세요.",
+    "ja": "- 設定から他のデバイスで進行中の録音を操作できます。ミーティング名とデバイス名を確認して選択してください。",
+    "de": "- Laufende Aufnahmen auf anderen Geräten lassen sich in den Einstellungen steuern. Wählen Sie das Gerät anhand der Besprechung und des Gerätenamens aus.",
+    "fr": "- Contrôlez les enregistrements en cours sur les autres appareils depuis les paramètres. Sélectionnez un appareil à partir du nom de la réunion et de l’appareil.",
+    "es": "- Controla las grabaciones en curso en otros dispositivos desde Configuración. Elige un dispositivo por el nombre de la reunión y del dispositivo.",
+    "pt-BR": "- Controle gravações em andamento em outros dispositivos nas Configurações. Escolha um dispositivo pelo nome da reunião e do dispositivo.",
+    "ru": "- Управляйте текущими записями на других устройствах из настроек. Выберите устройство по названию встречи и имени устройства.",
+    "zh-CN": "- 在设置中控制其他设备上正在进行的录音。根据会议名称和设备名称选择设备。"
   }
 }
