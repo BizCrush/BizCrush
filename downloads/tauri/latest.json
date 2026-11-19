@@ -1,27 +1,27 @@
 {
-  "version": "0.3.54",
-  "notes": "Tap the Summary versions dropdown again or tap outside it to close it with a single tap.",
-  "pub_date": "2026-11-18T17:24:48.904678+00:00",
+  "version": "0.3.55",
+  "notes": "Fixed a macOS crash when switching to some multichannel audio interfaces. The microphone now automatically picks a channel with a signal. For multichannel devices, use the icon next to the microphone to pick a channel manually.",
+  "pub_date": "2026-11-19T14:21:13.986265+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC8wcnVVTG1KQ0pyandqYVp3OUZscjNLTEp1SEU3eDdhTE13RnVORXRiUU1CTnhRZUY3SiszMFZJcVkyak4wQStXajFVOUVUMmxrNjNCWko5THNOelF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDIyMDE2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTQKamRpaVpVRWQ3TVdBSVpmTkZIem5vcHErTzZVOXBSSGxBdExKOUZCK3FMeE1qelFSMXM0M09OQWJjTUJTUDIwMkp0amp3TkFKcklYa2VJTEJTOTZ1Q3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.54/BizCrush-Tauri_0.3.54_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC95czZkd3ZzZkJGd3E1RDFTYXhTVmtuRnhjaDhtdXZZSERnN2QvU3NkUDBORmVaendiQWNTL0plUnk0bUtKRi9MUWZ6KzAzY2VJVUpKUmkrV0dmRFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3NTQ2CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTUKRTVVOHl3SXNsRE9sblc4UnprR3NhTzRNTzBhdE5HbVIrdFBqcmhvWWVTUkdPMmZ3QXhBZC91aldhMnNtQzRXQkxUTkVDb2VNa0VIeU9EMkF3aTgvQ0E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.55/BizCrush-Tauri_0.3.55_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDltVE9uTWE1OTF0K254d2swd3FmODBBWUNURitISDdzL0xpaVpwYy9YK3k5ZGFadDRyekE5TXA1QjBXQnFxZ0pkZ0Z4RkpYSEtvWlpocDhwSUtIRkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDIyNjU1CWZpbGU6Qml6Q3J1c2hfMC4zLjU0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTQKUFROTCtiZXhxUW1ldElsNmdUbGZyNGx5bXdITzlxTVJGbS9OTXp3NzMwVUhpVjVLWlNPSG5LK2xqL203NFJ1SnpuMFdiRkFPeUJ2Q0VCeDluOUFKREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.54/BizCrush_0.3.54_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDVaU0dySTB0N1RReU55dUJZcExtYTFmMzNHRUo4MHZVOEZjMU4rNkJRb2R5QnM5WmdOR2JpMVQ5bWIwU1VnZWwvODJnMk9PSmxxM0k5OTJmc1A0cndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3NjkzCWZpbGU6Qml6Q3J1c2hfMC4zLjU1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTUKZHhOUnJtOXRBeWpTa2c1dGxiS1dIT0VTUHJZRnpEcDVRNWpDYVpZUnNUb1F2N2FUazM2UXF6b2E2MGJjaWFla2w4c08vZmRCU0lEek53eXZJWmF2QXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.55/BizCrush_0.3.55_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRpOEFxV2kySzFzbGhYd0R2Uk4vS2M4Z093aUoveFlERGEwdWk4ckErdVJ4VGRyMlh1d0s3ckVxcGY0N0NuSzJqQXBhalp6cnNpcW5Sa3NwcnlXUVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDIyMjQyCWZpbGU6Qml6Q3J1c2hfMC4zLjU0X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41NAoxTHNtZzlZMVdVWmpDbUNZYi8wVURMWGlicjhGaFYyT1JwQWk0ODc1dGNhdm8xbHk4L2R3dVEvSWo3aGk5UWg4UzU2Q20xeksyM0xQK3BYUjNGR2FCUT09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.54/BizCrush_0.3.54_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHpnamNDeVZTQVEvRG96TkczRTM2T1dnMnV1Y0NXRGpsb2xnNXRHSHFvcmdaam80U29pSTVFRnBnd1lZZnFIYTMyNW0reERuMzdYWmF6eWJMalM4NHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk4MDQ5CWZpbGU6Qml6Q3J1c2hfMC4zLjU1X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41NQplVHRnVGV3ZjRTdHp0RVFLWGh3RjBHWTRmNm1yakNoZmZUTFc1VVhacG1mQzFrR1dXeWNaT3QyUkZLYjVXR2pDSFNpanVKUkdZQ24rQ0hXWDM5eFBBUT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.55/BizCrush_0.3.55_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Tap the Summary versions dropdown again or tap outside it to close it with a single tap.",
-    "ko": "요약 버전 메뉴를 다시 누르거나 바깥을 누르면 한 번에 닫힙니다.",
-    "ja": "要約のバージョンメニューをもう一度タップするか、メニューの外側をタップすると閉じます。",
-    "de": "Das Menü für Zusammenfassungsversionen lässt sich durch erneutes Antippen oder durch Tippen außerhalb schließen.",
-    "fr": "Touchez à nouveau le menu des versions du résumé ou touchez en dehors pour le fermer.",
-    "es": "Toca otra vez el menú de versiones del resumen o toca fuera para cerrarlo."
+    "en": "Fixed a macOS crash when switching to some multichannel audio interfaces. The microphone now automatically picks a channel with a signal. For multichannel devices, use the icon next to the microphone to pick a channel manually.",
+    "ko": "macOS에서 일부 멀티채널 오디오 인터페이스로 전환할 때 앱이 종료되는 문제를 수정했습니다. 기본 설정에서는 신호가 들어오는 마이크 채널을 자동으로 선택합니다. 멀티채널 장치에서는 마이크 옆 아이콘으로 채널을 직접 선택할 수 있습니다.",
+    "ja": "macOSで一部のマルチチャンネルオーディオインターフェイスに切り替えるとアプリが終了する問題を修正しました。信号のあるマイクチャンネルを自動で選びます。マルチチャンネル機器では、マイクの横のアイコンからチャンネルを手動で選べます。",
+    "de": "Ein Absturz beim Wechsel zu bestimmten Mehrkanal-Audiointerfaces unter macOS wurde behoben. Standardmäßig wird ein Mikrofonkanal mit Signal gewählt. Bei Mehrkanalgeräten lässt sich der Kanal über das Symbol neben dem Mikrofon manuell auswählen.",
+    "fr": "Correction d’un plantage sous macOS lors du passage à certaines interfaces audio multicanales. Le canal du microphone qui reçoit un signal est sélectionné automatiquement. Pour les appareils multicanaux, l’icône à côté du microphone permet de choisir un canal manuellement.",
+    "es": "Se corrigió un cierre inesperado en macOS al cambiar a algunas interfaces de audio multicanal. El micrófono selecciona automáticamente un canal con señal. En los dispositivos multicanal, puedes elegir un canal manualmente con el icono junto al micrófono."
   }
 }
