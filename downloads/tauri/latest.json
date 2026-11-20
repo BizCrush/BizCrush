@@ -1,30 +1,30 @@
 {
-  "version": "0.3.57",
-  "notes": "- Control current recordings on other devices from Settings. Choose a device by its meeting and device name.",
-  "pub_date": "2026-11-19T22:50:20.806226+00:00",
+  "version": "0.3.58",
+  "notes": "- Choose the languages and voice for meeting interpretation before the bot joins. Your choices stay selected when the bot is admitted.",
+  "pub_date": "2026-11-20T13:47:59.016830+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNmNEQ5SmIxNm5ZMjRsVmVEWVp6SmhDK1ZVVzA1US8wTHpSV2RFbzV5Mld1dU5NbEowVmo0K011YW1oZE1Eemk5Ly8zSThUczZjQmR1R3NwQjhjRlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI4MDE3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTcKaTNwaGpiUXFjd05iT0dqSG5UVzNYRUxxSFN5cU1iZ2gzS2NMa3JpTXZjQWwyYlMxOW9pUUdUVkhIK1BaWFVQYjEyOUw0WXNRRE53UGJBamdFa29oQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.57/BizCrush-Tauri_0.3.57_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNvTnJiQ0d6VnBWT2JsbnM3aU11dDI4UHRHTWltbXFsZzR3aWhERTNCYnRyQVpjaW9hVTlhU2NQamhweHNHOGdXZC84TDl4NE5wOXJYUmVDRWIzZXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTgxNzAwCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU4X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTgKVitzZWl0TVkxRyt6bDUxV0Nib1RlZWViNzRwY3dPRDNrZWdiVmxoOEVIRWhuWlZiOUF4UHAzWmxOT1VUSWQ5SWFaNy9wM2F2R29wK2gxQ2JndjVSQnc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.58/BizCrush-Tauri_0.3.58_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFmaUZuaTZGUGl5b0JIQzR5QnFLdnB5YnNId3AveEppR3JCZlJvalJ0OXlKS1NwTElLL1V0aUxGQ1BpUE5OWUduakxYdHo5N3RlZ3ZHTXE4MURKOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI4MjE1CWZpbGU6Qml6Q3J1c2hfMC4zLjU3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTcKZVBhemxkMUZnaUFGQURMcnF4aGNHYW0vcVVyMTZCMHRTNEN4OVlaMkw4aVBCb1pydXl1U0lOWmptYUlEY2RnVW9XVCtzMkV2NSt1dHEwOEl3akN1Qmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.57/BizCrush_0.3.57_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHdydTI3SFd5UmxnanQ4TnozemdWSFQzK2tRWW5teEliUTRHVnlkRWZZckw1V0FHQlRJcXpaN0VhNWROajc3VjlSamRKTjM3SWRLcnF5a0M5SzlnWGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTgyMTA2CWZpbGU6Qml6Q3J1c2hfMC4zLjU4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTgKbGh1NzhNa2NvOWtnaDVCNHdTMFJ3TnJRcFpRNjRINldEU2hVS3cvMEVlMERwN1BKODZQZEdvdkJEZmd4OFU5NEdreDI0L2tzY055ZXF4bU9SMk5iQ1E9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.58/BizCrush_0.3.58_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHlIRURWYmlLU2pXWGYvamdGSm0xOUFMVUlnZkkxd3dSSno1TUp0SHpDanYzeFd5bmZYRkNibTMwenBremw5VzRUL2xmL21aSURZM1NhN3NlWVFsMUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTI4NTk3CWZpbGU6Qml6Q3J1c2hfMC4zLjU3X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41NwpqclJNUFl6TTc1VDlIZEx2MzhQdlJHam5PRVRlOWJlcWdROHFkUWpSaGZ2NEpGUnd1WXZQSWJRUnVoNHNxMnhHN1FmRUlWeTZqeXUrcUY3UXlEZnBEUT09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.57/BizCrush_0.3.57_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDExZW14em9KMnA3MXlmM3lzbjlSc2NvUWpOejRaS2w2cUVWYTZLK3FqVnJoTG1QaWVvL0xMSDRPejJiRDd1ZXY4TzVzRzZyelJPTjJJMFVIKzB5bXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTgyNDYwCWZpbGU6Qml6Q3J1c2hfMC4zLjU4X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41OApkRnhXa01MaXZ2Qlh3YWMwa0h6RlNOcUQwSXN1VWRuQitYVTJDTHFLdDVleEJ4L1FtS0tMejhGUklpV2RZa0RHaDJYUzZzUWhtaXEvMHl0Y3kwMlBDQT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.58/BizCrush_0.3.58_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "- Control current recordings on other devices from Settings. Choose a device by its meeting and device name.",
-    "ko": "- 설정에서 다른 기기의 진행 중인 녹음을 확인하고 제어할 수 있습니다. 미팅과 기기 이름을 확인한 뒤 기기를 선택하세요.",
-    "ja": "- 設定から他のデバイスで進行中の録音を操作できます。ミーティング名とデバイス名を確認して選択してください。",
-    "de": "- Laufende Aufnahmen auf anderen Geräten lassen sich in den Einstellungen steuern. Wählen Sie das Gerät anhand der Besprechung und des Gerätenamens aus.",
-    "fr": "- Contrôlez les enregistrements en cours sur les autres appareils depuis les paramètres. Sélectionnez un appareil à partir du nom de la réunion et de l’appareil.",
-    "es": "- Controla las grabaciones en curso en otros dispositivos desde Configuración. Elige un dispositivo por el nombre de la reunión y del dispositivo.",
-    "pt-BR": "- Controle gravações em andamento em outros dispositivos nas Configurações. Escolha um dispositivo pelo nome da reunião e do dispositivo.",
-    "ru": "- Управляйте текущими записями на других устройствах из настроек. Выберите устройство по названию встречи и имени устройства.",
-    "zh-CN": "- 在设置中控制其他设备上正在进行的录音。根据会议名称和设备名称选择设备。"
+    "en": "- Choose the languages and voice for meeting interpretation before the bot joins. Your choices stay selected when the bot is admitted.",
+    "ko": "- 봇이 입장하기 전에 온라인 회의 통역의 언어와 음성을 고를 수 있습니다. 봇 입장 후에도 선택이 유지됩니다.",
+    "ja": "- ボットが入室する前にオンライン会議の通訳言語と音声を選べます。入室後も選択は保持されます。",
+    "de": "- Wählen Sie Sprachen und Stimme für die Besprechungsdolmetschung, bevor der Bot beitritt. Ihre Auswahl bleibt nach dem Beitritt erhalten.",
+    "fr": "- Choisissez les langues et la voix de l’interprétation avant que le bot rejoigne la réunion. Vos choix sont conservés après son admission.",
+    "es": "- Elige los idiomas y la voz de la interpretación antes de que el bot entre en la reunión. La selección se conserva cuando el bot se une.",
+    "pt-BR": "- Escolha os idiomas e a voz da interpretação antes que o bot entre na reunião. Suas escolhas são mantidas após a entrada.",
+    "ru": "- Выберите языки и голос для устного перевода до входа бота на встречу. Настройки сохраняются после его подключения.",
+    "zh-CN": "- 在机器人加入会议前即可选择口译语言和语音。机器人进入会议后，所选设置会保留。"
   }
 }
