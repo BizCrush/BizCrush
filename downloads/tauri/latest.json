@@ -1,30 +1,24 @@
 {
-  "version": "0.3.59",
-  "notes": "- Choose a microphone input channel when controlling another device’s recording.",
-  "pub_date": "2026-11-21T07:41:45.880535+00:00",
+  "version": "0.3.60",
+  "notes": "Received translations now stay visible as live captions update.",
+  "pub_date": "2026-11-22T06:11:01.822720+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBXdXJuc2RvN0ZXSXNZdFEybUVIR1h6OTc4SitKd3BJbVMveHRWUDE4TG15Z0ZRM1JFSVRJaWg5cjQ2d2hIeUJEdURuOGtkS2hJNTQ1eHFpREVtM0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQ2MTYyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjU5X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNTkKYmZILzZ1S3pzN1I1bmZPK285QTlkdE9FS21nckNKK0hoUUd0T01OOG9ONXVQMzNNUXpocnQ2UGcwZ1h0SmpvRjhWQ2hsWFFwaDJxSkpTaDJjTlZXREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.59/BizCrush-Tauri_0.3.59_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDV5VjJ4ZTZYRnl4WDd4TkxzTUdIYkU4RkRyVU5maFZ1eGdOUHpNbDZQcWMvSEdKdDJ6RTUyM0xaR0JLempUeVdhb1VpcWxpQ3Z2K25PUE1FZlJZVkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI3MTQ3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjYwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjAKbStjQWVsS21UdVdZTk1wWWljNkMrVnJibk9MQithRWlpcjRUbFVYVnB5dzhmNEsrNUlvWmZpUCtzM3dmUmkvT2d0OFhKeVk1QkdCbXRjVk1VOG1RREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.60/BizCrush-Tauri_0.3.60_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDNXNE84bE0xajg3blRWdml5bWJ4OVlPc01WWThPbzRlR2tXVlRoc3dFS29uOGlKeHVGejVGUXN4dnpPZGluWmFNT1NFSFRvUy95ejZId2F0djRnQWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQ2NTMzCWZpbGU6Qml6Q3J1c2hfMC4zLjU5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNTkKdkViazNMWlFuNlRhQ01jdlM5cVNoeG9RMUpueUxLTXFOajJobkI0MVlBbGJ2RE1saG1OK2tzQ0lqYlhpWXZOOWpqc2cySW5zNmFrbzhFYTd6Y3I1QkE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.59/BizCrush_0.3.59_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRuZ0xKcHgwTFV1cHRIWmlQQjNpSmppcytHWnhTNWdGcy9rWTlHZ0pMdmxOUEhxSSthemZvT3lWZUFFWWVPWGYvK2UybU83WWtPK216VCs2ekEyeGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI3ODM0CWZpbGU6Qml6Q3J1c2hfMC4zLjYwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjAKT1dHNkpEbnU3akZ5Mk90MGtoTjJGejlTV3VmVHdDMGFScklOTDhTRWcyMHRCSnV5ZU5NeDNFaTN6cTIvblJqdE5FY0NhVjdhemQ4M1hoL3VCbWhOQWc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.60/BizCrush_0.3.60_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHc2bEFhbDFhakczTzdoZU1Jc0w1TDNlQklPcTA5WXExQnJUaFErN1ZaYW93ZkRTamtPU3RLbHU1K3NFZ1FpZ2xaeEhSYXZEdTlZWTZScVY4VlNJQVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQ2ODg1CWZpbGU6Qml6Q3J1c2hfMC4zLjU5X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy41OQphdlE4dnFTYzdCY1ltV2hnSWtWVXR0UkpEVWdXNUh1RmdOeVdIYVJtVDR3clcydW5sdll3NTdGYWxVdVJJN2RjV3pDOHpkWktUMkRBQU8vWjdGNGpBdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.59/BizCrush_0.3.59_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHczVzFrcFNaRHhhVExMc2xxS01xVWhhKzF4aFYxQ3E2aVplOHZ2dXlZU2t0Mi91Wm05T05TNitrWkE1WTdHcjk3UjV2aDFwNUFMUGppUVhITCszYlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI3NDc3CWZpbGU6Qml6Q3J1c2hfMC4zLjYwX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42MApqOHFZc0h1SUlvZ2hLaWxDemp6dDRHemZNaGNPREZRc2Q5aXVRejlkdE81TXBwaXh5K0lobGREMzUxeTdySG5IZUdSRGU4MUxFdDFJaW41ZTU0UC9Bdz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.60/BizCrush_0.3.60_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "- Choose a microphone input channel when controlling another device’s recording.",
-    "ko": "- 다른 기기의 녹음을 제어할 때 마이크 입력 채널을 선택할 수 있습니다.",
-    "ja": "- 別のデバイスの録音を操作するときにマイクの入力チャンネルを選べます。",
-    "de": "- Wählen Sie den Mikrofoneingangskanal, wenn Sie die Aufnahme eines anderen Geräts steuern.",
-    "fr": "- Choisissez le canal d’entrée du microphone lorsque vous contrôlez l’enregistrement d’un autre appareil.",
-    "es": "- Elige el canal de entrada del micrófono al controlar la grabación de otro dispositivo.",
-    "pt-BR": "- Escolha o canal de entrada do microfone ao controlar a gravação de outro dispositivo.",
-    "ru": "- Выбирайте входной канал микрофона при управлении записью на другом устройстве.",
-    "zh-CN": "- 远程控制其他设备录音时，可以选择麦克风输入通道。"
+    "en": "Received translations now stay visible as live captions update.",
+    "ko": "실시간 자막이 갱신되는 동안에도 수신한 번역이 계속 표시됩니다.",
+    "ja": "ライブ字幕が更新されても、受信した翻訳が表示され続けます。"
   }
 }
