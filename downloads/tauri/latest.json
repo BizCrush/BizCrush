@@ -1,24 +1,24 @@
 {
-  "version": "0.3.60",
-  "notes": "Received translations now stay visible as live captions update.",
-  "pub_date": "2026-11-22T06:11:01.822720+00:00",
+  "version": "0.3.61",
+  "notes": "Live interpretation starts speaking sooner. Confirmed captions stay marked as final while other translations finish.",
+  "pub_date": "2026-11-23T01:28:35.972020+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDV5VjJ4ZTZYRnl4WDd4TkxzTUdIYkU4RkRyVU5maFZ1eGdOUHpNbDZQcWMvSEdKdDJ6RTUyM0xaR0JLempUeVdhb1VpcWxpQ3Z2K25PUE1FZlJZVkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI3MTQ3CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjYwX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjAKbStjQWVsS21UdVdZTk1wWWljNkMrVnJibk9MQithRWlpcjRUbFVYVnB5dzhmNEsrNUlvWmZpUCtzM3dmUmkvT2d0OFhKeVk1QkdCbXRjVk1VOG1RREE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.60/BizCrush-Tauri_0.3.60_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHdZRVNLcTlvMWYwVG5iWCsvNmZCOUx5NVB1c3BIQ3dKN1dja2ZaS1V1Q1BKWEVIWXRGbFlRTy9HclZxbXVaNGFQTEJ6Z0NRTVpHbmJRYm9uN2QvUEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2NTAyCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjYxX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjEKSWhXZ2pPU0Nycm5WZDlsM1J6K2dxd1dXNmZPUytSU1UwWm9DV2h4aFpLK0IzT2J4UTRGeTRTZVpWa1B2RXVSc0VrditzUmJ6RkdWdWp0MTlGQjBaQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.61/BizCrush-Tauri_0.3.61_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDRuZ0xKcHgwTFV1cHRIWmlQQjNpSmppcytHWnhTNWdGcy9rWTlHZ0pMdmxOUEhxSSthemZvT3lWZUFFWWVPWGYvK2UybU83WWtPK216VCs2ekEyeGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI3ODM0CWZpbGU6Qml6Q3J1c2hfMC4zLjYwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjAKT1dHNkpEbnU3akZ5Mk90MGtoTjJGejlTV3VmVHdDMGFScklOTDhTRWcyMHRCSnV5ZU5NeDNFaTN6cTIvblJqdE5FY0NhVjdhemQ4M1hoL3VCbWhOQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.60/BizCrush_0.3.60_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhsWXJuQ0dPWUlmV2dxbzllRk9adEprcCtKeWRxcUp4VWoyUTc1NUQ2MEZWdXk3dHN6UUxrSlpoVmVYR2Z1MDVoZXNGMEZmTGdDVFNXNzZKc2RXYXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk3MjkxCWZpbGU6Qml6Q3J1c2hfMC4zLjYxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjEKWWh6SmV6WFZoQXpObHFVZ0duVmNGN2xnQnNKWUFDK2ZIN0Fwdnp3OFEwbjlYaGxoRWt2LzJRNmlVWDRwRzhUZzhkeFJmdW5KSDFkVkZUeURKcGd3Qmc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.61/BizCrush_0.3.61_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHczVzFrcFNaRHhhVExMc2xxS01xVWhhKzF4aFYxQ3E2aVplOHZ2dXlZU2t0Mi91Wm05T05TNitrWkE1WTdHcjk3UjV2aDFwNUFMUGppUVhITCszYlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI3NDc3CWZpbGU6Qml6Q3J1c2hfMC4zLjYwX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42MApqOHFZc0h1SUlvZ2hLaWxDemp6dDRHemZNaGNPREZRc2Q5aXVRejlkdE81TXBwaXh5K0lobGREMzUxeTdySG5IZUdSRGU4MUxFdDFJaW41ZTU0UC9Bdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.60/BizCrush_0.3.60_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtUdFdBaHMzSTdqU1JZK1JaVkFLNTd4Q2M0YjZLMnc3NlNaMkVHU2k1RFFtKzNrM1VHRnpqVGxrYmFLbVo3bDVobW1zZ0MrL1duNm9YTE1XSGs0MVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzk2ODUwCWZpbGU6Qml6Q3J1c2hfMC4zLjYxX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42MQo2MUwvbVJPRGs1WU5iN1p4by9VanZZNTkxVDVaRStMMnV5QVduNjdCMDZCd1lnWFlRekxkUVM2dElncjhMUDczbm1TdUxESmVxWmo5MS9ja2dpejFEQT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.61/BizCrush_0.3.61_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Received translations now stay visible as live captions update.",
-    "ko": "실시간 자막이 갱신되는 동안에도 수신한 번역이 계속 표시됩니다.",
-    "ja": "ライブ字幕が更新されても、受信した翻訳が表示され続けます。"
+    "en": "Live interpretation starts speaking sooner. Confirmed captions stay marked as final while other translations finish.",
+    "ja": "リアルタイム通訳の音声がより早く流れます。他の言語の翻訳中も、確定した字幕は確定済みとして表示されます。",
+    "ko": "실시간 통역 음성이 더 빨리 시작됩니다. 다른 언어의 번역이 진행 중이어도 확정된 자막은 확정 상태로 표시됩니다."
   }
 }
