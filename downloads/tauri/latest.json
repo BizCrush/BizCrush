@@ -1,30 +1,30 @@
 {
-  "version": "0.3.63",
-  "notes": "- The language used by the app appears first when choosing spoken and translation languages.\n- Press ⌘F or Ctrl+F to search meeting context and keywords.",
-  "pub_date": "2026-11-24T15:23:20.940990+00:00",
+  "version": "0.3.64",
+  "notes": "In speed mode, live captions update as you speak and translated audio starts when each phrase is confirmed. Floating and split presentations use the same captions as the meeting.",
+  "pub_date": "2026-11-24T16:20:59.959005+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCt4TFg5WTBQUEh2V2hQSEVBQ0Y2WTRrZC9Yb2lkU0plUmFkL0RtRksvcmZqRE1RSktkY0psbmZGZVJOY2lZRHdybXBrN09vL3V0OXVJRGhNL1hhNUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMyODMzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjYzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjMKUmU5YjRzR09lUGVKazZSZmpFMFgrRHI4d0VnTVE2V0FwS01JYVFvUElUQkpoTENsL1BJSFErUEduemFEQlRUcWRpakJCOGN1U3lRN0drMUdDYTd4Q3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.63/BizCrush-Tauri_0.3.63_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHk3VkRVdlBaalptaFRldkxEbXRDZk9WekhQU2Yxb2xyWDZTRWhTeFU2V3ZnSkhlQjlnUnpRKzh1endjSGJ3a0lvZFBrQWwzQVlIUCtQcG1OdVVJM1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM2Mzk1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjY0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjQKMytGYjZQV3p1dFM2RG4zcklkcG1uRFcyY1lhTER3ZnVpTVdaZ1F6MkJDM01DUmZDY1lwS1pEZVpleEhJZzBvNTFWRFljS0xtaFcxY0VNamxBOHJPQlE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.64/BizCrush-Tauri_0.3.64_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHozTjVqOTdkZFRKRkI1ekczOCttWVJkdmU3Q2VrN0JQaUY1UXRZVVB2WFU3VFl1WGhGRFVrMU4rc1MzZllpN1VpeFVZSXJCNXZmUS9xeFM1bHp2VmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMzMTU2CWZpbGU6Qml6Q3J1c2hfMC4zLjYzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjMKZzM5Y2xEL1lOMnlYRlNXUHdLUWFvKy96TGcxbjBVdzREbGlVOTQxVkdvcGcwSHpTL2czbmVRMjc2YWdRaTVSMmlEZzNlRDYwT2t3Q01YeGVPQmZYQXc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.63/BizCrush_0.3.63_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlyNDNwUFh4WHpsQjZ3OWVmbGpmb0phV2tWRUVPTSt0NkJKaXdmQmMwZmlPT3FjVDR0bVY3Vm1WOXBUMXIrZTNPWS85cC9qK2psYmx0K2ZORGhMNUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3MjMxCWZpbGU6Qml6Q3J1c2hfMC4zLjY0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjQKbUdaUTM4Vi9XT21ydEZQM2ZMVVRpQStnQk1oU2hMN3NrbDdwVXVvVnBrZTJhSDhDUUFtczFxR3BHVnZOSVBPYkYrT3l0dFcyb1p1Tk40V0hRaU1tRFE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.64/BizCrush_0.3.64_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDl5NGFIYzVVV3VJOEtaOE4zWjZKUlZhK3krdHFuanRINmU0Nmlnc1p1NkRWY0tHSjI4dTZteXNVckFSTGxOaXd3ZGxlZnd0OG5KbEtBMUc1SUJSbFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMzNjU1CWZpbGU6Qml6Q3J1c2hfMC4zLjYzX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42MwpDU3ZqTWN4dG5JSjVJYWlsR0R4cVJreml3WnlZa0tkUEtoRTU4dWF3TEZIbWFFQWoramY4MzZXNHJ1bCs2RzM0Ui9JVzZTODQxUUtlZWFlRkZqcXVCUT09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.63/BizCrush_0.3.63_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBSUjNWK1c0a3FpQmRaRC9RQ0Y2emptMmVQQ2w5TXBtN2xnNFZOamZjbGdKTjNqTDB6dkVseTJKaW16YTlsRVVhNnU2VnI0bnYxcy91MlJWZitGdVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3MDg4CWZpbGU6Qml6Q3J1c2hfMC4zLjY0X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42NApERnJwdzJselN3UEM3bVRSNS9LQTVaYzJySEJpRm00dE9LdE0zSnZkaW5lZVUvTHZsM2NqaUZyVlBDUnh4NSs0aDQwL2JDSGRCODJTaGJ5UWI0azFEZz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.64/BizCrush_0.3.64_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "- The language used by the app appears first when choosing spoken and translation languages.\n- Press ⌘F or Ctrl+F to search meeting context and keywords.",
-    "ko": "- 발화·번역 언어를 고를 때 앱의 화면 언어가 가장 먼저 표시됩니다.\n- ⌘F 또는 Ctrl+F로 미팅의 컨텍스트와 키워드를 검색할 수 있습니다.",
-    "ja": "- 発話言語と翻訳言語を選ぶときに、アプリの表示言語が最初に表示されます。\n- ⌘F または Ctrl+F で会議のコンテキストとキーワードを検索できます。",
-    "de": "- Beim Auswählen der gesprochenen Sprache und der Übersetzungssprache steht die Anzeigesprache der App an erster Stelle.\n- Mit ⌘F oder Strg+F können Sie den Kontext und die Stichwörter einer Besprechung durchsuchen.",
-    "fr": "- La langue d’affichage de l’application apparaît en premier dans les listes de langues parlées et de traduction.\n- Appuyez sur ⌘F ou Ctrl+F pour rechercher dans le contexte et les mots-clés d’une réunion.",
-    "es": "- El idioma de la interfaz de la aplicación aparece primero al elegir los idiomas hablados y de traducción.\n- Pulsa ⌘F o Ctrl+F para buscar en el contexto y las palabras clave de la reunión.",
-    "pt-BR": "- O idioma da interface do app aparece primeiro ao escolher os idiomas falados e de tradução.\n- Pressione ⌘F ou Ctrl+F para pesquisar no contexto e nas palavras-chave da reunião.",
-    "ru": "- Язык интерфейса приложения отображается первым при выборе языков речи и перевода.\n- Нажмите ⌘F или Ctrl+F, чтобы искать по контексту и ключевым словам встречи.",
-    "zh-CN": "- 选择发言和翻译语言时，应用界面语言会排在首位。\n- 按 ⌘F 或 Ctrl+F 搜索会议上下文和关键词。"
+    "en": "In speed mode, live captions update as you speak and translated audio starts when each phrase is confirmed. Floating and split presentations use the same captions as the meeting.",
+    "ko": "속도 우선에서는 말하는 도중에 자막이 갱신되고, 번역 구절이 확정되면 음성이 재생됩니다. 플로팅·분할 프레젠테이션에서도 같은 실시간 자막을 볼 수 있습니다.",
+    "ja": "速度優先では、話している途中で字幕が更新され、翻訳したフレーズが確定すると音声が再生されます。フローティング表示と分割表示でも同じライブ字幕を表示します。",
+    "de": "Im Modus für hohe Geschwindigkeit werden Untertitel schon beim Sprechen aktualisiert. Die Übersetzung wird vorgelesen, sobald die jeweilige Passage bestätigt ist. Schwebende und geteilte Präsentationen zeigen dieselben Live-Untertitel.",
+    "fr": "En mode priorité à la vitesse, les sous-titres se mettent à jour pendant que vous parlez. La lecture démarre dès que chaque passage traduit est confirmé. Les présentations flottantes et en écran partagé affichent les mêmes sous-titres.",
+    "es": "En el modo de prioridad a la velocidad, los subtítulos se actualizan mientras hablas y el audio empieza cuando se confirma cada frase traducida. Las presentaciones flotantes y en pantalla dividida muestran los mismos subtítulos.",
+    "pt-BR": "No modo que prioriza a velocidade, as legendas são atualizadas enquanto você fala. O áudio começa assim que cada trecho traduzido é confirmado. As apresentações flutuantes e em tela dividida exibem as mesmas legendas.",
+    "ru": "В режиме приоритета скорости субтитры обновляются во время речи. Перевод озвучивается по мере подтверждения каждой фразы. В плавающем и разделённом окнах презентации отображаются те же субтитры.",
+    "zh-CN": "在速度优先模式下，字幕会随讲话实时更新，每段译文确认后即开始播放语音。悬浮和分屏演示也会显示相同的实时字幕。"
   }
 }
