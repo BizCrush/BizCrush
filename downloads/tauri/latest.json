@@ -1,30 +1,30 @@
 {
-  "version": "0.3.62",
-  "notes": "- Simplified the meeting view options. To see just the transcript, choose Show both and turn off all translation languages.",
-  "pub_date": "2026-11-23T09:44:07.850203+00:00",
+  "version": "0.3.63",
+  "notes": "- The language used by the app appears first when choosing spoken and translation languages.\n- Press ⌘F or Ctrl+F to search meeting context and keywords.",
+  "pub_date": "2026-11-24T15:23:20.940990+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCtKY2FQWUlwQkZzcmU3TkpQQldacW8wRHpsdkJSM0g2djIrdEh6U3YrNXlsTm0zbzIyZ0hGUjFCcEp4VDZLRjdiLzFJM2piYW96OVg5SjRUWUpyMWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI0ODM1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjYyX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjIKRXhjQ1pvNGlYNmZhQVlEUmVJUnFEeGhGWmFyTWc4Zm1uVENKN0NWMkdNVTZjTHdqdTd6QktMZzdkYlJidzdGM2swR0JmYVhuZlkrWXF4Qjg0N3ZoQmc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.62/BizCrush-Tauri_0.3.62_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcCt4TFg5WTBQUEh2V2hQSEVBQ0Y2WTRrZC9Yb2lkU0plUmFkL0RtRksvcmZqRE1RSktkY0psbmZGZVJOY2lZRHdybXBrN09vL3V0OXVJRGhNL1hhNUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMyODMzCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjYzX2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjMKUmU5YjRzR09lUGVKazZSZmpFMFgrRHI4d0VnTVE2V0FwS01JYVFvUElUQkpoTENsL1BJSFErUEduemFEQlRUcWRpakJCOGN1U3lRN0drMUdDYTd4Q3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.63/BizCrush-Tauri_0.3.63_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFJc296MnRLZmtMYllOcWNhSHVZSVBLWHlvNnBmd3VXZG4yZnduVlBNdnQ2cXNBMURaNjc4NU03RHJGaFVlQnRzb2FUN0tmV2U4VWE0U2wrb004QkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2NjQ0CWZpbGU6Qml6Q3J1c2hfMC4zLjYyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjIKWlJNeTlTaWdEY2owSWRLeVluSTd5akxHSGV5TU5LWVlHdmJ4SDNHcFRsbmZuT3Y0bFJCSzBRczdXa2JjdE9YeWh4ZW50VTlDR1BBeXpINDNod1krQWc9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.62/BizCrush_0.3.62_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHozTjVqOTdkZFRKRkI1ekczOCttWVJkdmU3Q2VrN0JQaUY1UXRZVVB2WFU3VFl1WGhGRFVrMU4rc1MzZllpN1VpeFVZSXJCNXZmUS9xeFM1bHp2VmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMzMTU2CWZpbGU6Qml6Q3J1c2hfMC4zLjYzX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjMKZzM5Y2xEL1lOMnlYRlNXUHdLUWFvKy96TGcxbjBVdzREbGlVOTQxVkdvcGcwSHpTL2czbmVRMjc2YWdRaTVSMmlEZzNlRDYwT2t3Q01YeGVPQmZYQXc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.63/BizCrush_0.3.63_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDAwZ2Y1Zm96SElmMmNicDVLdzg3SzkxNTA1Mm9jeXZJWDlYNjhFMVRURTlPY3lTVndTUXdHODdKa0kxOWtqN2hZYVBheFA0TnRiY0FnT3l3eHU1QndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI3MDIwCWZpbGU6Qml6Q3J1c2hfMC4zLjYyX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42MgowZEl3V0doSklPU20waHpLL0YrdWxsZGYxamR3STg4cGFzSW5PQ2p6NVBVanhaSlJmVER5VDFqT1UrZ2tvUTIxUmZoTEpLYnk3MkFQS0hTNHVaSkJCZz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.62/BizCrush_0.3.62_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDl5NGFIYzVVV3VJOEtaOE4zWjZKUlZhK3krdHFuanRINmU0Nmlnc1p1NkRWY0tHSjI4dTZteXNVckFSTGxOaXd3ZGxlZnd0OG5KbEtBMUc1SUJSbFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTMzNjU1CWZpbGU6Qml6Q3J1c2hfMC4zLjYzX2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42MwpDU3ZqTWN4dG5JSjVJYWlsR0R4cVJreml3WnlZa0tkUEtoRTU4dWF3TEZIbWFFQWoramY4MzZXNHJ1bCs2RzM0Ui9JVzZTODQxUUtlZWFlRkZqcXVCUT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.63/BizCrush_0.3.63_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "- Simplified the meeting view options. To see just the transcript, choose Show both and turn off all translation languages.",
-    "ko": "- 회의 보기 옵션을 정리했습니다. 전사만 보려면 ‘둘 다 보기’에서 번역 언어를 모두 끄세요.",
-    "ja": "- 会議の表示オプションを整理しました。文字起こしだけを表示するには、「両方表示」を選び、翻訳言語をすべてオフにしてください。",
-    "de": "- Die Anzeigeoptionen für Meetings wurden vereinfacht. Wählen Sie „Beides anzeigen“ und deaktivieren Sie alle Übersetzungssprachen, um nur das Transkript zu sehen.",
-    "fr": "- Les options d’affichage des réunions ont été simplifiées. Pour voir uniquement la transcription, choisissez « Afficher les deux » et désactivez toutes les langues de traduction.",
-    "es": "- Simplificamos las opciones de visualización de reuniones. Para ver solo la transcripción, selecciona «Mostrar ambos» y desactiva todos los idiomas de traducción.",
-    "pt-BR": "- Simplificamos as opções de exibição das reuniões. Para ver só a transcrição, selecione “Mostrar os dois” e desative todos os idiomas de tradução.",
-    "ru": "- Настройки отображения встреч стали проще. Чтобы видеть только транскрипцию, выберите «Показать оба» и отключите все языки перевода.",
-    "zh-CN": "- 简化了会议查看选项。如需仅查看转写，请选择“显示两个”并关闭所有翻译语言。"
+    "en": "- The language used by the app appears first when choosing spoken and translation languages.\n- Press ⌘F or Ctrl+F to search meeting context and keywords.",
+    "ko": "- 발화·번역 언어를 고를 때 앱의 화면 언어가 가장 먼저 표시됩니다.\n- ⌘F 또는 Ctrl+F로 미팅의 컨텍스트와 키워드를 검색할 수 있습니다.",
+    "ja": "- 発話言語と翻訳言語を選ぶときに、アプリの表示言語が最初に表示されます。\n- ⌘F または Ctrl+F で会議のコンテキストとキーワードを検索できます。",
+    "de": "- Beim Auswählen der gesprochenen Sprache und der Übersetzungssprache steht die Anzeigesprache der App an erster Stelle.\n- Mit ⌘F oder Strg+F können Sie den Kontext und die Stichwörter einer Besprechung durchsuchen.",
+    "fr": "- La langue d’affichage de l’application apparaît en premier dans les listes de langues parlées et de traduction.\n- Appuyez sur ⌘F ou Ctrl+F pour rechercher dans le contexte et les mots-clés d’une réunion.",
+    "es": "- El idioma de la interfaz de la aplicación aparece primero al elegir los idiomas hablados y de traducción.\n- Pulsa ⌘F o Ctrl+F para buscar en el contexto y las palabras clave de la reunión.",
+    "pt-BR": "- O idioma da interface do app aparece primeiro ao escolher os idiomas falados e de tradução.\n- Pressione ⌘F ou Ctrl+F para pesquisar no contexto e nas palavras-chave da reunião.",
+    "ru": "- Язык интерфейса приложения отображается первым при выборе языков речи и перевода.\n- Нажмите ⌘F или Ctrl+F, чтобы искать по контексту и ключевым словам встречи.",
+    "zh-CN": "- 选择发言和翻译语言时，应用界面语言会排在首位。\n- 按 ⌘F 或 Ctrl+F 搜索会议上下文和关键词。"
   }
 }
