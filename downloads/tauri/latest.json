@@ -1,30 +1,30 @@
 {
-  "version": "0.3.64",
-  "notes": "In speed mode, live captions update as you speak and translated audio starts when each phrase is confirmed. Floating and split presentations use the same captions as the meeting.",
-  "pub_date": "2026-11-24T16:20:59.959005+00:00",
+  "version": "0.3.65",
+  "notes": "Short caption fragments now appear together. In English-only presentations, spoken English appears alongside English translations in the order it was spoken.",
+  "pub_date": "2026-11-25T04:00:34.830681+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcHk3VkRVdlBaalptaFRldkxEbXRDZk9WekhQU2Yxb2xyWDZTRWhTeFU2V3ZnSkhlQjlnUnpRKzh1endjSGJ3a0lvZFBrQWwzQVlIUCtQcG1OdVVJM1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM2Mzk1CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjY0X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjQKMytGYjZQV3p1dFM2RG4zcklkcG1uRFcyY1lhTER3ZnVpTVdaZ1F6MkJDM01DUmZDY1lwS1pEZVpleEhJZzBvNTFWRFljS0xtaFcxY0VNamxBOHJPQlE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.64/BizCrush-Tauri_0.3.64_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFJYUp4c0ZlR2M1di83TGJNWEZHOHVjeTZaMHV2ZTgvN0k5bk1BeXBKTUptMDl2MXhWbnN3Y2hhMjlhVTNOMjIxN1hzOVl6ZlhudXl1cGdKLzRadFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc4MTgxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjY1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjUKUFBwUWFNSFY3cHNNdEhBOU1QNjEvTmlwT1d1TVBaQzQrM3lpYXpnR0VSQjRPRHF4VC95M1V1aUFpVFQrTWNpK0ZMa25hZ1NEOFBMNyt3OTZFQUpUQ3c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.65/BizCrush-Tauri_0.3.65_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDlyNDNwUFh4WHpsQjZ3OWVmbGpmb0phV2tWRUVPTSt0NkJKaXdmQmMwZmlPT3FjVDR0bVY3Vm1WOXBUMXIrZTNPWS85cC9qK2psYmx0K2ZORGhMNUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3MjMxCWZpbGU6Qml6Q3J1c2hfMC4zLjY0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjQKbUdaUTM4Vi9XT21ydEZQM2ZMVVRpQStnQk1oU2hMN3NrbDdwVXVvVnBrZTJhSDhDUUFtczFxR3BHVnZOSVBPYkYrT3l0dFcyb1p1Tk40V0hRaU1tRFE9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.64/BizCrush_0.3.64_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhNaDRkRWtGdENLYnJZVmoxT1R4cEdDT2ZTYUs1RUpKd0RsV08vRk03d3llS3A4ZmxxU3RsVEh5TjkyL01ROFJEN2tvcXhXMW5mNFJObUd4VUJIMFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc5MTk4CWZpbGU6Qml6Q3J1c2hfMC4zLjY1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjUKNmlTelpkUkhUYU5nNWtYOVRqbGh0NWFidmJTakhKcUFwY2RvMjZRcXNHOStkclErd3pOZ0ErMmN1VWs5UUorRDl2RWw4TmtBanNxQmZBUTJGUDMyQ2c9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.65/BizCrush_0.3.65_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDBSUjNWK1c0a3FpQmRaRC9RQ0Y2emptMmVQQ2w5TXBtN2xnNFZOamZjbGdKTjNqTDB6dkVseTJKaW16YTlsRVVhNnU2VnI0bnYxcy91MlJWZitGdVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTM3MDg4CWZpbGU6Qml6Q3J1c2hfMC4zLjY0X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42NApERnJwdzJselN3UEM3bVRSNS9LQTVaYzJySEJpRm00dE9LdE0zSnZkaW5lZVUvTHZsM2NqaUZyVlBDUnh4NSs0aDQwL2JDSGRCODJTaGJ5UWI0azFEZz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.64/BizCrush_0.3.64_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9uNE0zOHBuc1prVWN1aDEveDM3eVdDQUd1Q1F1WE5WSmF3OENoWTFuSUZZOG1VNTdQNzUxSzdBSjFtUHBEaDBhMGFrclF0OTdEWEdJUDNuaW5MelE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc4NzU2CWZpbGU6Qml6Q3J1c2hfMC4zLjY1X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42NQpidzFyQ3VQQU9rWEpEMy9NZFdRazRVVy9NUW5GaGNkdHZuUm83M1hXaWFoZjFWVDdPSGpxdHF4dEtMd1dYaER0cWZqWmlUWGhzWjBxcWlCY09UVzFCdz09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.65/BizCrush_0.3.65_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "In speed mode, live captions update as you speak and translated audio starts when each phrase is confirmed. Floating and split presentations use the same captions as the meeting.",
-    "ko": "속도 우선에서는 말하는 도중에 자막이 갱신되고, 번역 구절이 확정되면 음성이 재생됩니다. 플로팅·분할 프레젠테이션에서도 같은 실시간 자막을 볼 수 있습니다.",
-    "ja": "速度優先では、話している途中で字幕が更新され、翻訳したフレーズが確定すると音声が再生されます。フローティング表示と分割表示でも同じライブ字幕を表示します。",
-    "de": "Im Modus für hohe Geschwindigkeit werden Untertitel schon beim Sprechen aktualisiert. Die Übersetzung wird vorgelesen, sobald die jeweilige Passage bestätigt ist. Schwebende und geteilte Präsentationen zeigen dieselben Live-Untertitel.",
-    "fr": "En mode priorité à la vitesse, les sous-titres se mettent à jour pendant que vous parlez. La lecture démarre dès que chaque passage traduit est confirmé. Les présentations flottantes et en écran partagé affichent les mêmes sous-titres.",
-    "es": "En el modo de prioridad a la velocidad, los subtítulos se actualizan mientras hablas y el audio empieza cuando se confirma cada frase traducida. Las presentaciones flotantes y en pantalla dividida muestran los mismos subtítulos.",
-    "pt-BR": "No modo que prioriza a velocidade, as legendas são atualizadas enquanto você fala. O áudio começa assim que cada trecho traduzido é confirmado. As apresentações flutuantes e em tela dividida exibem as mesmas legendas.",
-    "ru": "В режиме приоритета скорости субтитры обновляются во время речи. Перевод озвучивается по мере подтверждения каждой фразы. В плавающем и разделённом окнах презентации отображаются те же субтитры.",
-    "zh-CN": "在速度优先模式下，字幕会随讲话实时更新，每段译文确认后即开始播放语音。悬浮和分屏演示也会显示相同的实时字幕。"
+    "en": "Short caption fragments now appear together. In English-only presentations, spoken English appears alongside English translations in the order it was spoken.",
+    "ko": "짧게 끊긴 자막을 이어서 표시합니다. 프레젠테이션에서 영어만 선택하면 영어로 말한 부분과 영어 번역을 발화 순서대로 볼 수 있습니다.",
+    "ja": "短く分かれた字幕をまとめて表示します。プレゼンテーションで英語のみを選ぶと、英語の発話と英訳が発話順に表示されます。",
+    "de": "Kurze Untertitelfragmente werden zusammen angezeigt. In Präsentationen mit Englisch als einziger Sprache erscheinen englische Äußerungen und englische Übersetzungen in der Reihenfolge der Wortbeiträge.",
+    "fr": "Les courts fragments de sous-titres sont regroupés. Dans les présentations en anglais uniquement, les propos tenus en anglais et les traductions anglaises s’affichent dans l’ordre de parole.",
+    "es": "Los fragmentos cortos de subtítulos se muestran juntos. En las presentaciones solo en inglés, las intervenciones en inglés y las traducciones al inglés aparecen en el orden en que se dijo cada frase.",
+    "pt-BR": "Trechos curtos de legendas aparecem juntos. Nas apresentações com apenas o inglês selecionado, as falas em inglês e as traduções para o inglês aparecem na ordem das falas.",
+    "ru": "Короткие фрагменты субтитров отображаются вместе. Если для презентации выбран только английский язык, реплики на английском и переводы на английский отображаются в порядке выступления.",
+    "zh-CN": "短小的字幕片段会合并显示。演示时仅选择英语，英语原话和英文译文会按发言顺序显示。"
   }
 }
