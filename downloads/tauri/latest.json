@@ -1,30 +1,30 @@
 {
-  "version": "0.3.65",
-  "notes": "Short caption fragments now appear together. In English-only presentations, spoken English appears alongside English translations in the order it was spoken.",
-  "pub_date": "2026-11-25T04:00:34.830681+00:00",
+  "version": "0.3.67",
+  "notes": "Meeting playback now finds recordings in your linked drive before you press play. Online meetings and calls are backed up across devices, and manual backups continue in the background.",
+  "pub_date": "2026-11-26T16:08:58.992053+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDFJYUp4c0ZlR2M1di83TGJNWEZHOHVjeTZaMHV2ZTgvN0k5bk1BeXBKTUptMDl2MXhWbnN3Y2hhMjlhVTNOMjIxN1hzOVl6ZlhudXl1cGdKLzRadFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc4MTgxCWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjY1X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjUKUFBwUWFNSFY3cHNNdEhBOU1QNjEvTmlwT1d1TVBaQzQrM3lpYXpnR0VSQjRPRHF4VC95M1V1aUFpVFQrTWNpK0ZMa25hZ1NEOFBMNyt3OTZFQUpUQ3c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.65/BizCrush-Tauri_0.3.65_darwin-aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDMrd3h4NjZvT0VLMlFocndha29jQVpWM0h3enRIUkZmRG5ub2l4S1lNKzhHS29DZXhKbWZUTnplRHNYMk40ZGZUamVMbkgyV0IrWXo2dlUvMmhZUXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA4MzU5CWZpbGU6Qml6Q3J1c2gtVGF1cmlfMC4zLjY3X2Rhcndpbi1hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjMuNjcKZk1BQkdwb2JIU1oxUlc1Tk1JczNUVUdYNlIwcEc2bnNjZ2I0VTRRK0F1cEd4Vk1GTC9rU1hKVCs3aHJBcGVpQlViM2Y0TUdLdmVvVnAxakdiSnVEREE9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.67/BizCrush-Tauri_0.3.67_darwin-aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDhNaDRkRWtGdENLYnJZVmoxT1R4cEdDT2ZTYUs1RUpKd0RsV08vRk03d3llS3A4ZmxxU3RsVEh5TjkyL01ROFJEN2tvcXhXMW5mNFJObUd4VUJIMFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc5MTk4CWZpbGU6Qml6Q3J1c2hfMC4zLjY1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjUKNmlTelpkUkhUYU5nNWtYOVRqbGh0NWFidmJTakhKcUFwY2RvMjZRcXNHOStkclErd3pOZ0ErMmN1VWs5UUorRDl2RWw4TmtBanNxQmZBUTJGUDMyQ2c9PQo=",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.65/BizCrush_0.3.65_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDF5YWhpNUtkQnI5L3FuNlVrTnMzZW0rVFl6dXRrc2ZQVkUyR1lBTjUwaDNaaHNJV1dVYlNNL05ZTUdubThJd0F4K0Voa2ZjOEEzdEZBOUVLcjBlSUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA4NjI4CWZpbGU6Qml6Q3J1c2hfMC4zLjY3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuNjcKcElGWW11ODluMmV2ak55Y3lzSHZLR0JtWS9HQ0dEbGFxbTkxQWVXVk14R3l4WVlpMFdRenA5ZVFKSnBSWk9RNjlONUxRZU9JaFIvUnpGWW1NOE5RRGc9PQo=",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.67/BizCrush_0.3.67_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcC9uNE0zOHBuc1prVWN1aDEveDM3eVdDQUd1Q1F1WE5WSmF3OENoWTFuSUZZOG1VNTdQNzUxSzdBSjFtUHBEaDBhMGFrclF0OTdEWEdJUDNuaW5MelE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTc4NzU2CWZpbGU6Qml6Q3J1c2hfMC4zLjY1X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42NQpidzFyQ3VQQU9rWEpEMy9NZFdRazRVVy9NUW5GaGNkdHZuUm83M1hXaWFoZjFWVDdPSGpxdHF4dEtMd1dYaER0cWZqWmlUWGhzWjBxcWlCY09UVzFCdz09Cg==",
-      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.65/BizCrush_0.3.65_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0Z0MUpxZVFWcDdGMmM0cXhCUENLWU54YVBWMm05Y0F3bU13ZktXZVJ5aDFFa3luend4WlFYK1RvWVhOSDR0TGVJc2U1N1ZVUDdyRUZqUEduc1RaSW9INExhYng2SEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzA5MDEwCWZpbGU6Qml6Q3J1c2hfMC4zLjY3X2FybTY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMy42NwpUVWUwMmUrV0R3TEZ5NHhDM2pJYkxheWNNSFpmUU9lN21pbkdxVzVXN3pYRmRKbFI1aHFKSUQvYTQraCsxb0V5cUNUYWtFcjZXR082YTlQa1NRcTBEUT09Cg==",
+      "url": "https://github.com/BizCrush/BizCrush/releases/download/tauri-v0.3.67/BizCrush_0.3.67_arm64-setup.exe"
     }
   },
   "notes_i18n": {
-    "en": "Short caption fragments now appear together. In English-only presentations, spoken English appears alongside English translations in the order it was spoken.",
-    "ko": "짧게 끊긴 자막을 이어서 표시합니다. 프레젠테이션에서 영어만 선택하면 영어로 말한 부분과 영어 번역을 발화 순서대로 볼 수 있습니다.",
-    "ja": "短く分かれた字幕をまとめて表示します。プレゼンテーションで英語のみを選ぶと、英語の発話と英訳が発話順に表示されます。",
-    "de": "Kurze Untertitelfragmente werden zusammen angezeigt. In Präsentationen mit Englisch als einziger Sprache erscheinen englische Äußerungen und englische Übersetzungen in der Reihenfolge der Wortbeiträge.",
-    "fr": "Les courts fragments de sous-titres sont regroupés. Dans les présentations en anglais uniquement, les propos tenus en anglais et les traductions anglaises s’affichent dans l’ordre de parole.",
-    "es": "Los fragmentos cortos de subtítulos se muestran juntos. En las presentaciones solo en inglés, las intervenciones en inglés y las traducciones al inglés aparecen en el orden en que se dijo cada frase.",
-    "pt-BR": "Trechos curtos de legendas aparecem juntos. Nas apresentações com apenas o inglês selecionado, as falas em inglês e as traduções para o inglês aparecem na ordem das falas.",
-    "ru": "Короткие фрагменты субтитров отображаются вместе. Если для презентации выбран только английский язык, реплики на английском и переводы на английский отображаются в порядке выступления.",
-    "zh-CN": "短小的字幕片段会合并显示。演示时仅选择英语，英语原话和英文译文会按发言顺序显示。"
+    "ko": "미팅을 열면 연결된 드라이브에서 녹음 파일을 먼저 확인합니다. 온라인 미팅과 통화 녹음 백업을 개선했으며, 지금 녹음 저장을 누르면 백그라운드에서 계속됩니다.",
+    "en": "Meeting playback now finds recordings in your linked drive before you press play. Online meetings and calls are backed up across devices, and manual backups continue in the background.",
+    "ja": "再生前に連携したドライブの録音を確認します。オンライン会議や通話録音のバックアップが複数端末に対応し、手動バックアップもバックグラウンドで続行します。",
+    "de": "Beim Öffnen eines Meetings werden Aufnahmen im verbundenen Laufwerk geprüft. Online-Meetings und Anrufe werden geräteübergreifend gesichert. Manuelle Sicherungen laufen im Hintergrund weiter.",
+    "es": "Al abrir una reunión se comprueban las grabaciones en la unidad vinculada. Mejoramos las copias de reuniones en línea y llamadas entre dispositivos. Las copias manuales continúan en segundo plano.",
+    "fr": "Les enregistrements du disque connecté sont détectés dès l’ouverture de la réunion. Les réunions en ligne et les appels sont sauvegardés sur plusieurs appareils. Les sauvegardes manuelles continuent en arrière-plan.",
+    "pt-BR": "As gravações no drive conectado são verificadas ao abrir a reunião. Melhoramos o backup de reuniões online e ligações entre dispositivos. Os backups manuais continuam em segundo plano.",
+    "ru": "При открытии встречи приложение проверяет записи на подключённом диске. Улучшено резервное копирование онлайн-встреч и звонков с разных устройств. Ручное копирование продолжается в фоне.",
+    "zh-CN": "打开会议时会检查已连接云盘中的录音。改进了在线会议和通话录音的多设备备份，手动备份也可在后台继续。"
   }
 }
